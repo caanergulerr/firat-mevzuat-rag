@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>FU-Mevzuat AI — Sunum</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet"/>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --accent:#6366f1;--accent2:#8b5cf6;--accent3:#06b6d4;
+  --bg:#07080f;--surface:#0e1120;--surface2:#151929;
+  --border:rgba(255,255,255,0.07);
+  --text:#f1f5f9;--muted:#64748b;--subtle:#94a3b8;
+  --font:'Inter',system-ui,sans-serif;
+}
+html,body{height:100%;overflow:hidden;font-family:var(--font);background:var(--bg);color:var(--text);}
+
+/* ─── grid bg ─── */
+body::before{
+  content:'';position:fixed;inset:0;
+  background-image:
+    linear-gradient(rgba(99,102,241,.04) 1px,transparent 1px),
+    linear-gradient(90deg,rgba(99,102,241,.04) 1px,transparent 1px);
+  background-size:50px 50px;
+  pointer-events:none;z-index:0;
+}
+
+/* ─── slides ─── */
+.deck{position:fixed;inset:0;z-index:1;}
+.slide{
+  position:absolute;inset:0;
+  display:flex;flex-direction:column;justify-content:center;align-items:center;
+  padding:60px 80px;
+  opacity:0;pointer-events:none;
+  transition:opacity .5s ease,transform .5s ease;
+  transform:translateY(20px);
+}
+.slide.active{opacity:1;pointer-events:all;transform:translateY(0);}
+
+/* ─── nav ─── */
+.nav{
+  position:fixed;bottom:32px;left:50%;transform:translateX(-50%);
+  display:flex;align-items:center;gap:16px;z-index:10;
+}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--muted);cursor:pointer;transition:.2s;}
+.dot.active{background:var(--accent);box-shadow:0 0 10px var(--accent);}
+.nav-btn{
+  width:40px;height:40px;border-radius:50%;border:1px solid var(--border);
+  background:var(--surface);color:var(--text);font-size:16px;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;transition:.2s;
+}
+.nav-btn:hover{background:var(--accent);border-color:var(--accent);}
+
+.slide-counter{
+  position:fixed;top:24px;right:32px;font-size:13px;color:var(--muted);z-index:10;
+  font-weight:500;letter-spacing:.04em;
+}
+.slide-hint{
+  position:fixed;bottom:80px;left:50%;transform:translateX(-50%);
+  font-size:11px;color:var(--muted);z-index:10;letter-spacing:.06em;
+  text-transform:uppercase;
+}
+
+/* ─── typography ─── */
+.label{
+  font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--accent);margin-bottom:12px;
+}
+h1{font-size:clamp(2.4rem,5vw,3.8rem);font-weight:900;line-height:1.1;letter-spacing:-.02em;}
+h2{font-size:clamp(1.6rem,3vw,2.4rem);font-weight:800;line-height:1.2;letter-spacing:-.01em;}
+h3{font-size:1.1rem;font-weight:700;}
+.gradient-text{
+  background:linear-gradient(135deg,#6366f1,#8b5cf6,#06b6d4);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+}
+.muted{color:var(--subtle);font-size:.95rem;line-height:1.7;}
+
+/* ─── cards & chips ─── */
+.card{
+  background:var(--surface);border:1px solid var(--border);border-radius:16px;
+  padding:24px 28px;
+}
+.chip{
+  display:inline-flex;align-items:center;gap:6px;
+  background:rgba(99,102,241,.12);border:1px solid rgba(99,102,241,.28);
+  color:#818cf8;border-radius:20px;padding:5px 14px;
+  font-size:12px;font-weight:600;letter-spacing:.03em;
+}
+.chip.cyan{background:rgba(6,182,212,.12);border-color:rgba(6,182,212,.3);color:#22d3ee;}
+.chip.purple{background:rgba(139,92,246,.12);border-color:rgba(139,92,246,.3);color:#a78bfa;}
+.chip.green{background:rgba(34,197,94,.1);border-color:rgba(34,197,94,.28);color:#4ade80;}
+
+/* ─── glow orb ─── */
+.orb{
+  position:absolute;border-radius:50%;filter:blur(80px);pointer-events:none;opacity:.35;
+}
+.orb-1{width:400px;height:400px;background:radial-gradient(#6366f1,transparent);top:-100px;right:-100px;}
+.orb-2{width:300px;height:300px;background:radial-gradient(#06b6d4,transparent);bottom:-80px;left:-80px;}
+
+/* ════════════════════════════════════════════
+   SLIDE 1 — KAPAK
+══════════════════════════════════════════════ */
+#s1{text-align:center;}
+.logo-badge{
+  display:inline-flex;align-items:center;gap:10px;
+  background:var(--surface);border:1px solid var(--border);
+  border-radius:40px;padding:8px 20px 8px 12px;margin-bottom:32px;
+}
+.logo-icon{
+  width:36px;height:36px;border-radius:50%;
+  background:linear-gradient(135deg,var(--accent),var(--accent2));
+  display:flex;align-items:center;justify-content:center;font-size:18px;
+}
+.logo-badge span{font-size:13px;font-weight:600;color:var(--subtle);}
+#s1 h1{margin-bottom:8px;}
+#s1 .subtitle{font-size:1.1rem;color:var(--subtle);margin-bottom:48px;}
+.team-grid{display:flex;gap:16px;flex-wrap:wrap;justify-content:center;}
+.team-card{
+  background:var(--surface);border:1px solid var(--border);border-radius:14px;
+  padding:16px 20px;min-width:200px;text-align:left;
+}
+.team-name{font-size:14px;font-weight:700;margin-bottom:4px;}
+.team-role{font-size:11.5px;color:var(--muted);}
+.team-card .accent-dot{
+  width:6px;height:6px;border-radius:50%;background:var(--accent);
+  display:inline-block;margin-right:6px;
+}
+
+/* ════════════════════════════════════════════
+   SLIDE 2 — PROBLEM
+══════════════════════════════════════════════ */
+#s2{align-items:flex-start;}
+.problem-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px;width:100%;margin-top:24px;}
+.problem-card{
+  background:var(--surface);border:1px solid var(--border);border-radius:16px;
+  padding:24px;display:flex;flex-direction:column;gap:12px;
+}
+.prob-icon{font-size:32px;}
+.prob-title{font-size:15px;font-weight:700;}
+.prob-desc{font-size:13px;color:var(--subtle);line-height:1.6;}
+.problem-card.highlight{border-color:rgba(239,68,68,.3);background:rgba(239,68,68,.04);}
+.stat-row{display:flex;gap:24px;margin-top:20px;}
+.stat{text-align:center;}
+.stat-num{font-size:2.2rem;font-weight:900;background:linear-gradient(135deg,#f87171,#fb923c);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;}
+.stat-lbl{font-size:12px;color:var(--muted);}
+
+/* ════════════════════════════════════════════
+   SLIDE 3 — MİMARİ
+══════════════════════════════════════════════ */
+#s3{align-items:flex-start;}
+.pipeline{display:flex;align-items:center;gap:0;width:100%;margin-top:28px;overflow-x:auto;}
+.pipe-step{
+  background:var(--surface);border:1px solid var(--border);border-radius:14px;
+  padding:20px 18px;flex:1;min-width:150px;
+}
+.pipe-arrow{color:var(--accent);font-size:24px;padding:0 8px;flex-shrink:0;}
+.pipe-num{font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);margin-bottom:8px;}
+.pipe-title{font-size:14px;font-weight:700;margin-bottom:6px;}
+.pipe-tech{font-size:11px;color:var(--muted);}
+.pipe-tag{
+  display:inline-block;background:rgba(99,102,241,.15);color:#818cf8;
+  border-radius:6px;padding:2px 8px;font-size:11px;font-weight:600;margin-top:8px;
+}
+.arch-note{
+  width:100%;margin-top:20px;padding:16px 20px;
+  background:rgba(6,182,212,.06);border:1px solid rgba(6,182,212,.2);
+  border-radius:12px;font-size:13px;color:#7dd3fc;line-height:1.6;
+}
+
+/* ════════════════════════════════════════════
+   SLIDE 4 — TEKNOLOJİ YIĞINI
+══════════════════════════════════════════════ */
+#s4{align-items:flex-start;}
+.tech-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;width:100%;margin-top:24px;}
+.tech-item{
+  background:var(--surface);border:1px solid var(--border);border-radius:14px;
+  padding:20px 22px;display:flex;gap:16px;align-items:flex-start;
+}
+.tech-icon{font-size:28px;flex-shrink:0;}
+.tech-name{font-size:15px;font-weight:700;margin-bottom:4px;}
+.tech-desc{font-size:12.5px;color:var(--subtle);line-height:1.5;}
+.tech-badge{font-size:10.5px;font-weight:600;color:var(--accent);margin-top:6px;display:block;}
+
+/* ════════════════════════════════════════════
+   SLIDE 5 — AKADEMİK HEDEF
+══════════════════════════════════════════════ */
+#s5{align-items:flex-start;}
+.academic-layout{display:grid;grid-template-columns:1.2fr 1fr;gap:24px;width:100%;margin-top:24px;}
+.paper-card{
+  background:linear-gradient(135deg,rgba(99,102,241,.08),rgba(139,92,246,.06));
+  border:1px solid rgba(99,102,241,.25);border-radius:16px;padding:28px;
+}
+.paper-title-label{font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);margin-bottom:12px;}
+.paper-title{font-size:16px;font-weight:700;line-height:1.5;margin-bottom:20px;}
+.paper-meta{display:flex;flex-direction:column;gap:8px;}
+.meta-row{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--subtle);}
+.meta-dot{width:5px;height:5px;border-radius:50%;background:var(--accent);flex-shrink:0;}
+.milestones{display:flex;flex-direction:column;gap:12px;}
+.milestone{
+  background:var(--surface);border:1px solid var(--border);border-radius:12px;
+  padding:14px 16px;display:flex;align-items:center;gap:12px;
+}
+.ms-num{
+  width:28px;height:28px;border-radius:50%;
+  background:linear-gradient(135deg,var(--accent),var(--accent2));
+  display:flex;align-items:center;justify-content:center;
+  font-size:12px;font-weight:800;flex-shrink:0;
+}
+.ms-text{font-size:13px;font-weight:600;}
+.ms-sub{font-size:11.5px;color:var(--muted);}
+
+/* ════════════════════════════════════════════
+   SLIDE 6 — KAPANIŞ
+══════════════════════════════════════════════ */
+#s6{text-align:center;}
+.next-steps{display:flex;gap:20px;margin:32px 0;justify-content:center;}
+.step-card{
+  background:var(--surface);border:1px solid var(--border);border-radius:16px;
+  padding:24px 28px;min-width:200px;flex:1;max-width:220px;
+}
+.step-icon{font-size:36px;margin-bottom:12px;}
+.step-title{font-size:15px;font-weight:700;margin-bottom:6px;}
+.step-desc{font-size:12.5px;color:var(--subtle);line-height:1.5;}
+.qa-box{
+  background:linear-gradient(135deg,rgba(99,102,241,.1),rgba(6,182,212,.08));
+  border:1px solid rgba(99,102,241,.25);border-radius:16px;
+  padding:20px 40px;display:inline-block;
+}
+.qa-box p{font-size:14px;color:var(--subtle);}
+.github-link{
+  margin-top:12px;font-size:13px;color:#818cf8;font-weight:600;
+}
+
+/* ─── animations ─── */
+@keyframes fadeUp{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+.slide.active .card,.slide.active .problem-card,.slide.active .pipe-step,
+.slide.active .tech-item,.slide.active .milestone,.slide.active .step-card,
+.slide.active .team-card,.slide.active .paper-card{
+  animation:fadeUp .5s ease both;
+}
+.slide.active .card:nth-child(2),.slide.active .problem-card:nth-child(2),
+.slide.active .pipe-step:nth-child(3),.slide.active .tech-item:nth-child(2),
+.slide.active .milestone:nth-child(2),.slide.active .step-card:nth-child(2),
+.slide.active .team-card:nth-child(2){animation-delay:.08s;}
+.slide.active .card:nth-child(3),.slide.active .problem-card:nth-child(3),
+.slide.active .pipe-step:nth-child(5),.slide.active .tech-item:nth-child(3),
+.slide.active .milestone:nth-child(3),.slide.active .step-card:nth-child(3),
+.slide.active .team-card:nth-child(3){animation-delay:.16s;}
+.slide.active .team-card:nth-child(4){animation-delay:.24s;}
+</style>
+</head>
+<body>
+
+<div class="slide-counter" id="counter">1 / 6</div>
+<div class="slide-hint">← → ok tuşları veya tıklayın</div>
+
+<div class="deck">
+
+  <!-- ══ SLIDE 1: KAPAK ════════════════════════════════════ -->
+  <section class="slide active" id="s1">
+    <div class="orb orb-1"></div>
+    <div class="orb orb-2"></div>
+
+    <div class="logo-badge">
+      <div class="logo-icon">⚖️</div>
+      <span>Fırat Üniversitesi — Yazılım Mühendisliği</span>
+    </div>
+
+    <div class="label">Bitirme Projesi — 2025/2026</div>
+    <h1><span class="gradient-text">FU-Mevzuat AI</span></h1>
+    <p class="subtitle">Üniversite Mevzuatı için RAG Tabanlı Akıllı Sorgulama Sistemi</p>
+
+    <div class="team-grid">
+      <div class="team-card">
+        <div class="team-name"><span class="accent-dot"></span>Caner Güler</div>
+        <div class="team-role">Scrum Master &amp; Backend</div>
+      </div>
+      <div class="team-card">
+        <div class="team-name"><span class="accent-dot"></span>Baran Arda Kandemir</div>
+        <div class="team-role">Backend &amp; Vector DB</div>
+      </div>
+      <div class="team-card">
+        <div class="team-name"><span class="accent-dot"></span>Alperen Göral</div>
+        <div class="team-role">Frontend &amp; API</div>
+      </div>
+      <div class="team-card">
+        <div class="team-name"><span class="accent-dot"></span>Zübeyde Mehlika Türktan</div>
+        <div class="team-role">Analiz &amp; Akademik Yayın</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ SLIDE 2: PROBLEM ══════════════════════════════════ -->
+  <section class="slide" id="s2">
+    <div class="orb orb-1"></div>
+    <div class="label">Problem Tanımı</div>
+    <h2>Mevzuat <span class="gradient-text">Karmaşası</span></h2>
+    <p class="muted" style="margin-top:8px;margin-bottom:0">Öğrenciler haklarına doğru cevap bulamıyor.</p>
+
+    <div class="problem-grid">
+      <div class="problem-card highlight">
+        <div class="prob-icon">📄</div>
+        <div class="prob-title">Erişilmez Belgeler</div>
+        <div class="prob-desc">Yüzlerce sayfa PDF yönetmelik; hangi maddeye bakılacağı bilinmiyor. Klasik Ctrl+F yöntemi yetersiz kalıyor.</div>
+      </div>
+      <div class="problem-card highlight">
+        <div class="prob-icon">⚠️</div>
+        <div class="prob-title">Hatalı Bilgi Riski</div>
+        <div class="prob-desc">Öğrenciler sözlü bilgiye ya da eski forum paylaşımlarına güveniyor; bu da hak kayıplarına yol açıyor.</div>
+      </div>
+      <div class="problem-card highlight">
+        <div class="prob-icon">⏳</div>
+        <div class="prob-title">Verimsiz Süreç</div>
+        <div class="prob-desc">Öğrenci İşleri'ne her sorulan basit soru gereksiz iş yükü yaratıyor. Cevap gelmesi günler alabiliyor.</div>
+      </div>
+    </div>
+
+    <div class="stat-row">
+      <div class="stat"><div class="stat-num">300+</div><div class="stat-lbl">Sayfa yönetmelik</div></div>
+      <div class="stat"><div class="stat-num">7+</div><div class="stat-lbl">Farklı yönetmelik belgesi</div></div>
+      <div class="stat"><div class="stat-num">%0</div><div class="stat-lbl">Akıllı sorgulama sistemi</div></div>
+    </div>
+  </section>
+
+  <!-- ══ SLIDE 3: MİMARİ ───────────────────────────────── -->
+  <section class="slide" id="s3">
+    <div class="orb orb-1"></div>
+    <div class="label">Teknik Mimari</div>
+    <h2>RAG Pipeline <span class="gradient-text">Nasıl Çalışır?</span></h2>
+
+    <div class="pipeline">
+      <div class="pipe-step">
+        <div class="pipe-num">01</div>
+        <div class="pipe-title">📄 PDF Ayrıştırma</div>
+        <div class="pipe-tech">Belgeler madde bazında okunur ve yapılandırılır.</div>
+        <div class="pipe-tag">pdfplumber · PyMuPDF</div>
+      </div>
+      <div class="pipe-arrow">→</div>
+      <div class="pipe-step">
+        <div class="pipe-num">02</div>
+        <div class="pipe-title">✂️ Chunking</div>
+        <div class="pipe-tech">Her madde 512 token'lık örtüşmeli parçalara bölünür.</div>
+        <div class="pipe-tag">Sliding Window</div>
+      </div>
+      <div class="pipe-arrow">→</div>
+      <div class="pipe-step">
+        <div class="pipe-num">03</div>
+        <div class="pipe-title">🧠 Vektörleştirme</div>
+        <div class="pipe-tech">Türkçe metin anlamsal vektöre dönüştürülür.</div>
+        <div class="pipe-tag">BERTurk</div>
+      </div>
+      <div class="pipe-arrow">→</div>
+      <div class="pipe-step">
+        <div class="pipe-num">04</div>
+        <div class="pipe-title">🗄️ İndexleme</div>
+        <div class="pipe-tech">Vektörler kalıcı vektör veritabanına yazılır.</div>
+        <div class="pipe-tag">ChromaDB</div>
+      </div>
+      <div class="pipe-arrow">→</div>
+      <div class="pipe-step">
+        <div class="pipe-num">05</div>
+        <div class="pipe-title">💬 Kaynaklı Yanıt</div>
+        <div class="pipe-tech">LLM, yalnızca bulunan maddelerden cevap üretir.</div>
+        <div class="pipe-tag">GPT-4o-mini</div>
+      </div>
+    </div>
+
+    <div class="arch-note">
+      💡 <strong>Temel Fark:</strong> Sistem asla uydurmaz. Madde bulunamazsa <em>"Resmi belgelerimde bu konuda bilgi yoktur"</em> der.
+      Her cevapta <strong>"📖 Kaynak: Lisans Yönetmeliği, Madde 15"</strong> gösterilir.
+    </div>
+  </section>
+
+  <!-- ══ SLIDE 4: TEKNOLOJİ YIĞINI ─────────────────────── -->
+  <section class="slide" id="s4">
+    <div class="orb orb-1"></div>
+    <div class="label">Teknoloji Yığını</div>
+    <h2>Neden Bu <span class="gradient-text">Teknolojiler?</span></h2>
+
+    <div class="tech-grid">
+      <div class="tech-item">
+        <div class="tech-icon">🐍</div>
+        <div>
+          <div class="tech-name">Python</div>
+          <div class="tech-desc">Yapay zeka ve NLP araştırmalarının fiili standardı. BERTurk ve ChromaDB yalnızca Python ekosisteminde mevcut.</div>
+          <span class="tech-badge">↑ Ekosistem zenginliği</span>
+        </div>
+      </div>
+      <div class="tech-item">
+        <div class="tech-icon">⚡</div>
+        <div>
+          <div class="tech-name">FastAPI</div>
+          <div class="tech-desc">Yüksek performanslı async REST API. Otomatik Swagger dokümantasyonu ve tip güvenliği ile hızlı geliştirme.</div>
+          <span class="tech-badge">↑ Performans · ↑ Dokümantasyon</span>
+        </div>
+      </div>
+      <div class="tech-item">
+        <div class="tech-icon">🇹🇷</div>
+        <div>
+          <div class="tech-name">BERTurk</div>
+          <div class="tech-desc">Türkçe metinler için özel eğitilmiş BERT modeli. Hukuki Türkçe terimlerini genel modellere göre çok daha iyi anlar.</div>
+          <span class="tech-badge">↑ Türkçe dil desteği</span>
+        </div>
+      </div>
+      <div class="tech-item">
+        <div class="tech-icon">🗄️</div>
+        <div>
+          <div class="tech-name">ChromaDB</div>
+          <div class="tech-desc">Kurulum gerektirmeyen gömülü vektör veritabanı. Cosine similarity ile milisaniyeler içinde anlamsal arama.</div>
+          <span class="tech-badge">↑ Hız · ↑ Kolay kurulum</span>
+        </div>
+      </div>
+      <div class="tech-item">
+        <div class="tech-icon">🔗</div>
+        <div>
+          <div class="tech-name">LangChain</div>
+          <div class="tech-desc">RAG zincirlerini, prompt şablonlarını ve LLM entegrasyonunu birleştiren orkestrasyon çerçevesi.</div>
+          <span class="tech-badge">↑ RAG orkestrasyon kolaylığı</span>
+        </div>
+      </div>
+      <div class="tech-item">
+        <div class="tech-icon">⚛️</div>
+        <div>
+          <div class="tech-name">React</div>
+          <div class="tech-desc">Bileşen tabanlı modern kullanıcı arayüzü. Gerçek zamanlı sohbet akışı ve kaynak gösterimi için ideal.</div>
+          <span class="tech-badge">↑ Kullanıcı deneyimi</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ SLIDE 5: AKADEMİK HEDEF ──────────────────────── -->
+  <section class="slide" id="s5">
+    <div class="orb orb-1"></div>
+    <div class="label">Akademik Hedef</div>
+    <h2>Araştırma Üniversitesi <span class="gradient-text">Vizyonu</span></h2>
+
+    <div class="academic-layout">
+      <div class="paper-card">
+        <div class="paper-title-label">Hedef Makale</div>
+        <div class="paper-title">
+          "Üniversite Mevzuat Belgelerinde Retrieval-Augmented Generation (RAG) Sistemlerinin Performans Analizi: Fırat Üniversitesi Örneği"
+        </div>
+        <div class="paper-meta">
+          <div class="meta-row"><div class="meta-dot"></div>TR Dizin — DergiPark kapsamında yayın hedefi</div>
+          <div class="meta-row"><div class="meta-dot"></div>Dil: Türkçe + İngilizce özet</div>
+          <div class="meta-row"><div class="meta-dot"></div>Tür: Araştırma / Uygulama makalesi</div>
+          <div class="meta-row"><div class="meta-dot"></div>Precision@K, ROUGE-L, MRR metrikleriyle destekli</div>
+        </div>
+      </div>
+
+      <div class="milestones">
+        <div class="milestone">
+          <div class="ms-num">1</div>
+          <div>
+            <div class="ms-text">Sistem Geliştirme</div>
+            <div class="ms-sub">RAG pipeline + BERTurk indexleme tamamlanır</div>
+          </div>
+        </div>
+        <div class="milestone">
+          <div class="ms-num">2</div>
+          <div>
+            <div class="ms-text">Benchmark Değerlendirme</div>
+            <div class="ms-sub">50 soruluk test seti ile metrik hesaplama</div>
+          </div>
+        </div>
+        <div class="milestone">
+          <div class="ms-num">3</div>
+          <div>
+            <div class="ms-text">Makale Taslağı</div>
+            <div class="ms-sub">IEEE/ACM formatında akademik yayın hazırlığı</div>
+          </div>
+        </div>
+        <div class="milestone">
+          <div class="ms-num">4</div>
+          <div>
+            <div class="ms-text">DergiPark Başvurusu</div>
+            <div class="ms-sub">TR Dizin kapsamlı dergiye gönderim</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ SLIDE 6: KAPANIŞ ──────────────────────────────── -->
+  <section class="slide" id="s6">
+    <div class="orb orb-1"></div>
+    <div class="orb orb-2"></div>
+    <div class="label">Yol Haritası &amp; Kapanış</div>
+    <h2>Sonraki <span class="gradient-text">Adımlar</span></h2>
+
+    <div class="next-steps">
+      <div class="step-card">
+        <div class="step-icon">🧹</div>
+        <div class="step-title">Veri Temizleme</div>
+        <div class="step-desc">PDF'lerin ayrıştırılması ve madde bazlı yapılandırılması</div>
+      </div>
+      <div class="step-card">
+        <div class="step-icon">⚙️</div>
+        <div class="step-title">Prototip</div>
+        <div class="step-desc">BERTurk indexleme ve ilk RAG pipeline demosu</div>
+      </div>
+      <div class="step-card">
+        <div class="step-icon">📊</div>
+        <div class="step-title">Değerlendirme</div>
+        <div class="step-desc">Benchmark test seti ile Precision@K ve ROUGE-L ölçümü</div>
+      </div>
+      <div class="step-card">
+        <div class="step-icon">📝</div>
+        <div class="step-title">Makale</div>
+        <div class="step-desc">TR Dizin hedefli akademik yayın taslağı</div>
+      </div>
+    </div>
+
+    <div class="qa-box">
+      <h3 style="margin-bottom:8px;font-size:1.3rem;">❓ Sorular &amp; Cevaplar</h3>
+      <p>Katkılarınız ve sorularınız için teşekkür ederiz.</p>
+      <div class="github-link">github.com/caanergulerr/firat-mevzuat-rag</div>
+    </div>
+  </section>
+
+</div>
+
+<!-- ─── Navigation ──────────────────────────────────────── -->
+<nav class="nav">
+  <button class="nav-btn" id="prevBtn">←</button>
+  <div class="dot active" data-i="0"></div>
+  <div class="dot" data-i="1"></div>
+  <div class="dot" data-i="2"></div>
+  <div class="dot" data-i="3"></div>
+  <div class="dot" data-i="4"></div>
+  <div class="dot" data-i="5"></div>
+  <button class="nav-btn" id="nextBtn">→</button>
+</nav>
+
+<script>
+const slides = document.querySelectorAll('.slide');
+const dots   = document.querySelectorAll('.dot');
+const counter = document.getElementById('counter');
+let cur = 0;
+
+function go(n){
+  slides[cur].classList.remove('active');
+  dots[cur].classList.remove('active');
+  cur = (n + slides.length) % slides.length;
+  slides[cur].classList.add('active');
+  dots[cur].classList.add('active');
+  counter.textContent = `${cur+1} / ${slides.length}`;
+}
+
+document.getElementById('nextBtn').onclick = ()=>go(cur+1);
+document.getElementById('prevBtn').onclick = ()=>go(cur-1);
+dots.forEach(d=>d.addEventListener('click',()=>go(+d.dataset.i)));
+
+document.addEventListener('keydown',e=>{
+  if(e.key==='ArrowRight'||e.key===' ')go(cur+1);
+  if(e.key==='ArrowLeft')go(cur-1);
+});
+
+// click anywhere (not on nav) to advance
+document.querySelector('.deck').addEventListener('click',e=>{
+  if(!e.target.closest('nav'))go(cur+1);
+});
+</script>
+</body>
+</html>
