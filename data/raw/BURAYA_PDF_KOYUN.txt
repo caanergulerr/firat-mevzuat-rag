@@ -1,0 +1,11 @@
+Bu klasöre Fırat Üniversitesi'nin resmi yönetmelik PDF belgelerini koyun.
+
+Önerilen belgeler:
+1. Fırat Üniversitesi Lisans Eğitim-Öğretim ve Sınav Yönetmeliği
+2. Fırat Üniversitesi Çift Anadal ve Yandal Yönetmeliği
+3. Fırat Üniversitesi Öğrenci Disiplin Yönetmeliği
+
+Kaynak: https://www.firat.edu.tr/tr/universitemiz/mevzuat
+
+PDF'leri ekledikten sonra indexleme için:
+    python scripts/embed_and_index.py

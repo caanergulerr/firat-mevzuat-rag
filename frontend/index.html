@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fırat Üniversitesi — Mevzuat Asistanı</title>
+  <meta name="description" content="Fırat Üniversitesi yönetmeliklerine anında, kaynaklı cevap veren yapay zeka asistanı." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- ─── Sidebar ─────────────────────────────────────────────────── -->
+  <aside class="sidebar">
+    <div class="sidebar-header">
+      <div class="logo">
+        <span class="logo-icon">⚖️</span>
+        <div>
+          <div class="logo-title">Mevzuat AI</div>
+          <div class="logo-sub">Fırat Üniversitesi</div>
+        </div>
+      </div>
+    </div>
+
+    <button class="new-chat-btn" id="newChatBtn">
+      <span>+</span> Yeni Sohbet
+    </button>
+
+    <div class="section-label">Örnek Sorular</div>
+    <div class="example-questions">
+      <button class="example-q" data-q="Mazeret sınavı hakkım var mı?">Mazeret sınavı hakkım var mı?</button>
+      <button class="example-q" data-q="Çift anadal için GPA şartı nedir?">Çift anadal için GPA şartı nedir?</button>
+      <button class="example-q" data-q="Kayıt dondurma nasıl yapılır?">Kayıt dondurma nasıl yapılır?</button>
+      <button class="example-q" data-q="Tek ders sınavına girebilir miyim?">Tek ders sınavına girebilir miyim?</button>
+      <button class="example-q" data-q="Disiplin cezası ne zaman kaldırılır?">Disiplin cezası ne zaman kaldırılır?</button>
+    </div>
+
+    <div class="sidebar-footer">
+      <div class="model-badge">BERTurk + RAG</div>
+      <div class="footer-note">Sadece resmi belgelerden yanıtlar</div>
+    </div>
+  </aside>
+
+  <!-- ─── Ana Sohbet Alanı ─────────────────────────────────────────── -->
+  <main class="chat-main">
+    <header class="chat-header">
+      <div class="header-info">
+        <span class="status-dot" id="statusDot"></span>
+        <span class="header-title">Mevzuat Asistanı</span>
+      </div>
+      <div class="header-badge" id="systemStatus">Sistem kontrolü...</div>
+    </header>
+
+    <!-- Mesaj alanı -->
+    <div class="messages-container" id="messagesContainer">
+      <!-- Karşılama mesajı -->
+      <div class="welcome-screen" id="welcomeScreen">
+        <div class="welcome-icon">⚖️</div>
+        <h1 class="welcome-title">Merhaba, nasıl yardımcı olabilirim?</h1>
+        <p class="welcome-subtitle">
+          Fırat Üniversitesi yönetmeliklerine dair sorularınızı sorun.<br />
+          Her yanıtın altında ilgili madde referansı gösterilir.
+        </p>
+      </div>
+    </div>
+
+    <!-- Input alanı -->
+    <div class="input-area">
+      <div class="input-wrapper">
+        <textarea
+          id="questionInput"
+          class="question-input"
+          placeholder="Yönetmeliklere dair sorunuzu yazın..."
+          rows="1"
+        ></textarea>
+        <button class="send-btn" id="sendBtn" title="Gönder">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="22" y1="2" x2="11" y2="13"></line>
+            <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+          </svg>
+        </button>
+      </div>
+      <p class="input-disclaimer">
+        Bu asistan yalnızca Fırat Üniversitesi'nin resmi yönetmeliklerini kullanır. Hukuki tavsiye niteliği taşımaz.
+      </p>
+    </div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

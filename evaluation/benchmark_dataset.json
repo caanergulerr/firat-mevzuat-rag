@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Mazeret sınavı hakkından kimler yararlanabilir?",
+    "expected_articles": ["15", "16"],
+    "expected_regulation": "Lisans Eğitim Öğretim Yönetmeliği",
+    "reference_answer": "Sağlık raporu, birinci dereceli yakının vefatı, doğal afet gibi belgelenebilir mazeretleri olan öğrenciler mazeret sınavı hakkından yararlanabilir."
+  },
+  {
+    "id": 2,
+    "question": "Çift anadal programına başvurmak için gereken asgari GPA nedir?",
+    "expected_articles": ["5"],
+    "expected_regulation": "Çift Anadal Yönetmeliği",
+    "reference_answer": "Çift anadal programına başvurmak için öğrencinin asgari 3.00 GPA'ya sahip olması gerekmektedir."
+  },
+  {
+    "id": 3,
+    "question": "Üst üste kaç dönem başarısız olunursa öğrencilik sona erer?",
+    "expected_articles": ["32"],
+    "expected_regulation": "Lisans Eğitim Öğretim Yönetmeliği",
+    "reference_answer": "İlgili maddeye göre belirlenen süre içerisinde mezuniyet şartlarını sağlayamayan öğrencinin öğrenciliği sona erer."
+  },
+  {
+    "id": 4,
+    "question": "Kayıt dondurma için başvuru süresi ne zaman biter?",
+    "expected_articles": ["10", "11"],
+    "expected_regulation": "Lisans Eğitim Öğretim Yönetmeliği",
+    "reference_answer": "Kayıt dondurma başvuruları dönem başlangıcından itibaren belirlenen süre içinde yapılmalıdır."
+  },
+  {
+    "id": 5,
+    "question": "Disiplin suçu nedeniyle uzaklaştırma cezası nasıl uygulanır?",
+    "expected_articles": ["8", "9", "10"],
+    "expected_regulation": "Öğrenci Disiplin Yönetmeliği",
+    "reference_answer": "Disiplin kurulu kararıyla öğrenci bir ila iki yarıyıl uzaklaştırma cezası alabilir."
+  },
+  {
+    "id": 6,
+    "question": "Tek ders sınavına girebilmek için hangi şartlar aranır?",
+    "expected_articles": ["28"],
+    "expected_regulation": "Lisans Eğitim Öğretim Yönetmeliği",
+    "reference_answer": "Tek ders sınavı, mezuniyet için yalnızca bir dersten başarısız olan öğrencilere tanınan bir haktır."
+  },
+  {
+    "id": 7,
+    "question": "Yatay geçiş için başvuru koşulları nelerdir?",
+    "expected_articles": ["4", "5", "6"],
+    "expected_regulation": "Yatay Geçiş Yönetmeliği",
+    "reference_answer": "Yatay geçiş başvurusunda AGNO şartı, devam eden dönem sayısı ve bölüm kontenjanı gözetilir."
+  },
+  {
+    "id": 8,
+    "question": "Staj zorunluluğunu yerine getirmeden mezun olunabilir mi?",
+    "expected_articles": ["22", "23"],
+    "expected_regulation": "Lisans Eğitim Öğretim Yönetmeliği",
+    "reference_answer": "Staj zorunluluğunu yerine getirmeyen öğrenci mezuniyet şartlarını tamamlamış sayılmaz."
+  },
+  {
+    "id": 9,
+    "question": "Öğrencinin ders muafiyeti talebini kim değerlendirir?",
+    "expected_articles": ["7"],
+    "expected_regulation": "Lisans Eğitim Öğretim Yönetmeliği",
+    "reference_answer": "Muafiyet talepleri, ilgili bölüm başkanlığının teklifi ve yönetim kurulunun kararıyla sonuçlanır."
+  },
+  {
+    "id": 10,
+    "question": "Erasmus programına katılan öğrencilerin notları nasıl dönüştürülür?",
+    "expected_articles": ["18", "19"],
+    "expected_regulation": "Lisans Eğitim Öğretim Yönetmeliği",
+    "reference_answer": "ECTS notları Üniversite not dönüşüm tablosuna göre TR notuna çevrilir ve transkripte işlenir."
+  }
+]
