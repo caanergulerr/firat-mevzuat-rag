@@ -1,0 +1,30 @@
+{
+  "name": "firat_mevzuat_rag",
+  "version": "1.0.0",
+  "description": "> **NLP ve RAG mimarisi ile Fırat Üniversitesi yönetmeliklerine anında, kaynaklı cevap veren akıllı dijital asistan.**",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caanergulerr/firat-mevzuat-rag.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/caanergulerr/firat-mevzuat-rag/issues"
+  },
+  "homepage": "https://github.com/caanergulerr/firat-mevzuat-rag#readme",
+  "dependencies": {
+    "mupdf": "^1.27.0",
+    "pdf-parse": "^1.1.1",
+    "pdfkit": "^0.18.0",
+    "tesseract.js": "^7.0.0"
+  }
+}
