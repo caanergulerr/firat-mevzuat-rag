@@ -30,7 +30,7 @@ logger = logging.getLogger(__name__)
 
 # Madde başlığı için regex (Türkçe yönetmelik formatı)
 ARTICLE_PATTERN = re.compile(
-    r"(MADDE\s+(\d+)\s*[–\-—]\s*(.*?))\n",
+    r"(?m)^\s*(MADDE\s+(\d+)[.\-–—\s]*(.*?))\s*\n",
     re.IGNORECASE
 )
 
@@ -118,15 +118,15 @@ def parse_pdf(pdf_path: str, regulation_name: str = None) -> list[dict]:
     return articles
 
 
-def parse_all_pdfs(data_dir: str = "data/raw") -> list[dict]:
+def parse_all_pdfs(data_dir: str = "data/raw/yönetmelikler") -> list[dict]:
     """
-    data/raw/ klasöründeki tüm PDF'leri işler.
+    Belirtilen klasördeki (ve alt klasörlerdeki) tüm PDF'leri işler.
 
     Returns:
         Tüm yönetmeliklerin birleşik madde listesi
     """
     data_path = Path(data_dir)
-    pdf_files = list(data_path.glob("*.pdf"))
+    pdf_files = list(data_path.rglob("*.pdf"))
 
     if not pdf_files:
         logger.warning(f"'{data_dir}' klasöründe PDF bulunamadı!")
