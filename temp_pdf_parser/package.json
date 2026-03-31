@@ -11,6 +11,8 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "pdf-parse": "^1.1.1"
+    "mupdf": "^1.27.0",
+    "pdf-parse": "^1.1.1",
+    "tesseract.js": "^7.0.0"
   }
 }
