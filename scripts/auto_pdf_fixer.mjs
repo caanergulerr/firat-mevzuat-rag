@@ -10,7 +10,7 @@ import PDFDocument from 'pdfkit';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const pdfDir = path.join(__dirname, '..', 'yönetmelikler');
+const pdfDir = path.join(__dirname, '..', 'data', 'raw', 'yönetmelikler');
 const arialFontPath = 'C:\\Windows\\Fonts\\arial.ttf';
 
 async function processPdfs() {
