@@ -17,7 +17,6 @@ build/
 
 # Data & Models (ağır dosyalar)
 data/raw/*.pdf
-data/processed/
 models/
 *.pkl
 *.bin
