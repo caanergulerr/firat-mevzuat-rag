@@ -24,8 +24,8 @@ models/
 *.pth
 
 # Vector DB (lokal)
-chroma_db/
-*.sqlite3
+# chroma_db/
+# *.sqlite3
 
 # IDE
 .vscode/
