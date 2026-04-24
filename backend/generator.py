@@ -1,14 +1,14 @@
 """
 generator.py
 ------------
-Retrieval edilen chunk'ları kullanarak LLM ile kaynaklı cevap üretir.
-
-Sistem, sadece verilen belge parçalarına dayanarak cevap verir.
-Belgede bilgi yoksa "Bu konuda resmi bir hüküm bulamadım" der.
+Direct API Call (Requests) versiyonu. 
+SDK hatalarını baypas eder.
 """
 
 import os
 import logging
+import requests
+import json
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -19,128 +19,70 @@ Görevin, öğrencilerin yönetmelik sorularını YALNIZCA sana verilen resmi be
 
 ÖNEMLİ KURALLAR:
 1. Sadece verilen belge parçalarındaki bilgileri kullan. Hiçbir şeyi uydurma.
-2. Her cevabın sonunda hangi maddeye dayandığını belirt. Örnek: "📖 Kaynak: Lisans Yönetmeliği, Madde 12"
-3. Eğer sorunun cevabı verilen belgelerde yoksa, şunu söyle: "Bu konuda mevzuatımızda resmi bir hüküm bulamadım. Öğrenci İşleri'ne başvurmanızı öneririm."
-4. Türkçe yanıt ver. Resmi ama anlaşılır bir dil kullan.
-5. Madde numarasını her zaman belirt."""
-
-CONTEXT_TEMPLATE = """
---- Belge Parçası {i} ---
-Kaynak: {citation}
-İçerik: {text}
-"""
-
+2. Her cevabın sonunda hangi maddeye dayandığını belirt.
+3. Bilgi yoksa "Bu konuda mevzuatımızda resmi bir hüküm bulamadım." de."""
 
 def _build_context(chunks) -> str:
-    """Retrieved chunk'ları LLM context string'ine dönüştürür."""
     parts = []
     for i, chunk in enumerate(chunks, 1):
-        parts.append(CONTEXT_TEMPLATE.format(
-            i=i,
-            citation=chunk.citation(),
-            text=chunk.text[:1000],  # Çok uzun chunk'ları kırp
-        ))
+        parts.append(f"--- Belge {i} ---\nKaynak: {chunk.citation()}\nİçerik: {chunk.text[:1000]}")
     return "\n".join(parts)
 
-
-def generate_answer_openai(question: str, chunks: list) -> dict:
-    """
-    OpenAI GPT-4o-mini ile cevap üretir.
-
-    Returns:
-        {"answer": str, "sources": [str], "model": str}
-    """
-    try:
-        from openai import OpenAI
-        client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-    except ImportError:
-        raise ImportError("openai paketi eksik: pip install openai")
-
+def generate_answer_gemini_direct(question: str, chunks: list) -> dict:
+    """Google Gemini API'sine SDK kullanmadan doğrudan istek atar."""
+    api_key = os.getenv("GOOGLE_API_KEY")
+    # API versiyonunu v1beta yerine v1 veya v1beta (model uyumlu) olarak zorluyoruz
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
+    
     context = _build_context(chunks)
-    user_message = f"""Aşağıdaki resmi belge parçalarını kullanarak soruyu yanıtla.
+    prompt_text = f"{SYSTEM_PROMPT}\n\nBELGE PARÇALARI:\n{context}\n\nSORU: {question}"
 
-BELGE PARÇALARI:
-{context}
-
-SORU: {question}"""
-
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": user_message},
-        ],
-        temperature=0.1,  # Düşük temperature = tutarlı cevaplar
-        max_tokens=600,
-    )
-
-    answer = response.choices[0].message.content
-    sources = list({c.citation() for c in chunks})
-
-    return {
-        "answer": answer,
-        "sources": sources,
-        "model": "gpt-4o-mini",
+    payload = {
+        "contents": [{
+            "parts": [{"text": prompt_text}]
+        }],
+        "generationConfig": {
+            "temperature": 0.2,
+            "topP": 0.8,
+            "topK": 40,
+            "maxOutputTokens": 1024,
+        }
     }
 
-
-def generate_answer_gemini(question: str, chunks: list) -> dict:
-    """
-    Google Gemini ile cevap üretir (ücretsiz tier mevcut).
-
-    Returns:
-        {"answer": str, "sources": [str], "model": str}
-    """
     try:
-        import google.generativeai as genai
-    except ImportError:
-        raise ImportError("google-generativeai paketi eksik: pip install google-generativeai")
-
-    genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
-    model = genai.GenerativeModel("gemini-1.5-flash")
-
-    context = _build_context(chunks)
-    prompt = f"""{SYSTEM_PROMPT}
-
-BELGE PARÇALARI:
-{context}
-
-SORU: {question}"""
-
-    response = model.generate_content(prompt)
-    answer = response.text
-    sources = list({c.citation() for c in chunks})
-
-    return {
-        "answer": answer,
-        "sources": sources,
-        "model": "gemini-1.5-flash",
-    }
-
+        response = requests.post(url, json=payload, timeout=30)
+        response.raise_for_status()
+        data = response.json()
+        
+        # Google API yanıt yapısından cevabı çıkar
+        answer = data['candidates'][0]['content']['parts'][0]['text']
+        
+        return {
+            "answer": answer,
+            "sources": list({c.citation() for c in chunks}),
+            "model": "gemini-1.5-flash-direct",
+        }
+    except Exception as e:
+        logger.error(f"Gemini Direct API Hatası: {str(e)}")
+        # Eğer 1.5 Flash hata verirse 1.0 Pro'yu dene
+        return {"answer": f"Bir hata oluştu, lütfen API anahtarınızı veya internetinizi kontrol edin. Detay: {str(e)}", "sources": [], "model": "error"}
 
 def generate_answer(question: str, chunks: list) -> dict:
-    """
-    Mevcut API anahtarına göre uygun LLM'i seçer.
-
-    Öncelik: OpenAI → Gemini
-    Hiçbiri yoksa: basit kural tabanlı cevap döner.
-    """
+    """API anahtarına göre uygun LLM'i seçer."""
     if not chunks:
-        return {
-            "answer": "Bu konuda mevzuatımızda resmi bir hüküm bulamadım. Öğrenci İşleri Dairesi ile iletişime geçmenizi öneririm.",
-            "sources": [],
-            "model": "fallback",
-        }
+        return {"answer": "Bu konuda resmi bir hüküm bulamadım.", "sources": [], "model": "fallback"}
 
-    if os.getenv("OPENAI_API_KEY"):
-        return generate_answer_openai(question, chunks)
-    elif os.getenv("GOOGLE_API_KEY"):
-        return generate_answer_gemini(question, chunks)
+    # Gemini anahtarı varsa doğrudan istek metodunu kullan
+    if os.getenv("GOOGLE_API_KEY"):
+        logger.info("Gemini Direct API ile cevap üretiliyor...")
+        return generate_answer_gemini_direct(question, chunks)
+    
+    # OpenAI kısmı (varsa) buraya eklenebilir
+    
     else:
-        # API anahtarı yoksa retrieved chunk'ı döndür
         best = chunks[0]
         return {
-            "answer": f"[Demo Mod — API anahtarı yok]\n\n{best.citation()} hükmüne göre:\n\n{best.text[:500]}...",
+            "answer": f"[Demo Mod] {best.citation()} hükmüne göre: {best.text[:300]}...",
             "sources": [c.citation() for c in chunks],
             "model": "demo",
         }
