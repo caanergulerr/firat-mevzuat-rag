@@ -1,0 +1,1948 @@
+FIRAT ÜNİVERSİTESİ 
+ÖLÇME VE DEĞERLENDİRME KILAVUZU
+1
+ 
+ 
+  
+                                                           
+1
+ Eğitim Fakültesi, Eğitim Bilimleri Bölümü, Eğitimde Ölçme ve Değerlendirme Anabilim Dalı tarafından hazırlanmıştır (Eğitim Fakültesi 
+Dekanlığı’nın 11.08.2025 tarih ve 684348 sayılı yazısı).  
+
+1 
+ 
+İÇİNDEKİLER 
+1. ÖLÇME VE DEĞERLENDİRMEDE TEMEL KAVRAMLAR ................................................. 4 
+1.1. Ölçme ........................................................................................................................................... 4 
+1.2. Ölçek ............................................................................................................................................ 4 
+1.3. Ölçme Kuralı ................................................................................................................................ 4 
+1.4. Ölçüt ............................................................................................................................................. 4 
+1.4.1. Ölçüt Türleri .......................................................................................................................... 5 
+1.5. Değerlendirme .............................................................................................................................. 5 
+1.5.1. Değerlendirme Türleri ........................................................................................................... 5 
+1.5.1.1. Amacına Göre Değerlendirme ........................................................................................ 6 
+1.5.1.1.1. Tanıma- Yerleştirmeye Dönük Değerlendirme (Diagnostik Değerlendirme) ......... 6 
+1.5.1.1.2. Biçimlendirme-Yetiştirmeye Dönük Değerlendirme (Formatif Değerlendirme) .... 6 
+1.5.1.1.3. Değer Biçmeye Dönük Değerlendirme (Summatif Değerlendirme) ....................... 6 
+1.5.1.2. Ölçüte Göre Değerlendirme ........................................................................................... 6 
+1.5.1.2.1. Mutlak Değerlendirme ............................................................................................. 6 
+1.5.1.2.2. Bağıl Değerlendirme ............................................................................................... 7 
+1.5.2. Eğitimde Ölçme ve Değerlendirme Sürecinin Genel İlkeleri ................................................ 7 
+2. ÖLÇMEDE HATA ............................................................................................................................ 9 
+2.1. Ölçmede Hata ve Hata Kaynakları ............................................................................................... 9 
+2.1.1. Sabit Hata .............................................................................................................................. 9 
+2.1.2. Sistematik Hata ...................................................................................................................... 9 
+2.1.3. Tesadüfi Hata ........................................................................................................................ 9 
+2.2. Hata Kaynakları .......................................................................................................................... 10 
+3. ÖLÇME ARAÇLARININ SAHİP OLMASI GEREKEN TEMEL ÖZELLİKLER ................ 11 
+3.1. Geçerlik ...................................................................................................................................... 11 
+3.1.1. Kapsam Geçerliliği .............................................................................................................. 12 
+3.1.2. Yapı Geçerliliği: .................................................................................................................. 14 
+3.2. Güvenirlik ................................................................................................................................... 15 
+3.3. Geçerlik ve Güvenirlik Arasındaki İlişki ................................................................................... 16 
+3.4. Kullanışlılık ................................................................................................................................ 17 
+4. GELENEKSEL ÖLÇME VE DEĞERLENDİRME ARAÇLARI ............................................. 18 
+4.1. Açık Uçlu Sınavlar ..................................................................................................................... 18 
+4.1.1. Açık Uçlu Sınav Türleri ...................................................................................................... 18 
+4.1.1.1. Klasik Yazılı Sınavlar................................................................................................... 18 
+4.1.1.2. Tercihli Sınavlar ............................................................................................................... 18 
+4.1.1.3. Açık Kitap Sınavları ......................................................................................................... 18 
+4.1.2. Açık Uçlu Soruların Avantajları ve Sınırlılıkları ................................................................ 18 
+
+2 
+ 
+4.1.3. Açık Uçlu Soru Hazırlama İlkeleri ...................................................................................... 19 
+4.1.4. Açık Uçlu Sorularda Puanlama Anahtarları ........................................................................ 20 
+4.1.4.1. Bütüncül (Holistik) Rubrik ............................................................................................... 20 
+4.1.4.2. Analitik Rubrik ................................................................................................................. 21 
+4.1.4.3. Kısmi (Partial Credit) Rubrik ........................................................................................... 22 
+4.1.5. Açık Uçlu Soruların Uygulamasında Nelere Dikkat Edilmelidir? ...................................... 23 
+4.2. Sözlü Sınavlar............................................................................................................................. 23 
+4.2.1. Sözlü Sınavların Türleri ...................................................................................................... 23 
+4.2.1.1. Klasik Sözlü Sınavlar ................................................................................................... 23 
+4.2.1.2. Yapılandırılmış Sözlü Sınavlar ..................................................................................... 23 
+4.2.2. Sözlü Sınavların Kullanım Amaçları ................................................................................... 23 
+4.2.3. Sözlü Sınavların Avantajları ve Sınırlılıkları ...................................................................... 24 
+4.2.3.1. Sözlü Sınavların Avantajları ......................................................................................... 24 
+4.2.3.2. Sözlü Sınavların Sınırlılıkları ....................................................................................... 25 
+4.2.4. Sözlü Sınavın Değerlendirme Sürecinde Dikkat Edilmesi Gerekenler ............................... 25 
+4.3. Doğru-Yanlış Maddeler .............................................................................................................. 25 
+4.3.1. Doğru-Yanlış Maddelerinin Temel Özellikleri ................................................................... 26 
+4.3.2. Madde Yazımında Yapısal Uyarılar .................................................................................... 26 
+4.3.3. Puanlama ve Şans Başarısı .................................................................................................. 27 
+4.4. Eşleştirme Türü Maddeler .......................................................................................................... 27 
+4.4.1. Eşleştirme Türü Soruların Yapısal Bileşenleri .................................................................... 27 
+4.4.2. Etkili Madde Yazımı İçin İlkeler ......................................................................................... 28 
+4.4.3. Puanlama Süreci .................................................................................................................. 29 
+4.5. Boşluk Doldurma Soruları .......................................................................................................... 29 
+4.5.1. Temel Özellikleri ................................................................................................................. 29 
+4.5.2. Yazım İlkeleri ...................................................................................................................... 30 
+4.5.3. Puanlama ............................................................................................................................. 30 
+4.6. Çoktan Seçmeli Testler .............................................................................................................. 31 
+4.6.1. Çoktan Seçmeli Testlerin Yazımında Dikkat Edilmesi Gereken Hususlar ......................... 32 
+4.6.1.1. Genel İlkeler ................................................................................................................. 32 
+4.6.1.2. Madde Kökü ................................................................................................................. 32 
+4.6.1.2. Seçenekler .................................................................................................................... 32 
+4.6.2. Çoktan Seçmeli Testler Hazırlanırken Yapılan Yaygın Hatalar ve Örnekler ...................... 33 
+6.3. Çoktan Seçmeli Sınav Sorularının Zorluk Düzeyleri ................................................................. 37 
+6.4. Çoktan Seçmeli Soru Hazırlama Kontrol Listesi ....................................................................... 37 
+5. ALTERNATİF ÖLÇME VE DEĞERLENDİRME ARAÇLARI............................................... 38 
+5.1. Kavram Haritası ......................................................................................................................... 38 
+
+3 
+ 
+5.2. Akran ve Öz Değerlendirme ....................................................................................................... 39 
+5.3. Yapılandırılmış Grid (YG) ......................................................................................................... 41 
+5.4. Tanılayıcı Dallanmış Ağaç (TDA) ............................................................................................. 42 
+5.5. Kelime İlişkilendirme Testi (KİT) .............................................................................................. 43 
+5.6. Rubrik ......................................................................................................................................... 44 
+5.6.1. Rubrik Geliştirme Süreci: Bilimsel Aşamalar ..................................................................... 44 
+5.7. Kontrol Listeleri ......................................................................................................................... 46 
+5.8. Portfolyo ..................................................................................................................................... 46 
+KAYNAKÇA.........................................................................................................................................48 
+ 
+  
+
+4 
+ 
+ 
+1. ÖLÇME VE DEĞERLENDİRMEDE TEMEL KAVRAMLAR 
+1.1. Ölçme 
+Ölçme, farklı tanımlamalara sahip bir kavramdır. Örneğin bir nesnede ya da durumdaki niteliğe sayısal 
+değerler atamaktır (Patel,  1985). Başka bir tanıma göre ölçme, bir olguyu tanımlamak için sayı ve 
+semboller kullanmaktır (Allanson ve Notar,2020). Görüldüğü gibi farklı tanımlara sahip olsa da genel 
+anlamda  ölçme,  bir  özelliğin  belirli  bir  birey  ya  da  nesnedeki  varlığının  azlık-çokluk,  büyüklük-
+küçüklük gibi ne ölçüde veya hangi düzeyde olduğunu belirleme ve betimleme işi olarak ifade edilebilir. 
+Eğitimsel bağlamda ölçme, temel olarak yine bir betimleme süreci olarak ifade edilebilir ve bu süreç 
+genellikle  bir  öğrencinin  belirli  bir  özelliğe  ne  derece  sahip  olduğunun  sayısal  olarak  ifadesidir 
+(Lindeman, 1971, s.11). Daha kapsamlı şekilde eğitimsel bağlamda ölçme, eğitim sürecinde yer alan 
+unsurların yararlılığının, ilgili kişilerin gerçekleştirdikleri etkinliklerin yararlılığının, öğrencilerin zekâ, 
+ilgi, tutum, yetenek, kişilik ve akademik başarılarının belirli standartlara bağlı kalınarak sözcükler, 
+semboller ya da birimlerle karakterize etme sürecidir (Lal, 2006). 
+Örnek: 
+ Sınıfta 32 öğrenci var. 
+ Odanın sıcaklığı 25°C’dir. 
+ Laboratuvarda 3 deney seti bulunmaktadır. 
+Bu örneklerin dışında belirli niteliklere göre gruplandırma veya sıralama yapmak da ölçme kapsamında 
+yer almaktadır. Örneğin sınıfı cinsiyete göre gruplandırmak, öğrenci performanslarını “iyi yetiştirilmiş, 
+kabul edilebilir, geliştirilmeli” gibi gruplara ayırmak da birer ölçmedir. 
+1.2. Ölçek 
+Ölçmede kullanılan birime karşılık gelen değerdir (Başol, 2013, s. 14).  Örneğin bir öğrencinin fen 
+bilimleri sınavından aldığı 80 puan öğrencinin akademik başarısı hakkında bilgi verebilen bir ölçme 
+sonucudur. Bu ölçüme ulaşabilmek için ölçülen nitelik (akademik başarı), ölçek ile nicelleştirilmiştir. 
+Dolayısıyla ölçek, ölçülen niteliğin belirli bir birim cinsinden ifade edilmesi olarak tanımlanabilir. 
+1.3. Ölçme Kuralı 
+Ölçmeyi gerçekleştirebilmek için gereken kurallardır (Erkuş, 2012). Örneğin her sorunun 4 puan olması, 
+sınav süresinin 30 dakika olması birer ölçme kuralıdır. 
+1.4. Ölçüt 
+Değerlendirme yapabilmek için gereken kurallardır (Turgut ve Baykul, 2019, s.3). 
+ 
+
+5 
+ 
+1.4.1. Ölçüt Türleri 
+Ölçüt türleri mutlak ve bağıl olmak üzere ikiye ayrılır. Eğer karar vermek için başvurulacak ölçütte kesin 
+bir  noktadan  söz ediliyorsa mutlak; kararı belirleyecek olan ölçüt gruba ait verilerin tamamına bağlı 
+olarak değişiklik gösterebiliyorsa bağıl ölçüttür (Atılgan, Yurdakul ve Öğretmen, 2012). Örneğin, 100 
+üzerinden 60 ve üzeri puan alanların dersi geçecek olması mutlak ölçüt; sınıf ortalamasının üstünde puan 
+alanların  dersi  geçecek  olması  ise  bağıl  ölçüttür.  Dolayısıyla  akademik  başarı  bağlamında 
+düşünüldüğünde öğrencinin geçip kalması diğer öğrencilerin notlarından bağımsız ise mutlak; bağımsız 
+değilse bağıl ölçüt söz konusudur. 
+1.5. Değerlendirme 
+Bir ya da birden fazla ölçüte dayalı olarak karar verme işidir (Kirkendall, Gruber ve Johnson, 1987). 
+Örneğin, bir öğrencinin dersten aldığı puan geçme notu ile karşılaştırılarak geçmesine ya da kalmasına 
+karar  verilir.  Dolayısıyla  geçme  notu,  ölçüt;  geçtiğine  ya  da  kaldığına  dair  verilen  karar  ise 
+değerlendirmedir.  Bununla  birlikte  eğitimsel  bağlamda  değerlendirmeden  kasıt,  yalnızca  öğrenci 
+başarısının değerlendirilmesi değildir. Öğrencinin ilgisi, yeteneği, bir derse karşı olan tutumu, öğretim 
+süreci  boyunca  kullanılan  öğretim  yöntemleri,  öğretmen  performansı  gibi  birçok  farklı  unsur  da 
+değerlendirme  kapsamında  yer  alabilir.  Değerlendirme  bir  karar  verme  süreci  olduğundan  yanlış 
+alınabilecek  bir  karar  süreci  olumsuz  yönde  etkileyecektir.  Dolayısıyla  eğitim  sürecinin  sağlıklı 
+sürdürülebilmesi değerlendirmelerin doğru yapılması ile ilişkilendirilebilir. 
+1.5.1. Değerlendirme Türleri 
+Değerlendirme, amaca ve kullanılan ölçüte göre farklılaşmaktadır. Buna ilişkin sınıflama Şekil 1’de yer 
+almaktadır. 
+  
+Şekil 1. Değerlendirme Türleri 
+ 
+ 
+DEĞERLENDİRME 
+TÜRLERİ 
+ 
+Amacına göre yapılan 
+ 
+Tanıma- yerleştirmeye 
+dönük değerlendirme 
+ 
+ 
+Biçimlendirme-
+yetiştirmeye dönük 
+değerlendirme 
+ 
+Değer biçmeye dönük 
+değerlendirme 
+ 
+Ölçüte göre yapılan 
+ 
+Mutlak değerlendirme 
+ 
+Bağıl değerlendirme 
+
+6 
+ 
+Şekil 1’de görüldüğü üzere değerlendirme türleri değerlendirmenin amacına ve kullanılan ölçüte göre 
+sınıflandırılmaktadır.  
+1.5.1.1. Amacına Göre Değerlendirme 
+Amacına göre değerlendirme tanıma-yerleştirmeye, biçimlendirme ve yetiştirmeye ve değer biçmeye 
+yönelik olmak üzere üçe ayrılmaktadır (Mohan,2023, s.29). 
+1.5.1.1.1. Tanıma- Yerleştirmeye Dönük Değerlendirme (Diagnostik Değerlendirme) 
+Bu  değerlendirme  türünün  amacı  eğitim  süreci  başlamadan  öğrenciyi  tanıyarak  ona  uygun  eğitimi 
+planlamak ya da eğitim programına karar vermektir. 
+Örnek: 
+ Muafiyet sınavları 
+ Sınıf atlama sınavları 
+ Sınıf belirleme sınavları 
+1.5.1.1.2. Biçimlendirme-Yetiştirmeye Dönük Değerlendirme (Formatif Değerlendirme) 
+Bu  değerlendirme  türünün  amacı  eğitim  süreci  devam  ederken  öğrencinin  eksiklerini,  hatalarını 
+belirleyerek düzeltmek ve öğrenciye geribildirimde bulunmaktır. 
+Örnek: 
+ Quizler 
+ Ünite testleri 
+ 
+1.5.1.1.3. Değer Biçmeye Dönük Değerlendirme (Summatif Değerlendirme) 
+Bu değerlendirme türünün amacı eğitim sürecinin sonunda öğrenciye tamamlanan eğitim sonucundaki 
+seviyesini, ulaştığı noktayı bildirmektir. Bu üç değerlendirme türünden yalnızca summatif 
+değerlendirmede asıl amaç öğrenciye not vermektir. 
+Örnek: 
+ Bitirme sınavları 
+ Finaller 
+ Sertifika vermek üzere yapılan sınavlar 
+1.5.1.2. Ölçüte Göre Değerlendirme 
+Ölçüte göre yapılan değerlendirme, kullanılan ölçüt türüne bağlı olarak mutlak ve bağıl değerlendirme 
+olarak iki başlık altında incelenmektedir (Popham ve Husek, 1969). 
+1.5.1.2.1. Mutlak Değerlendirme 
+Mutlak ölçüt kullanılarak karar verme durumudur. Öğrenci başarısı, daha önceden belirlenmiş olan 
+öğrenme hedeflerine veya kriterlere göre değerlendirilir. Performans bireysel olarak, belirli bir bilgi ya 
+
+7 
+ 
+da beceri düzeyine ulaşma derecesine göre ölçülür. Amaç, bireyin belirli bir yeterliliğe sahip olup 
+olmadığını tespit etmektir. 
+Örnek: 
+ 20 sorudan 16’sını doğru cevaplayan öğrenciler dersi geçti. 
+ 300 metrelik parkuru en çok 50 saniyede tamamlayan öğrenciler okul takımına seçildi. 
+1.5.1.2.2. Bağıl Değerlendirme 
+Bağıl ölçüt kullanılarak karar verme durumudur. Tipik olarak sıralama ve yüzdelik dilim gibi ölçütler 
+kullanılarak değerlendirme yapılır. Amaç, bireylerin birbirlerine göre durumunu ortaya koyarak karar 
+vermektir. Dolayısıyla bu tür değerlendirmelerde bir rekabet söz konusudur. 
+Örnek: 
+ Sınavda ilk 5’e giren öğrenciler yarışmayı kazandı. 
+ Puanı en yüksek ilk 2 kişi işe alındı. 
+1.5.2. Eğitimde Ölçme ve Değerlendirme Sürecinin Genel İlkeleri 
+Ölçme ve değerlendirme sürecinin etkililiği bu sürecin ne kadar sağlıklı yürütüldüğüyle ilişkili olarak 
+değişmektedir. Bu süreç aşağıda sayılan ilkelere ne kadar bağlı kalınırsa o kadar etkili olacaktır (Miller, 
+Linn ve Gronlund, 2009, s.30-31):  
+ Ölçme ve değerlendirmenin ilk adımı, neyin değerlendirileceğini netleştirmektir. Bu aşamada 
+öğretmenden  beklenen  “Bilgi  mi,  beceri  mi,  tutum  mu  ölçeceğim?”  sorusuna  net  bir  cevap 
+vermesidir.  Çünkü  öğretmenin  bu  soruya  vereceği  yanıta  göre  bütün  süreci  ayrıntılı  şekilde 
+planlaması gerekmektedir. Örneğin bilgi ölçmeye yönelik bir durum söz konusu ise ona uygun 
+ölçme aracı (çoktan seçmeli, kısa cevaplı testler vb. ) seçmesi gerekecektir.  
+ Ölçme aracına karar verirken öğrenme hedefiyle uyumlu olması gerekmektedir. Bir  ölçme 
+aracının pratik, kolay ya da nesnel olması her ne kadar önemli olsa da öncelikle ölçme aracının 
+amaca  hizmet  etmesi  gerekmektedir.  Bu  durum  ölçme  aracında  öncelikle  geçerlik  özelliğine 
+bakılması  gerektiği  anlamına  gelmektedir.  Örneğin, beden  eğitimi  dersinde  “Çeşitli  fiziksel 
+etkinliklere ve sporlara özgü hareket becerilerini geliştirir.” Kazanımı ile psiko-motor  bir  beceri 
+ölçülmek   isteniyorsa, çoktan  seçmeli  bir  test  değil,  öğrencinin  fiziksel  performansının 
+gözlemlenebileceği bir ölçme yöntemi (örneğin, dereceli puanlama anahtarı) tercih edilmelidir. 
+ Kapsamlı  bir  değerlendirme  yapabilmek  için  ölçme  yöntemlerinde  çeşitlilik  önemlidir. 
+Öğrenci başarısı ve gelişiminin değerlendirilmesinde tek bir ölçme aracına başvurulması yeterli 
+değildir. Zira her kazanım farklı türden bilgi, beceri ya da tutum ölçmeye yönelik olabilir. Bu amaçla 
+ölçme  araçlarında  çeşitliliği  sağlamak  gereklidir.  Örneğin, herhangi  bir  yabancı  dil  öğretimine 
+yönelik açılmış bir derste yalnızca çoktan seçmeli test kullanımı, dersin doğası gereği ölçülmesi 
+gereken konuşma, yazma, okuma-anlama,  dinleme  gibi  temel  dil  becerilerini  ölçmekten  uzak  bir 
+seçim olacaktır.  Dolayısıyla dil öğretimi gibi birçok farklı türde beceriyi içinde barındıran alanlarda 
+
+8 
+ 
+ölçme araçlarında kazanımlara uygun çeşitliliği sağlamak öğrenci performansını değerlendirmede 
+bütüncül bir bakış açısı sunacaktır. 
+ Ölçme araçlarının sınırlılıklarının da olduğunun farkında olmak gerekmektedir. Başka bir 
+ifade  ile  ölçme  aracının  neyi  ölçebildiğini  bilmek  kadar,  neyi  ölçemediğini   de   bilmek 
+gerekmektedir. Bununla birlikte her ölçmeye hata karışabilir. En iyi eğitsel ve psikolojik testlerle 
+yapılan ölçme ve değerlendirmeler dahi, çeşitli ölçme hataları barındırabilir. Bu nedenle ölçmeyi 
+yapacak olan kişiler, ölçme ve değerlendirme sürecini sayılan bu kurallar çerçevesinde iyi yöneterek 
+hataları en aza indirgeyebilir. 
+ Ölçme ve değerlendirme bir amaç değil, araçtır. Ölçme ve değerlendirme süreci öğretim sürecini 
+yönlendirmek ve eğitimsel kararlara bir dayanak oluşturmak için planlanmalı ve yürütülmelidir. 
+Dolayısıyla ölçme ve değerlendirme sürecinin öğrenciye sadece not vermek ya da öğrencileri başarı 
+durumlarına  göre  kategorize  etmek  amacı  taşıması;  ne  öğrenciye  eksikliklerini  veya  yanlış 
+öğrenmelerini ne de öğretmene kullandığı öğretim stratejisinin etkililiğini ya da eksik yanlarını 
+ortaya  koymakta  yeterli  olacaktır.  Bu  nedenle  ölçme  ve  değerlendirme  sürecinde  geribildirim, 
+öğretim ve öğrenimin iyileştirilmesinde oldukça önemlidir. 
+  
+
+9 
+ 
+2. ÖLÇMEDE HATA   
+2.1. Ölçmede Hata ve Hata Kaynakları  
+Ölçme yaparken ölçülen özelliğin miktarları hakkında doğru bilgi edinebilmek ve bu ölçme sonuçlarına 
+dayalı olarak doğru kararlar verebilmek için, mümkün olduğunca hatasız ölçme elde etmek istenir. 
+Ancak özellikle sosyal bilimlerde yapılan ölçme işlemlerinde ölçüm sonuçlarına bir miktar hata karışır. 
+Hata kaynaklarının farkında olmak bu hata kaynaklarının ölçme sonuçlarını nasıl etkileyeceğinin ortaya 
+çıkarılmasında  oldukça  önemlidir.  O  halde  hata  kavramından bahsettikten sonra  hata  türlerine  yer 
+vermekte fayda vardır. Hata kavramı, ölçülmek istenen özelliğe ait gözlenen değer ile gerçek değer 
+arasındaki farktır. Hata ölçme sonuçlarına çeşitli şekilde karışabilir. Ölçme hataları, kaynağı yönü ve 
+miktarına bağlı olarak sabit, sistematik ve tesadüfi olmak üzere sınıflandırılmaktadır (Atılgan, Kan, & 
+Aydın, 2017) 
+ 
+2.1.1. Sabit Hata  
+Tüm ölçümlerdeki hata miktarının aynı olmasıdır. Yani sabit hatada yapılan hata miktarı hep aynı 
+olmalıdır. Başka bir ifadeyle, sabit hata bir ölçümden bir ölçüme değişmeyen hatadır (Tan, 2019). Bir 
+öğretmen,  sınav kâğıtlarını değerlendirirken  her  öğrencinin  puanına  farkında  olmadan  +5  puan 
+ekliyorsa, bu durum sabit hata olarak tanımlanır. 
+ 
+2.1.2. Sistematik Hata 
+Ölçülen büyüklüğe, ölçmeye veya ölçme koşullarına bağlı olarak değişen hata türüne ise sistematik hata 
+denir. Bir öğretmenin sınavı değerlendirirken erkek  öğrencilere daha düşük ya  da daha  fazla  puan 
+vermesi yada yazısı güzel olma ölçme sonuçlarına karıştırılmaması gereken bir durum iken yazısı güzel 
+olan öğrencilere ek puan verilmesi bu tip hataya neden olacaktır (Turgut ve Baykul, 2019).  
+ 
+2.1.3. Tesadüfi Hata 
+Tesadüfi hatalar, kaynağı belirsiz, şansa bağlı ve puanları nasıl etkilediği bilinmeyen hatalardır. Cevap 
+anahtarı kullanmama, cevapları puanlarken gelişigüzel davranma, verilen puanları toplarken dikkatsiz 
+davranma, sınavda öğrencilerin kopya çekmesine göz yumma, öğrencilerin önceki yılların sorularını 
+bulmaları (Başol, 2013), her yıl aynı soruların sorulması gibi durumlar bu tip hataların ortaya çıkmasına 
+neden olur. Sabit hataların miktarı ölçümden ölçüme değişmezken, tesadüfi hataların miktarı değişebilir. 
+Aynı koşullardaki  öğrenciler  farklı  şekillerde  etkileneceği  için  bu  hata  türünün  miktarı  ve yönü 
+kestirilemez (Başol, 2013). 
+ 
+ 
+ 
+
+10 
+ 
+2.2. Hata Kaynakları 
+Ölçme sonuçlarına karışan hataların bilinmesi hatanın miktarı ve yönünün tespiti için oldukça önemlidir. 
+Başlıca hata kaynaklarını, ölçmeyi yapan kişiden, ölçmenin yapıldığı araçtan, ölçme ortamından ve 
+ölçmenin yapıldığı gruptan kaynaklanma olmak üzere sınıflayabiliriz (Atılgan, Kan, & Aydın, 2017). 
+Bu hata türlerine ilişkin örneklere ise aşağıdaki gibi yer verilebilir; 
+Ölçmeyi Yapan Kişiden Kaynaklanan Hatalar: Değerlendiricinin bilgi, tutum, algı ya da kişisel ön 
+yargılarından kaynaklanan hatalardır. Bu tür hatalara örnek durumlar:  
+❖ Aynı cevapları veren iki adaydan birine daha yüksek puan verilmesi (öznel değerlendirme). 
+❖ Değerlendiricinin  yorgunluk,  dikkat  eksikliği  ya  da  sınav  sürecine  ilgisizliği  nedeniyle 
+puanlama hatası yapması. 
+❖ Değerlendiricinin öğrenciyi tanıması nedeniyle puanlamada taraflı davranmasıdır. 
+Ölçme Aracından Kaynaklanan Hatalar: Kullanılan test ya da sınavın içeriği, yapısı veya madde 
+kalitesi ile ilgili sorunlardan kaynaklanır. Bu tür hatalara örnek durumlar: 
+❖ Soruların açık ve anlaşılır olmaması, çok anlamlılık içermesi. 
+❖ Testin bazı konuları aşırı temsil etmesi, bazı konulara hiç yer vermemesi (kapsam geçerliği 
+problemi). 
+❖ Cevap anahtarında hata olması. 
+❖ Zorluk ve ayırt edicilik düzeyi uygun olmayan madde seçimi. 
+Ölçme Ortamından Kaynaklanan Hatalar: Sınavın  uygulandığı  fiziksel  çevre  veya  koşullardan 
+kaynaklanan hatalardır. Bu hata türüne ilişkin örnek durumlar aşağıdaki gibi olabilir: 
+❖ Sınav salonunun aşırı gürültülü olması, havalandırma ya da ışıklandırmanın yetersiz olması. 
+❖ Adaylar arasında oturma düzeninin sıkışık olması, rahatsız edici fiziksel koşullar. 
+❖ Gözetmenlerin sınav esnasında yüksek sesle konuşması ya da sınıfa girip çıkması. 
+Ölçülen  Bireyden  (Adaydan)  Kaynaklanan  Hatalar: Sınava giren kişilerin Adayın sınav anındaki 
+psikolojik, fiziksel veya bilişsel durumu nedeniyle ortaya çıkan hatalardır. Bu tür hatalara ilişkin örnek 
+durumlardan birkaçını aşağıdaki gibi ifade etmek mümkündür; 
+❖ Bireyin sınav esnasında aşırı kaygı yaşaması ve bilgilerini yansıtamaması. 
+❖ Bireyin  sınav günü rahatsız olması (ateş, baş ağrısı vb.). 
+❖ Bireyin dikkatini dağıtan kişisel problemler yaşaması (ailevi sorunlar, uyku eksikliği vb.). 
+Ölçme Araçlarında bulunması gereken özellikler 
+Yapılan ölçme işlemlerinde önceden belirlenmiş bir ölçüt ya da norm değeri bulunmuyorsa, bu durum 
+geçerlilik ve güvenirlik sorunlarını gündeme getirebilir (Çakmur,  2012). Bu  bağlamda, geçerlilik ve 
+güvenirlik, ölçme aracının ölçtüğü yapı hakkında doğru ve tutarlı sonuçlar üretme kapasitesini belirleyen 
+kritik psikometrik özellikler olarak ön plana çıkar. 
+  
+
+11 
+ 
+3. ÖLÇME ARAÇLARININ SAHİP OLMASI GEREKEN TEMEL ÖZELLİKLER 
+3.1. Geçerlik 
+Eğitimde kullanılan testler, genellikle bireylerin belirli özelliklerini ya da yetkinliklerini değerlendirmek 
+amacıyla  geliştirilir.  Eğer  bir  test,  ölçülmesi  hedeflenen  bilgi,  beceri  ya  da  duyguları  gerçekten 
+ölçebiliyorsa, bu test geçerli olarak kabul edilir. Bu bağlamda, testin ölçmek istediği yapılarla ne derece 
+örtüştüğü, geçerlilik kavramıyla ifade edilir. Geçerlilik, bir testin en temel psikometrik özelliklerinden 
+biridir ve testin ölçmeyi amaçladığı yapıyı ne ölçüde doğru biçimde ölçtüğünü ifade eder. Başka bir 
+ifadeyle, bir testin, hedeflediği kavramı ya da özelliği gerçekten ölçüp ölçmediğine ilişkin derecesi 
+geçerlilik olarak tanımlanır (Pal, 2020). Bu duruma ilişkin bir örneği şu şekilde ifade etmek mümkündür. 
+Bir  fen  bilimleri  testi,  kapsamında  “ısı  ve  sıcaklık”  konusundaki  kavramsal  bilgisini  ölçmeyi 
+amaçlamaktadır. Fakat testin içeriğinde yer alan sorular “ısı” kavramıyla doğrudan ilgili değil, “Sizce 
+kışın neden daha fazla kalori tüketiriz?”, “Termos şişesini ilk kim icat etmiştir?” “Hangi metaller ısıyı 
+daha iyi iletir?” (ezbere bilgi düzeyinde) “Sıcak çorba neden kaşıkla içilir?” gibi yorum sorularından 
+oluşuyorsa bu sınavın geçerliliği ile ilgili bazı yorumlarda bulunmak gerekir. Bu sınav öğrencilerin “ısı 
+ve sıcaklık” konusundaki kavramsal ve bilimsel bilgisini ölçmeyi hedefliyor gibi görünse de, gerçekte 
+bilimsel kavramlara dayalı analiz yapma becerisini ölçmüyor. Bunun yerine, ezbere dayalı bilgi, yoruma 
+açık ifadeler ve genel kültür unsurlarını ölçüyor. Bu bağlamda bu sınav ile ilgili olarak geçerli olmadığı 
+yorumunu ölçmesi gereken yapıyı (kavramsal bilgi) ölçmüyor olması, kapsamda sadece ısı kavramına 
+odaklanıp  sıcaklık  kavramına  değinilmemesi  nedeniye  (konu  kazanımlarını  kapsamıyor)  ve  başka 
+geçerli araçlarla uyum sağlamadığı için ölçüt geçerliliği tartışmalı olması dolayısıyla (başka güvenilir 
+araçlarla  uyumlu  değil)  geçerli  bir  sınav  olmadığını  söylemek  mümkündür.  Bu  örnekte  değinilen 
+geçerlilik aslında farklı yapılarla ilişkilidir bu bizlere farklı geçerlilik türleri olduğunu ima etmektedir. 
+Geçerlilik, kuramsal olarak kapsam geçerliliği, ölçüt geçerliği ve yapı geçerliliği olmak üzere çeşitli 
+alt türlere ayrılmaktadır (Çakmur, 2012). Tablo 1’de Cook ve  Hatala (2016) tarafından yapılan ölçme 
+araçlarının geçerlik türlerini klasik yaklaşım temelinde sınıflandırarak sunmaktadır. 
+  
+
+12 
+ 
+Tablo 1. Geçerlilik türleri (Cook ve  Hatala (2016)  
+ 
+3.1.1. Kapsam Geçerliliği  
+Geçerliliğe dair önemli kanıtlardan biri, bir testin içeriği ile ölçmeyi amaçladığı yapı (özellik) arasındaki 
+ilişkinin analizine dayanır. Burada test içeriği; testte yer alan maddelerin, görevlerin ya da soruların 
+konularını,  ifadelerini  ve  biçimlerini  kapsar.  Testin  içeriğine  dayalı  geçerlilik  kanıtı,  şu  yollarla 
+sağlanabilir: Testteki maddelerin, ölçülmek istenen konu alanını ne ölçüde temsil ettiğinin mantıksal 
+veya ampirik analizleriyle ve konunun uzmanlarının, testteki her bir maddeyi belirlenen içerik alanlarına 
+atamasıyla  ve  bu  maddelerin  yeterince  temsil  gücüne  sahip  olup  olmadığını  değerlendirmesiyle. 
+Örneğin,  bir  meslek  lisansı  testi  hazırlanırken,  o  mesleğin  temel  yeterlik  alanları  belirlenir  ve 
+uzmanlardan test maddelerini bu alanlara göre sınıflandırmaları istenebilir. Daha sonra uzmanlar bu 
+maddelerin,  mesleki  yeterlilikleri temsil etme düzeyini değerlendirerek testin içerik geçerliliğine dair 
+bilgi sunabilir (American Educational  Research  Association,  American  Psychological  Association  ve 
+National  Council  on  Measurement  in  Education, 2014).  Bir  ölçme  aracının  kapsam  geçerliliği, 
+hedeflenen kazanımları ne ölçüde temsil ettiğine bağlıdır. Eğer araç, bazı kazanımları dışarıda bırakıyor, 
+istenmeyen öğrenmeleri ölçüyor veya bazı kazanımlara orantısız vurgu yapıyorsa kapsam geçerliliği 
+düşer. Bu nedenle, belirtke tablosu hazırlanarak soruların kazanımlarla uyumu sağlanmalı ve kapsam 
+yeterliliği değerlendirilmelidir (Baykul, 2000). Dolayısıyla kapsam geçerliliği yüksek bir ölçme için 
+belirtke tablosu hazırlamak testin kapsam geçerliğini arttırmada sıklıkla kullanılan bir yoldur (Demir, 
+Kızılay & Bektaş, 2016; Gültekin & Arhan, 2015; Hançer & Dilidüzgün 2023).  Bu bağlamda, öğretim 
+hedeflerinin bilişsel düzeylere ve içerik alanlarına göre sistematik bir biçimde dağılımını gösteren örnek 
+bir belirtke tablosu aşağıda sunulmaktadır. 
+ 
+ 
+ 
+ 
+Geçerlik Türü Tanım  Geçerliği Doğrulayan Yöntemler 
+Kapsam  
+Test maddeleri ve formatı, görev 
+alanının uygun ve temsil edici bir 
+örneklemini oluşturur. 
+Madde geliştirme ve örnekleme 
+prosedürleri 
+Ölçüt (Criterion) (korelasyonel, eş 
+zamanlı ve yordayıcı geçerlik dahil) 
+Gerçek test puanları ile "gerçek" 
+(kriter) puanları arasındaki korelasyon 
+Belirlenmiş bir standartla korelasyon 
+Yapı  
+Puanlar, altta yatan psikolojik yapıya 
+göre beklenen şekilde değişir (belirli 
+bir kriter mevcut olmadığında 
+kullanılır) 
+- Aynı yapıyı ölçen başka bir ölçekle 
+korelasyon 
+- Faktör analizi 
+- Uzman–acemi karşılaştırmaları 
+- Zaman içindeki değişim veya 
+tutarlılık 
+
+13 
+ 
+Örnek  Belirtke  Tablosu (Anderson  &  Krathwohl  Taksonomisine  Dayalı  Anderson  &  Krathwohl, 
+2001). 
+Konu: Isı ve Sıcaklık 
+Ders Düzeyi: 6. Sınıf Fen Bilimleri 
+Toplam Soru Sayısı: 10 
+Tablo 2: Isı ve Sıcaklık konusuna ilişkin örnek bir belirtke tablosu 
+ 
+Kazanım 
+No 
+Kazanım Bilişsel Düzey 
+Soru 
+Sayısı 
+Soru 
+Numarası 
+K1 Isı kavramlarını tanımlar. Hatırlama 1 1 
+K2 Sıcaklık kavramını tanımlar. Hatırlama 1 2 
+K3 Isı ve sıcaklık arasındaki farkı açıklar. Anlama 1 3 
+K4 
+Günlük hayattan örneklerle ısı ve 
+sıcaklık farkını açıklar. 
+Anlama 1 4 
+K5 
+Isının iletim yoluyla yayılmasını 
+gösteren bir deney tasarlar. 
+Uygulama 1 5 
+K6 
+Maddelerin ısıyı iletme durumlarını 
+analiz eder. 
+Analiz 1 6 
+K7 
+Isı iletimiyle ilgili farklı maddeleri 
+karşılaştırır. 
+Analiz 1 7 
+K8 
+Farklı ısı yalıtım malzemelerini 
+değerlendirir. 
+Değerlendirme 1 8 
+K9 
+Isı yalıtımı için yaratıcı bir çözüm 
+önerisi geliştirir. 
+Yaratma 1 9 
+K10 
+Isı ile ilgili günlük yaşamda karşılaşılan 
+bir soruna çözüm üretir. 
+Yaratma 1 10 
+ 
+Kapsam geçerliliğini sağlamada yararlanılabilecek önemli çerçevelerden biri, Bloom’un Taksonomisi 
+olarak  bilinen  Eğitim  Hedefleri Taksonomisi’nin  bilişsel  alan  boyutudur.  Bu  taksonomi,  ölçme 
+araçlarının  planlanmasında  dikkate  alınması  gereken  çeşitli  bilişsel  yeterlik  düzeylerini  sistematik 
+biçimde sunar. Bilişsel alan, bireyin bilgiye dayalı entelektüel becerilerini geliştirmeye yönelik hedefleri 
+kapsar  (Pal,  2020).  Bloom  tarafından  oluşturulan  bu  taksonomi  Anderson  &  Krathwohl  (2002) 
+tarafından revize edilmiş ve böylece Yenilenmiş Bloom Taksonomisi hatırlama, anlama, uygulama, 
+çözümleme, değerlendirme  ve yaratma düzeylerinden oluşmaktadır (Anderson & Krathwohl, 2002). Bu 
+taksonomiye ilişkin düzeylere Tablo 3’de yer verilmiştir: 
+ 
+ 
+  
+
+14 
+ 
+ 
+Tablo 3. Bilişsel Süreç Boyutu (Krathwohl, 2002) 
+Bilgi Boyutu Hatırlama  Anlama Uygulama Analiz Değerlendirme Yaratma 
+A.Olgusal Bilgi       
+B.Kavramsal 
+Bilgi 
+      
+C.İşlemsel Bilgi       
+D.Üstbilişsel 
+Bilgi 
+   
+   
+ 
+3.1.2. Yapı Geçerliliği:  
+Yapı geçerliliği tüm geçerlilik türlerini kapsayacak şekilde düşünülebilir (Noll,  1965).  Bu geçerlilik 
+türü, bir test ya da ölçme işleminin teorik yapıyı ya da özelliği ölçüp ölçmediğinin belirlenmesidir. Başka 
+bir ifade ile ölçülmek istenilen özellik ya da yapının gerçekten ölçüldüğüne kanıt sunma sürecidir (Tan, 
+2019).  Yani yapı geçerliliği bir testin, ölçmeyi amaçladığı kuramsal yapıyı (özellik, beceri, yetenek, 
+tutum vb.) ne derece ölçtüğüyle ilgilidir.  
+❖ Örneğin  bir  ders  kapsamında öğrencilerin "eleştirel  düşünme  becerileri"ni  ölçmek  üzere 
+oluşturulan  bir  testin,  gerçekten  bu  becerilerle  ilişkili  davranışları  ve  yargıları  kapsayıp 
+kapsamadığının gösterilmesi yapı geçerliliğine kanıt oluşturur. 
+c) Ölçüt geçerliliği: Bazı durumlarda ise, ölçme aracının geçerliliğine karar verme noktasında başka 
+geçerliği ve güvenirliği kanıtlanmış ölçme aracı ile arasındaki korelasyonuna bakılır ve bu bağlamda 
+yorumlamalar yapılır.  Yeterli  güvenlik  ve  geçerlikte  olduğu  bilinen  ölçme  aracı  ölçüt,  geçerliliği 
+saptanacak olan ise yordayıcı olur  (Turgut ve Baykul, 2019). Bu duruma ilişkin bir örnek aşağıdaki 
+gibidir: 
+❖ Bir  üniversitenin  fen  fakültesinde  okutulan  “Genel  Kimya  I”  dersi  için  öğretim  üyeleri, 
+öğrencilerin  dersteki  başarılarını  önceden  tahmin  edebilecek  bir  başarı  testi  geliştirmek 
+istemektedir. Bu amaçla “Kimya Ön Bilgi Başarı Testi” adlı bir ölçme aracı hazırlanır. Bu test, 
+öğrencilerin  lise  düzeyindeki temel  kimya  kavramlarına  ne  kadar  hâkim  olduğunu  ölçmeyi 
+hedefler. 
+❖ Uygulama Süreci: 
+1. Dönem başında tüm öğrencilere “Kimya Ön Bilgi Başarı Testi” uygulanır. 
+2. Dönem sonunda öğrencilerin “Genel Kimya I” dersinden aldıkları final notları (veya 
+genel ders başarı puanları) alınır. 
+3. Bu iki ölçüm arasında korelasyon analizi yapılır. 
+❖ Yorum: Eğer elde edilen korelasyon katsayısı yüksekse (örneğin r = .72), bu durum Kimya Ön 
+Bilgi  Başarı  Testi'nin,  öğrencilerin  “Genel  Kimya  I”  dersindeki  performanslarını  önceden 
+
+15 
+ 
+yordamada geçerli olduğunu gösterir. Böylece, bu test yordayıcı geçerliği yüksek bir başarı testi 
+olarak kabul edilir. 
+McMillan  (2008), öğretmen temelli değerlendirme süreçlerinin geçerlik açısından güçlendirilmesine 
+yönelik stratejik önerileri aşağıda sıralanmıştır: 
+❖ Aynı şeyi değerlendirmenin farklı yollarının benzer sonuçlar verip vermediğini belirleyin. 
+❖ Diğer öğretmenlerden değerlendirmenizi netlik ve amaç açısından incelemelerini isteyin. 
+❖ Performansı veya davranışı birkaç kez örneklediğinizden emin olun.  
+❖ Tek bir ölçüte güvenmeyin. 
+❖ Bir plan hazırlayın ve test etmeden önce öğrencilerinizle paylaşın. 
+❖ Diğer   öğretmenlerden   değerlendirme   ile   öğrenme   hedefleri   arasındaki   uyumu 
+değerlendirmelerini isteyin. 
+❖ Yüksek puanlar alması beklenen bir öğrenci grubunu, düşük puanlar alması beklenen başka bir 
+öğrenci grubuyla karşılaştırın. 
+❖ Öğretimden önce alınan puanları, öğretimden sonra alınan puanlarla karşılaştırın. 
+❖ Öngörülen, amaçlanan sonuçları gerçek sonuçlarla karşılaştırın. 
+❖ Aynı öğrenme hedefini ölçmek için farklı yöntemler kullanın. 
+ 
+3.2. Güvenirlik 
+Tıpkı geçerlilik gibi güvenilirlik terimi de yüksek kaliteli değerlendirmenin temel bir özelliğini tanımlar. 
+Nitekim, değerlendirme süreci geçerlilik için gerekli bir koşul olarak güvenilir puanlar sağlamalıdır. 
+Güvenilirlik,  değerlendirmeden  elde  edilen  puanların  tutarlılığıyla  ilgilidir.  Bir  başka  ifade  ile, 
+değerlendirme puanlarının hatadan arınmış olma derecesi olarak tanımlanabilir. Bu tanımın testlere veya 
+araçlara  değil,  kavramlara  vurgu  yaptığına  dikkat  edin.  Bu  nokta  önemlidir  çünkü  geçerlilik  gibi 
+güvenilirlik de, öğrencilerin soruları yanıtlamalarının istendiği belirli bir durumdan elde edilen puanlar 
+hakkında  bir  yargıdır.  Güvenilir  olan  test  değil,  puanlardır.  Testlerin  kendilerine  değil,  puanların 
+güvenilirliğine  vurgu  yapmak,  güvenilirliğin  tam  olarak  anlaşılması  için  kritik  öneme  sahiptir. 
+Güvenilirlik, test nerede ve ne zaman verilirse verilsin, teste eşlik eden bir test özelliği değildir; çünkü 
+elde edilen bir puan, testin niteliği veya kalitesinden çok daha fazla faktörden etkilenir. Dolayısıyla, 
+sonuçları  anlamak  için  puanları  etkileyebilecek  faktörleri  de  anlamanız  gerekir  (McMillan,  2008). 
+Güvenilirlik,  ölçümün  tutarlılığını  ifade  eder.  Tutarlılığın  anlamı  en  iyi  birkaç  örnek  kullanılarak 
+açıklanabilir. Uzun zaman önce, bir kişinin çok hassas bir şekilde döndürülmüş bir çelik bilyenin çapını 
+son derece hassas bir şekilde birkaç kez ölçtüğünde, her seferinde tam olarak aynı sonucu elde edemediği 
+gözlemlenmiştir. Mevcut en hassas cihazlar ve koşulların mümkün olan en iyi kontrolüyle bile, çelik 
+bilyenin çapının ardışık ölçümleri her zaman bir miktar değişiklik göstermiştir. Bu tür değişikliklerin 
+boyutu,  bu  ölçüm  durumunda  tutarlılığın  veya  tutarlılığın  yokluğunun  bir  ölçüsüdür.  Eğitimsel  ve 
+
+16 
+ 
+psikolojik  ölçümlerde  tutarlılığı  ifade  etmenin  ve  ölçmenin  başka  bir  yolu  daha  vardır.  İnsanların 
+niteliklerini ölçerken, çelik bilye örneğinde olduğu gibi, aynı şeyin birçok kez tekrarlanan ölçümüyle 
+ölçümün  tutarlılığını  belirlemek  nadiren  mümkün  hatta  uygundur.  Canlı,  değişen  organizmalarla 
+uğraştığımız için, çok sayıda tekrarlanan ölçümün bu kadar yakın bir uyum göstermesini bekleyemeyiz. 
+Bu nedenle, insanlarla uğraşırken, tutarlılığı belirli sayıda bireyi ölçerek (kural olarak yalnızca iki kez) 
+ve bireylerin iki ölçüm veya puan kümesindeki göreceli standartlarını karşılaştırarak belirleriz. Ardışık 
+iki ölçümün genellikle birkaç günden fazla arayla yapılmadığı unutulmamalıdır (Noll, 1965). 
+Öğretmenler,  tek  başına  yüksek  güvenilirlik  kanıtı  sunmayan  çeşitli  değerlendirme  uygulamaları 
+gerçekleştirmekte; ancak  bu  uygulamalar,  bir araya geldiklerinde  anlamlı  ve  tutarlı  bir  genel  yargı 
+oluşturabilmektedir.  Korelasyon  gibi  istatistiksel  analizlerin  öğretmenlerce  sıklıkla  kullanılmadığı 
+düşünüldüğünde, güvenilirliği artırmaya yönelik bazı pratik önerilere ihtiyaç duyulmaktadır (McMillan, 
+2008): 
+❖ Öğrencileri değerlendirmelerde en iyi çabayı göstermeleri konusunda motive edin. 
+❖ Sonuçlar tutarlı olana kadar değerlendirmelere devam edin. 
+❖ Dış hata kaynaklarını ortadan kaldırın veya azaltın. 
+❖ Daha az sayıda uzun değerlendirme yerine daha kısa değerlendirmeleri daha sık kullanın. 
+❖ Birkaç tür değerlendirme görevi veya değerlendirme yöntemi kullanın. 
+❖ Puanlama kriterlerini göstermek için açıkça tanımlanmış referans noktaları ve diğer örnekler 
+kullanın. 
+❖ Mümkün  olduğunca,  değerlendirme  ve  puanlama  protokollerini  ve  prosedürlerini 
+standartlaştırın. 
+❖ Bir madde ve görev bankası veya dosyası tutun; testleri öğrencilere saklamaları için vermeyin. 
+❖ Öğrenci yanıtlarından oluşan bir örneklemin puanlanması için bağımsız değerlendiriciler veya 
+gözlemciler kullanın ve değerlendirmelerinizle tutarlılığını kontrol edin.  
+❖ Puanlamada  mümkün  olduğunca  nesnellik  sağlayın  ve  değerlendirilen  şeyin  bütünlüğünü 
+koruyun. 
+3.3. Geçerlik ve Güvenirlik Arasındaki İlişki 
+İyi bir testin iki evrensel kriteri tartışılırken, geçerliliğin en önemli özellik olduğunu düşünmek ve daha 
+önce yaptığımız  gibi önce onu ele almak  gelenekseldir. Ancak, güvenilirliğin geçerlilik için elzem 
+olduğunu,  ancak  bunun  tersinin  geçerli  olmadığını  belirtmekte  fayda  var.  Bir  test  geçerli  olmadan 
+güvenilir olabilirken, bir testin geçerliliği kısmen güvenilirliğine bağlıdır; bu nedenle, bir test yalnızca 
+güvenilir olduğu kadar geçerlidir (Noll,  1965). Geçerlik ve güvenirlik arasındaki ilişkiye Şekil 2’de yer 
+verilmiştir: 
+
+17 
+ 
+ 
+Şekil 2. Geçerlik ve Güvenirlik İlişkisi 
+Şekil  2 (a), (b) ve (c), geçerlik ve güvenirliğin nasıl farklılaştığını hedefe atış örneğiyle göstermektedir. 
+Şekil  2  (a)’da  hedef  atışı,  güvenirliğin  geçerlik  için  gerekli  olduğunu  ancak  yeterli  olmadığını 
+göstermektedir. Şekil 2 (c), hem yüksek geçerlik hem de yüksek güvenirliğe sahip bir ölçüm örneğidir 
+ve  tekrar eden denemelerde tutarlı sonuçlar vermektedir. Şekil 2. (b), güvenirliğin düşük ve geçerli 
+olmayan bir ölçümün de mümkün olduğunu; yani tutarsız ve hedefle ilgisiz sonuçlar verebileceğini 
+göstermektedir. Son olarak, düşük güvenirliğe sahip bir ölçüm aracının yüksek geçerliliğe sahip olması 
+mümkün değildir (Mohan, 2023).  
+3.4. Kullanışlılık 
+Ölçme aracında bulunması gereken iki teknik özelliğin yanı sıra kullanışlılık özelliğinden söz etmek 
+mümkündür (Atılgan, Kan, & Aydın 2017).  Bir testin faydalı olarak nitelendirilebilmesi, hedeflenen 
+ölçme amacına ulaşmayı kolaylaştıracak uygun koşulları sağlamasına bağlıdır. Bu bağlamda, testin bazı 
+temel özellikleri taşıması gereklidir: 
+Anlaşılırlık (Sadelik): Test maddelerinin açık, yalın ve anlaşılır bir dille yazılması; hedeflenen beceri 
+veya özelliği doğrudan ölçmeye yönelik biçimde yapılandırılması önemlidir. Karmaşık, çok anlamlı ya 
+da belirsiz ifadelerden kaçınılmalı, yönergeler net ve yönlendirici olmalıdır. Böylece öğrencinin, testi 
+anlama ve verilen görevleri doğru şekilde yerine getirme olasılığı artar. 
+Puanlanabilirlik: Her  test  maddesinin,  önceden  belirlenmiş  açık  puanlama  kriterlerine  göre 
+değerlendirilebilir nitelikte olması gerekmektedir. Bu durum, özellikle Milli Eğitim Bakanlığı gibi resmi 
+kurumlarca belirlenen standart  puanlama  yönergeleri  ile  uyumlu  olmalıdır.  Nesnel  ve  güvenilir  bir 
+puanlama süreci, hem değerlendiriciler arası tutarlılığı artırır hem de öğrenci performansının adil şekilde 
+ölçülmesini sağlar (Pal, 2020). 
+  
+
+18 
+ 
+4. GELENEKSEL ÖLÇME VE DEĞERLENDİRME ARAÇLARI 
+Geleneksel  ölçme  ve  değerlendirme  teknikleri  eğitim  sistemlerinin  vazgeçilmez  araçları  olarak 
+kullanılmaktadır.  Açık  uçlu  sınavlar  (yazılı  yoklamalar),    sözlü  sınavlar,  doğru-yanlış  maddeler, 
+eşleştirme türü maddeler, boşluk doldurma ve çoktan seçmeli testler gibi geleneksel yöntemler aşağıda 
+başlıklar halinde sunulmuştur. 
+4.1. Açık Uçlu Sınavlar 
+Açık  uçlu  sınav öğrencilerin  öğrenme  süreçlerindeki  başarı  düzeylerini  değerlendirmek  amacıyla 
+kullanılan üst düzey bilişsel becerileri ölçen sınav türüdür. Açık uçlu sınavlarda öğrenciler, kavramsal 
+anlayışlarını, analitik becerilerini ve sentez yeteneklerini sergileme fırsatı bulurlar. 
+4.1.1. Açık Uçlu Sınav Türleri 
+Açık uçlu sınav türleri klasik yazılı sınavlar, tercihli yazılı sınavlar ve açık kitap sınavları olmak üzere 
+üçe ayrılır. 
+4.1.1.1. Klasik Yazılı Sınavlar 
+Klasik yazılı sınavlar, öğrencilerin kendilerine yöneltilen sorulara serbest ya da sınırlı yanıtlar verdikleri 
+sınavlardan oluşmaktadır. Bu sınavlar aşağıda açıklanmıştır: 
+Sınırlı Cevaplı Sorular: Öğrenciden cevabın belirli bir formatta verilmesi istenir. 
+Örnek: Bir  ölçme  aracı  olarak çoktan  seçmeli  testlerin  yazılı  yoklamalara  göre  avantajlı  olan  iki 
+özelliğini yazınız. 
+Serbest  Cevaplı  Sorular: Cevabın  içeriği,  niteliği  ve  uzunluğu bakımından  cevaplayıcı  serbest 
+bırakılır. Genellikle özgün ve yaratıcı düşünme, bunları örgütleme ve değerlendirme gücünü ölçmede 
+kullanılır. 
+Örnek: Bir ölçme aracı olarak çoktan seçmeli testler ve yazılı yoklamaları güçlü ve zayıf yönlerini 
+maddeler halinde yazarak karşılaştırınız.  
+4.1.1.2. Tercihli Sınavlar 
+Cevaplayıcıların  sınavda  sorulan  soruların  hepsini  cevaplamak  zorunda  olmadıkları,  belirli  sayıda 
+istedikleri  soruları  seçip  cevapladıkları  sınav  türüdür. Kaygıyı  azaltması  ve  motivasyonu  artırması 
+avantajken, kapsam geçerliliği düşüktür. 
+4.1.1.3. Açık Kitap Sınavları 
+Sınavda kitap, defter gibi materyallerin serbest olduğu ve kullanılabileceği sınav türüdür. Defter, kitap 
+açık olduğu için sınav kaygısını azaltır. Bu sınavda üst düzey düşünme becerileri ölçülmelidir. 
+4.1.2. Açık Uçlu Soruların Avantajları ve Sınırlılıkları 
+
+19 
+ 
+Açık uçlu sınavların bazı avantajları ve sınırlılıkları bulunmaktadır. Bu durum Tablo 4’de sunulmuştur. 
+Tablo 4. Açık uçlu sınavların avantajları ve sınırlılıkları 
+Avantajlar Sınırlılıklar 
+Hazırlanması kolaydır. Puanlama süreci zordur. 
+Üst düzey düşünmeyi ölçer. Puanlama subjektif olabilir. 
+Öğrenci düşüncelerini yansıtabilir. Ölçme dışı etkenler puanı etkileyebilir. 
+Üst düzey ve karmaşık bilişsel becerileri 
+ölçmede etkilidir. 
+Öğrencinin istenilen zihinsel etkinliği 
+gösterememesi güvenilirliği düşürür. 
+Öğrencileri daha çok çalışmaya ve konuları 
+daha derinlemesine öğrenmeye teşvik eder. 
+Kapsam geçerliği düşüktür. 
+ 
+Tablo 4’te görüldüğü üzere açık uçlu sorular, öğrencilerin üst düzey bilişsel becerilerini ölçmede önemli 
+katkılar  sunmakla  birlikte puanlama  sürecinde  öznel  yargılara  açık  olmaları  nedeniyle ölçmenin 
+güvenilirliğini olumsuz etkileyebilmektedir. 
+4.1.3. Açık Uçlu Soru Hazırlama İlkeleri 
+Açık uçlu soruların yazılmasına yönelik dikkate alınması gereken ilkeler aşağıdaki gibidir: 
+ Sorular bağımsız olmalıdır: Her soru kendi içinde bağımsız olmalı, diğer sorulara bağlılık 
+içermemelidir. 
+ Ders kitabından doğrudan yanıtlanamayacak nitelikte olmalıdır: Sorular  doğrudan 
+kitaptan  veya  başka  bir  yerden  alınarak  öğrencinin  hatırlama  ve  kavrama  basamağına 
+yönelik durumu ölçmeye yönelik olmayıp, analiz, sentez ve değerlendirme gibi üst düzey 
+bilişsel becerilerini ölçülmesi amacıyla kullanılmalıdır. 
+ Yanıtı sınırlandırılmış açık uçlu sorular tercih edilmelidir: Belirsizliği  azaltmak  ve 
+öğrencilerin odaklanmasını sağlamak için sorunun kapsamı belirginleştirilmelidir. 
+ Sorular  açık,  anlaşılır  ve  hedef  kitleye  uygun  olmalıdır: Karmaşık  ifadelerden 
+kaçınılmalı, düzeye uygun ve sade bir dil kullanılmalıdır. 
+ Sınırlandırmalar belirtilmelidir: Sorunun konusu, uzunluğu, süresi veya kapsamı gibi 
+yönlerden net sınırlandırmalar yapılmalıdır. 
+ Seçmeli maddelerden kaçınılmalıdır: Mümkünse “İstediğinizi yanıtlayın” gibi ifadeler 
+kullanılmamalı; tüm  öğrencilerin  aynı  soruları  yanıtlaması  sağlanmalıdır.  Aksi  halde 
+öğrencilerin  hangi  konularda  öğrenme  eksikliği  yaşadığı  belirlenemez  ve  birbirleriyle 
+kıyaslama yapılamaz. 
+ Sorular  öğretim  hedefleriyle  uyumlu  hazırlanmalıdır: Sorular   ölçülmek   istenen 
+kazanımlara doğrudan hizmet etmelidir ve yalnızca istenilen kazanımı ölçmelidir. 
+ Bloom Taksonomisine göre hazırlanmalıdır: Kazanımın Bloom taksonomisinde hangi 
+basamakta olduğunu içerdiği belirlenerek ilgili bilişsel düzeylerde sorular hazırlanmalıdır. 
+
+20 
+ 
+ Karmaşık  düşünme  süreçlerini  test  etmelidir: Açık  uçlu  sorular  üst  düzey  bilişsel 
+durumları ölçmeye yönelik olduğundan gerekçelendirme, problem çözme ve yorum yapma 
+gibi becerileri ölçmelidir. 
+ Yönergeler açıkça belirtilmelidir: Öğrencinin ne yapması gerektiği net bir biçimde ifade 
+edilmelidir. Süre ve sınav kuralları sınav kağıdının en üst kısmında yazılmalıdır. 
+ Örnek yanıt anahtarı veya rubrik hazırlanmalıdır: Değerlendirmenin nesnel, tutarlı ve 
+adil yapılabilmesi için puanlama kriterleri önceden oluşturulmalıdır. 
+ Güçlük düzeyi belirlenmelidir: Sorular çok kolay, kolay, orta, zor ve çok zor gibi farklı 
+düzeylerde hazırlanmalıdır. 
+ Soruların çözüm süresi dikkate alınmalıdır: Öğrencilere, sorulara cevap verebilmeleri 
+için yeterli süre tanınmalı; gerekirse her soru için önerilen süre belirtilmelidir. Bu durum, 
+sınav süresinin; öğretim elemanının tüm soruları yanıtlama süresinin üç katı kadar olması 
+tavsiye edilmektedir. 
+ Sözcük   seçimine   özen   gösterilmelidir: Anlam   belirsizliklerine   neden   olabilecek 
+ifadelerden kaçınılmalıdır. 
+ Uygun sayıda soru kullanılmalıdır: Öğrencilerin zamanı ve bilişsel yükü göz önünde 
+bulundurularak soru sayısı dengelenmelidir. 
+ Uzman görüşü alınmalı ve mümkünse ön uygulama yapılmalıdır: Soruların niteliği ve 
+uygunluğu için uzman değerlendirmesi istenmeli, pilot uygulama ile sorular test edilmelidir. 
+ Örnek Açık Uçlu Soru Formatları: 
+ Karşılaştırma: “A ile B arasındaki farkları belirtiniz.” 
+ Sebep-Sonuç: “Bu durumun üç olası nedeni nedir?” 
+ Özetleme: “Metindeki temel noktaları özetleyiniz.” 
+ Sentez: “Bu duruma yönelik yeni bir plan tasarlayınız.” 
+ Uygulama: “Bu ilkeyi örnek bir durumda nasıl kullanırsınız?” 
+4.1.4. Açık Uçlu Sorularda Puanlama Anahtarları 
+Puanlama süreci, açık uçlu soruların en önemli aşamalarından biridir. Değerlendirmenin geçerlik ve 
+güvenirliği puanlama anahtarının niteliğine bağlıdır. Açık uçlu soruların puanlanmasında bütüncül, 
+analitik ve kısmi olmak üzere üç farklı puanlama anahtarı kullanılmaktadır. 
+4.1.4.1. Bütüncül (Holistik) Rubrik 
+Tanım: Öğrencinin cevabına genel bir bütünlük içinde bakılarak tek bir puan verilir. Yanıtın kalitesi 
+genel olarak değerlendirilir. 
+Ne  zaman  kullanılır: Hızlı  puanlama  gerektiğinde,  genel  etki  önemliyse  ve yaratıcı  yazma  gibi 
+durumlarda kullanılır. 
+ 
+
+21 
+ 
+Örnek: 
+Soru: Bilimsel  bir  araştırmada  kullanılacak  bir  araştırma  problemi  yazın.  Probleminiz  aşağıdaki 
+kriterlere göre değerlendirilecektir.  
+ Araştırılmaya değer 
+ Açık ve anlaşılır 
+ Sınanabilir  
+ Özgün 
+Araştırma Problemi Değerlendirmeye Yönelik Bütüncül Rubrik 
+Puan (Düzey) Açıklama 
+4 (Mükemmel) 
+Araştırmaya değer, problem cümlesi açık ve anlaşılır, sınanabilir ve 
+özgün 
+3 (İyi) 
+Araştırmaya değer, problem cümlesinin daha iyi ifade edilmesi gerekir, 
+veri toplanması sınırlı, özgün 
+2 (Geliştirilmeye açık) 
+İlgili alana katkısı var ancak sınırlı, problem cümlesinde anlaşılmayan 
+bazı kavramlar var, veri toplanması zor ve özgün değil 
+1 (Gözlenmedi) 
+Araştırma problemi araştırmaya değer değil, açık ve anlaşılır ifade 
+edilmemiş, sınanabilir değil ve benzeri çok fazla yapılan bir konusu var 
+  
+4.1.4.2. Analitik Rubrik 
+Tanım: Yanıt belirli bileşenlere ayrılır ve her bir bileşen ayrı ayrı puanlanan rubriktir. 
+Ne zaman kullanılır: Özellikle öğretici geri bildirim verilmek istendiğinde veya yanıtın farklı 
+yönlerinin değerlendirilmesi gerektiğinde kullanılır. 
+Örnek: 
+Soru: Bilimsel  bir  araştırmada  kullanılacak  bir  araştırma  problemi  yazın.  Probleminiz  aşağıdaki 
+kriterlere göre değerlendirilecektir.  
+ Araştırılmaya değer 
+ Açık ve anlaşılır 
+ Sınanabilir  
+ Özgün 
+  
+
+22 
+ 
+Araştırma Konusunu Değerlendirmeye Yönelik Analitik Rubrik 
+Boyut Kötü (1) Orta (2) İyi (3) Çok İyi (4) 
+Araştırılmaya 
+Değer 
+Uygulandığı 
+zaman ilgili 
+alana katkısı 
+olmayacaktır 
+İlgili alana katkısı vardır 
+ancak çok fazla zaman, 
+para ve enerji 
+gerektirmektedir 
+İlgili alana katkısı 
+vardır 
+İlgili alandaki bir 
+açığı kapatacak 
+düzeyde katkısı 
+vardır 
+Açık ve 
+Anlaşılır 
+İfadeler açık ve 
+anlaşılır değildir 
+Problem cümlesindeki 
+bazı kavramlar ve 
+değişkenler net bir 
+şekilde ifade 
+edilmemiştir 
+Açık ve anlaşılırdır 
+ancak problem 
+cümlesinde uygun 
+olmayan (olasılık, emir 
+kipi vb.) ifadeler vardır 
+Kavramlar ve 
+değişkenler açık, 
+net ve uygun bir 
+dille ifade 
+edilmiştir 
+Sınanabilir 
+Sınanabilir 
+değildir 
+Sorunun 
+cevaplanabilmesi için 
+sağlıklı veri toplanması 
+çok zordur 
+Sorunun cevaplanması 
+için veri toplanabilir 
+ama cevapları çok az 
+da olsa bazı 
+durumlarda kişisel 
+olabilir 
+Sınanabilir, 
+ölçülebilir ve 
+sağlıklı veri 
+toplanabilir 
+Özgün 
+Özgün ve 
+orijinal değildir 
+Benzer içerikteki 
+çalışmalarla çok az 
+farklılık göstermektedir 
+Benzer içerikte 
+çalışmalarla ortak 
+özellikleri olmakla 
+beraber ciddi anlamda 
+farklı kısımları da 
+vardır 
+Özgün ve 
+orijinaldir 
+ 
+4.1.4.3. Kısmi (Partial Credit) Rubrik 
+Tanım: Yanıtın bazı kısımları doğruysa buna göre kısmî puan verildiği rubriktir. 
+Ne zaman kullanılır: Özellikle matematiksel, bilimsel ya da mantıksal açıklamalar içeren açık uçlu 
+sorularda; doğru düşünme yolları ödüllendirilmek istendiğinde kullanılır. 
+Örnek: 
+Soru: Bir öğretmen, çoktan seçmeli bir test maddesi yazarken dikkat etmesi gereken iki önemli ilkeyi 
+ihlal etmiştir.  Bu  iki  ilkeyi  belirleyiniz  ve  her  birinin geçerlik  ve  güvenirlik üzerindeki  etkisini 
+açıklayınız. 
+Tam Puan:  
+Yanıt hem iki doğru ilkeyi belirtir hem de geçerliğe ve güvenirliğe etkisini açık ve doğru biçimde 
+açıklar. (10P) 
+Kısmi Puan:  
+Aşağıdaki durumlardan herhangi biri görülürse kısmi puan verilir: 
+ İki ilke doğru olarak belirtilmiştir, yalnızca tek bir duruma yönelik etkisi açıklanmıştır. (3) 
+ İki ilke doğru olarak belirtilmiştir, ama geçerliğe ve güvenirliğe etkileri açıklanmamıştır. (5p) 
+ Bir ilke doğru, ama geçerliğe ve güvenirliğe etkileri açıklanmamıştır. (2) 
+
+23 
+ 
+Sıfır Puan: 
+ İlke belirtmemiştir 
+ İlke yanlış yazılmıştır. 
+ Boş bırakılmıştır. 
+4.1.5. Açık Uçlu Soruların Uygulamasında Nelere Dikkat Edilmelidir? 
+ Rubrik, soru köküyle uyumlu olmalıdır. 
+ Ölçütler, önceden belirlenmeli ve açıkça tanımlanmalıdır. 
+ Rubrik, farklı puanlayıcılar arasında tutarlılık (inter-rater reliability) sağlamalıdır. 
+ Gerekirse örnek yanıtlar (benchmark answers) ile desteklenmelidir. 
+4.2. Sözlü Sınavlar  
+Sözlü sınavlar,  öğrencilerin  bilgi,  beceri  ve  iletişim  yeterliklerini  doğrudan  gözlemleyerek 
+değerlendirme olanağı sunan önemli bir ölçme ve değerlendirme tekniğidir. Öğrencilerin dili etkili 
+kullanma, düşüncelerini organize etme ve karşısındakiyle etkileşim kurma becerileri gibi bilişsel ve 
+duyuşsal yönleri ortaya çıkarmada yazılı sınavlara göre daha kapsayıcıdır. Bu sınavlar, hem bireysel 
+hem de grup ortamında uygulanabilir ve çoğunlukla açık uçlu sorular yoluyla yürütülür (Başol, 2015; 
+Güler, 2016). 
+4.2.1. Sözlü Sınavların Türleri 
+Sözlü sınavlar klasik sözlü ve yapılandırılmış sözlü sınavlar olmak üzere ikiye ayrılır: 
+4.2.1.1. Klasik Sözlü Sınavlar 
+Klasik sözlü sınavlarda, öğretmen öğrencileri rastgele seçerek onlara sözlü sorular yöneltir. Bu sınavlar 
+sınıf ortamında  doğrudan  uygulanabileceği  gibi  bir  komisyon  önünde  bireysel  olarak  da 
+gerçekleştirilebilir.  Ancak  sorular  ve  süreç  önceden  yapılandırılmadığı  için  puanlama  sürecinde 
+sübjektiflik riski artabilir (Başol, 2015). 
+4.2.1.2. Yapılandırılmış Sözlü Sınavlar 
+Bu tür sözlü sınavlarda belirli bir komisyon önceden hazırlanmış standart sorularla öğrencilere sınav 
+uygular. Öğrenciler genellikle 3-5 kişilik gruplar hâlinde sınava alınır ve sırayla her bir öğrenciye aynı 
+soru ya da sorular yöneltilir. Değerlendirme öncesinde sınavın kapsamı ve soru düzeyleri belirlenmiş 
+olur. Böylece değerlendirme sürecinin objektifliği ve geçerliliği artırılabilir (Başol, 2015). 
+4.2.2. Sözlü Sınavların Kullanım Amaçları 
+Sözlü sınavlar, aşağıdaki becerileri ölçmek amacıyla tercih edilmektedir: 
+
+24 
+ 
+ Dili etkili ve doğru kullanma, 
+ Cümlelerin telaffuzu ve dilsel doğruluğu, 
+ İletişim kurma ve sosyal etkileşim, 
+ Okuma, anlama ve aktarım becerileri. 
+Ayrıca  bu  sınavlar,  öğrencilerin  derse  hazırlık  düzeyini  belirlemede,  dikkat  ve  ilgilerini  derse 
+yönlendirmede de etkili bir araç olarak kullanılabilir (Güler, 2016). 
+2.5. Sözlü Sınavların Planlanması ve Uygulanması 
+Sözlü sınavların geçerli ve güvenilir sonuçlar vermesi için belli ilkelere dikkat edilmelidir: 
+ Sınavdan önce bir planlama yapılmalı, konuya göre çeşitli zorluk düzeylerinde sorular 
+hazırlanmalıdır. 
+ Öğrenci sayısının yaklaşık üç katı kadar soru önceden yazılı hâle getirilmelidir. 
+ Sorular için mutlaka açık ve standart bir cevap anahtarı (rubrik) hazırlanmalıdır (Başol, 2015). 
+ Sınav öncesi kaygılı öğrenciler desteklenmeli; rahatlatıcı bir ortam sağlanmalıdır. 
+ Öğrencilerin verdikleri cevapların doğru anlaşılması için gerekirse açıklayıcı ek sorular 
+sorulmalıdır. 
+ Sınıf içinde yapılacak sözlü sınavlarda öğrencilerin yerinden cevap vermesi teşvik edilmeli, 
+öğrenci istemez ise zorla tahtaya kaldırılmamalı bulunduğu yerde sorulara cevap vermelidir. 
+ Sözlü sınavların ders notuna etkisi sınırlı tutulmalıdır. 
+ Dili etkili kullanma hedeflenmiyorsa, kısa ve açık cevaplı çok sayıda soru sorulmalıdır (Güler, 
+2016). 
+4.2.3. Sözlü Sınavların Avantajları ve Sınırlılıkları 
+4.2.3.1. Sözlü Sınavların Avantajları 
+ Öğrencinin iletişim becerilerini ve dili etkili kullanma yetkinliğini doğrudan gözleme imkânı 
+sunar. 
+ Öğrencinin verdiği eksik ya da hatalı cevaplar üzerine ek sorularla derinlemesine bilgi düzeyi 
+ölçülebilir. 
+ Soruların hazırlanması kolay ve kısa sürede mümkündür. 
+ Öğrencinin düşünme süreci ve bilgi aktarımı anlık olarak değerlendirilir. 
+ 
+ 
+
+25 
+ 
+4.2.3.2. Sözlü Sınavların Sınırlılıkları 
+ Puanlama süreci öznel olabilmektedir. Öğrencinin duruşu, ses tonu veya özgüveni gibi 
+ölçülmek istenmeyen değişkenler değerlendirmeyi etkileyebilir. 
+ Değerlendirme zaman alıcıdır. 
+ Komisyon üyeleri arasında tutarlılık sağlamak zordur. 
+ Objektiflik düşük olabilir, bu nedenle sınav öncesi rubrik ya da standart cevap anahtarlarıyla 
+ölçütler netleştirilmelidir. 
+4.2.4. Sözlü Sınavın Değerlendirme Sürecinde Dikkat Edilmesi Gerekenler 
+Sözlü sınavların puanlamasında tutarlılığı sağlamak için şu yöntemler kullanılabilir: 
+ Bütüncül Puanlama: Öğrencinin tüm performansı genel bir yargı ile tek bir puan üzerinden 
+değerlendirilir. 
+ Analitik Puanlama: Cevaplar belirli alt boyutlara ayrılarak her biri ayrı ayrı puanlanır (ör. 
+konu bilgisi, ifade becerisi, tutarlılık). 
+ Kısmi Puanlama: Cevap içerisinde yer alan doğru bilgiler veya bölümler puanlanır; eksik ya 
+da hatalı bölümler dikkate alınmaz. 
+  Örnek Sözlü Soru 
+“Eğitimde  ölçme  ve  değerlendirme  neden  önemlidir?  Ölçme  araçlarının  geçerlik  ve  güvenirlik 
+özellikleriyle bu önemi ilişkilendirerek açıklayınız.” 
+Sözlü Sınav İçin Bütüncül Değerlendirme Rubriği 
+Düzey Tanım 
+4 - Mükemmel 
+Öğrenci, ölçme-değerlendirme, geçerlik ve güvenirlik kavramlarını doğru, yerinde ve 
+ayrıntılı biçimde açıklar. Kavramlar arası ilişkiyi güçlü bir şekilde kurar, 
+açıklamalarını örneklerle destekler, dili etkili ve akıcı kullanır. Yanıt yapısal olarak 
+tutarlı ve yüksek düzey düşünmeyi yansıtır. 
+3 - İyi 
+Öğrenci temel kavramları doğru şekilde açıklar, kavramlar arası ilişkiyi genel olarak 
+kurar. Bazı açıklamalar eksik ya da yüzeysel olabilir. Dil kullanımı yeterlidir, ancak 
+açıklamalar daha derinleştirilebilir. Yanıt tutarlıdır. 
+2 - Geliştirilebilir 
+Öğrenci kavramlara kısmen değinir ancak açıklamaları eksik veya kavram hatası 
+içermektedir. Kavramlar arası ilişki zayıftır. Yanıt yüzeyseldir ve dili sınırlı düzeyde 
+kullanmıştır. Yapısal olarak tutarsızlıklar olabilir. 
+1 - Yetersiz 
+Öğrencinin kavram bilgisi zayıftır veya ciddi kavram yanılgıları içerir. Konuya 
+ilişkin ilişki kurma becerisi yoktur. Açıklamalar mantıksal bütünlükten uzaktır. Dil 
+kullanımı zayıftır. Yanıt anlaşılmakta güçlük çekilir. 
+ 
+4.3. Doğru-Yanlış Maddeler 
+Doğru-yanlış maddeleri, özellikle öğrenilen bilgilerin kısa sürede gözden geçirilmesi, temel kavramların 
+pekiştirilmesi ve öğrencilerin kavramsal doğruluk becerilerinin değerlendirilmesi amacıyla kullanılan 
+
+26 
+ 
+etkili ölçme araçlarıdır. Bu tür maddeler, öğrencinin verilen bir önermeye ilişkin doğru mu yoksa yanlış 
+mı olduğunu belirlemesini gerektirir. Kapsamı bakımından kısa, sade ve puanlaması kolay olan bu 
+maddeler, öğretim sürecinde hem biçimlendirici hem de düzey belirleyici ölçme aracı olarak tercih 
+edilmektedir. 
+4.3.1. Doğru-Yanlış Maddelerinin Temel Özellikleri 
+Doğru-yanlış tipi sorular, genellikle iki seçenek içerir: “Doğru” ve “Yanlış”. Ancak bu basit yapı, soru 
+yazımı  sırasında  dikkatli  olunmadığında  ölçme  amacına  ulaşamayabilir.  Bu  nedenle soru  yazımı 
+sırasında aşağıdaki ilkelerin göz önünde bulundurulması gerekir: 
+ Açık  ve  Net  İfade: Her  önerme  yalın  bir  dille  yazılmalı,  gereksiz  sözcüklerle  anlam 
+karmaşasına yol açılmamalıdır. 
+ Tek Yargı İçermesi: Maddelerde sadece tek bir fikir ya da durum bulunmalıdır. Birden fazla 
+yargı içeren karmaşık ifadeler, öğrencinin doğru karar vermesini zorlaştırır. 
+ Olumsuzluklardan Kaçınma: Gerekmedikçe “değil”, “hiç”, “yoktur” gibi olumsuzluk içeren 
+yapılar kullanılmamalı; kullanıldığında ise görsel ya da tipografik olarak vurgulanmalıdır. 
+ Çift Olumsuzluklardan Uzak Durma: “Hiçbir zaman doğru değildir” gibi iki kez olumsuzluk 
+içeren ifadeler anlam karmaşasına yol açar ve madde güvenirliğini düşürür. 
+ Kesinlik: Maddeler   öznel  yargılardan  arındırılmış  olmalı;  doğruluğu  bilimsel  olarak 
+kanıtlanmış bilgilerden oluşmalıdır. 
+ Maddenin Görsel İçerikle Desteklenmesi: Harita, grafik, tablo veya şekil gibi görsel araçlarla 
+yapılandırılan maddeler, öğrencinin sadece bilgiyi değil, aynı zamanda yorumlama yeteneğini 
+de ölçebilir. 
+ Yanıltıcı Detaylardan Kaçınma: Öğrencinin dikkatsizliğine oynayan ve ölçme hedefi dışında 
+kalan küçük ayrıntılar kullanılmamalıdır. 
+ Cevap  Örüntüsü: Test  boyunca  “doğru”  ve  “yanlış”  seçeneklerinin  dengeli  dağılması, 
+öğrencinin kalıplara dayalı cevap vermesinin önüne geçer. 
+4.3.2. Madde Yazımında Yapısal Uyarılar 
+Doğru-yanlış  maddeleri  hazırlanırken  metinlerin  eşdeğer  uzunlukta  olması,  kullanılan  sözcük 
+sayılarının  çok  farklı  olmaması  ve  öğrencilerin  seçenekler  arasındaki  farklılıklardan  ipucu 
+çıkarmalarının  önüne  geçilmesi  önemlidir.  Aynı  zamanda  bu  maddelerin  test  içinde  gruplanarak 
+sunulması, öğrencinin test formatını daha rahat kavramasına yardımcı olur. 
+ 
+ 
+
+27 
+ 
+4.3.3. Puanlama ve Şans Başarısı 
+Doğru-yanlış maddelerinde öğrencinin rastgele doğru yanıt verme olasılığı %50 olduğundan, puanlama 
+sisteminde bu durumun dikkate alınması gerekir. Şans başarısını azaltmak ve öğrencinin gerçek bilgisini 
+ortaya koymak için farklı stratejiler uygulanabilir. Bunlardan biri, "yanlışı düzeltme" yöntemidir. Bu 
+yöntem, öğrencinin yalnızca yanlış olduğunu belirttiği ifadeyi düzeltmesi durumunda puan almasını 
+sağlar.  Böylece,  öğrenci  doğru  cevabı  rastgele  değil,  gerçekten  bilgiye  dayalı  olarak  verirse 
+ödüllendirilir. Bu uygulama aynı zamanda öğrencinin kavramsal farkındalığını artırır ve değerlendirme 
+sürecini daha nitelikli hâle getirir. 
+Örnek Soru: 
+Yönerge: Aşağıdaki ifadeleri dikkatle inceleyiniz. Doğru olduğuna inandığınız ifadelerin başına “D”, 
+yanlış olduğuna inandıklarınızın başına “Y” yazınız. Yanlış olduğunu düşündüğünüz ifadelerin altına 
+doğrusunu yazmayı unutmayınız. 
+1. ( ) Atmosferdeki en yoğun gaz karbondioksittir. 
+        ................................................................................. 
+2. ( ) Fotosentez sürecinde su, oksijen ve güneş ışığı kullanılır. 
+        ................................................................................. 
+Bu örnekte görüldüğü gibi öğrencinin hem doğru-yanlış kararı vermesi hem de yanlış bulduğu ifadeyi 
+düzeltmesi beklenmektedir. Bu çift aşamalı değerlendirme sayesinde hem anlama hem de ifade etme 
+düzeyi ölçülebilir. 
+4.4. Eşleştirme Türü Maddeler 
+Eğitimde  kullanılan  ölçme  araçları  yalnızca  bilgi  düzeyini  belirlemekle  kalmaz;  aynı  zamanda 
+öğrencilerin  kavramlar  arası  ilişkileri  ne  ölçüde  kurabildiğini  ve  öğrenme  yapılarını  nasıl  organize 
+ettiğini de ortaya koymalıdır. Bu bağlamda eşleştirme türü maddeler, kısa sürede çok sayıda bilgiyi 
+ölçme ve öğrenen bireyin zihinsel bağlantı kurma kapasitesini değerlendirme açısından etkili bir araçtır. 
+Temelde  çoktan  seçmeli  testlerin  bir  varyasyonu  olarak  kabul  edilen  bu  maddeler,  iki  ayrı bilgi seti 
+arasında doğru bağlantı kurulmasına dayanır. 
+4.4.1. Eşleştirme Türü Soruların Yapısal Bileşenleri 
+Eşleştirme türü maddeler Şekil 3’te görüldüğü üzere tanımlama seti ve yanıt seti olmak üzere iki temel 
+bölümden oluşur: 
+ Tanımlama Seti: Genellikle açıklama, özellik, işlev ya da tanım içeren önermelerden oluşur. 
+Bu set, öğrencinin bilgiye dair düşünmesini sağlayan ipuçlarıdır. 
+ Yanıt Seti: Tanımlama setindeki ifadelerin karşılığı olan kavram, kişi, tarih, sayı, terim veya 
+sembollerden oluşur. Bu set, öğrenciye seçim yapma imkânı tanır. 
+
+28 
+ 
+Öğrenciden beklenen, yönergedeki talimatlara uyarak her tanımı en uygun seçenekle eşleştirmesidir. Bu 
+işlem, sadece bilgiyi hatırlamayı değil, aynı zamanda kavramlar arasındaki bağlantıları kurma ve örüntü 
+tanıma becerisini de ölçer. 
+ 
+Şekil 3. Eşleştirme Türü Soruların Yapısal Bileşenleri 
+4.4.2. Etkili Madde Yazımı İçin İlkeler 
+Eşleştirme türü maddelerin geçerli ve güvenilir sonuçlar verebilmesi için yazım sürecinde aşağıdaki 
+noktalara dikkat edilmelidir: 
+ Açık Yönerge: Öğrencinin nasıl eşleştirme yapacağını tam olarak açıklayan, açık ve anlaşılır 
+bir yönerge verilmelidir. 
+ Konu  Uyumu: Tanım ve yanıt setlerinde yer alan tüm içerikler, aynı konu alanıyla ilişkili 
+olmalıdır. Farklı disiplinlerden gelen kavramlar karışıklık yaratabilir. 
+ Uzunluk Dengesi: Tanım setindeki cümleler birbirine yakın uzunlukta olmalı; yanıt seti ise kısa 
+ve öz ifadelerden oluşmalıdır. Bu denge, öğrencinin dikkatini daha verimli kullanmasını sağlar. 
+ Sayısal Denge: Yanıt  seti,  tanım  setinden  daha  fazla  seçenek  içermelidir.  Bu,  öğrencinin 
+tahminle doğruya ulaşma olasılığını düşürür. 
+ Mantıklı  Sıralama: Yanıt  seçenekleri  alfabetik,  kronolojik  ya  da  anlamlı  bir  sırayla 
+düzenlenmelidir. Bu durum hem görsel düzeni kolaylaştırır hem de zihinsel süreçleri destekler. 
+ Madde Sayısı: Aynı eşleştirme setinde ideal olarak 5-6 madde bulunmalıdır. Daha fazlası, 
+öğrenci üzerinde bilişsel yük oluşturabilir. 
+ Sayfa Düzeni: Tanım ve yanıt setlerinin aynı sayfada bulunmasına özen gösterilmelidir. Sayfa 
+atlaması, dikkat dağınıklığına ve hatalı eşleştirmeye neden olabilir. 
+ 
+
+29 
+ 
+4.4.3. Puanlama Süreci 
+Eşleştirme maddeleri, seçmeli testler arasında yer aldığı için puanlama süreci görece basittir. Her bir 
+doğru eşleştirme için tam puan verilir ve her eşleştirme bağımsız değerlendirilir. Bu tür maddelerde 
+objektif  bir  puanlama  anahtarı  geliştirmek  oldukça  kolaydır  ve  değerlendirme  sırasında  yorumdan 
+kaynaklı  hata  oranı  düşüktür.  Ancak  seçeneklerin  benzerliği  veya içeriğin  karmaşıklığı  arttıkça 
+öğrencinin başarı düzeyini daha doğru yansıtacak detaylı analizler yapılması önerilir. 
+Örnek Soru: 
+Açıklamalar: Sol sütundaki öğrenme modellerini, sağ sütundaki eğitim teorisyenleriyle eşleştirin. Her 
+öğrenme modelinin en önemli temsilcisi verilmiştir. Soldaki sütunda yer alan modellerin önündeki 
+paranteze, sağ sütundaki verilen teorisyenlerden doğru olana ait harfi yazınız. 
+  
+4.5. Boşluk Doldurma Soruları 
+Boşluk  doldurma soruları,  öğrencinin  verilen  bir  ifade  ya  da  cümle  içindeki  eksik  bölümü 
+tamamlamasını isteyen, açık yapılı bir ölçme aracıdır. Bu tür maddeler; kavram, tanım, tarih, işlem, 
+sembol ya da kısa bilgi gerektiren ifadelerin ölçülmesinde oldukça etkilidir. Genellikle kısa yanıtlı 
+testlerin  özel  bir  biçimi  olarak  kabul  edilen boşluk doldurma maddeleri hatırlama ve kavram bilgisi 
+düzeyindeki öğrenmelerin değerlendirilmesi için tercih edilir. 
+4.5.1. Temel Özellikleri 
+Boşluk doldurma sorularında öğrenciye sunulan cümle ya da metin içerisinde belirli bir kelime, terim 
+ya da ifade eksik bırakılır. Öğrenciden bu boşluğu uygun bilgiyle tamamlaması beklenir. Bu soruların 
+ölçme gücü, öğrencinin konuyu yalnızca hatırlayıp hatırlamadığı değil, aynı zamanda doğru bağlamda 
+doğru terimi kullanıp kullanmadığıyla ilgilidir. 
+Bu tür maddelerde yanıtların açık uçlu olması, öğrencinin düşünme biçimini daha iyi ortaya koyar. 
+Ancak bu avantaj, değerlendirme sürecinde standartlaştırma ve nesnellik açısından bazı zorluklar da 
+doğurabilir. 
+ 
+
+30 
+ 
+4.5.2. Yazım İlkeleri 
+Boşluk doldurma türü maddelerin etkili bir biçimde işlev görebilmesi için aşağıdaki yazım ilkelerine 
+dikkat edilmelidir: 
+ Açık Yönerge: Öğrenciye kaç boşluk dolduracağı, yanıtı nasıl vereceği (tek kelime, kısa cümle 
+vb.) açıkça belirtilmelidir. 
+ Anlam Bütünlüğü: Cümle veya metin anlamlı ve dil bilgisi açısından doğru olmalıdır. Boş 
+bırakılan yer, cümlenin anlamını bozmamalı ama bilgiyi sorgulamalıdır. 
+ Tek Anlamlılık: Boşluk, yalnızca tek bir doğru yanıtı çağrıştırmalı; birden fazla doğru yanıtla 
+tamamlanabilecek şekilde bırakılmamalıdır. 
+ Boşluğun Yeri: Genellikle cümlenin sonuna yerleştirilen boşluklar, öğrencinin doğru ifadeye 
+ulaşmasını kolaylaştırır. Ancak stratejik olarak ortada veya başta da kullanılabilir. 
+ Boşluk  Sayısı: Bir  cümlede  birden  fazla  boşluk  varsa,  her  biri  için  ayrı  bir  cevap  alanı 
+sunulmalı, yönlendirici ifadeler kullanılmalıdır. 
+ Ölçme  Amacıyla  Uyum: Boşluk,  öğrencinin  hedeflenen  kazanımı  göstermesine  olanak 
+tanıyacak şekilde yapılandırılmalıdır. 
+ Biçimsel  Denge: Boşluklar aynı uzunlukta çizgilerle gösterilmeli, boşluğun uzunluğu ipucu 
+olmamalıdır. 
+4.5.3. Puanlama 
+Boşluk doldurma maddeleri, doğru-yanlış mantığıyla puanlanabilir. Her doğru yanıt genellikle tam 
+puan alır. Ancak yazım farklılıkları, eşanlamlı ifadeler veya yazım hataları değerlendirme sürecini 
+etkileyebilir. Bu nedenle açık uçlu boşluk doldurma maddelerinde bir puanlama anahtarı geliştirmek 
+önemlidir. 
+Bazı durumlarda, kısmî puanlama da uygulanabilir. Örneğin, iki boşluk içeren bir maddede yalnızca 
+biri doğruysa öğrenciye yarım puan verilebilir. 
+Örnek Soru: 
+Yönerge: Aşağıdaki cümlelerde boş bırakılan yerlere uygun kavramları yazarak tamamlayınız. Her 
+boşluğa yalnızca bir kelime yazınız. 
+1. Bir ölçme aracının tutarlı sonuçlar vermesi, onun yüksek _______ düzeyine sahip olduğunu 
+gösterir.  
+2. Öğrencilerin sınav sonuçlarının sadece kendi gelişim süreçleriyle değerlendirildiği yaklaşım 
+_______ değerlendirme olarak adlandırılır.  
+
+31 
+ 
+3. Ölçme sonucunda elde edilen sayısal verilerin yorumlanması ve karar verilmesi süreci _______ 
+olarak tanımlanır.  
+4. Öğrencilerin gerçek yaşam durumlarına benzer ortamlarda uygulamalı olarak değerlendirilmesi 
+_______ temelli ölçme yaklaşımına örnektir.  
+5. Bir öğretmenin yazılı sınav sonunda soruların güçlük ve ayırt edicilik düzeylerini hesaplaması, 
+_______ analizi yapmasına örnektir. 
+4.6. Çoktan Seçmeli Testler 
+Çoktan seçmeli maddeler büyük ölçekli sınavlar ve akademik değerlendirmelerde yaygın olarak tercih 
+edilen, seçme esasına dayalı ölçme araçlarıdır. Bu tür testler Şekil 4’te görüldüğü üzere dört temel 
+bileşene ayrılır. 
+ Madde Kökü: Öğrenciye yöneltilen temel sorudur. Değerlendirilmek istenen davranış, bilgi 
+ya da beceri bu bölümde ifade edilir. 
+ Seçenekler: Öğrencinin tercih yapacağı cevapları içerir. Genellikle bir doğru yanıt ve birkaç 
+çeldirici bulunur. Çeldiriciler, doğru cevaba yakın fakat hataya açık seçeneklerdir ve 
+öğrencilerin konuyla ilgili sahip oldukları yanlış kavramaları ortaya çıkarmayı hedefler. 
+ Doğru Yanıt: Sorunun ölçmek istediği davranışa doğrudan karşılık gelen, bilimsel olarak tek 
+doğru cevaptır. 
+ Çeldiriciler: Doğru cevaba benzer görünen ama kavramsal olarak yanlış olan seçeneklerdir. 
+Öğrencinin bilgisini test etmek ve hatalı öğrenmeleri ayırt etmek içindir. 
+ 
+Şekil 4. Çoktan Seçmeli Testlerin Bileşenleri 
+Çoktan seçmeli sorular, uygun şekilde yapılandırıldığında sadece bilgi düzeyindeki kazanımları değil, 
+kavrama, uygulama  ve  analiz gibi farklı düşünme becerilerini de etkili biçimde ölçebilir (Thorndike, 
+
+32 
+ 
+2005).  Bu  nedenle  bu  maddelerin  hazırlanmasında  teknik  kurallar  kadar  pedagojik  hassasiyet  de 
+önemlidir. 
+4.6.1. Çoktan Seçmeli Testlerin Yazımında Dikkat Edilmesi Gereken Hususlar 
+Çoktan seçmeli testler oluşturulurken genel ilkeler, madde kökü ve seçeneklerin nasıl hazırlanacağına 
+ilişkin durumlar aşağıda sunulmuştur: 
+4.6.1.1. Genel İlkeler 
+ Sorular öğrenme kazanımlarına doğrudan bağlı olmalıdır. 
+ Sınavın kapsadığı içerik sınırları dışına çıkılmamalıdır. 
+ Kişisel görüş içeren ve öznelliğe açık ifadelerden kaçınılmalıdır. 
+ Her madde bağımsız olarak yanıtlanabilir yapıda olmalıdır. 
+4.6.1.2. Madde Kökü 
+ Sade, anlaşılır ve doğrudan hedeflenen davranışı ölçmeye yönelik olmalıdır. 
+ Gereksiz ayrıntı, yönlendirme ya da jargon içermemelidir. 
+ Olumsuz ifade gerekiyorsa görsel olarak vurgulanmalıdır (örneğin Kalın, altı çizili vb.). 
+ Sorunun büyük kısmı madde kökünde verilmeli, seçenekler kısa ve net olmalıdır. 
+4.6.1.2. Seçenekler 
+ Tüm seçenekler biçim ve içerik bakımından tutarlı olmalıdır. 
+ Anlamca benzer uzunluktaki ifadeler tercih edilmelidir. 
+ Etkili çeldiriciler, öğrencinin kavram yanılgılarına veya yaygın hatalarına dayanmalıdır. 
+ Sayısal veriler belirli bir sıraya göre düzenlenmeli ve dilbilgisi uyumu sağlanmalıdır. 
+ Seçenek sayısı hedef kitleye uygun olarak belirlenmelidir (genellikle 4 veya 5). 
+  
+
+33 
+ 
+4.6.2. Çoktan Seçmeli Testler Hazırlanırken Yapılan Yaygın Hatalar ve Örnekler 
+A) Belirsiz ya da Göreceli İfadeler Kullanmak 
+Bu tür ifadeler, sorunun tek ve net bir cevabı olmasını engeller. 
+ Hatalı Soru: 
+"Ölçme sonuçlarının güvenirliğini genellikle artıran etken aşağıdakilerden hangisidir?" 
+⚠️ Problem: "Genellikle" ifadesi durumu belirsiz kılar. 
+✅ Düzeltilmiş Soru: 
+"Aşağıdakilerden hangisi ölçme sonuçlarının güvenilirliğini artıran bir etkendir?" 
+a) Öğrenci ilgisi 
+b) Test süresinin belirsizliği 
+c) Uygulamanın tutarlılığı 
+d) Soruların tahmin edilebilirliği 
+B) Olumsuz İfade Kullanmak 
+Olumsuz kökler öğrencinin soruyu anlamasını zorlaştırır. Mümkün oldukça olumsuz ifadeler 
+kullanılmamalıdır ya da olumsuzluk kalın veya altı çizili olacak biçimde vurgulanmalıdır. 
+ Hatalı Soru: 
+"Aşağıdakilerden hangisi ölçmenin temel özelliklerinden biri değildir?" 
+⚠️ Problem: Olumsuz ifade vurgulanmadığı için gözden kaçabilir. 
+✅ Düzeltilmiş Soru: 
+" Aşağıdakilerden hangisi ölçmenin temel özelliklerinden biri değildir? 
+a) Nesnellik 
+b) Sabitlik 
+c) Güvenirlik 
+d) Geçerlik 
+C) Gereksiz Bilgi Kullanımı 
+Gereksiz ayrıntılar sorunun odağını bulandırır. 
+ Hatalı Soru: 
+" 2023 yılında Ölçme ve değerlendirmeyle ilgili Bilim İnsanları tarafından ortaya konulan “sınıflama 
+ölçeği” kavramı aşağıdakilerden hangisiyle ilgilidir?" 
+⚠️ Problem: Soru kökü gereksiz ayrıntılarla dolu. 
+
+34 
+ 
+✅ Düzeltilmiş Soru: 
+"Aşağıdakilerden hangisi “sınıflama ölçeği” kavramıyla ilgilidir?" 
+a) Öğrencilerin sınavdan aldıkları puanlara göre başarı sıralaması yapılması  
+b) Öğrencilerin cinsiyetlerine göre gruplandırılması  
+c) Öğrencilerin boy uzunluklarına göre ölçüm yapılması  
+d) Öğrencilerin yaşlarına göre sınıflandırılması  
+e) Öğrencilerin sınavdan aldıkları puanların ortalamasının hesaplanması 
+D) Etkisiz Çeldiriciler Kullanmak 
+İyi hazırlanmış çeldiriciler, öğrencinin konuya hâkimiyetini test eder. 
+ Hatalı Soru: 
+"Geçerlik neyi ifade eder?" 
+a) Doğruluk 
+b) Elma 
+c) Kitap 
+d) Güneş 
+⚠️ Problem: b, c, d seçenekleri bağlamsız ve mantıksızdır. 
+✅ Düzeltilmiş Soru: 
+"Geçerlik, aşağıdakilerden hangisini ifade eder?" 
+a) Testin ölçmek istediği özelliği ölçebilme derecesi 
+b) Testin aynı sonuçları tekrar üretme derecesi 
+c) Öğrenci ilgisini ölçme gücü 
+d) Öğretmenin soru yazma becerisi 
+E) Dilbilgisi Uyumsuzluğu 
+Kök ile seçenek arasında dil uyumsuzluğu varsa ipucu ortaya çıkar. 
+ Hatalı Soru: 
+" Aşağıdakilerden hangisi bir ölçme türüdür?" 
+a) Doğrudan 
+b) İncelemek 
+c) Kullanma 
+d) Oran artırımı 
+ 
+
+35 
+ 
+✅ Düzeltilmiş Soru: 
+"Aşağıdakilerden hangisi bir ölçme türüdür?" 
+a) Doğrudan 
+b) Geçerli 
+c) Bileşik 
+d) Sabit 
+F) Sayısal Verilerde Tutarsızlık 
+Sayısal değerlerin biçimsel uyumu sağlanmalıdır. 
+ Hatalı Soru: 
+"Aşağıdaki değerlerden hangisinde ölçme aracının iç tutarlık katsayısı yeterli düzeydedir?" 
+a) %0.75 
+b) 0,8 
+c) %80 
+d) 8 
+⚠️ Problem: Sayısal formatlar uyumsuz. 
+✅ Düzeltilmiş Soru: 
+"Aşağıdaki değerlerden hangisinde ölçme aracının iç tutarlık katsayısı yeterli düzeydedir?" 
+a) 0,25 
+b) 0,80 
+c) 0,10 
+d) -0,50 
+G) Seçenek Uzunluklarının Belirgin Farklılığı 
+Doğru cevap diğerlerinden uzun/kısa olursa ipucu verir. 
+ Hatalı Soru: 
+"Güvenirliği artırmak için ne yapılmalıdır?" 
+a) Test süresi azaltılır 
+b) Öğrenciler gözlemlenir 
+c) Test içeriği genişletilir ve madde sayısı artırılır 
+d) Yorum yapılır 
+ 
+ 
+
+36 
+ 
+✅ Düzeltilmiş Soru: 
+"Güvenirliği artırmak için aşağıdakilerden hangisi yapılabilir?" 
+a) Test süresi azaltılır 
+b) Madde sayısı artırılır 
+c) Öğrenciler gözlemlenir 
+d) Yorumlara başvurulur 
+H) “Hepsi” ya da “Hiçbiri” Seçenekleri  
+Bu tür ifadeler tahminle doğruya ulaşma riskini artırır. 
+ Hatalı Soru: 
+"Aşağıdakilerden hangisi güvenirliği etkiler?" 
+a) Madde sayısı 
+b) Sınav süresi 
+c) Testin uygulanma biçimi 
+d) Hepsi 
+✅ Düzeltilmiş Soru: 
+"Güvenirliği etkileyen faktörlerden biri aşağıdakilerden hangisidir?" 
+a) Madde sayısının artırılması 
+b) Testin tamamının öğrenciden alınması 
+c) Öğretmenin not verme isteği 
+d) Ders kitabının fiyatı 
+I) Kültürel Taraflılık 
+Öznel veya belli bir kültür grubuna ait ifadelerden kaçınılmalıdır. 
+ Hatalı Soru: 
+"Anadolu’da en fazla çömüş yetiştirilen il hangisidir?” 
+⚠️ Problem: Tüm öğrencilerin bu kavrama aşina olması beklenemez. 
+✅ Düzeltilmiş Soru: 
+"Anadolu’da en fazla manda yetiştirilen il hangisidir?” 
+a) Elazığ 
+b) Diyarbakır 
+c) Bingöl 
+d) Malatya 
+ 
+
+37 
+ 
+6.3. Çoktan Seçmeli Sınav Sorularının Zorluk Düzeyleri 
+İdeal bir sınav, aşağıda belirtildiği oranlarda çeşitli zorluk derecelerine sahip sorular içermelidir: 
+ Çok Kolay: %10 
+ Kolay: %20 
+ Orta: %40 
+ Zor: %20 
+ Çok Zor: %10 
+Bu dağılım, öğrencilerin farklı seviyelerdeki bilgi ve becerilerini ölçmek açısından önemlidir. 
+6.4. Çoktan Seçmeli Soru Hazırlama Kontrol Listesi 
+Tablo 5’te çoktan seçmeli sınav soruları yazılırken dikkat edilmesi gereken temel ilkeler yer almaktadır. 
+Bu liste soru hazırlayan öğretim elemanlarına bir kontrol mekanizması sunar. 
+Tablo 5. Çoktan Seçmeli Soru Hazırlama Kontrol Listesi 
+No Kontrol Listesi Maddesi Evet Hayır 
+1 Soru kökü tek başına anlamlı mı? (Seçenekler olmadan anlaşılabiliyor mu?) 
+☑ ☐ 
+2 Soru kökü cevap içeriyor mu? 
+☐ ☑ 
+3 Olumsuz ifade varsa, açıkça belirtilmiş mi? (değildir, yanlıştır vb.) 
+☑ ☐ 
+4 Kişisel fikir sorulmuş mu? (düşüncelerinizce vb.) 
+☐ ☑ 
+5 Seçenekler anlam bütünlüğüne sahip mi? 
+☑ ☐ 
+6 Gereksiz tekrarlar var mı? 
+☐ ☑ 
+7 Sayısal seçenekler sıralı mı? 
+☑ ☐ 
+8 Zıt seçenekler birlikte kullanılmış mı? 
+☐ ☑ 
+9 “Hiçbiri-Hepsi” seçenekleri kullanılmış mı? 
+☐ ☑ 
+10 Görece kesinlik taşıyan ifadeler var mı? (“doğru”, “yanlış” gibi) 
+☐ ☑ 
+11 Etkisiz çeldirici var mı? 
+☐ ☑ 
+12 Genellikle, sıkça, hiçbir zaman gibi ifadeler yer alıyor mu? 
+☐ ☑ 
+13 Kök ve seçeneklerde dilbilgisi uyumsuzluğu var mı? 
+☐ ☑ 
+14 Doğru cevabı işaret eden ipucu barındırıyor mu? 
+☐ ☑ 
+15 Seçenek gruplaması hatalı mı? 
+☐ ☑ 
+  
+
+38 
+ 
+5. ALTERNATİF ÖLÇME VE DEĞERLENDİRME ARAÇLARI 
+5.1. Kavram Haritası 
+Kavram haritası, öğrencilerin önemli bir kavramın öğrendikleri diğer kavramlarla olan ilişkisini kurduğu 
+zihinsel bağlantıları içeren çizim ya da diyagram olup ve yoğun biçimde kavram içeren her türlü derste 
+kullanılabilir.  Örneğin, anatomi ve fizyoloji gibi bir derste öğrenciler, organı ve işlevlerini; organlar ile 
+sistemler arasındaki  ilişkiyi  ve  bu  sayede  vücudun  bir  bütün  olarak  nasıl  işlediğini  anlayabilirler 
+(Akinsanya,  &  Williams,  2004).  Kavram  haritaları  birçok  derste  kullanılabildiği  gibi ilkokuldan 
+üniversiteye kadar her yaşa uygun bir öğrenme, öğretme ve değerlendirme aracıdır (Horton vd., 1993).  
+Kavram haritaları farklı şekillerde oluşturulabilir ancak çoğunlukla merkezi kavram haritanın en üstünde 
+bulunur  ve  diğer  ilişkili  kavramlar  aşağıya  doğru  hiyerarşik  biçimde  dallanır  (Barrella  vd.,  2019; 
+Jackson, Barrella ve Bodnar,2024 ). Şekil 5 ‘te Kaptan (1998) tarafından oluşturulmuş örnek bir kavram 
+haritası yer almaktadır: 
+ 
+Şekil 5. Kavram Haritası Örneği 
+ 
+Machado  ve  Carvalho  (2020),  yükseköğretimde  kavram  haritalama  kullanımına  yönelik 
+gerçekleştirdikleri  1998-2018  yıllarını kapsayan  sistematik  inceleme  çalışmalarında  kavram 
+haritalarının faydalarını şu şekilde sıralamıştır: 
+1. Eleştirel düşünme becerilerini geliştirir. 
+2. Kuram ile uygulama arasında bir bütünlük sağlar. 
+3. Anlamlı öğrenmeyi teşvik eder. 
+4. İşbirlikli öğrenmeyi destekler. 
+5. Akademik başarıyı artırır. 
+
+39 
+ 
+6. Dijital araçlarla oluşturulabilme özelliği ile teknolojiyi eğitim sürecine entegre etme fırsatı 
+sunar. 
+7. Hem öğretim sürecini izleme hem de değerlendirme özelliği olduğundan işlevseldir. 
+5.2. Akran ve Öz Değerlendirme 
+Akran değerlendirme, bireylerin belli bir konuda ve daha önceden belirlenmiş ölçütlere çerçevesinde 
+birbirlerini değerlendirdikleri bir tekniktir (Falchikov,1995). Farklı ders ve alanlardaki sözlü sunumlar, 
+portfolyolar, beceri temelli etkinlikler de dâhil birçok etkinlikte akran değerlendirmesine başvurulabilir. 
+Şekil 6’da Herdem (2021) tarafından hazırlanmış bir akran değerlendirme formu yer almaktadır: 
+ 
+Aşağıda verilen tabloda her bir grup arkadaşınızın projeye yaptığı katkıyı 1 ile 5 arasında puanlayınız. 
+ 
+ 
+ Katılımcı 1 Katılımcı 2 Katılımcı 3 Katılımcı 4 Katılımcı 5 
+Grup çalışmalarına düzenli 
+olarak katılım sağladı mı? 
+     
+Kendisine verilen görevleri 
+gönüllü bir şekilde kabul 
+etti mi? 
+     
+Yapılan grup tartışmalarına 
+katkıda bulundu mu? 
+     
+Çözüm önerilerinde 
+bulundu mu? 
+     
+Karar aşamasında etkin rol 
+aldı mı? 
+     
+ 
+ 
+ 
+Şekil 6. Akran Değerlendirme Formu Örneği 
+ 
+Akran değerlendirmesi öğrencilerin akademik performanslarını olumlu yönde etkileyebilecek bir ölçme 
+aracıdır. 50’nin üzerinde çalışmayı meta-analiz yolu ile inceleyen bir çalışma (Double, McGrane ve 
+Hopfenbeck,  2020),  ilkokul,  ortaokul  ve  lise  öğrencilerinin  akran  değerlendirmesinin  akademik 
+performansları üzerindeki olumlu etkiyi ortaya koymuştur.   
+Akran değerlendirmenin kullanım alanları geniş olsa da tek ölçüm aracı olarak kullanılması, birtakım 
+olumsuzlukları  beraberinde  getirebilir.  Özellikle  arkadaşlık  ilişkilerinin  nesnelliğe  gölge  düşürmesi 
+
+40 
+ 
+ölçme  ve  değerlendirme  sürecinin  güvenirliğini  olumsuz  yönde  etkilemektedir.  Özdemir  ve  Erdem 
+(2017),  akran  değerlendirmesinde  arkadaşlık  ilişkilerinin  etkisini  inceledikleri  araştırmasında  bu 
+duruma  dikkat  çekmektedir.  Dolayısıyla  bu  ölçme  ve  değerlendirme  aracının daha  nesnel  sonuçlar 
+verebilecek  başka  araçlarla  birlikte  kullanılması  daha  doğru  olacaktır.  Hatta  bazı  çalışmalar  akran 
+değerlendirmenin öz değerlendirme ile birleştirmenin bu tür sorunları azaltmak için bir yol olduğunu 
+belirtmektedir (Cheong vd., 2022).  
+Alternatif ölçme araçlarından biri olan öz değerlendirme, alanyazında farklı şekillerde kullanıldığından 
+tanımlanması zor bir kavramdır. Brown ve Harris (2014), öğrencinin kendi çalışmasını ya da akademik 
+yeteneğini tanımlayıp değerlendirdiği bir eylem olarak ifade etmektedir. Bir başka tanımda ise özellikle 
+biçimlendirici  bir  değerlendirme  türü  olduğu  vurgulanmaktadır  (Andrade  ve  Valtcheva,  2009).  
+Biçimlendirici  yönü,  akran  değerlendirmede  olduğu  gibi  öğrenme  süreci  boyunca  geribildirimlerle 
+bireyin güçlü ve zayıf yönlerini belirlemelerine imkân tanımasıdır. Örneğin, Tailab ve Marsch (2020), 
+Lincoln Üniversitesi'nde Finansal Muhasebe dersi kapsamında öğrencilerin sunumlarını kaydederek 
+sonrasında kendi performanslarını öz değerlendirme formu ile değerlendirmelerini istemiştir. Çalışma 
+sonunda sunumlarını izleyen öğrenciler göz teması, ses tonu, beden dili gibi becerilerinde eksikliklerin 
+olduğunu fark ederek provalarda bu eksikliklerini giderme imkânı bulmuşlardır.  Dolayısıyla video 
+destekli öz değerlendirmenin sunum becerilerini geliştirmede güçlü bir araç olduğu ortaya konmuştur. 
+Öz  değerlendirme,  sözlü  sunum  dışında  yazma  becerilerinin  geliştirilmesinde  de  etkili  bir  araçtır 
+(Süğümlü,  2021).  Buna  ilişkin  yazar  tarafından  hazırlanmış  beşinci  sınıfların  öyküleyici  metin 
+yazmalarına yönelik örnek öz değerlendirme formu Şekil 7’de yer almaktadır: 
+ 
+Şekil 7. Yazma Becerisine Yönelik Öz Değerlendirme Formu Örneği 
+Hem öz değerlendirme hem de akran değerlendirme objektiflik bakımından eleştirilse de öğrencinin 
+güçlü ve zayıf yanlarını keşfetmesine ve buna göre öğrenme sürecini geliştirmesine fırsat tanıyan birer 
+ölçme aracıdır. Bu nedenle yükseköğretim de dâhil eğitim-öğretimin her basamağında kullanılması, 
+
+41 
+ 
+öğrencilerin  öz  farkındalığını  artırmasına,  eleştirel  düşünmesine  ve  bunun  gibi  birçok  becerinin 
+geliştirilmesine katkı sunabilir. 
+5.3. Yapılandırılmış Grid (YG) 
+Yapılandırılmış  grid,  anlamlı  öğrenmeyi  sağlayan,  kavram  yanılgılarını  veya  eksikliklerini  ortaya 
+koyabilen güçlü bir değerlendirme aracıdır (Johnstone, Bahar ve Hansell, 2000).  
+YG’nin Hazırlanma ve Uygulanma Aşaması 
+YG’nin hazırlık ve uygulanma aşamasını Johnstone vd. (2000) şu şekilde açıklamıştır: 
+1. Öğretmen, öğrencilerin  yaş  ve  seviyeleri  göz  önünde  bulundurarak  9,  12  ya  da  16  kutucuktan 
+meydana gelen bir tablo oluşturur.  
+2. Öğretmen önce bir soru hazırlar, doğru cevabı yazar ve ardından cevabı bileşenlerine ayırır (Bu 
+bileşenler kelime, ifade, resim, denklem, tanım, sayı, formül vb. olabilir.) 
+3. Öğretmen cevapları ızgaraya rastgele dağıtır.  
+4. Öğretmen ikinci bir soru hazırlar ve aynı yolu izleyerek kutucukları doldurur. Ancak 2. soru için 
+gereken parçaların bir kısmı 1. sorunun cevapları ile ortak olabilir.  
+5. İzlenen yol, ızgara dolana kadar diğer sorular için de geçerlidir. 
+6. Tamamlanan ızgara ve sorular öğrencilere sunulur. 
+7. Öğrencilerden bir soruyu cevaplarken uygun buldukları kutucukları (kutu numaralarını) seçmeleri 
+ya da bu numaraları mantıksal bir sırayla sunmaları istenebilir.  
+Aşağıda Johnstone vd. (2000) tarafından hazırlanmış YG örneği yer almaktadır: 
+ 
+Şekil 8. Yapılandırılmış Grid Örneği 
+Kutucuklarda yer alanlar, öğrencilerin cevapları olacaktır ancak öğrenciler soruları cevaplarken kaç kutu 
+gerektiğini  bilmediklerinden,  her  bir  kutu  içeriği  her  soru  için  potansiyel  cevap  niteliğindedir. 
+Dolayısıyla bir sorunun cevabı için birden fazla kutu içeriği cevap olarak yazılabilir. 
+
+42 
+ 
+YG’nin Puanlanması 
+YG’de  öğrencilerin  uygun  buldukları  kutucukları  (kutu  numaralarını)  seçmeleri  ile  bu  numaraları 
+mantıksal bir sırayla sunmaları farklı şekilde puanlanmaktadır.   
+Uygun buldukları kutucukları (kutu numaralarını) seçmelerine dayalı puanlama Bahar vd. (2015,  s.) 
+tarafından şu şekilde formülize edilmiştir: 
+C1 = Öğrenci tarafından seçilmiş doğru kutucuk sayısı, 
+C2 = Cevap anahtarındaki toplam doğru kutucuk sayısı, 
+C3 = Öğrenci tarafından seçilmiş yanlış kutucuk sayısı, 
+C4= Cevap anahtarında yer almayan toplam kutucuk sayısı (Örneğin 5 kutucuk doğru cevap olarak 
+belirtilmişse ve ızgara 16’lık ise 16-5=11) olmak üzere, 
+ 
+ 
+ 
+ 
+Bu  formül  uygulandığında  öğrenci  puanları -1  ile  +1  arasında  yer  alır.  Puanlamayı  10  üzerinden 
+yapabilmek için, öncelikle negatif değerleri ortadan kaldırmak amacıyla elde edilen puana 1 eklenir, 
+sonra da elde edilen sonuç 5 ile çarpılır. 
+Mantıksal sıralama gerektiren durumlarda kutucukların seçilme sırası oldukça önemlidir. Buna yönelik 
+puanlamanın şu sorulara verilen cevaplar doğrultusunda gerçekleştiği ifade edilmektedir  (Çelikkaya, 
+2014, s.205-206): 
+“1. X. Kutu, X + 1. kutudan önce mi gelir? 
+2. Cevap evet ise X. Kutu, X + 1. kutudan hemen önce mi (art arda mı) geliyor? 
+Her “Evet” cevabı “1” puan, her “Hayır” cevabı “0” puan ile değerlendirilir. İlk sorunun cevabı hayır 
+ise 2. soru sorulmaz.” 
+Yukarıda yalnızca iki soru sorulduğu görülmektedir. Bu tarz mantıksal sıralama gerektiren soruların 
+cevap  anahtarı  hazırlanırken  cevap  anahtarında  yer  alan  cevap  sayısından  1  eksik  kadar  soru 
+hazırlanmalıdır. Örneğin cevap anahtarına göre doğru sıralama (1, 4, 7, 9) kutucukları ise hazırlanacak 
+soru sayısı 3 (4-1=3) olmalıdır. Öğrencinin aldığı puan, alınabilecek en yüksek puana bölünerek 100’lük 
+sisteme çevrilebilir. 
+5.4. Tanılayıcı Dallanmış Ağaç (TDA) 
+TDA,  geleneksel ölçme  araçlarından  “Doğru-Yanlış  Testleri”  ne  alternatif olarak  ortaya  çıkmıştır. 
+Doğru-yanlış testlerinde yer alan her soru birbirinden bağımsızken, TDA’da yer alan sorular birbiri ile 
+bağlantılıdır (Bahar vd., 2015, s.57).  
+Öğrenci Puanı=  
+퐶1
+퐶2
+−
+퐶3
+퐶4
+ 
+ 
+
+43 
+ 
+TDA’da ilk düğümde yer alan ifade ile öğrenci soruları cevaplamaya başlar. Verilen ifadenin doğru mu 
+yoksa yanlış mı olduğuna karar vererek öğrenci diğer bir soruya geçer. Bu şekilde çıkışa ulaşıncaya 
+kadar  cevaplama  devam  eder.  Puanlaması  ise  TDA’daki  ifadelerin  kaçına  doğru  yanıt  verildiği 
+hesaplanarak gerçekleştirilir. Şekil 9’da Geçgel ve Şekerci (2015) tarafından oluşturulmuş bir TDA 
+örneği yer almaktadır. 
+ 
+ 
+Şekil 9. TDA Örneği 
+ 
+5.5. Kelime İlişkilendirme Testi (KİT) 
+Kelime  ilişkilendirme  testi,  öğrencilerin  bilişsel  yapılarını  ortaya  koyabilen  en  yaygın  ve  en  eski 
+yöntemlerden  biri  olarak  kabul  edilmektedir  (Bahar,  Johnstone  ve  Sutcliffe,  1999).  Bu  ölçme  ve 
+değerlendirme aracı özellikle fizik (Gunstone, 1980), kimya (Derman ve Eilks, 2016), biyoloji (Yener 
+vd.,2018) gibi birçok alanda sıklıkla kullanılmaktadır. KİT ile öğrencilerden kendilerine tanınan belirli 
+bir süre içerisinde verilen kavramın çağrıştırdığı kelime ya da kavramları yazması istenir. KİT’in temel 
+varsayımına göre, kişinin ilk sıraladığı kelimeler verilen kavramla bağlantısı çok olduğundan uzun süreli 
+belleğinde yer edinmiş kelimelerdir. Kelimelerin hatırlanma sırası aynı zamanda anlamsal yakınlıkla 
+doğru orantılıdır (Bahar ve Hansell, 2014). Dolayısıyla uyarıcı kavramla akla gelen kavram ne kadar 
+çok bağlantılı ise, birey o kelimeleri daha çabuk hatırlar. Daha az ilişkili kavramlar ise akla daha geç 
+gelecek ya da verilen süre içerisinde hiç gelmeyecektir. Bu nedenle KİT, öğrencilerin zihinlerindeki 
+kavram  ağının  ortaya  çıkarılmasında  etkili  olduğundan  kavram  yanılgılarının  ya  da  öğrenme 
+eksikliklerinin tespitinde kullanılabilir.  
+ 
+
+44 
+ 
+5.6. Rubrik 
+Rubrikler bir görevin ya da ödevin değerlendirme ölçütlerini 3 ila 5 performans düzeyinde tanımlayan 
+yapılandırılmış  puanlama  araçlarıdır.  Her  başlık,  öğrencilerin  görev  sürecinde  göstermesi  beklenen 
+performans  standartlarını,  öğretim  hedeflerini  ve  öğrenme  çıktılarıyla  ilişkili  beklentileri  yansıtır. 
+Eğitmenler, bu başlıkları görevleri alt bileşenlere ayırmak amacıyla kullanır ve her bileşen için kabul 
+edilebilir ile yetersiz performans düzeylerini ayırt etmeye yarayan açıklayıcı tanımlamalar sunarlar. 
+Rubrikler, esas olarak öğrencilerin belirli bir konuda makale yazmak gibi performansa dayalı testlerdeki 
+becerilerini değerlendirmek için kullanılır. Tipik bir değerlendirmede, çoğu öğretmen değerlendirme 
+standartlarını öğrencilere ifade etmez. Öğretmenler genellikle öğrencilerin bir şekilde mükemmel bir 
+ödevi  kendi  başlarına  nasıl  yazacaklarını  bilmelerini  beklerler.  Bununla  birlikte,  bu  varsayım, 
+öğretmenler daha sonra öğrencilerin düşük performans gösterdiğini veya çok kötü notlar aldığını fark 
+ettiklerinde  genellikle  hayal  kırıklığına  yol  açar.  Rubrikler,  derecelendirmede  kullanılmak  üzere 
+değerlendirme kriterleri sağlayarak eğitmenlerin beklentilerini öğrencilere net bir şekilde iletmelerine 
+yardımcı olabilir. Öğrenciler, rubrikler sayesinde neyin iyi, çok iyi, mükemmel veya kötü olarak kabul 
+edildiğini  anlayabilirler.  İyi  tasarlanmış  bir  rubrik,  yaygın  hataları  hakkında  yapıcı  geri  bildirim 
+sağlayarak ve çalışmalarını nasıl geliştirecekleri hakkında daha fazla bilgi sağlayarak öğrencilere de 
+yardımcı  olabilir  (Chowdhury,  2019).  Bir  rubrik  oluşturma  aşamaları  Leonhardt  (2005) tarafından 
+aşağıdaki başlıklar halinde ifade edilmiştir: 
+5.6.1. Rubrik Geliştirme Süreci: Bilimsel Aşamalar 
+ Hedeflenen  Öğrenme  Kazanımının  Belirlenmesi: Rubrik  tasarımının  ilk  adımı, 
+değerlendirilecek  olan  temel  kavram,  beceri  veya  yeterliğin  açık  ve  ölçülebilir  şekilde 
+tanımlanmasıdır. Bu adım, rubriğin eğitimsel amacını temellendirir. 
+ Değerlendirme Bileşenlerinin Yapılandırılması: Ölçülmek istenen performans alanları, 3 ila 
+5 temel bileşen halinde ayrıştırılarak her bir boyutta öğrenciden beklenen davranışlar tanımlanır. 
+Bu, rubriğin analitik doğasını destekler. 
+ Performans Düzeylerinin Tanımlanması: Her bir değerlendirme bileşeni için artan yeterlik 
+düzeylerini temsil edecek şekilde kademeli puanlama düzeyleri (örneğin; yetersiz – temel – 
+yeterli – üstün) yapılandırılır. Bu düzeylerde açık ve ayrıştırıcı tanımlamalar yapılır. 
+ Uygulama  Görevlerinin  Belirlenmesi: Öğrencilerin  belirlenen  bileşenleri  gösterebileceği 
+performans görevleri, projeler, yaratıcı çalışmalar (örneğin sanat ürünleri, sunumlar, deneysel 
+uygulamalar) veya özgün üretimler tanımlanır. 
+ Değerlendirme  Araç  ve  Materyallerinin  Hazırlanması: Ölçme-değerlendirme  sürecinin 
+geçerlilik  ve  güvenilirlik  açısından  desteklenmesi  için  gözlem  formları,  kayıt  formları  ve 
+puanlama rehberleri gibi yardımcı materyaller temin edilir veya geliştirilir. 
+
+45 
+ 
+ Şeffaflık  ve  Katılım  İçin  Rubriğin  Paylaşılması: Değerlendirmenin  nesnelliğini  ve 
+öğrenenlerin yönelimini artırmak amacıyla, oluşturulan rubrik nihai değerlendirmeden önce 
+öğrencilere sunulur ve gerekli durumlarda açıklayıcı geri bildirim sağlanır. 
+Wolf ve Stevens (2007) tarafından geliştirilen rubrik örneği, rubriklerin yapılandırılmış biçimini ve 
+işlevsel yönlerini somut bir şekilde ortaya koyarak, bu değerlendirme araçlarının öğretimsel bağlamda 
+nasıl kullanılabileceğine ilişkin açık bir kavrayış sunmaktadır. 
+Boyut Yetersiz (1) Yeterli (2) İleri Düzey (3) 
+Konuşma 
+Akışı  
+Ses düzeyi- 
+Konuşma hızı- 
+Dinleyiciyle 
+etkileşimi 
+Konuşmacının sesi zor 
+duyulmaktadır, konuşma hızı 
+çok yavaş veya çok hızlıdır. 
+Dinleyiciyle bağlantı zayıftır. 
+Konuşmacı rahat 
+duyulmaktadır ve 
+konuşma hızı 
+dinleyicinin dikkatini 
+çekecek düzeydedir. 
+Konuşmacı, mesajın ritmine 
+uygun olarak ses düzeyini 
+ayarlar, konuşma hızı konuya 
+uygundur. Dinleyicilerle 
+açıkça etkileşimdedir. 
+İçerik  
+Doğruluk- 
+Uygunluk- 
+Düzen 
+Konuşma içeriği hatalı, eksik 
+ya da konu veya dinleyiciyle 
+ilgisizdir. Fikirlerinin 
+sıralaması karışıktır. 
+Konu ve dinleyiciye 
+uygun, doğru ve 
+tamamlayıcı içerik 
+sunulmuştur. Fikirler iyi 
+sıralanmış ve 
+aralarındaki ilişki nettir. 
+İçerik kapsamlı ve kesin olup, 
+dinleyiciye ve konuya göre 
+özelleştirilmiştir. Fikirlerin 
+sıralaması ve organizasyonu 
+güçlüdür. 
+Dil Kullanımı  
+Kelime 
+dağarcığı- 
+Telaffuz- Dil 
+bilgisi 
+Kelimeler basit, klişe veya 
+konuya ve dinleyiciye uygun 
+değildir. Konuşma “ııı”, “eee” 
+gibi ifadelerle doludur ya da 
+anlaşılması zordur. Dilbilgisel 
+hatalar çok fazladır. 
+Kelimeler konuya ve 
+dinleyiciye uygundur. 
+Konuşma anlaşılır, 
+dilbilgisi ve sözdizimi 
+sağlamdır. 
+Kelimeler zengin ve 
+çeşitlendirilmiştir, konuya ve 
+dinleyiciye tam uygundur. 
+Telaffuz dikkatle yapılmış, 
+dilbilgisel yapılar karmaşık ve 
+etkilidir. 
+Bedensel İfade  
+Vücut hareketi- 
+Göz teması- 
+Mimik 
+Vücut hareketleri çok fazla ya 
+da çok azdır. Konuşmacı 
+neredeyse hiç göz teması 
+kurmaz ve mimik kullanmaz. 
+Vücut dili bağlama 
+uygundur. Konuşmacı 
+düzenli göz teması kurar 
+ve mimiklerini 
+çeşitlendirir. 
+Konuşmacı, vücut 
+hareketlerini ve yüz ifadelerini 
+etkili biçimde kullanır. 
+Dinleyiciyle güçlü etkileşim 
+kurar. 
+ 
+Rubrik kullanmanın faydalarını ise kısaca şu şekilde ifade etmek mümkündür; 
+ Öğrenci performansı başlıklar kullanılarak değerlendirildiğinde, süreç öğrenciler için şaşırtıcı 
+değildir. Rubrik, en başından itibaren hangi beceri seviyesinin beklendiğini ve buna ulaşmak 
+için  hangi  ölçütlerin  dikkate  alınacağını  açıkça  ortaya  koyar.  Böylece  öğretmenler,  eğitim 
+hedeflerini öğrencilere, velilere ve yöneticilere somut ve anlaşılır bir şekilde iletebilir. 
+ 
+ Rubrikler öğrenci katılımını artırır. Öğretmenin rehberliğinde öğrencilerin kendi değerlendirme 
+başlıklarını belirlemesi, değerlendirilecek bileşenleri seçmesi ve kademeli yeterlilik seviyeleri 
+tanımlaması mümkündür. Bu süreç sonunda öğrenciler, kendi belirledikleri kriterler üzerinden 
+hem öğretmenleri hem de akranları tarafından değerlendirilebilir. 
+ 
+ Rubrikler öğrenciler için motivasyonel bir araç işlevi görür. Çünkü onlara açıkça bir hedef 
+sunulur  ve  bu  hedefe  ulaşmaları  için  gerekli  beceriler  kazandırılmaya  çalışılır.  Artan 
+motivasyon,  daha  derin  bir  öğrenmeyi  ve  öğrencilerin  kişisel  gelişimlerinde  daha  yüksek 
+
+46 
+ 
+kazanımlar  elde  etmelerini  destekler.  Öğrencilerin  okula  yönelik  genel  katılımı  arttıkça, 
+akademik başarı elde etme olasılıkları da yükselir (Leonhardt, 2005). 
+5.7. Kontrol Listeleri  
+Kontrol Listeleri öğrencilerin bir görev veya süreci tamamlanması sırasında gerekli adımları yerine 
+getirip  getirmediğini  belirlemek  amacıyla  kullanılan,  özelliklerin  yalnızca  varlığına  odaklanan 
+sistematik  listedir.  Bu  listeler,  öğrencilerin  hem  kendi  kendilerini  değerlendirmelerine  hem  de 
+eğitmenlerin gözleme dayalı değerlendirmelerine olanak tanır. Örneğin, hijyen kurallarına dayalı bir 
+mutfak uygulamasında, öğrencilerin güvenli gıda hazırlığına ilişkin adımları izleyip izlemediği kontrol 
+listesiyle doğrulanabilir (Suskie,  2018).  
+Aşağıda  Cizek ve diğerleri (2011) tarafından geliştirilen "Checklist for Evaluating K-12 Assessment 
+Programs" adlı çalışmada sunulan örnek aslında bir program ilişkin kontrol listesinin akademik ve 
+açıklayıcı bir dille özetlenmiş halidir. Eğitimciler, değerlendirme sürecinde odaklandıkları becerilere 
+özgü olarak, benzer formatta kontrol listeleri tasarlayabilir ve bu listeleri hem öğretim hem de ölçme 
+süreçlerine entegre edebilir.” Tablo 6’da örnek bir kontrol listesi sunulmuştur. 
+Tablo  6. Örnek bir Kontrol Listesi (Cizek ve diğerleri (2011)  
+Değerlendirme Öğeleri 
+Evet  Hayır Kısmen 
+Alan  tanımı  sistematik  ve  bilimsel  prosedürlere  (ör.  müfredat 
+incelemesi) dayandırılmıştır. 
+   
+İçerik standartları geliştirilmiş ve belgelenmiştir. 
+ 
+   
+İçerik  standartlarının  geliştirilme  sürecine  ilgili  paydaşlar  dahil 
+edilmiştir. 
+ 
+   
+Madde/görev geliştirme süreci belgelenmiştir.    
+ 
+5.8. Portfolyo 
+Portfolyo, öğrencinin  bir  veya  daha  fazla  alandaki  çabalarını  veya  başarılarını  kendisine ya  da 
+başkalarına göstermek amacıyla oluşturulan, öğrencinin çalışmalarının amaçlı bir koleksiyonudur (Arter 
+ve Spandel'e (1991). Öğrenme ortamlarında değerlendirme bağlamında farklı şekillerde kullanılabilir. 
+Bu  nedenle  portfolyonun kullanım  amacı  değişkenlik  gösterebilir.  Eğer  kullanım  amacı öğrencinin 
+öğrenmesini geliştirmek ve öğrenme ihtiyaçlarını tespit etmek ise portfolyodaki çalışmaları belirleyen 
+kişi öğretmendir. Öğrenciye çalışmaları için öğretmenleri ve akranları tarafından geri bildirim verilir. 
+Bu  tür  geri  bildirimler,  öğrencilerin  öğrenmesini  geliştirmek  için  kullanılır.  Portfolyonun  bir  diğer 
+kullanım amacı,  öğrenci gelişiminin uzun bir sürede değerlendirmekse,  portfolyodaki  herkes  için 
+standart  çalışmalar  içerir  ve  çalışmalar  öğrenciler  tarafından  seçilir.  Böylece  içerik,  öğrencinin  bir 
+dönem veya yıldaki en iyi çalışmalarını içerir. Bu çalışmalar, öğretmenler tarafından önceden belirlenen 
+kriterlere  göre  değerlendirilir.  Bu  kullanımda  amaç,  ürün  ve  süreç  arasında  bir  denge  kurmaktır. 
+
+47 
+ 
+Notlandırmada hem öğrenme sürecine hem de ürünlerin kalitesine odaklanır. Sonuç olarak, portfolyolar 
+bir  bütün  olarak  notlandırılır  ve  her  bir  öğe,  bir  öğrencinin  en  iyi  çalışmalarını  sergilemek  veya 
+öğrencinin  öğrenme  süreci  ve  gelişimine  ilişkin  öz  değerlendirmesi  için  kanıt  sağlamak  amacıyla 
+kullanılabilir (Birgin ve Baki 2007). Ayrıca portfolyolar yalnızca bir değerlendirme yöntemi sağlamakla 
+kalmaz, aynı zamanda öğrenme için bir katalizör görevi de görür (Brown, 2002). Söz konusu kullanım 
+amaçlarının tamamı, öğrenci  performansını, tutum  ve  profesyonellikle  ilgili  müfredat  sonuçlarını 
+değerlendirme potansiyeline sahiptir; bu da portfolyo değerlendirmesinin kullanımının ana itici gücünü 
+oluşturmaktadır (Davis ve Ponnamperuma, 2005).   
+Davis ve Ponnamperuma (2005), portfolyonun eğitimde geçerli ve güvenilir bir değerlendirme aracı 
+olarak kullanılabilmesi için izlenmesi gereken temel uygulama aşamalarını tanımlamıştır.  
+Portfolyo Değerlendirme Nasıl Uygulanır? 
+1. Öğrenme  Kanıtlarının  Toplanması: Öğrencinin  öğrenme  hedeflerine  ulaştığını  gösteren 
+çalışmalar (ör. projeler, denemeler, sunumlar) bir araya getirilir. 
+2. Öğrenme  Üzerine  Yansıtma: Öğrenciden ne  öğrendiğini,  bunu  nasıl  öğrendiğini  ve 
+becerilerinin nasıl geliştiğini düşünmesi ve ifade etmesi istenir. 
+3. Kanıtların Değerlendirilmesi: Toplanan çalışmalar, gerekli bilgi ve becerileri ne ölçüde ortaya 
+koyduğu açısından incelenir. 
+4. Çalışmaların Sunulması ve Savunulması: Öğrenciye, portfolyosundaki içerikleri açıklama ve 
+bunların beklenen standartları nasıl karşıladığını gerekçelendirme fırsatı verilir. 
+5. Nihai Değerlendirme Kararının Verilmesi: Portfolyonun  kalitesi  ve  bütünlüğüne 
+dayalı olarak öğrencinin başarı düzeyi belirlenir. 
+Son  olarak  ise  portfolyoya  dahil  edilebilecek  öğelerde  neler  olacak  kısmını  netleştirmek  etkili  bir 
+portfolyo  süreçini  destekleyecektir.  Bu  bağlamda  Suskie (2018)  bir  portfolyoya  dahil  edilecek  
+öğelerden bahsetmiştir: 
+❖ İçindekiler tablosu, belki de olası öğelerin bir kontrol listesi 
+❖ Portfolyo değerlendirenlerin daha iyi anlamasına yardımcı olacak bir giriş ifadesi (Öğrenciler, 
+örneğin, bu derse veya programa neden kayıt olduklarını, öğrenme hedeflerini, kayıt olmadan 
+önceki geçmişlerini veya kariyer veya yaşam hedeflerini bildirebilirler.) 
+❖  Öğrenme hedeflerine bağlı olarak şunları içerebilecek öğrenci çalışmalarından örnekler: 
+➢ Makaleler, projeler ve diğer ödevler  
+➢ Akran değerlendirmeleri 
+➢ Tutum ve ilgi anketleri 
+➢ Testler veya test puanlarının kayıtları 
+➢ Öğrencilerin öğrenme hedefleri ve kişisel gelişim hedeflerine ilişkin ifadeler 
+➢ Gözlem, konferans ve görüşmelerden öğretim üyeleri, personel ve danışmanların notları 
+
+48 
+ 
+➢ Saha deneyimi danışman değerlendirmeleri 
+❖ Öğrenme süreçleri, büyüme ve gelişmeye dair kanıtlar, örneğin: 
+➢ Ders veya programın başlarında tamamlanan çalışmalar (ancak bunlar, başka bir yerde 
+erken dönem derslerini tamamladıktan sonra başka bir programa geçen öğrenciler için 
+mevcut olmayabilir) 
+➢ Taslaklar 
+➢ Çalışma Günlükleri 
+❖ Öğrencilerin tamamlanmış portfolyonun genel içeriği üzerine düşündükleri bir değerlendirme 
+sayfası 
+❖ Öğretim üyesi veya personel üyesinin portfolyo değerlendirme özeti, belki tamamlanmış bir 
+değerlendirme ölçütü şeklinde yer verilebilir. 
+  
+
+49 
+ 
+KAYNAKÇA 
+Allanson,   P.   E.,   &   Notar,   C.   E.   (2020).   Statistics   as   measurement:   4   scales/levels   of 
+measurement. Education Quarterly Reviews, 3(3).  
+Anderson,  L.  W.,  &  Krathwohl,  D.  R.  (2001). A  taxonomy  for  learning, teaching,  and  assessing:  A 
+revision of Bloom’s taxonomy of educational objectives (Complete edition). Addison Wesley Longman. 
+Andrade,   H.,   &   Valtcheva,   A.   (2009).   Promoting   learning   and   achievement   through   self-
+assessment. Theory into practice, 48(1), 12-19. 
+Angelo,  T.  A.,  &  Cross,  K.  P.  (1993). Classroom  assessment  techniques: A  Handbook  for  College 
+Teachers. Jossey Bass Wiley. 
+American Educational Research Association, American Psychological Association, & National Council 
+on Measurement in Education. (2014). Standards for educational and psychological testing. American 
+Educational Research Association. 
+Ankara: Nobel Akademik  Yayıncılık.Akinsanya, C., & Williams, M. (2004). Concept mapping for 
+meaningful learning. Nurse education today, 24(1), 41-46. 
+Atılgan, H., Kan, A., & Aydın, B. (2017). Eğitimde ölçme ve değerlendirme (10. baskı). Anı Yayıncılık. 
+Atılgan, H., Yurdakul, B., & Öğretmen, T. (2012). Öğrenci başarısının belirlenmesinde bağıl ve mutlak 
+değerlendirme üzerine bir araştırma. İnönü Üniversitesi Eğitim Fakültesi Dergisi, 13(2), 79–98. 
+Arter,  J.  A.,  &  Spandel,  V.  (1992).  Using  portfolios  of  student  work  in  instruction  and  assessment. 
+Educational   Measurement:   Issues   and   Practice,   11(1),   36–44.   https://doi.org/10.1111/j.1745-
+3992.1992.tb00230.x 
+Bahar M., Johnstone A. H. and Sutcliffe R. G., (1999), Investigation of students' cognitive structure in 
+elementary genetics through word association tests, J. Biol. Educ., 33, 134–141. 
+Bahar,  M.,  &  Hansell,  M.  H.  (2000).  The  relationship  between  some  psychological  factors  and  their 
+effect on the performance of grid questions and word association tests. Educational psychology, 20(3), 
+349-364. 
+Bahar,  M.,  Nartgün,  Z.,  Durmuş,  S.,  &  Bıçak,  B.  (2015).  Geleneksel-tamamlayıcı  ölçme  ve 
+değerlendirme teknikleri. Press, Pegem Akademi, Ankara. 
+Barrella,  E. M., Cowan,  C., Girdner, J., Watson, M. K., & Anderson,  R. (2019, October). Measuring 
+connections: Engineering students’ cognitive activities and performance on complex tasks. In 2019 
+IEEE Frontiers in Education Conference (FIE) (pp. 1-8). IEEE. 
+Başol, G. (2013). Eğitimde ölçme ve değerlendirme (Genişletilmiş 2. Baskı). Ankara: Pegem. 
+Baykul, Y. (2000). Eğitimde ve psikolojide ölçme: Klasik test teorisi ve uygulaması. ÖSYM Yayınları. 
+Birgin, O., & Baki, A. (2007). The use of portfolio to assess student's performance. Online Submission, 
+4(2), 75–90. 
+Brown, G. T., & Harris, L. (2014). The future of self-assessment in classroom practice: Reframing self-
+assessment as a core competency. Frontline learning research, 2(1), 22-30.  
+
+50 
+ 
+Çakmur, H. (2012). Araştırmalarda ölçme-güvenilirlik-geçerlilik. TAF  Preventive  Medicine  Bulletin, 
+11(3), 339–344. 
+Çelikkaya, T. (2014). Tanılayıcı dallanmış ağaç. S. Baştürk (Ed.), Eğitimde Ölçme ve Değerlendirme 
+(sf. 195-214). 
+Cheong,  C.  M.,  Luo,  N.,  Zhu,  X.,  Lu,  Q.,  &  Wei,  W.  (2023).  Self-assessment  complements  peer 
+assessment for undergraduate students in an academic writing task. Assessment & Evaluation in Higher 
+Education, 48(1), 135-148.  
+Chou, Y. Y., Wu, P. F., Huang, C. Y., Chang, S. H., Huang, H. S., Lin, W. M., & Lin, M. L. (2022). 
+Effect  of  digital  learning  using  augmented  reality  with  multidimensional  concept  map  in  elementary 
+science course. The Asia-Pacific Education Researcher, 31(4), 383-393. 
+Chowdhury,  F.  (2019).  Application  of  rubrics  in  the  classroom:  A  vital  tool  for  improvement  in 
+assessment, feedback and learning. International Education Studies, 12(1), 61–68.  
+Cizek,  G.  J.,  Schmid,  L.  A.,  &  Germuth,  A.  A.  (2011). A  checklist  for  evaluating  K–12 assessment 
+programs. The Evaluation Center, Western Michigan University. 
+Cook, D. A., & Hatala, R. (2016). Validation of educational assessments: A primer for simulation and 
+beyond. Advances in Simulation, 1(1), 31. 
+Davis,  M.  H.,  &  Ponnamperuma,  G.  G.  (2005).  Portfolio  assessment. Journal  of  Veterinary  Medical 
+Education, 32(3), 279–284. 
+Demir, N., Kızılay, E., & Bektaş, O. (2016). 7. sınıf çözeltiler konusunda başarı testi geliştirme: Geçerlik 
+ve güvenirlik çalışması. Necatibey Faculty of Education Electronic Journal of Science and Mathematics 
+Education, 10(1), 1–26. 
+Derman, A., & Eilks, I. (2016). Using a word association test for the assessment of high school students' 
+cognitive structures on dissolution. Chemistry Education Research and Practice, 17(4), 902-913. 
+Double, K. S., J. A. McGrane, and T. N. Hopfenbeck. 2020. “The Impact of Peer Assessment on 
+Academic   Performance:   A   Meta-Analysis  of  Control  Group  Studies.” Educational   Psychology 
+Review 32 (2): 481–509. doi:10.1007/s10648-019-09510-3.  
+Erkuş, A. (2012). Psikolojide ölçme ve ölçek geliştirme. Ankara: Pegem Akademi Yayınları. 
+Falchikov, N. (1995). Peer feedback marking: Developing peer assessment. Innovations in Education 
+and training International, 32(2), 175-187. 
+Gecgel,  G.  ve  Sekerci,  A.  R.  (2015).  Developing  a  concept  test  for  chemistry  topics  by  using  the 
+diagnostic branched tree (DBT) technique. Oxidation Communications, 38(1A), 530-539.  
+Gunstone, R. F. (1980). Word association and the description of cognitive structure. Research in Science 
+Education, 10(1), 45-53. 
+Gültekin, İ., & Arhan, S. (2015). Seviye Belirleme Sınavında (SBS) Türkçe alanında sorulan soruların 
+kapsam geçerliği açısından incelenmesi. Milli Eğitim Dergisi, 45(206), 69–96. 
+
+51 
+ 
+Herdem, K. (2021). STEM etkinliklerinin 7. sınıf öğrencilerinin bilimsel değerlere eğilimi ve STEM 
+mesleklerine   yönelik   ilgileri   üzerindeki  etkisi. Unpublished  phD  dissertation.  İnönü  University, 
+Malatya. 
+Horton,  P.  B.,  McConney,  A.  A.,  Gallo,  M.,  Woods,  A.  L.,  Senn,  G.  J.,  &  Hamelin,  D.  (1993).  An 
+investigation of the effectiveness of concept mapping as an instructional tool. Science education, 77(1), 
+95-111. 
+Jackson, A., Barrella, E., & Bodnar, C. (2024). Application of concept maps as an assessment tool in 
+engineering  education:  Systematic  literature  review. Journal  of  Engineering  Education, 113(4),  752-
+766. 
+Johnstone,  A.  H.,  Bahar,  M.,  &  Hansell,  M.  H.  (2000).  Structural  communication  grids:  A  valuable 
+assessment and diagnostic tool for science teachers. Journal of Biological Education, 34(2), 87-89. 
+Kaptan, F. (1998). Fen öğretiminde kavram haritası yönteminin kullanılması. Hacettepe  Üniversitesi 
+Eğitim Fakültesi Dergisi, 14(14). 
+Ketonen,  L.,  Hähkiöniemi,  M.,  Nieminen,  P.,  &  Viiri,  J.  (2020).  Pathways  through  peer  assessment: 
+Implementing peer assessment in a lower secondary physics classroom. International Journal of Science 
+and Mathematics Education, 18(8), 1465-1484.  
+Kirkendall, D., Gruber, J.J. & Johnson, R. E.(1987). Measurement and evaluation for hysical educators. 
+IIIinios: Human:Kinetics publishers. 
+Krathwohl, D. R. (2002). A revision of Bloom’s taxonomy: An overview. Theory into Practice, 41(4), 
+212–218. https://doi.org/10.1207/s15430421tip4104_2 
+Lal, J. P. (2006). Educational Measurement and Evaluation, New Delhi: Anmol Publications Pvt. Ltd.  
+Leonhardt,  A. (2005).  Using  rubrics  as  an  assessment tool  in  your classroom. General Music  Today, 
+19(1), 10–16. 
+Lindeman, R.H.(1971). Educational Measurement, Bombay : D.B. Taraporevala Sons & Co. , Pvt Ltd. 
+Machado,  C.  T.,  &  Carvalho,  A.  A.  (2020).  Concept  mapping:  Benefits  and  challenges  in  higher 
+education. The Journal of Continuing Higher Education, 68(1), 38-53. 
+Miller,   M.   D.,   Linn,   R.   L.,   &   Gronlund,   N.   E.   (2009).   Measurementand   Assessment   in 
+Teaching. Englewood Cliffs, NJ: Prentice-Hall. 
+Noll, V. H. (1965). Introduction to educational measurement (2nd ed.). Houghton Mifflin. 
+Mohan, R. (2023). Measurement, evaluation and assessment in education. PHI Learning Pvt. Ltd.. 
+Özdemir,  O.,  &  Erdem,  D.  (2017).  Sunum  becerilerinin  akran  değerlendirmesine  arkadaşlığın 
+etkisi. Turkish Journal of Educational Studies, 4(1), 21-43. 
+Pal, K. (Ed.). (2020). Educational measurement and evaluation. Sunrise Publishers. 
+Patel, R.N.(1985).  Education Evaluation Theory and Practice , Himalaya Pub . House , Delhi. 
+Popham, W. J., & Husek, T. R. (1969). Implications of criterion‐referenced measurement. Journal of 
+Educational Measurement, 6(1), 1–9.  
+
+52 
+ 
+Suskie, L. (2018). Assessing student learning: A common sense guide (3rd ed.). John Wiley & Sons. 
+Süğümlü,  Ü.  (2021).  Türkçe  öğretiminde  öz  değerlendirme  uygulamaları. Türk  Eğitim  Bilimleri 
+Dergisi, 19(2), 733-752. 
+Tailab, M., & Marsh, N. (2020). Use of self-assessment of video recording to raise students' awareness 
+of development of their oral presentation skills. Higher Education Studies, 10(1). 
+Tan,  Ş.  (2019). Öğretimde  eğitimde  ölçme  ve  değerlendirme:  KPSS  el  kitabı (13.  baskı).  Pegem 
+Akademi Yayıncılık. 
+Turgut, M. F., & Baykul, Y. (2019). Eğitimde ölçme ve değerlendirme (8. Baskı). Pegem Akademi. 
+Yener, Y., Bahar, M., Demir, N. S., Yilmaz, M., & Yener, D. (2018). The Cognitive Structure of Pre-
+Service Science Teachers about Energy Metabolism. Journal of Baltic Science Education, 17(3), 462-
+473. 
+Wolf, K., & Stevens, E. (2007). The role of rubrics in advancing and assessing student learning. Journal 
+of Effective Teaching, 7(1), 3–14.

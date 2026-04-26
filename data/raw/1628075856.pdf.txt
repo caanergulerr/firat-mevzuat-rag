@@ -1,0 +1,159 @@
+FIRAT ÜNİVERSİTESİ
+DOÇENTLİK E-SÖZLÜ SINAVLARINA İLİŞKİN USUL VE ESASLAR
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+Madde 1 – Bu usul ve esasların amacı, Fırat Üniversitesinin akademik birimlerinde açılan 
+doçent kadrolarına başvuran ve doçentlik sözlü sınavına girmesi gereken adayların, ulusal 
+veya   yerel  olağanüstü   durumlar   gibi   nedenlerle   fiziki   ortamda  yapılamayan   sözlü 
+sınavlarının,   dijital   imkânlarla   uzaktan   çevrimiçi   video  toplantı   (e-Sözlü)  şeklinde 
+yapılmasına ilişkin usul ve esasları düzenlemektir.
+Kapsam
+Madde  2  –  Bu  Usul  ve  Esaslar,  Fırat  Üniversitesi  doçentlik  sözlü  sınavlarının  e-Sözlü 
+şeklinde yapılması hakkındaki usul ve esaslara ilişkin hükümleri kapsar.
+Dayanak
+Madde 3 – Bu Usul ve Esaslar, 2547 sayılı Yükseköğretim Kanununun 24 üncü maddesi, 
+15/04/2018  tarih  ve  30392 sayılı  Resmi  Gazete’de yayımlanan  Doçentlik Yönetmeliği  ile 
+12/06/2018   tarih   ve   30449  sayılı   Resmi   Gazete’de  yayımlanan  Öğretim  Üyeliğine 
+Yükseltilme  ve  Atanma  Yönetmeliği’nin  ilgili  hükümleri  ve  Üniversitelerarası  Kurul 
+Başkanlığının 07/05/2020 tarih ve 23932784-204.01.06-E.4581 sayılı yazısı ile 15/05/2020 
+tarih ve 23932784-204.01.06-E.4727 sayılı yazısına dayanılarak hazırlanmıştır.
+Tanımlar
+Madde 4 – Bu Usul ve Esaslarda geçen;
+a)  e-Sözlü: Dijital imkânlarla uzaktan çevrimiçi (senkron, canlı) video toplantı şeklinde 
+yapılacak doçentlik sözlü sınavını (sadece sınav olarak da ifade edilebilir),
+b) Aday: Doçentlik e-Sözlü sınavına girecek adayı,
+c)  Birim:  Fırat  Üniversitesinde  doçentlik  kadrosunun  ilan  edildiği  fakülte,  enstitü, 
+yüksekokul veya meslek yüksekokulunu,
+d) Jüri Üyesi: Üniversitelerarası Kurul tarafından adayın doçentlik sözlü sınavını yapmak 
+üzere görevlendirilen öğretim üyelerini,
+e)  Jüri Başkanı: Jüri Üyelerinden profesörlük sırasına göre en kıdemli olanı, onun kabul 
+etmemesi halinde, jüri üyelerinin kendi aralarında seçecekleri bir üyeyi,
+f)  Raportör: Jüri Başkanı tarafından görevlendirilen jüri üyeleri arasından bir üyeyi,
+g) Rektör: Fırat Üniversitesi Rektörünü,
+h) Koordinatör:    e-Sözlü    koordinasyonunu   sağlamak    üzere    Rektör   tarafından 
+görevlendirilen Rektör yardımcısını,
+i)  FUZEM: Fırat Üniversitesi Uzaktan Eğitim Merkezini,
+j)  PDB: Fırat Üniversitesi Personel Daire Başkanını,
+k) BİDAB: Fırat Üniversitesi Bilgi İşlem Daire Başkanını,
+l)  Teknik  Personel:  BİDAB  ve  FUZEM  Müdürü  tarafından  görevlendirilen  teknik 
+personeli
+tanımlar.
+
+İKİNCİ BÖLÜM
+e-Sözlü Uygulama Esasları
+Aday ile ilgili hususlar
+Madde  5  –  (1)  Aday,  ilan  edilen  e-Sözlü  gününde sınav  saatinden  en  az  30  dakika  önce 
+Rektörlük tarafından  belirtilen fiziksel  mekânda  bulunmak zorundadır.  Önceden bildirilen 
+sınav mekânı Rektör onayı alınmadan değiştirilemez.
+(2)  Aday,  e-Sözlü  esnasında  sınav  salonunda  hazır  bulunan  elektronik  sistemler  dışında 
+herhangi bir elektronik sistem kullanamaz ve sınav salonuna cep telefonu, bilgisayar, akıllı 
+saat ve benzeri elektronik cihaz ya da yardımcı materyal getiremez.
+(3)  Aday,  T.C.  Kimlik Kartı  veya  Pasaportunu yanında bulundurmalıdır.  Jüri Başkanının 
+talebi halinde bu belgelerden birini kameraya ibraz etmek zorundadır. Bu belgeler haricinde 
+herhangi bir belge kimlik yerine kabul edilmez.
+(4) Aday, bu Yönergedeki hükümlere uymadığı takdirde e-Sözlü sınavına alınmaz, e-Sözlü 
+esnasında hükümlere aykırı davranışta bulunması halinde başarısız kabul edilir.
+Jüri ile ilgili hususlar
+Madde  6  –  (1)  Jüri  Üyeleri,  video  toplantıya  uygun  herhangi  bir  mekânda  kamera  ve 
+mikrofona sahip bir bilgisayarla e-Sözlü sınavına katılırlar.
+(2)  Jüri  Üyelerinin  e-Sözlü  günü  e-imza  (Kamu)  atabilecek  donanım  ve  yazılıma  sahip 
+olmaları gerekir.
+(3) Jüri Üyeleri, Koordinatör tarafından kendilerine iletilen elektronik bağlantı adresi (link) 
+üzerinden sınav gününde ve sınav saatinden 10 dakika önce e-Sözlü sınavına katılırlar.
+Koordinatör ile ilgili hususlar
+Madde  7  –  (1)  e-Sözlü  koordinasyonunu  sağlamak  üzere  Rektör  tarafından  bir  Rektör 
+Yardımcısı sınav koordinatörü olarak görevlendirilir.
+(2)  Koordinatör  yardımcısı  ilgili  Birimin  Dekan  veya  Müdürüdür.  Koordinatör  yetki  ve 
+sorumlulukları gerekli hallerde Rektör tarafından ilgili Birim yöneticisine verilebilir.
+(3) Koordinatör, sınav koordinasyonu için Aday, Jüri Üyeleri, FUZEM, PDB ve BİDAB ile 
+telefon, e-posta ve resmi kanallarla iletişim kurma yetkilerine sahiptir.
+(4)  Koordinatör,  e-Sözlü  süresince  Adayın  bulunduğu  fiziksel  mekânda  kendisine  tahsis 
+edilen bilgisayarda fiilen görev yapar; sınavın başlatılması, sürdürülmesi, sonlandırılması ve 
+kayıtların alınması süreçlerinin teknik aşamalarını yönetir.
+(5)  Koordinatör  sınav  süresince  dinleyici  konumundadır  ve  hiçbir  şekilde  görev  tanımı 
+dışındaki sınav  süreçlerine  müdahil  olamaz. Sınav  süresince  mikrofon  ve kamerası kapalı 
+tutulur.
+(6) Koordinatörün görevleri aşağıda tanımlanmıştır:
+a) Jüri üyeleri ile iletişime geçerek e-Sözlü tarihi, saati ve yerinin belirlenmesini sağlar.
+b) PDB tarafından tüm yazışmaların yapılmasını sağlar.
+c)  e-Sözlü sınavından bir gün önce; sınav yerini hazırlatır, bilgisayar, kamera, internet 
+bağlantısı ve yazı tahtası gibi araç-gereçleri kontrol eder. 
+d) Jüri üyeleri ile iletişime geçerek e-Sözlü bağlantı bilgisini paylaşır, sınav kurallarını 
+ve sınavın uygulanmasıyla ilgili gerekli hatırlatmaları yapar.
+e) Sınav süresince kendisine verilen görevleri yerine getirir.
+f) Sınav sonunda video kayıtlarını alır ve güvenli olarak PDB’na teslim eder.
+
+Daire Başkanlıkları ve FUZEM ile ilgili hususlar
+Madde  8  –  (1)  e-Sözlü  ile  ilgili  tüm  resmi  yazışmalardan  PDB  sorumludur.  PDB 
+Koordinatörle işbirliği  içinde çalışır.  Jüri  bilgilerini  Koordinatöre  iletir  ve  Koordinatörün 
+sınavla ilgili vereceği talimatları uygular.
+(2)  PDB,  e-Sözlü  ile  ilgili  tüm  form  belgelerin  oluşturulması  ve  gerekli  belgelerin  Jüri 
+Üyelerine e-posta da dahil elektronik yollarla iletilmesi görevini yürütür.
+Madde 9 – (1) e-Sözlü yazılım teknik desteği FUZEM tarafından ve donanım teknik desteği 
+BİDAB tarafından verilir. FUZEM ve BİDAB tarafından sınav için görevlendirilecek birer 
+teknik  personel sınavdan  bir  gün  önce  sistemlerin çalışmasını  kontrol  eder  ve sınav  günü 
+teknik destek sağlamak üzere sınav saatinden 30 dakika önce hazır bulunur.
+(2) Teknik Personel, mevcut sistemde problemlerin yaşanması halinde farklı platformlarda 
+sınavın sürdürülebilmesini sağlayabilecek yetkinlikte olmalıdır.
+(3)   Teknik   Personel,   talep  olması   halinde   Jüri   Üyelerine   video  toplantı   sisteminin 
+kullanımıyla ilgili bilgilendirme yapar.
+Sınavla ilgili hususlar
+Madde 10 – (1) e-Sözlü hukuki açıdan şeffaf, anlaşılır ve denetlenebilir olmak şartıyla, Fırat 
+Üniversitesinin  resmi  uzaktan eğitim  sistemi  üzerinden yapılır  ve  elektronik  olarak kayıt 
+altına alınır.
+(2)  Koordinatör,  Jüri  Başkanının  talimatı  olmadan  sınavın  başından  sonuna  kadar  sınav 
+salonundan ayrılamaz. Tüm süreci takip eder ve elektronik kayıt işlemini gerçekleştirir.
+(3) Sınav süresince jüri üyelerinden birinin bağlantısının kesilmesi durumunda; sorulmakta 
+olan veya cevaplanmakta olan soru iptal edilir, bağlantı yeniden sağlanınca sınava kaldığı 
+yerden devam edilir. 
+(4)  Teknik  problemler  nedeniyle  sınavın  yürütülemeyeceğinin  anlaşılması  halinde  Jüri 
+Başkanı sınavın ertelenmesine karar verilebilir.
+Madde 11 – e-Sözlü aşağıdaki adımlara uygun şekilde gerçekleştirilir:
+a) Koordinatör; sınav saatinden 15 dakika önce canlı bağlantıyı başlatır, Jüri Üyelerinin 
+sisteme bağlanmasını, Adayın ise sistem ve salon dışında bulunmasını sağlar.  
+b) Koordinatör, Jüri Üyelerinin eksiksiz olarak bağlandığını ve isimlerinin doğru şekilde 
+sistemde yazılı olduğunu kontrol ettikten sonra üyelerin iznini isteyerek kayıt işlemini 
+başlatır,  mikrofon  ve kamerasını  kapatarak sınav tamamlanıncaya  kadar  dinlemede 
+kalır.
+c) Kayıt başladıktan sonra Jüri Üyeleri kendini tanıtır, aralarında Jüri Başkanını belirler 
+ve Aday hakkında ön görüşme yaparlar. Bu süreçte de Aday sistem ve salon dışında 
+bekletilir.
+d) Jüri  Başkanının  talimatıyla  Aday,  Koordinatör  vasıtasıyla  salona  alınıp  kendisine 
+tahsis edilen bilgisayarda video toplantıya dâhil edilir.
+e)  Bu  aşamadan  sonra  e-Sözlü  normal  sözlü  sınav  teamülleri  çerçevesinde  aşağıdaki 
+adımlara uygun şekilde gerçekleştirilir: 
+i)   Jüri Başkanı Jüri Üyelerine sırasıyla söz verir, bu sırada söz alan haricindeki jüri 
+üyelerinin mikrofonu ses yankısını önlemek için kapalı tutulur.
+ii)  Raportör,  Adaya  sorulan  soruları  ve  soruyu  soran  jüri  üyesini,  jüri  üyeleri  ise 
+sordukları soruları ve cevaplanma düzeyini (Yeterli, Orta, Zayıf) not alır.
+
+iii) Sınav   sonunda,   Jüri  Başkanının  talimatıyla,   Aday   çevrimiçi   video  toplantı 
+sisteminden ve salondan çıkartılır.
+iv) Jüri  Üyeleri  Raportör  tarafından  tutulan  Raportör  Tutanağını  kendi  aralarında 
+değerlendirilerek, Adayın başarılı olup olmadığına oy birliği veya oy çokluğu ile 
+karar verir.
+v)  Jüri Başkanının talimatı üzerine Aday tekrar salona davet edilerek çevrimiçi video 
+toplantıya dâhil edilir ve sınav sonucu Jüri Başkanı tarafından Adaya sözlü olarak 
+tebliğ edilir.
+f)   e-Sözlü tamamlandıktan sonra; 
+i)  Koordinatör,  Jüri  Üyelerine  belge  tamamlama  (e-imza,  ıslak  imza,  form  belge 
+doldurma ve iletme) işlemlerini hatırlatır, video kaydını sistemden alır.
+ii) Raportör tarafından tutulan tutanak elektronik olarak taranıp PDB kurumsal e-posta 
+adresine iletilir.
+iii)Jüri Üyeleri, Adayın “Başarılı” veya “Başarısız” olarak değerlendirildiği Doçentlik 
+Sözlü  Sınav  Tutanağını   ve   Ücret   Talep   formunu,  Fırat   Üniversitesi   EBYS 
+sisteminde e-imza ile onaylar. 
+iv)Aday hakkında  “Olumsuz” görüşe  sahip  Jüri  Üyesi,  EBYS  formu  üzerinde  “Not 
+Ekle”  kısmında  muhalefet  notu  düşerek  oyunu  kullanır  ve  e-imza  atar.  İmzalar 
+tamamlanmadıkça görev tamamlanmaz. 
+v) Aksi belirtilmedikçe ıslak imzalı belge talep edilmez.
+ÜÇÜNCÜ BÖLÜM
+Son Hükümler
+Yürürlük
+Madde 12 – Bu Usul ve Esaslar, Fırat Üniversitesi Senatosu tarafından kabul edildiği tarihte 
+yürürlüğe girer.
+Yürütme
+Madde 13 – Bu Usul ve Esasların hükümleri Rektör tarafından yürütülür.
+Senato Tarafından Kabulü
+TARİHSAYI

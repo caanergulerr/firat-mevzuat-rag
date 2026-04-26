@@ -1,0 +1,350 @@
+FIRAT ÜNİVERSİTESİ
+HAYVAN DENEYLERİ ETİK KURULU YÖNERGESİ
+AMAÇ VE KAPSAM
+Madde 1- Bu yönerge, Fırat Üniversitesi ve bağlı birimlerinde bilimsel araştırma, test, sağlık
+hizmetleri uygulamaları, eğitim-öğretim ve yayın gibi temel etkinliklerde deney hayvanları
+ile yapılacak işlemleri asgari etik ilkeler çerçevesinde değerlendirmeyi, görüş bildirmeyi,
+önerilen protokolleri incelemeyi, izin vermeyi, uygulamaların izlenmesini, deney hayvanları
+üzerinde yapılan bütün işlemlerin kayıt altına alınmalarını ve bu işlemlerin anında ya da
+geriye doğru izlenebilmelerini sağlamak ve araştırma önerilerini bu açıdan incelemek üzere
+oluşturulacak Hayvan Deneyleri Etik Kurulu'nun kuruluş ve çalışma esaslarını belirlemek
+amacıyla düzenlenmiştir.
+DAYANAK
+Madde 2- Bu yönergenin dayanağını aşağıdaki kanun, yönetmelik, uluslararası ve ulusal
+bildirgeler ve kılavuzlar oluşturur:
+a) 5199 sayılı Hayvanları Koruma Kanunu,
+b) Çevre ve Orman Bakanlığının 6 temmuz 2006 tarih ve 26220 Resmi sayı ile Resmi
+Gazetede yayınlanan “Hayvan Deneyleri Etik Kurullarının Çalışma Usul ve
+Esaslarına Dair Yönetmelik”,
+c) İyi Laboratuar Uygulamaları Kılavuzu,
+d) Hayvan Hakları Evrensel Bildirgesi ,
+e) CITES Sözleşmesi: 20/6/1996 tarihli ve 22672 sayılı Resmi Gazete'de yayımlanan,
+Nesli Tehlikede Olan Yabani Hayvan ve Bitki Türlerinin Uluslararası Ticaretine
+İlişkin Sözleşme.
+TANIMLAR
+Madde 3- (1) Bu Yönergede geçen;
+a) Kurum: Fırat Üniversitesini,
+b) Etik Kurul: Fırat Üniversitesi Deney Hayvanları Etik Kurulunu,
+c) Deney: Deneysel olmayan hayvancılık, tarımsal ya da kliniksel veterinerlik uygulamaları
+dışında kalan ve hayvanların öldürülmesi veya işaretlenmesi için çağdaş kabul edilen, en az
+acı veren insancıl metotlardan başka, acı, eziyet, rahatsızlık veya kalıcı hasara neden
+
+olmayacak şekilde, yetiştirilmiş hayvanların, doğurtulmaları da dahil, deneysel veya diğer
+bilimsel amaçlarla kullanılmasını,
+d) FÜDAM: Fırat Üniversitesi Deneysel Araştırmalar Merkezini,
+e) Deney hayvanı: Deneyde kullanılan veya kullanılacak hayvanı,
+f) Deney hayvanı kullanıcısı: Laboratuvar hayvanı kullanarak her türlü eğitim, araştırma,
+uygulama ve test yapmak isteyen veya programların yapılmasında deney hayvanlarına
+dokunarak, gözlemleyerek katkıda bulunan öğrencileri, araştırmacıları, akademik, sağlık,
+teknik ve idari personeli,
+g) Hayvan: Serbest yaşayan larva biçimleri ve/veya çoğalan larva biçimleri dahil, ancak cenin
+ya da embriyo biçimleri hariç, insan olmayan herhangi bir omurgalı canlıyı,
+h) Tür: Kalıtsal nitelikte ve çevre şartlarından bağımsız, değişmeden görülen ortak morfolojik
+ve fizyolojik özelliklere sahip, kendi aralarında çiftleştikleri zaman döl verimli yavru veren
+canlı topluluğunu,
+i) İnsancıl öldürme yöntemi: Bir hayvanın türüne göre en az fiziksel ve davranışsal acı
+verilmek suretiyle yaşamına son verilmesini,
+j) Tedarikçi kuruluş: Üretici kuruluş dışında, hayvanların deneylerde kullanılmak amacıyla
+tedarik edildiği ilgili resmi makamlarca izin verilmiş ya da kayıt edilmiş gerçek veya tüzel
+kişiyi,
+k) Üretici kuruluş: Hayvanların, deney amacıyla kullanılabileceği büyüklüğe getirilinceye
+kadar yetiştirildiği ve deneylerde kullanılmak amacıyla üretildiği, Tarım ve Köyişleri
+Bakanlığı tarafından izin verilmiş ya da kayıt edilmiş gerçek veya tüzel kişiyi,
+D Yetkili kişi: Hayvanlar üzerinde bu Yönetmelikte tanımlanan uygulamaları yapabilecek
+eğitim ve yeteneğe sahip, deney hayvanı kullanıcılarını eğitebilecek nitelikteki kişiyi,
+ifade eder.
+KURULUŞ VE ÜYELERİN NİTELİKLERİ
+Madde 4- Hayvan Deneyleri Etik Kurulu,
+a) Fırat Üniversitesi Deneysel Araştırmalar Merkezi (FÜDAM) başkanı,
+
+b) Hayvan deneyleri konusunda deneyimli bir Tıp Fakültesi öğretim üyesi,
+c) Hayvan deneyleri konusunda deneyimli bir Veteriner Fakültesi öğretim üyesi,
+d) Hayvan deneyleri konusunda deneyimli bir Fen-Edebiyat Fakültesi Biyoloji Bölümü
+Öğretim üyesi
+e) Deney hayvanları ile çalışmayan ve Kurum ile çıkar ilişkisi olmayan T.C. vatandaşı sivil
+bir üye,
+f) Kurum ile çıkar ilişkisi olmayan sivil toplum kuruluşuna kayıtlı T.C. vatandaşı bir üye,
+olmak üzere toplam 6 üyeden oluşur.
+Hayvan Deneyleri Etik Kurulu üyeleri kendi arasından bir Başkan, bir Başkan Yardımcısı ve
+bir Raportör seçer.
+ATANMA VE GÖREV SÜRESİ
+Madde 5- Hayvan Deneyleri Etik Kurulu üyeleri Rektör tarafından atanırlar. Görev süreleri
+dört yıldır. Görev süresi biten üye yeniden atanabilir. Bir takvim yılı içerisinde izinsiz ve
+mazeretsiz olarak üst üste üç toplantıya katılmayan üyenin üyeliği kendiliğinden düşer.
+Üyelik sıfatının ölüm, emeklilik, ayrılma gibi herhangi bir nedenle sona ermesi veya üyeliğin
+düşmesi halinde, yerine aynı usulle ve kalan süreyi tamamlamak üzere ayrılan üyenin
+niteliklerini taşıyan yeni bir üye atanır.
+DENEY HAYVANININ KULLANILMA AMAÇLARI
+Madde 6- Deney hayvanları;
+a) İnsanlar, hayvanlar, bitkilerdeki hastalık, sağlıksızlık veya diğer anormallikleri ya da
+bunların etkilerinden kaçınılması, önlenmesi, teşhisi, tedavisi ve söz konusu canlılardaki
+davranışsal özelliklerin değerlendirilmesi, tespiti, düzenlenmesi veya değiştirilmesi amacıyla;
+ilaçların, aşıların, gıdaların diğer madde veya ürünlerin geliştirme, imalat, kalite, etkinlik ve
+güvenlik testlerinin yapılması,
+b) İnsan, hayvan ve bitkilerde fizyolojik mekanizmaların belirlenmesi, düzenlenmesi veya
+değiştirilmesi,
+
+c) Doğal çevrenin insan veya hayvanların sağlık ya da refahı yararına korunması,
+d) Eğitim, öğretim,
+e) Adli soruşturma,
+f) İnsan, hayvan veya bitkilerdeki davranışsal özelliklerin değerlendirilmesi, tespiti,
+düzenlenmesi ya da değiştirilmesi,
+g) Bilimsel araştırma
+için kullanılabilir.
+HAYVAN DENEYLERİ İLE İLGİLİ TEMEL KURALLAR
+Madde 7- Hayvan deneyleri ile ilgili uyulması gereken temel kurallar şunlardır:
+a) Deney hayvanları üzerinde yapılacak tüm uygulamaların (araştırma, tez çalışması,
+laboratuar pratikleri vb.) Hayvan Deneyleri Etik Kurulu tarafından onaylanmış olması
+zorunludur. Fırat Üniversitesi bünyesinde Hayvan Deneyleri Etik Kurulu tarafından
+onaylanmayan hayvan deneyleri yapılamaz.
+b) Etik Kurul tarafından yapılan düzenlemelere uygun olarak alınmış bir genel veya özel
+istisna olmadıkça, deneylerde kullanılacak; fare, sıçan, tavşan, kobay, golden hamster, köpek,
+kedi, bıldırcın ve insan dışındaki primat türlerinin kayıtlı yasal deney hayvanı üreticisi ve
+tedarikçilerinden alınmış olması şartı aranır. Kedi, köpek gibi evcil türlerin sokakta başıboş
+olanları deneylerde kullanılamaz.
+c) Bu Yönergenin 3'üncü maddesinde tanımlanan hayvanlar, yasal bir tedarik kuruluşundan
+alınmaları veya deneysel amaçlar için üretilmiş olmaları koşulu ile deney hayvanı olarak
+kullanılabilir.
+d) Ulusal mevzuat ve uluslar arası sözleşmeler çerçevesinde nesli tehlike altında olan ve
+korunan türler ile CITES Sözleşmesinin Ek-| Listesindeki türler; araştırmanın amacının söz
+konusu türlerin korunması veya hayati biyomedikal amaçlar için istisnai biçimde tek uygun
+türler olduğunun ispatlanması durumunda kullanılabilir.
+e) Doğadan alınmış yaban hayvanı üzerinde yapılacak deney; ancak diğer hayvanların
+deneyin amacı bakımından yeterli olmaması halinde uygulanabilir.
+
+f) Deney hayvanı olarak kullanılan hayvanların hangi üretici ya da tedarik kuruluşlarından
+elde edildiği belirtilerek kayıt altına alınır.
+HAYVAN DENEYLERİ ETİK KURULUNUN GÖREVLERİ
+Madde 8- Hayvan deneyleri Etik Kurulunun görevleri şunlardır:
+a) "Hayvan Deneyleri Etik Kurullarının Çalışma Usul ve Esaslarına Dair Yönetmelik"
+hükümleri ile Merkezi Etik Kurulun belirlediği etik ilkeler ve iyi laboratuar uygulamaları
+çerçevesinde kendi çalışma usul ve esasları hakkında yönerge hazırlamak.
+b) Deney hayvanları üzerinde yapılacak tüm işlemlerin etik yönden kabul edilebilir sınırlarını
+belirleyerek çalışma protokollerini onaylamak veya gerekçeli olarak kabul etmemek.
+c) Fırat Üniversitesi'nde deney hayvanı kullanılması sürecinin etik kurallara uygun olarak
+sürdürülmesini denetlemek, bu amaçla gerekli düzenlemeleri yapmak.
+d) Deney hayvanları üzerinde yapılacak işlemlerin onaylanmış protokole uygun olarak
+yapılmasını sağlamak, gerektiğinde sonlandırılmasına karar vermek.
+e) Deney hayvanlarıyla çalışacak personelin gerekli eğitimi almasını sağlamak. Bu amaçla
+sertifika programları düzenlemek. Deney hayvanları kullanım sertifikası olmayanların hayvan
+deneyleri yapmasını engellemek.
+f) Deney hayvanlarının üretim, yetiştirme, barındırma ve nakil koşulları ile deneylerin
+yapıldığı laboratuar koşullarının ve ekipmanının etik yönden uygun olup olmadığını
+denetlemek, uygun görmediği durumlarda deney hayvanı kullanılmasını engellemek.
+g) Araştırma başvurularını bu yönergenin ilgili maddelerinde yer alan esaslara göre
+incelemek ve karara bağlamak.
+h) Daha önce izin ve onay verdiği deneysel araştırma protokollerindeki değişiklik önerilerini
+incelemek ve karara bağlamak.
+i) Bir ayağı Fakültemizde yürütülen çok merkezli çalışmalar için yapılan başvuruları kabul
+ederek görüş bildirmek.
+j) Gerektiğinde Üniversite dışından yapılan başvuruları da değerlendirip görüş bildirmek. Bu
+bağlamda, ancak bağlı bulunduğu kurumda etik kurul olmadığını beyan eden veya herhangi
+bir kuruma bağlı olarak çalışmayan araştırıcıların başvuruları kabul edilir
+
+k) Deney hayvanlarıyla uğraşan personelin iş koşullarının işyeri sağlık kurallarına
+uygunluğunu denetlemek ve sağlamak.
+D Araştırıcılar için etik konularda danışmanlık yapmak. Gerektiğinde, etik konular hakkında
+konferans ve seminerler düzenlemek, yol gösterici kılavuzlar hazırlamak.
+m) Deney hayvanı kullanımı ile ilgili her türlü veriyi toplamak ve deney hayvanları kullanımı
+yıllık raporunu hazırlamak ve Hayvan Deneyleri Merkezi Etik Kuruluna sunmak.
+n) Deneysel çalışmalar sonunda ortaya çıkan atıklar, ölü hayvanlar ve tıbbi atıkların 2872
+sayılı Çevre Kanunu ve ilgili mevzuat çerçevesince ortadan kaldırılmasını sağlamak.
+0) 5199 sayılı Hayvanları Koruma Kanununun ve ilgili mevzuatın getirdiği hükümler
+çerçevesinde; deney hayvanlarının kayıt altına alınmalarını ve izlenebilmelerini sağlamak.
+p) Gerektiğinde yeni etik ilkeler tespit ederek Hayvan Deneyleri Etik Kurulu Yönergesi'nde
+yer almasını sağlamak.
+HAYVAN DENEYLERİ ETİK KURULUNUN ÇALIŞMA İLKELERİ
+Madde 9- (1) Hayvan Deneyleri Etik Kurulu aşağıda belirtilen ilkeler doğrultusunda çalışır:
+a) Etiğin yaşama saygı ilkesi her türlü hayvan türü için geçerli kabul edildiğinden, bilimsel
+araştırmalarda kullanılması zorunlu olan deney hayvanlarına kötü uygulamalardan kaçınmak.
+b) Deney hayvanlarının bu Yönergenin 6'ıncı maddesinde belirtilen amaçlar kapsamında
+kullanılmasını sağlamak.
+c) Ağır acı, stres ya da buna denk eziyet veren deneylerde bir hayvanın bir defadan fazla
+kullanılmamasını sağlamak.
+d) Eğitim için sunum amacıyla kongre, konferans ve seminerlerde ağrılı deneylerin
+yapılmamasını sağlamak.
+e) Hayvanlara mümkün olduğu kadar az acı çektirerek ve en az strese sokarak bilimsel açıdan
+güvenilir veri elde edilmesini sağlamak.
+f) Araştırmalar süresince kullanılan deney hayvanlarına, türüne uygun şartlar hazırlamak ve
+en iyi fizyolojik, davranışsal ve çevresel koşulların teminini sağlamak.
+
+g) Uygun şekilde eğitilmiş personel tarafından uygun koşullarda deney hayvanı bakımını
+sağlamak.
+h) Canlı hayvanlarda yapılacak deneysel çalışmaların ehil kişilerin denetiminde yapılmasını
+sağlamak..
+i) Araştırılan bilginin elde edilmesinde geçerliliği kanıtlanmış alternatif yöntemler varsa
+hayvan deneylerini etik olarak uygun görmemek ve daha önceden ayrıntılı olarak yapılmış
+deneylerin tekrar edilmesinin önlenmesini sağlamak.
+j) Deney için en uygun hayvan ve yöntemin seçilmesini ve bilimsel sonucu verebilecek en az
+sayıda hayvan kullanılmasını sağlamak.
+k) Deney hayvanlarına gereksiz acı ve ağrı verecek deneylerde uygun bir anestezi yöntemi
+uygulanmasını ve araştırmalarda uygun ağrı kesici ve anestezi kullanılmasını sağlamak.
+D Anestezinin, hayvan için deneyin kendisinden daha fazla travmatik olması ve deneyin
+amacına uygun olmaması durumunda deneyin yapılmasını engellemek.
+m) Deneyin etik ilkeler çerçevesinde yapılması ve amacına uygun olması için; anesteziden
+çıktığında önemli oranda acıya maruz kalacak olan hayvanın ağrı kesici araçlarla tedavi
+edilmesi, bu mümkün değilse insancıl bir yöntemle öldürülmesi ve deney hayvanının
+araştırma sürecinde ya da sonunda yaşamına son verilmesi işlemlerinin uygun gerekçelerle
+yapılmasını sağlamak, şiddetli ve sürekli ağrı çeken veya normal yaşamını sürdüremeyecek
+duruma gelen deney hayvanları ile kamu sağlığı ve çevresi için risk oluşturabilecek deney
+hayvanlarının en uygun yöntemle acı duymayacak şekilde yaşamlarına veteriner hekimin
+kararından sonra son verilmesini ve hayvan hayatta bırakılacaksa sağlığının yeniden
+kazandırılmasında geçen süre boyunca uygun bakımını sağlamak. n) Deneyin insan veya
+hayvanların hayati ihtiyaçlarının karşılanması için yeterli önem taşımadığı kanaatine
+varıldığında, hayvanın uzun süreli ağır acı yaşayacağı ya da yaşayabileceği bir deneye tabi
+tutulmasının önlenmesini sağlamak.
+0) Araştırmada kullanılan ve yaşamlarını sürdüren deney hayvanlarına, deney sonunda
+sağlıklı yaşam koşullarının teminini sağlamak.
+p) Hayvanları ağır ve uzun süreli acıya maruz bırakacak deneylerin yerel etik kurul
+tarafından etik ilkeler çerçevesinde uygun görülmesinden sonra yapılmasını sağlamak.
+
+(2) Kurul üyeleri ile ilgili ilkeler:
+a) Kurul üyeleri, bu yönergede kendilerine verilen görevleri yerine getirirken, yetkilerini bir
+araştırmayı engellemek, geciktirmek ve oyalamak için kullanamazlar.
+b) Kurul üyeleri, birimler arasındaki bilimsel yarış ve rekabet koşullarında taraf tutamazlar,
+çalışma arkadaşlarına, kurulun diğer üyelerine ve kendilerine öncelik verici şekilde yetki
+kullanımında bulunamazlar. Başvuru dosyalarını, başvuru sırasına göre değerlendirir ve
+sonuçlandırırlar.
+c) Kurul üyeleri, başvuru dosyalarının incelenmesi sırasında belli bir dosya için
+görevlendirilme isteminde bulunamazlar. Araştırma sorumlusu tarafından herhangi bir
+nedenle “yansız davranmayacağı” gerekçesi ile birlikte yazılı olarak belirtilmiş üye/üyeler,
+ilgili dosyayı inceleme görevi alamaz ve raportörlük yapamaz.
+d) Kurul üyeleri kendilerine ait dosyalar için inceleme görevi alamazlar, karar için oy
+kullanamazlar.
+e) Kurul üyeleri, başvuru dosyalarını toplantı dışına, kurulun yazılı izin kararı olmadan
+çıkaramazlar, özel olarak inceleyemezler ve rapor hazırlayamazlar.
+f) Kurul üyeleri, başvuru dosyalarının içeriğini kurul toplantısı dışında başkaları ile
+tartışamaz ve dosyaların içeriği hakkında bilgi veremezler. Başvuru dosyasının tamamını
+yada bir kısmının kopyasını, ne amaçla olursa olsun, alamazlar ve başkalarına veremezler.
+g) Kurul üyeleri, görevde iken ve görevden ayrıldıktan sonraki ilk yıl içinde, izin ve onay
+vermedikleri bir başvuru dosyasına içeriği benzeyen bir araştırmada görev alamaz ve
+çalışamazlar.
+h) Kurul üyeleri, bu yönerge hükümlerine göre başvuru dosyasında bulunması zorunlu
+olmayan hususlarda soru soramazlar, bilgi isteyemezler ve başvuru için zorunlu olmayan
+nedenlerle incelemeyi uzatamaz ve geciktiremezler.
+1) Kurulun, onay verdiği çalışmalar ve bunlardan kaynaklanacak cezai sorumluluk gerektiren
+durumlar için hiçbir hukuki sorumluluğu yoktur. Tüm sorumluluk sorumlu araştırıcıya aittir.
+HAYVAN DENEYLERİ ETİK KURULUNUN ÇALIŞMA YÖNTEMİ
+Madde 10- Hayvan Deneyleri Etik Kurulu aşağıda belirtildiği şekilde çalışır:
+
+a) Hayvan Deneyleri Etik Kurulu, kurul başkanının belirleyeceği gündemle en az ayda bir
+defa ve salt çoğunlukla toplanır. Gerektiğinde başkanın daveti üzerine ek toplantı yapılabilir.
+b) Etik Kurul toplantıları başkanın yokluğunda başkan yardımcısı başkanlığında yürütülür.
+Kararlar, kurul üye tam sayısının yarıdan bir fazlası ile alınır. Oy eşitliği halinde başkanın
+oyu yönünde karar verilir.
+c) Çalışmalarda kullanılan tüm deney hayvanlarına ilişkin kayıtlar, deney hayvanı
+yetiştirilmesi, üretimi ve bakımından sorumlu yetkili kişi (FÜDAM Başkanlığı) tarafından
+tutulur. Söz konusu kayıtlarda temin edilen hayvanların sayıları, türleri, temin edildikleri
+yerler, kullanıcı kuruluşa geldiği tarih ve yapılan tüm işlemler bulunur. Bu kayıtlar en az beş
+yıl süreyle muhafaza edilir.
+d) Hayvan Deneyleri Etik Kurulu yapılacak başvuruları değerlendirmek için bir form hazırlar.
+Formda, deney hayvanı kullanmanın gerekçesi, yapılacak işlemler, kullanılacak hayvan
+türleri ve sayıları, hayvanlara verilecek rahatsızlığın niteliği ve boyutları ile deneylere
+katılacak personel ayrıntılı şekilde yer alır. Bütün başvurular ve alınan kararlar tarih ve sayı
+numarası verilerek kayıt altına alınır. Kayıtlar en az beş yıl süreyle muhafaza edilir.
+e) Hayvan Deneyleri Etik Kurulu yaptığı değerlendirme neticesinde uygun, düzeltilmesi
+gerekir, koşullu olarak uygun ya da uygun değildir şeklinde karar verir. Etik Kurulu üyelerine
+ait başvurular görüşülürken ilgili üye görüşmelere katılamaz ve oy kullanamaz.
+f) Düzeltilmesi gerekir kararı verilen başvurular, başvuru sahibi tarafından düzeltildikten
+sonra Hayvan Deneyleri Etik Kurulu'nda tekrar değerlendirilir. Koşullu olarak uygun kararı
+verilen projeler, Hayvan Deneyleri Etik Kurulu tarafından belirlenecek bir süre boyunca
+izlenip, istenen koşulların yerine getirilip getirilmediği değerlendirildikten sonra uygun ya da
+uygun değildir şeklinde karara bağlanır.
+g) Bütün başvurular ve alınan kararlar, bir veri tabanında saklanır. Kayıtlar Hayvan Deneyleri
+Merkezi Etik Kurulu ve Bakanlığın denetimine açık tutulur. Hayvan Deneyleri Etik Kurulu,
+gerektiğinde konusunda deneyimli uzmanların yazılı görüşlerini alabilir veya etik kurulu
+toplantısına davet ederek sözlü görüş isteyebilir.
+ÇALIŞMA PROTOKOLLERİNİN ONAYLANMASI
+Madde 11- Hayvan Deneyleri Etik Kurulundan onay alınması gereken çalışmalar şunlardır:
+a) Her türlü araştırma projesi, tez (uzmanlık, yüksek lisans ve doktora) çalışmasına
+yönelik hayvan deneyleri ve gözlemleri
+b) Eğitim amacıyla yapılacak olan ve eğitim müfredatı içinde belirtilmiş öğrenci pratikleri
+
+ve gösterimler (her eğitim yılı başında bir defa onay almak üzere)
+c) Bir yöntem öğrenilmesi ve el becerisi için yapılacak testler ve çalışmalar
+d) FÜDAM'da yapılacak diğer tüm bilimsel araştırmalar.
+BAŞVURU İŞLEMLERİ
+Madde 12- Başvurular, yapılacak deneylerin yürütücü/yürütücüler konumundaki en kıdemli
+personel tarafından “Hayvan Deneyleri Etik Kurulu Başvuru Formu” doldurularak Etik Kurul
+başkanlığına yapılır. Yürütücü, tezler için danışman öğretim üyesi, diğer araştırma projeleri
+için ise uzman ya da öğretim üyesi statüsündeki araştırma yürütücüsüdür.
+BAŞVURU SAHİPLERİNİN SORUMLULUKLARI
+Madde 13- Etik Kurul'a başvurularda kişisel beyan esas olup, başvuru sahipleri;.
+a) Başvuru formlarında verdikleri bilgilerin doğruluğunu,
+b) Etik Kurul onayı olmadan deneylere başlamayacaklarını,
+c) Deney hayvanlarında yapılacak işlemleri başvuru formunda belirtilen hususlara uygun
+şekilde yapacaklarını
+d) Etik Kurulun, çalışmalarını izlemek istemesi durumunda çalışma ortamlarını ve
+çalışma ile ilgili her türlü uygulamalarını Etik Kurul üyelerinin kontrolüne açmayı
+kabul etmiş sayılırlar.
+GİZLİLİK
+Madde 14- Etik Kurulun yazışmaları gizli olup, bu Yönergede belirtilen yetkili kurumlar
+dışında üçüncü şahıslara bilgi verilmez.
+İTİRAZ ve YENİDEN BAŞVURMA
+Madde 15- Başvurusuna Onay ve İzin verilmeyen araştırma sorumlusu kararın kendisine
+yazılı olarak bildirilmesinden sonra en geç | (bir) ay içinde karara itiraz edebilir veya ret
+kararına gerekçe gösterilen eksikleri gidererek ve düzeltmeler yaparak yeniden başvurabilir.
+İtiraz ve yeniden başvuru kurul tarafından ilk toplantıda görüşülerek karara bağlanır.
+DEĞİŞİKLİK BAŞVURUSU:
+Madde 16- İzin ve onay alınmış deneysel araştırmalarda çalışmaların yürütülmesi sırasında
+projedeki ve çalışmaya katılacak kişilerdeki değişiklikler için izin ve onay almak gerekir.
+Değişiklik için başvurular ilgili form kullanılarak yapılır.
+DENEY HAYVANI İLE UĞRAŞACAK PERSONELİN EĞİTİMİ
+Madde 15- Deney hayvanı ile uğraşacak personelin eğitiminde uyulması gerekli hususlar
+aşağıda belirtilmiştir:
+a) Deney hayvanı ile uğraşan ve/veya uğraşacak araştırıcıların eğitilmesi için eğitim
+programlarının düzenlenmesi, laboratuar hayvanları kullanım sertifika programlarının
+açılması, düzenlenmesi ve yürütülmesinden Hayvan Deneyleri Etik Kurulu sorumludur. Bu
+
+programlarda başarılı olanlara Etik Kurul tarafından deney hayvanı kullanım sertifikası
+verilir.
+b) Deney hayvanı kullanarak her türlü eğitim, araştırma, uygulama ve test yapmak
+isteyen veya bu programların yapılmasında deney hayvanlarına dokunarak ve gözlemleyerek
+katkıda bulunan öğrenciler, araştırmacılar, akademik, sağlık, teknik ve idari personel deney
+hayvanı kullanıcısı olarak kabul edilir.
+c) Deney hayvanı kullanıcıları, sertifika almadan bu hayvanlar üzerinde deney, eğitim, test
+amacıyla işlem yapamaz ve çalışma mekânlarında bu hayvanları barındıramazlar.
+d) Etik Kurul; deney hayvanı üretilmesi ve yetiştirilmesi ile sorumlu personelin asgari olarak
+bilgilendirilmesi ve uyulması gereken usul ve esasları içeren bir meslek içi eğitim programı
+hazırlar ve periyodik olarak uygulanmasını denetler. Eğitim programları yetkili kişiler
+tarafından yürütülür. Yetkili kişilerin kimler olduğu Etik Kurulca belirlenir.
+e) Hayvan Deneyleri Etik Kurulunun onayına sunulan çalışmalarda, deney hayvanı kullanan
+kişinin kullanım sertifikası olmaması halinde çalışmalarına onay verilmez.
+f) Bir araştırıcı, kendi sertifikası olmaması halinde araştırma yürütücüsü olarak başka kişilerle
+ortak çalışma yapmak amacıyla Hayvan Deneyleri Etik kuruluna başvurabilir. Kendisinin
+katıldığı, ancak doğrudan deney hayvanlarıyla işlem yapmayan araştırmacılar, sertifikalı
+deney hayvanı kullanıcılarının yardımıyla deneylerini sürdürebilirler.
+g) Deney hayvanları kullanım sertifikası programlarında aşağıdaki konuların bulunması
+zorunludur:
+1) Deney hayvanları morfolojisi (anatomisi * histolojisi).
+2) Deney hayvanları fizyolojisi.
+3) Deney hayvanları biyokimyası
+4) Deney hayvanları kullanım teknikleri (teorik * pratik).
+Tutuş teknikleri.
+Enjeksiyon teknikleri.
+Kan alma teknikleri.
+
+Anestezi — ötenazi teknikleri.
+5) Hayvan deneyleri etiği ve alternatif deney yöntemleri.
+6) Hayvan deneyleri laboratuarları kuruluş ve işletmesi.
+7) Hayvan refahı ve davranış özellikleri.
+8) Deney hayvanları üretimi.
+9) Temel laboratuar güvenliği.
+h) Gerektiğinde sertifika programlarına özel yöntemlerin öğretildiği ek konular ilave
+edilebilir.
+i) Deney hayvanları kullanım sertifika programlarında derslerin /680' ine devam etmek
+zorunludur. Sertifika programları asgari 80 saat olup, zorunlu konuların işlenmesinden sonra,
+geri kalan zaman laboratuar stajı, rotasyon gibi başka eğitim faaliyetleriyle tamamlanabilir.
+j) Kursiyerlerin başarılı sayılabilmeleri için kurs sonunda yapılacak olan sınavda başarılı
+olmaları gereklidir.
+k) Sertifika programlarının nasıl yürütüleceği Etik Kurul tarafından belirlenir.
+D) Bu Yönerge hükümlerine göre düzenlenen deney hayvanları kullanım sertifika
+programlarına kayıt yaptırarak devam ve başarı koşullarını yerine getiren kursiyerlere
+"Deney Hayvanları Kullanım Sertifikası" verilir. Deney hayvanları kullanım sertifikası, Etik
+Kurul Başkanı ve Rektör tarafından imzalanır.
+n) Lisans/yüksek lisans düzeyinde deney hayvanı kullanımı ile ilgili alınmış olan eğitimlerin
+sertifika programına eşdeğer olup olmadığına Etik Kurul karar verir.
+YÜRÜRLÜK
+Madde 16- Bu yönerge, Fırat Üniversitesi Senatosunca kabul edildiği tarihte yürürlüğe girer.
+YÜRÜTME
+Madde 17- Bu yönerge hükümlerini Fırat Üniversitesi Rektörü yürütür.

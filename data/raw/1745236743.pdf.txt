@@ -1,0 +1,461 @@
+Senato Karar No:  
+ 
+İlk Yayın Tarihi: 
+ 
+Revizyon Tarihi: 
+ 
+Revizyon No: 
+ 
+Sayfa: 
+1/10 
+ 
+ 
+1 / 10 
+ 
+T.C.  
+FIRAT ÜNİVERSİTESİ KİŞİSEL VERİLERİ KORUMA KOMİSYONU ÇALIŞMA USUL VE 
+ESASLARINA DAİR YÖNERGE 
+ 
+BİRİNCİ BÖLÜM 
+Amaç, Kapsam ve Dayanak  
+Amaç  
+MADDE 1- (1) Bu yönergenin amacı; Fırat Üniversitesi Kişisel Verileri Koruma Komisyonunun oluşumu, 
+çalışma usul ve esasları ile üyelerin görev yetki ve sorumluluklarını belirlemektir.  
+Kapsam 
+MADDE 2- (1) Bu Yönerge Fırat Üniversitesi Kişisel Verileri Koruma Komisyonunun oluşumu, çalışma 
+usul ve esasları ile üyelerin görev yetki ve sorumluluklarını kapsar.  
+Dayanak   
+MADDE 3- (1) Bu yönerge; 4/11/1981 tarihli ve 2547 say1l 1 Yükseköğretim Kanununun 14 üncü maddesi, 
+24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu, 28/10/2017 tarih ve 30224 sayılı Resmi 
+Gazete'de  yayımlanan  Kişisel  Verilerin  Silinmesi,  Yok  Edilmesi  veya  Anonim  Hale  Getirilmesi  Hakkında 
+Yönetmelik ile 30/12/2017 tarih ve 30286 sayılı Resmi Gazete'de yayımlanan Veri Sorumluları Sicili Hakkında 
+Yönetmeliğin  11  inci  maddesi  birinci  fıkrası  gereğince  ve  diğer  ilgili  mevzuat  hükümlerine  dayanılarak 
+hazırlanmıştır.     
+ 
+İKİNCİ BÖLÜM 
+Tanımlar 
+Tanımlar   
+MADDE 4- (1) Bu Yönergede geçen: 
+a) Açık Rıza: Belirli bir konuya ilişkin, bilgilendirilmeye dayanan ve özgür iradeyle açıklanan rızayı, 
+b) Akademik  birim  temsilcisi:  Üniversite  bünyesindeki  fakülteleri,  enstitüleri,  yüksekokulları,  meslek 
+yüksekokulları ve araştırma merkezlerini temsilen her bir akademik birim türünden en az bir akademik personeli, 
+c) Anonim Hâle Getirme: Kişisel verilerin, başka verilerle eşleştirilerek dahi hiçbir surette kimliği belirli 
+veya belirlenebilir bir gerçek kişiyle ilişkilendirilemeyecek hâle getirilmesini, 
+ç) Aydınlatma yükümlülüğü: Veri sorumlusu veya yetkilendirdiği kişiler tarafından ilgili kişilere Kanunun 
+10 uncu maddesinde belirtilen konularda bilgi verme yükümlülüğünü, 
+d) Başkan: Fırat Üniversitesi Kişisel Verileri Koruma Komisyonu Başkanını, 
+e) Başvuru: İlgili kişi tarafından Kanunun 13 üncü maddesi kapsamında Veri Sorumlusuna Başvuru Usul 
+ve Esasları Hakkında Tebliğ’in 5 inci maddesinde belirtilen usulde yapılan başvuruyu, 
+f) EBYS: Elektronik Belge Yönetim Sistemini, 
+g) İlgili kişi: Kişisel verisi işlenen gerçek kişiyi, 
+ğ) İmha: Kişisel verilerin silinmesi, yok edilmesi veya anonim hale getirilmesini, 
+
+Kişisel Verileri Koruma Komisyonu Çalışma Usul ve Esaslarına Dair Yönerge 
+ 
+2 / 10 
+ 
+h) İrtibat Kişisi: Veri Sorumlusu tarafından Kanun ve bu Kanuna dayalı olarak çıkarılacak ikincil 
+düzenlemeler kapsamındaki yükümlülükleriyle ilgili olarak, Kurum ile iletişimi sağlamak amacıyla Sicile kaydı 
+yapılan daire başkanı veya üstü yöneticiyi, 
+ı) Kanun: 6698 say1ll Kişisel Verilerin Korunması Kanununu, 
+i) Kişisel veri: Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgiyi, 
+j) Kişisel veri işleme envanteri: Veri sorumlularını iş süreçlerine bağlı olarak gerçekleştirmekte oldukları 
+kişisel veri işleme faaliyetlerini; kişisel veri işleme amaçları ve hukuki sebebi, veri kategorisi, aktarılan alıcı grubu ve 
+veri konusu kişi grubuyla ilişkilendirerek oluşturdukları ve kişisel verilerin işlendikleri amaçlar için gerekli olan 
+azami muhafaza edilme süresini, yabancı ülkelere aktarımı öngörülen kişisel verileri ve veri güvenliğine ilişkin 
+alınan tedbirleri açıklayarak detaylandırdıkları envanteri, 
+k) Kişisel verilerin işlenmesi: Kişisel verilerin tamamen veya kısmen otomatik olan ya da herhangi bir veri 
+kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla elde edilmesi,  kaydedilmesi, depolanması, 
+muhafaza edilmesi değiştirilmesi, yeniden düzenlenmesi, açıklanması, aktarılması, devralınması, elde 
+edilebilir hale getirilmesi sınıflandırılması ya da kullanılmasının engellenmesi gibi veriler üzerinde gerçekleştirilen her 
+türlü işlemi,  
+l) Komisyon: Fırat Üniversitesi Kişisel Verileri Koruma Komisyonunu, 
+m)  Kurul: Kişisel Verileri Koruma Kurulunu, 
+n)  Kurum:  Kişisel Verileri Koruma Kurumunu, 
+o) Kurumsal İletişim Koordinatörlüğü: Fırat Üniversitesinin mensupları, birimleri ve paydaşları arasında 
+etkili iletişimi sağlayan, Fırat Üniversitesinin iletişim hedeflerini belirleyen, hedefe yönelik stratejiler geliştiren ve 
+bu stratejilere uygun eylem programlarının uygulama sürecini yöneten birimi.  
+ö) KVKK düzenlemeleri: Kanun ve bu Kanuna dayalı olarak çıkarılacak ikincil düzenlemeleri, Kurul 
+Kararlarını kişisel verilerin korunması alanında uluslararası ve ulusal düzenlemeleri, verilerin korunmasına yönelik 
+uygulanabilir uluslararası anlaşmaları ve diğer ilgili mevzuatı, 
+p) Özel  nitelikli  kişisel  veriler:  Kişilerin ırkı, etnik kökeni, siyasi düşüncesi, felsefi inancı, dini, mezhebi 
+veya diğer inançları, kılık ve kıyafeti, dernek, vakıf ya da sendika üyeliği, sağlığı, cinsel hayatı, ceza mahkumiyeti ve 
+güvenlik tedbirleriyle ilgili verileri ile biyometrik ve genetik verilerini, 
+r) Politikalar:  Fırat Üniversitesi Kişisel Verilerin İşlenmesi ve Korunması Politikası ile Fırat Üniversitesi 
+Kişisel Veri Saklama ve İmha Politikası, 
+s) Rehber: Kişisel Veri Güvenliği Rehberini, 
+ş) Rektör: Fırat Üniversitesi Rektörünü, 
+t) Senato: Fırat Üniversitesi Senatosunu, 
+u) Sicil: Kişisel Verileri Koruma Kurumu Bakanlığı tarafından tutulan Veri Sorumluları Sicilini, 
+ü) Üniversite: Fırat Üniversitesi’ni, 
+v) Veri işleyen: Veri sorumlusunun verdiği yetkiye dayanarak onun adına kişisel verileri işleyen 
+gerçek veya tüzel kişiyi, 
+y) Veri kayıt sistemi: Kişisel verilerin belirli kriterlere göre yapılandırılarak işlendiği kayıt sistemini, 
+z) Veri sorumlusu: Fırat Üniversitesi tüzel ·kişiliğini, 
+aa) Veri sorumluları sicil bilgi sistemi (VERBIS): Veri sorumlularının Sicile başvuruda ve Sicile ilişkin 
+ilgili diğer işlemlerde kullanacakları, internet üzerinden erişilebilen, Kişisel Verileri Koruma Kurumu Başkanlığı 
+tarafından oluşturulan ve yönetilen bilişim sistemini, 
+bb) Yönerge: Fırat Üniversitesi Kişisel Verileri Koruma Komisyonu Çalışma Usul ve Esaslarına Dair 
+Yönergeyi, 
+
+Kişisel Verileri Koruma Komisyonu Çalışma Usul ve Esaslarına Dair Yönerge 
+ 
+3 / 10 
+ 
+cc) Yönetmelik: Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi Hakkında 
+Yönetmeliği, 
+çç) Ziyaretçi: Üniversitenin sahip olduğu fiziksel yerleşkelere çeşitli amaçlarla girmiş olan veya 
+Üniversite internet sitesini ziyaret eden gerçek kişileri, 
+ifade eder. 
+(2) Bu Yönergede yer almayan ifadelerin yorumlanmasında başta 6698 sayılı Kişisel Verilerin Korunması 
+Kanunu olmak üzere yürürlükte olan tüm ikincil mevzuat esas alınır.  
+ 
+ÜÇÜNCÜ BÖLÜM 
+Kişisel Verileri Koruma Komisyonu 
+ 
+Komisyonun Oluşumu 
+MADDE 5 – (1) Kişisel Verileri Koruma Komisyonu, 6698 sayılı Kişisel Verileri Koruma Kanunu ve ilgili 
+ikincil mevzuat hükümleri çerçevesinde, üniversite bünyesindeki kişisel verileri koruma faaliyetlerini denetlemek, 
+yönlendirmek ve uyumluluk süreçlerini yürütmek amacıyla oluşturulmuştur. 
+(2) Komisyon aşağıdaki üyelerden oluşur: 
+Başkan: Rektör tarafından görevlendirilen bir rektör yardımcısı. 
+Üyeler: 
+A-Doğal Üyeler: 
+a) Genel Sekreter, 
+b) Genel Sekreter Yardımcısı, 
+c) Üniversite Daire Başkanları, 
+ç) Hukuk Müşaviri, 
+d) Fırat Üniversitesi Hastanesi Başmüdürü, 
+e) Döner Sermaye İşletme Müdürü, 
+f) Basın ve Halkla ilişkiler Müdürü, 
+g) Kurumsal İletişim Koordinatörü, 
+ğ) İrtibat Kişisi, 
+B-Seçilen Üyeler: 
+Enstitüler,  Fakülteler,  Yüksekokullar  ve  Meslek  Yüksekokullarını  temsilen  kişisel  verilerin  korunması 
+alanında tercihen bilgisi   olan akademik  personel  arasından Başkanın  önerisi  üzerine Rektör  tarafından 
+görevlendirilen dört üye. 
+(3) Komisyon,  Üniversitenin KVK düzenlemeleri kapsamındaki veri sorumlusu yükümlülüklerini yerine 
+getirir. 
+(4) İrtibat kişisi Üniversitenin Bilgi İşlem Daire Başkanıdır. 
+(5) Akademik Birim Temsilcileri,  Başkanın önerisi üzerine Rektör tarafından görevlendirilir. Gerektiğinde 
+aynı yöntem ile görevden alınabilir. 
+(6) Akademik Birim Temsilcilerinin görev süresi Rektörün görev süresi ile sınırlıdır.  
+(7) Komisyonun doğal üye sayısı ve/veya akademik birim temsilcisi sayısı Başkanın önerisi ve Rektörün 
+onayı ile artırılabilir veya doğal üye sayısının altına düşmeyecek şekilde azaltılabilir. 
+(8) Komisyonun sekretarya hizmetleri, Komisyon başkanının teklifiyle Rektör tarafından görevlendirilen 
+birim, kişi/kişiler tarafından yürütülür. Sekretarya hizmeti için belirlenen birim / kişi, komisyonun yazışmalarını 
+yürütmek, toplantı hazırlıklarını yapmak ve kararların uygulanmasını takip etmek, toplantı tutanaklarını düzenlemek, 
+komisyon üyelerine sunmak ve alınan kararların arşivlenmesini sağlamakla görevli ve yetkilidir.  
+
+Kişisel Verileri Koruma Komisyonu Çalışma Usul ve Esaslarına Dair Yönerge 
+ 
+4 / 10 
+ 
+(9) Başkan kendisine yardımcı olmak üzere komisyon üyeleri arasından bir başkan yardımcısı görevlendirir. 
+Başkan yardımcısının görev süresi Başkanın görev süresi ile sınırlıdır. Başkan yardımcısı, Başkanının yokluğunda 
+komisyona Başkanlık etmekle görevli ve yetkilidir. 
+(10) Komisyon, en az altı ayda bir toplanır. Gerekli hallerde Başkanın çağrısı üzerine olağanüstü toplantılar 
+yapılabilir. Kararlar, üye tam sayısının salt çoğunluğu ile alınır. 
+ 
+ 
+DÖRDÜNCÜ BÖLÜM 
+Yetki, Görev ve Sorumluluklar 
+Başkan 
+Madde 6- (1) Başkan, komisyonun görev ve sorumluluklarının yerine getirilmesinden, koordinasyonundan, 
+toplanmasından,  komisyon  kararların  yürütülmesinin  sağlanmasından,  yönetişim,   denetim ve  iletişiminden 
+sorumludur. 
+(2) Başkanın yetki, görev ve sorumlulukları aşağıda sayılmıştır. 
+a) Üniversitenin KVK düzenlemeleri kapsamındaki veri sorumlusu yükümlülüklerini yerine getirmek 
+amacıyla Komisyon tarafından alınan kararların yürütülmesinden sorumludur. 
+b) Komisyon üyeleri arasında koordinasyonu sağlar. 
+c) Komisyon adına yapılacak resmi yazışmaları onaylar ve yürütülmesini sağlar. 
+d) Gerekli gördüğü durumlarda Komisyonu toplantıya çağırır. 
+e) Rektör tarafından ataması yapılmak üzere Akademik Birim Temsilcisi üye önerisinde bulunur. 
+f) Gerektiğinde Akademik Birim Temsilcisinin komisyon üyeliğinin sonlandırılması için Rektöre öneride 
+bulunur. 
+g) Rektöre Akademik Birim Temsilcisi üye sayısının arttırılması/azaltılması önerisinde bulunur. 
+h) 6698 sayılı KVKK ve ilgili mevzuata uygun olarak veri işleme politikalarının uygulanmasını denetler. 
+i) Üniversite personelinin ve öğrencilerin kişisel veri güvenliği konularında bilinçlendirilmesi için eğitim 
+ve bilgilendirme çalışmaları organize eder. 
+j) Kişisel verilerin korunması konusunda yeni yasal düzenlemeleri takip eder ve üniversite uygulamalarına 
+entegre edilmesini sağlar. 
+k) Üniversite bünyesinde yürütülen kişisel veri işleme faaliyetlerinin hukuka ve etik kurallara uygun 
+şekilde yürütülmesini temin eder. 
+l) Teknik güvenlik önlemlerinin alınmasını ve süreçlerin düzenli olarak kontrol edilmesini sağlar. 
+m)  Komisyonun kararlarının etkin bir şekilde uygulanmasını izler ve denetler. 
+n) Kişisel  veri  sahiplerinden  gelen  başvuruların,  mevzuat  çerçevesinde  zamanında  ve  doğru  şekilde 
+değerlendirilmesini sağlar. 
+o) Üniversitenin veri güvenliği durumu hakkında düzenli raporlar hazırlayarak üst yönetimi bilgilendirir. 
+(3) Komisyon başkanının yokluğunda, Başkan Yardımcısı Komisyona başkanlık eder. 
+Başkan Yardımcısı 
+Madde  7- (1) Başkan  Yardımcısı,  kişisel  verilerin  korunmasıyla  ilgili  süreçlerde  Başkanın  yürüttüğü 
+faaliyetlere  destek sağlar. Üniversitenin kişisel veri güvenliği politikalarının uygulanmasında Başkan tarafından 
+verilen görevleri yerine getirir. 
+Genel Sekreter ve Genel Sekreter Yardımcısı 
+MADDE 8- (1) Genel Sekreterin yetki, görev ve sorumlulukları aşağıda sayılmıştır. 
+a) Genel  Sekreter, Başkan ile birlikte komisyonun görev ve sorumluluklarının yerine getirilmesini, 
+koordinasyonunu, toplanmasını, komisyon kararlarının yürütülmesini, yönetimini, denetimini ve iletişimini sağlar.  
+b) Kişisel verilerin korunmasıyla ilgili yürütülen çalışmalara dair resmi yazışmaların hazırlanmasına katkıda 
+bulunur.  
+
+Kişisel Verileri Koruma Komisyonu Çalışma Usul ve Esaslarına Dair Yönerge 
+ 
+5 / 10 
+ 
+c) Kişisel  veri sahiplerinden gelen  başvuruların  doğru ve  mevzuata  uygun  şekilde  değerlendirilmesini 
+koordine eder.  
+d) Üniversitenin tüm idari birimlerinin kişisel veri koruma politikalarına uygun hareket etmesini sağlar ve 
+denetler.  
+e) Komisyon  toplantılarının  düzenlenmesini  sağlar,  toplantı  gündemlerini  belirleme  sürecine  katkıda 
+bulunur.  
+f) Komisyonun aldığı kararların üniversitenin ilgili birimleri tarafından uygulanmasını sağlar ve denetler.  
+g) Üniversitenin kişisel veri güvenliği politikaları kapsamında yürütülen çalışmaları koordine eder.  
+h) Üniversite genelinde gerçekleştirilen kişisel veri işleme denetimlerine katılarak süreçlerin uygunluğunu 
+değerlendirir.  
+i) Üniversite çalışanlarına ve öğrencilere yönelik kişisel veri güvenliği eğitimlerinin planlanmasını koordine 
+eder. 
+(2) Genel Sekreter Yardımcısının yetki, görev ve sorumlulukları aşağıda sayılmıştır. 
+a) Genel Sekreter Yardımcısı, Kişisel verilerin korunmasıyla ilgili süreçlerde Genel Sekreterin yürüttüğü 
+faaliyetlere destek sağlar.  
+b) Üniversitenin kişisel veri güvenliği politikalarının uygulanmasında Genel Sekreter tarafından verilen 
+görevleri yerine getirir. 
+Daire Başkanları, Hukuk Müşaviri, Hastane Başmüdürü, Döner Sermaye İşletme Müdürü, Basın ve 
+Halkla ilişkiler Müdürü, Kurumsal İletişim Koordinatörü, 
+MADDE 9- (1) Daire Başkanlarının yetki, görev ve sorumlulukları aşağıda sayılmıştır. 
+a) Daire Başkanları, kendi daire başkanlığı bünyesinde kişisel veri güvenliği süreçlerini yönetmek ve diğer 
+birimlerle uyumlu çalışmasını sağlamak ve denetimini yapmak.   
+b) Üniversitenin  Kişisel  Verileri  Koruma  Komisyonu  tarafından  alınan  kararların  kendi  biriminde 
+uygulanmasını denetlemek ve takibini yapmak.  
+c) Üniversitenin  belirlediği  kişisel  veri  işleme  ve  koruma  politikalarının  kendi  biriminde  eksiksiz 
+uygulanmasını temin etmek.  
+d) Kendi birimine gelen kişisel veri sahiplerinin taleplerini değerlendirmek ve mevzuata uygun olarak 
+yanıtlamak.  
+e) Üniversitenin  Kişisel  Verileri  Koruma  Komisyonu  tarafından  belirlenen  düzenlemelere  tam  uyum 
+sağlamak.  
+(2) Hastane Başmüdürünün yetki, görev ve sorumlulukları aşağıda sayılmıştır. 
+a) Hastane Başmüdürü, kendi birimiyle ilgili kişisel veri güvenliği süreçlerini yönetmek ve diğer birimlerle 
+uyumlu çalışmasını sağlamak ve denetimini yapmak.  
+b) Hastane bünyesinde işlenen tüm kişisel verilerin KVKK ve ilgili diğer düzenlemelere uygun şekilde 
+işlenmesini, saklanmasını ve korunmasını sağlamak.  
+c) Kişisel veri güvenliği konusunda hastane personeline düzenli eğitimler verilmesini sağlamak.  
+d) Hastaların KVKK kapsamında sahip olduğu bilgilendirme, erişim, düzeltme, silme ve itiraz haklarını 
+kullanabilmesi için gerekli mekanizmaları oluşturmak.  
+e) Üniversitenin  Kişisel  Verileri  Koruma  Komisyonu  tarafından  alınan  kararların  kendi  biriminde 
+uygulanmasını denetlemek ve takibini yapmak.  
+f) Üniversitenin  belirlediği  kişisel  veri  işleme  ve  koruma  politikalarının  kendi  biriminde  eksiksiz 
+uygulanmasını temin etmek.  
+g) Kendi birimine gelen kişisel veri sahiplerinin taleplerini değerlendirmek ve mevzuata uygun olarak 
+yanıtlamak.  
+h) Üniversitenin  Kişisel  Verileri  Koruma  Komisyonu  tarafından  belirlenen  düzenlemelere  tam  uyum 
+sağlamak.  
+(3) Hukuk Müşavirinin yetki, görev ve sorumlulukları aşağıda sayılmıştır. 
+
+Kişisel Verileri Koruma Komisyonu Çalışma Usul ve Esaslarına Dair Yönerge 
+ 
+6 / 10 
+ 
+a) Komisyon tarafından alınan kararların hukuki takibini yapmak. 
+b) KVK düzenlemelerindeki değişiklikler ile ilgili Başkanı bilgilendirmek. 
+c) Üniversitenin  kişisel  verilen  korunması  hakkında  oluşabilecek  talepler  ve ihlallerle  ilgili  hukuki 
+işlemlerini yürütmek. 
+d) Veri işleme, saklama, paylaşma ve imha süreçlerine ilişkin hukuki gereklilikleri belirleyerek üniversitenin 
+politikalarının güncelliğini sağlamak. 
+e) Tedarikçiler,  hizmet  sağlayıcıları  ve  üçüncü  taraflarla  yapılan  sözleşmelerde  kişisel  veri  koruma 
+hükümlerinin yer almasını sağlamak. 
+f) Üniversite içinde yürütülen kişisel veri işleme faaliyetlerinin yasal çerçevede gerçekleşmesini sağlamak 
+için danışmanlık yapmak. 
+g) Üniversitenin hukuki risklerini azaltmak için gerekli önlemleri almak ve komisyona rapor sunmak. 
+(4) Döner Sermaye İşletme Müdürünün yetki, görev ve sorumlulukları aşağıda sayılmıştır. 
+a) Döner Sermaye İşletme Müdürü, kendi birimiyle ilgili kişisel veri güvenliği süreçlerini yönetmek ve diğer 
+birimlerle uyumlu çalışmasını sağlamak ve denetimini yapmak. 
+b) Üniversitenin  belirlediği  kişisel  veri  işleme  ve  koruma  politikalarının  kendi  biriminde  eksiksiz 
+uygulanmasını temin etmek.  
+c) Kendi birimine gelen kişisel veri sahiplerinin taleplerini değerlendirmek ve mevzuata uygun  olarak 
+yanıtlamak.  
+d) Üniversitenin  Kişisel  Verileri  Koruma  Komisyonu  tarafından  belirlenen  düzenlemelere  tam  uyum 
+sağlamak.  
+(5) Basın ve Halkla ilişkiler Müdürünün yetki, görev ve sorumlulukları aşağıda sayılmıştır. 
+a) Basın ve Halkla ilişkiler Müdürü, kendi birimiyle ilgili kişisel veri güvenliği süreçlerini yönetmek ve 
+diğer birimlerle uyumlu çalışmasını sağlamak ve denetimini yapmak. 
+b) Üniversitenin  belirlediği  kişisel  veri  işleme  ve  koruma  politikalarının  kendi  biriminde  eksiksiz 
+uygulanmasını temin etmek.  
+c) Kendi birimine gelen kişisel veri sahiplerinin taleplerini değerlendirmek ve mevzuata uygun olarak 
+yanıtlamak.  
+d) Üniversitenin  Kişisel  Verileri  Koruma  Komisyonu  tarafından  belirlenen  düzenlemelere  tam  uyum 
+sağlamak 
+(6) Kurumsal İletişim Koordinatörünün yetki, görev ve sorumlulukları aşağıda sayılmıştır. 
+a) Kurumsal İletişim Koordinatörü, kendi birimiyle ilgili kişisel veri güvenliği süreçlerini yönetmek ve 
+diğer birimlerle uyumlu çalışmasını sağlamak ve denetimini yapmak. 
+b) Üniversitenin belirlediği  kişisel  veri  işleme  ve  koruma  politikalarının  kendi  biriminde  eksiksiz 
+uygulanmasını temin etmek.  
+c) Kendi birimine gelen kişisel veri sahiplerinin taleplerini değerlendirmek ve mevzuata uygun olarak 
+yanıtlamak.  
+d) Üniversitenin  Kişisel  Verileri  Koruma  Komisyonu  tarafından  belirlenen  düzenlemelere  tam  uyum 
+sağlamak 
+İrtibat Kişisi 
+MADDE 10- (1) Üniversite ile Kişisel Verileri Koruma Kurulu arasındaki iletişimi sağlar. 
+(2) Veri sorumlusu ile ilgili kişi veya Kurum arasındaki iletişimi sağlar. 
+(3) Kişisel Veri işleme Envanterini KVK düzenlemelerinde öngörüldüğü şekilde Sicile bildirir. 
+(4) İrtibat kişisinin en az daire başkanı veya üstü yönetici olması zorunludur. 
+Akademik Birim Temsilcileri ve Diğer Üyeler 
+
+Kişisel Verileri Koruma Komisyonu Çalışma Usul ve Esaslarına Dair Yönerge 
+ 
+7 / 10 
+ 
+MADDE 11- (1) Kendi birimlerinin ve  temsil edilen birimlerin faaliyet alanlarına ilişkin konularda KVK 
+düzenlemelerine  uyum  ve  denetimi sağlamak, tespit ettikleri aksaklıkları Komisyona  rapor halinde  iletmekle 
+sorumludurlar. 
+(2) Her bir komisyon üyesi Komisyon tarafından alınan kararların temsil  edilen  birim/birimler  nezdinde 
+uygulanmasını sağlar ve takip eder. 
+Komisyonun Görev ve Sorumlulukları 
+MADDE 12- (1) Kişisel verilerin işleme amaçlarını ve vasıtalarını belirler, veri kayıt sisteminin kurulmasını 
+ve yönetilmesini sağlar. 
+(2)  Kişisel verilerin işlenmesi, korunması, saklanması, aktarılması, imha edilmesine ilişkin süreleri belirler. 
+Belirlenen sürelere ilişkin prosedürlerin oluşturulmasını sağlar. 
+(3)  Fırat Üniversitesi Kişisel Verilerin işlenmesi ve Korunması Politikasını hazırlar ve güncel tutar. 
+(4)  Kurumun internet sitesinde yayımlanmış olan "İlke Kararları"nı ve "Kurul Kararları"nı gözden geçirir ve 
+yapılması gerekli çalışmaları karara bağlar. 
+(5)  KVK düzenlemelerindeki  değişikliklerde,  güncel mevzuatın gerektirdiği yeni düzenlemeler  için 
+Üniversite içinde uygun faaliyetleri tanımlar ve derhal yerine getirilmesini sağlar. İlgili tarafları EBYS, kurumsal 
+e-posta, internet sitesi vb. iletişim kanallarından uygun olanı ile bilgilendirir. Yeni düzenlemelere yönelik eğitimler 
+verilmesini sağlar. 
+(6)  Birimler alınan kararlar hakkında derhal ve yazılı olarak bilgilendirilir. 
+(7)  Kişisel verilerin, Kanunda ve diğer kanunlarda öngörülen usul ve esaslara uygun olarak iş1enmesini 
+sağlar. 
+(8) Kişisel verilerin işlenmesinde Kanunun 4 üncü maddesinde belirtilen ilkelere uyulmasını sağlar. 
+(9) Özel nitelikli kişisel verilerin ilgili kişinin açık rızası ile  ya  da  Kanunun 6 ıncı maddesinde sayılan 
+hallerde sınırlı işlenmesini sağlar. 
+(10) Komisyon, kişisel veriler in güvenliğinin sağlaması için öncelikle üniversite tarafından işlene tüm 
+kişisel verilerin neler olduğunu, bu verilerin korunmasına ilişkin ortaya çıkabilecek risklerin belirlenecek 
+faaliyet adımlarını belirler ve uygulamaya koyar. 
+(11) Veri Sorumluları Sicili hakkında Yönetmeliğin 5 inci maddesi birinci fıkrası (ç) bendi gereğince tüm 
+kişisel veri işleme faaliyetleri doğrultusunda Kişisel Veri İşleme Envanteri hazırlanması için gerekli çalışmaları 
+yürütür. 
+(12) Kişisel Veri işleme Envanteri asgari altı aylık periyotlarla kontrol edilir, gerekli görülmesi halinde 
+güncellenir. 
+(13) Hazırlanan Kişisel Veri işleme Envanterine göre aydınlatma metinleri oluşturulur. 
+(14)  Komisyon, en geç kişisel verilerin elde edilmesi sırasında ilgili kişilere Kanunun 11 inci maddesinde 
+belirtilen  ilgili  kişi  haklarını  içeren  yadımlatma  yükümlülüğünün  KVK  düzenlemeleri  kapsamında  yerine 
+getirilmesini sağlar, denetler ya da denetletir ve ilgili kişilere bunun uygun vasıtalarla duyurulmasını sağlar. 
+(15)  Kişisel verilerin hukuka aykin olarak iş1enmesini  ve erişilmesini önlemek, muhafazasını sağlamak 
+amacıyla  KVK düzenlemeleri ve  Komisyonun görev alanına ilişkin  sair düzenleyici idari işlemler kapsamında 
+uygun güvenlik düzeyini temin etmeye yönelik tedbirlerin alınmasını sağlar. 
+(16)  Kişisel verilerin Üniversite adına başka  bir  gerçek  veya  tüzel kişi  tarafından  işlenmesi  halinde; 
+Üniversitenin uygun güvenlik düzeyini temin  etmeye yönelik  her  türlü idari  ve teknik  tedbirlerin  alınması 
+hususunda bu kişi/kişilerle müştereken sorumlu olmasından dolayı Komisyon bu durumun takibi ve denetimi için 
+gerekli faaliyet alanlarını tanımlar ve uygulatır. 
+
+Kişisel Verileri Koruma Komisyonu Çalışma Usul ve Esaslarına Dair Yönerge 
+ 
+8 / 10 
+ 
+(17)  Özet nitelikli kişisel verilerin işlenmesi için Kanunun 22 inci maddesi birinci fıkrası (ç) bendi gereğince 
+Kurul  tarafından  belirlenen  ve veri  sorumlusu tarafından  alınması gereken  yeterli önlemlerin  alınmasını  ve 
+uygulanmasını sağlar. 
+(18)  Kişisel verilerin işlendikleri amaç için gerekli olan azami muhafaza edilme süresinin belirlenmesi, bu 
+sürelerin kişisel  veri işleme  envanterinde  belirtilen  bilgilerle  uyumu  ve  azami  surenin  aşılıp aşılmadığının takibi 
+için Kişisel Veri işleme  Envanterine  uygun  olarak  periyodik  imhanın gerçekleşebileceği zaman  aralığının da 
+belirleneceği kişisel veri saklama ve imha politikası hazırlanır ve bu politikanın uygulanması takip edilir. 
+(19)  Kişisel verilerin iş1endikleri amaç için  gerekli  olan  azami  muhafaza  edilme  süresi;  Kanunun  7 inci 
+maddesinde belirtilen veri sorumlularının imha yükümlülüklerini yerine getirilmesinde esas alınır. 
+(20)  Herhangi bir işleme şartı ile işleme amacı bulunmayan kişisel veri olup olmadığı Kişisel Veri İşleme 
+Envanteri aracılığıyla tespit edilerek bu durumda olan veriler için süre geçmeden imha işlemleri uygulanır. 
+(21)  Komisyon  Sicile  sunulan  ve  Sicilde yayınlanan bilgilerin eksiksiz, doğru, güncel ve hukuka uygun 
+olmasını sağlar. 
+(22)  Komisyon, Sicilde kayıtlı bilgiler bilgilerde değişiklik olması halinde meydana gelen değişiklikleri, 
+değişikliğin meydana geldiği tarihten itibaren yedi gün içerisinde VERBIS Üzerinden Kuruma bildirir. 
+(23)  Komisyon,  KVK düzenlemeleri kapsamımda yer  alan  denetim yükümlülüklerini yerine  getirmek 
+amacıyla her yıl ocak ve haziran aylarında  yılda iki kez Üniversitede gerekli veri denetimlerin yapılmasını veya 
+yaptırılmasını sağlar. Bu denetimler; dış hizmet a1ımı yöntemiyle veya bu konuda eğitim almış ve kişisel verilerin 
+korunması konusunda   yeterlilik sertifikalarına sahip  Üniversite personeli arasından  Komisyon  tarafından 
+oluşturulacak bir ekip  ile gerçekleştirilebilir.   Yönetmeliğin 11  inci  maddesinin  2 inci fıkrası uyarınca, altı ayı 
+geçmeyecek  periyotlarda,  işlenen  kişisel  verileri denetleyerek  imha  edilmesi gereken  kişisel  verilerin imha 
+edilmesini sağlar. 
+(24)  Komisyon,  Kanun  ve  ilgili diğer mevzuat hükümlerine  uygun  olarak  işlenmiş  olmasına  rağmen, 
+işlenmesini  gerektiren sebeplerin ortadan kalkması halinde kişisel veriler  resen  veya  ilgili kişinin talebi üzerine 
+imha edilmesini sağlar. 
+(25) Komisyon kişisel verilerin imha edilmesiyle ilgili gerekli her türlü teknik ve idari tedbirlerin alınmasını 
+sağlar. 
+(26)  Üniversite nezdinde çalışan herkesin hangi konumda çalıştığına bakılmaksızın kişisel veri güvenliğine 
+ilişkin   rol   ve sorumluluklarının görev  tanımlarında  belirlenmesini ve çalışanların bu   konudaki   rol   ve 
+sorumluluğunun farında olmasını sağlar. 
+(27)  Komisyon, kişisel verileri işleyen üçüncü taraflarla yapılacak sözleşmeleri imza edilmeden önce kontrol 
+eder, KVK düzenlemelerine uygunluğu hususunda görüş bildirir, Komisyonun olumsuz görüş bildirdiği sözlemeler 
+gerekli değişiklikler yapılarak yeniden Komisyon incelemesine sunulur. Sözlenmenin üçüncü taraflarını denetletir. 
+(28)  Komisyon,  KVK düzenlemeleri ile  belirlenen şartları sağlayan  gerçek ve tüzel  kişileri veri iş1emek 
+üzere yetkilendirebilir. 
+(29) Kişisel verilerin korunması ile ilgili konularda, Üniversite üst yönetimini hem mevcut durum hem de 
+olası riskler hakkında yılda bir kereden az olmamak üzere periyodik olarak bilgilendirir. 
+(30) Komisyon kişisel verilerin korunmasına yönelik çalışmaları hakkında yıllık raporu hazırlar. Başkan 
+hazırlanan raporu en geç kasım ayında Senatoya sunar. Komisyon söz konusu  rapor  sunucunu uygun görülen 
+iletişim kanalları ile (e-posta, EBYS, internet sitesi, vb.) paydaşların bilgisine sunabilir. 
+(31) Komisyon kişisel verilerin işlenmesi için ilgili kişinin açık rızasının alınması yöntemlerini belirler, 
+bunları uygular, uygulatır; denetler veya denetletir. 
+(32)  KVK  düzenlemeleri  çerçevesinde  kişisel  verilerin  üçüncü  taraflara  açıklanması  durumunda 
+paylaşılacak yerin/makamın statüsüne göre kişisel veri sahibinden açık rıza alınıp alınmayacağını belirler. Her 
+durumda hangi verinin paylaşıldığını ve veri paylaşılan üçüncü tarafların geçerli esasa uygun olduklarını kayıt altına 
+alır. 
+
+Kişisel Verileri Koruma Komisyonu Çalışma Usul ve Esaslarına Dair Yönerge 
+ 
+9 / 10 
+ 
+(33)  Komisyon, ilgili kişilerin Üniversiteye yaptıkları başvuruları aşağıda belirtilen şekilde değerlendirir; 
+a) Başvuruda yer alan talebin niteliğine göre en kısa sürede ve ücretsiz olarak sonuçlandırılmasını sağlar. 
+Bu süre KVK düzenlemelerinde belirtilen süreleri aşamaz. 
+b) Yapılacak  işlemin  ayrıca  bir  maliyet gerektirdiği durumlarda  Kurul tarafımdan  her  yıl  belirlenen 
+tarifedeki ücretin alınmasını sağlar. 
+c) Başvurulara  cevap için Üniversite içerisinde gerekli  koordinasyonu sağlar. Kurul ile iletişim halinde 
+olunması gereken durumlarda gerekli koordinasyonu ve iletişimi sağlar. 
+ç) Komisyon, başvurunun kabulüne veya reddine karar verir. 
+d) Komisyon ilgili kişinin talebini reddettiği takdirde ilgili kişiye cevabın iletilmesini sağlar. 
+e) Komisyon ilgili kişinin talebini kabul ettiği takdirde, talebin yerine getirilmesi amacıyla koordinasyonu, 
+işlemlerin tesis edilmesini ve ilgili kişiye cevap verilmesini sağlar. 
+f)  Komisyon, başvurulan etkin,  hukuka  ve dürüstlük kuralına  uygun  olarak sonuçlandırılmasını sağlamak 
+amacıyla gerekli her turlu idari ve teknik tedbirleri alır. 
+(34)  Komisyon; kişisel verilerin  korunması,  saklanması,  işlenmesi  ve  imhası süreçlerinin Kanuna  ve 
+politikalara  uyumu yönünde bir eksikliğin veya  riskin  tespit  edilmesi  halinde,  giderilmesi  i9in  derhal  gerekli 
+önlemleri alır veya alınmasını sağlar.  Bu  kapsamda  Komisyon,  kendisine raporlanan her bir yeni veri işleme 
+surecinin denetimini yapar veya yaptırır. 
+(35)  Komisyon, Üniversitenin çalışanları tarafından kendisine  raporlanan  ve  KVK düzenlemeleri ile 
+politikalarda  belirtilen  usul  ve  esaslara  aykırı olduğuna kanaat getirdiği iş, işlem  yahut  eylemler  ile  ilgili  ihlale 
+yönelik KVK düzenlemelerine ve politikalara uygun şekilde eylem planı oluşturur.  Komisyon  konuya ilişkin 
+yürürlükteki mevzuat hükümlerini dikkate alarak ihlale ilişkin ilgili kişiye veya Kuruma yapılacak bildirimi hazırlar, 
+Kurum ile yapılacak yazışma ve iletişimi yürütür. 
+(36)  Kurulun şikayet üzerine veya ihlal iddiasını öğrenmesi durumunda resen görev alanına giren konularda 
+yapacağı inceleme için devlet sırrı niteliğindeki bilgi ve belgeler hariç Kurulun inceleme konusuyla ilgili isteyeceği 
+belge ve bilgileri en geç on beş (15) gün içinde gönderir ve gerektiğinde yerinde inceleme yapılmasına imkan sağlar 
+veya sağlatır. Eğer inceleme  sonucunda  Kurul tarafından  tespit  edilen  ve Üniversitemizden giderilmesi istenilen 
+hukuka aykırı durumlar varsa kararın Üniversiteye tebliğinden itibaren gecikmeksizin ve KVK düzenlemelerinde 
+belirtilen süreleri aşmayacak şekilde en kısa sure içerisinde kararın gereği yerine getirilir. 
+(37)  Üçüncü kişiler tarafından Kurula  yapılacak şikayete  binaen  veya  resen  Kurulun  tespit ettiği hukuka 
+aykırılıklarla ilgili Kurulun tebliğlerini takip eder, bu hususta gerekli yazışmaları yapar ve Kurulun bu konudaki 
+kararının en geç otuz (30) gün içinde olmak üzere derhal yerine getirilmesini sağlar. 
+(38)  Komisyon kişisel verilerin  hukuka  uygun  olarak işlenmesi ve  imhası ile  hukuka  aykırı  erişimin 
+önlenmesi amacıyla Üniversite çalışanlarının düzenli olarak bilgilendirilmesini ve gerektiğinde eğitim verilmesini 
+sağlar. Üniversitede kişisel verilere erişmesi  gereken çalışanların söz konusu kişisel verilere erişimini sağlamak 
+adına gerekli prosedürlerin oluşturulması ve uygulanmasından Komisyon sorumludur. Özel nitelikli kişisel verilere 
+erişim  yetkisinin verildiği sınırlı  çalışanlara ait  listenin  hazırlanması Komisyon  tarafından  işbu yönergenin 
+yürürlüğe girmesinden itibaren en geç otuz (30) gün içinde yapılır. 
+(39)  Komisyon, işlenen kişisel verilerin kanuni olmayan yollarla başkaları tarafından elde edilmesi halinde, 
+bu durumun en kısa sürede ilgilisine ve Kurula bildirilmesini sağlar. 
+(40) Komisyon, Üniversitenin kanun kapsamındaki görev, yetki ve sorumluluklarına ilişkin Kurul tarafından 
+tesis edilen tüm düzenleyici işlemlerin gereğinin yerine getirilmesini sağlar.  
+ 
+DÖRDÜNCÜ BÖLÜM 
+Çeşitli ve Son Hükümler 
+ 
+
+Kişisel Verileri Koruma Komisyonu Çalışma Usul ve Esaslarına Dair Yönerge 
+10 / 10 
+Hüküm bulunmayan haller 
+MADDE 13- (1) İşbu Yönergede yer almayan hususlarda yürürlükteki mevzuat hükümleri uygulanır 
+Yürürlük 
+MADDE  14- (1) Bu Yönerge, Fırat Üniversitesi Senatosu’nda kabul edildiği tarihte yürürlüğe girer. 
+Yönergede yapılacak değişiklikler ve yönerge düzenlemesi de aynı usule tabidir. 
+Yürütme 
+MADDE 15- (1) Bu Yönerge hükümlerini, Fırat Üniversitesi Rektörü yürütür. 
+Yönergenin Kabul Edildiği Senato Kararının Tarih ve Sayısı 
+Tarih Sayı 
+24.03.20252024-2025/11.17

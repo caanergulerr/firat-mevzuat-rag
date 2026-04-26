@@ -1,0 +1,528 @@
+Senato Karar No: 
+2023-2024/3.9 
+İlk Yayın Tarihi: 
+06.11.2023 
+Revizyon Tarihi: 
+- 
+Revizyon No: 
+0 
+Sayfa: 
+1/11 
+Sayfa 1 / 11 
+FIRAT ÜNİVERSİTESİ 
+TAŞINIR MAL VE HURDA YÖNETİMİ YÖNERGESİ 
+BİRİNCİ BÖLÜM 
+Başlangıç Hükümleri 
+Amaç ve kapsam 
+MADDE 1-  (1) Bu Yönergenin amacı;  5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu 
+gereği, Fırat Üniversitesi bünyesindeki akademik ve idari birimlerin ihtiyaç fazlası taşınır mallarının 
+tespiti,  etkin,  ekonomik,  verimli  kullanılması,  hurdaya  ayrılması,  hurdaya  ayrılacak  taşınırların 
+kayıttan çıkış işlemleri, muhafazası ve satışı ile ilgili süreçlerin yönetimine ilişkin usul ve esasları 
+düzenlemektir. 
+(2) Bu Yönerge, Fırat Üniversitesi’ne bağlı akademik ve idari birimlerin tasarrufunda bulunan 
+tüm taşınır malları ve üretim/yıkım sırasında oluşan artık parçalardan ekonomik değeri olan hurdalar 
+ile ilgili işleyişi kapsamaktadır. 
+Dayanak 
+MADDE 2-  (1) Bu Yönerge, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun 8, 11,  
+44, 50,  55  ve  56 ncı maddelerine,  2547 sayılı Yükseköğretim Kanununun 12/b ve Taşınır Mal 
+Yönetmeliğinin 28 inci maddesine dayanılarak hazırlanmıştır. 
+Tanımlar  
+MADDE 3- (1) Bu Yönergede geçen; 
+a)Akademik  Birimler:  Üniversitenin  fakülte,  yüksekokul,  meslek  yüksekokulu,  enstitü,
+uygulama ve araştırma merkezi ve benzeri harcama birimlerini, 
+b)Döner Sermaye Mali Yönetim Sistemi: Hazine ve Maliye Bakanlığı tarafından geliştirilen
+döner sermaye muhasebe ve taşınır mal işlemlerinin yapıldığı otomasyonu, 
+c)Harcama Birimi: Bütçeyle ödenek tahsis edilen her bir birimi,
+ç) Hurda: Ekonomik ömrünü tamamlamış olan veya tamamlamadığı hâlde  teknik  ve  fiziki 
+nedenlerle alınış amaçları doğrultusunda kullanılma imkânı kalmayan, tamiri mümkün ve ekonomik 
+olmayıp, arızalar nedeniyle kullanılmasında yarar görülmeyerek hizmet dışı bırakılan taşınırlar ile 
+üretim sırasında elde edilen kırpıntı, döküntü ve artık parçaları, 
+d)İdari Birimler: Üniversitenin İç Denetim Birimi, Genel Sekreterlik, Daire Başkanlıkları,
+Hukuk Müşavirliği, müstakil Müdürlükleri ve benzeri harcama birimlerini, 
+e)Kamu  Harcama  ve  Muhasebat  Bilişim  Sistemi  (KBS): Hazine  ve  Maliye  Bakanlığı
+tarafından harcama ve muhasebe birimlerinin mali işlemlerini, otomasyon sistemi içinde toplamak 
+suretiyle harcamayı tahakkuk ettiren harcama birimleri ile ödemeyi gerçekleştiren muhasebe birimleri 
+arasında güvenli, hızlı ve elektronik ortamda bilgi akışını sağlamak amacıyla geliştirilen otomasyonu, 
+f)Kayıttan Düşme Teklif ve Onay Tutanağı: Taşınır Mal Yönetmeliği eki; Örnek No:10,
+g)Limit:  Hazine  ve  Maliye  Bakanlığı  tarafından  yıllık yayımlanan “Parasal  Sınırlar  ve
+Oranlar” başlıklı Genel Tebliğ  ekinde  bulunan tabloda “Taşınır Malların Kayıttan Çıkarılması” 
+başlığı altında yer alan Limiti, 
+ğ) Ödeme Emri Belgesi: İdarelerce bütçeden yapılacak kesin ödemeler için düzenlenen Genel 
+Yönetim Muhasebe Yönetmeliği (Ek-1) örnek numaralı Ödeme Emri Belgesini, ön ödeme suretiyle 
+yapılacak ödemelerde ise söz konusu Yönetmeliğin (Ek-2) örnek numaralı Muhasebe İşlem Fişini, 
+h)Rektör: Fırat Üniversitesi Rektörünü,
+ı) Rektörlük: Fırat Üniversitesi Rektörlüğünü, 
+i)Yönetmelik: Taşınır Mal Yönetmeliğini (TMY),
+j)Taşınır İşlem Fişi (TİF): Şekli ve içeriği Yönetmelik ekinde yer alan Örnek No: 5,
+k)Taşınır Yönetim Birimi: Yönergede belirtilen görevleri yürütmek üzere İdari ve Mali İşler
+Daire Başkanlığı bünyesinde oluşturulan birimi,
+l)Üniversite: Fırat Üniversitesini,
+
+ Taşınır Mal ve Hurda Yönetimi Yönergesi 
+Sayfa 2 / 11 
+m)   İhtiyaç Fazlası Taşınır Uygulaması: Bu uygulama için www.muhasebat.gov.tr adresinden 
+“KBS UYGULAMALARI” alanı veya www.kbs.gov.tr adresini, 
+n)   Taşınır Kayıt ve Yönetim Sistemi (TKYS): Bu sistem, Bütünleşik Kamu Mali Yönetim 
+Bilişim  Sistemi  (BKMYBS)  arasında  entegrasyon  sağlanarak  taşınır  işlemlerine  ilişkin 
+harcama ve muhasebeleştirme süreçleri elektronik olarak gerçekleştirildiği uygulama.  
+(Bu uygulama için www.kbs.gov.tr/TMYS adresine giriş yapılır) 
+ifade eder. 
+ 
+Taşınır işlemleri, komisyonlar ve roller 
+MADDE 4- (1) Taşınır Giriş İşlemleri şunlardır: 
+a) Satın Alma 
+b) Bağış ve Yardım 
+c) Devir Alma 
+ç) İade 
+d) Sayım Fazlası 
+(2) Taşınır Çıkış İşlemleri şunlardır: 
+a) Tüketim 
+b) Devir Etme 
+c) Bağış ve Yardım 
+ç) Satış 
+d) Kullanılmaz Hâle Gelme, Yok Olma veya Sayım Noksanı 
+e) Hurdaya Ayırma 
+(3) Komisyonlar şunlardır: 
+a) Değer Tespit Komisyonu 
+b) Hurdaya Ayırma/İmha İşlemleri Komisyonu 
+c) Muayene Kabul Komisyonu 
+ 
+(4) Taşınır İşlemlerinde Roller şunlardır: 
+a) Taşınır Kayıt Yetkilisi: Harcama yetkililerince, memuriyet veya çalışma ünvanına bağlı 
+kalmaksızın, taşınır kayıt ve işlemlerini Yönetmelikte belirtilen usule uygun şekilde yapabilecek bilgi 
+ve niteliklere sahip personel arasından görevlendirilir. Dış temsilciliklerde taşınır kayıt yetkilileri 
+misyon şefleri tarafından görevlendirilir. 
+b) Taşınır Kontrol Yetkilisi: Harcama yetkililerince, taşınır kayıt yetkilisinin yapmış olduğu 
+kayıt  ve  işlemleri  kontrol  etmek  üzere  yardımcılarından  veya  bunların bir  alt  kademesindeki 
+yöneticileri arasından görevlendirilir. 
+c) Taşınır Konsolide Yetkilisi: Kamu idaresinin taşınır hesaplarını kurumsal sınıflandırmanın 
+II’nci, mahalli idarelerde ise kurumsal sınıflandırmanın III’üncü düzeyi itibarıyla birleştirmek ve üst 
+yönetici adına idare taşınır mal yönetimi ayrıntılı hesap cetveli ile idare taşınır mal yönetim hesabı 
+icmal  cetvelini  hazırlamak  üzere  merkezde  mali  hizmetler  birimi  yöneticisine  bağlı  konsolide 
+görevlisi belirlenir. 
+ç) Harcama  Yetkilisi:  Harcama  yetkilileri taşınırların etkili, ekonomik, verimli ve hukuka 
+uygun olarak edinilmesinden, kullanılmasından, kontrolünden, kayıtlarının Yönetmelikte belirtilen 
+esas ve usullere göre saydam ve erişilebilir şekilde tutulmasını sağlamaktan sorumludur. Harcama 
+yetkilileri taşınır kayıtlarının Yönetmelik hükümlerine uygun olarak tutulması ve taşınır mal yönetim 
+hesabının hazırlanması sorumluluğunu taşınır kayıt yetkilileri ve taşınır kontrol yetkilileri aracılığıyla 
+yerine getirir. 
+(5) Harcama  yetkilileri, taşınırlara ilişkin işlem ve kayıtların usule uygun olarak  yapılıp 
+yapılmadığını kontrol etmeye veya ettirmeye; kasıt, kusur veya ihmal sonucu kırılan, bozulan veya 
+kaybolan taşınırların ilgililerden tazmini için gerekli işlemleri yapmaya veya yaptırmaya yetkilidir. 
+ 
+ 
+
+ Taşınır Mal ve Hurda Yönetimi Yönergesi 
+Sayfa 3 / 11 
+İKİNCİ BÖLÜM 
+İhtiyaç Fazlası Taşınırların Yönetimi ve Devri 
+İhtiyaç fazlası taşınırların tespiti  
+MADDE 5- (1) Harcama  birimleri, kullanılabilecek  düzeyde  olan  ihtiyaç  fazlası  taşınır 
+mallarını;  her yıl Haziran ve Aralık ayının ilk haftası içerisinde olmak üzere yılda iki kez İdari ve 
+Mali İşler Daire Başkanlığına bağlı Taşınır Yönetim Birimine bildirir. 
+İhtiyaç fazlası taşınırların ilanı  
+MADDE 6-  (1) Taşınır Yönetim Birimi; harcama birimlerinden gelen ihtiyaç fazlası taşınır 
+listesini  konsolide  ederek,  özellikleri  ile  birlikte diğer  birimler  için  İdari  ve  Mali  İşler  Daire 
+Başkanlığı web sayfasından ilan eder.  
+İhtiyaç fazlası taşınırların devri  
+MADDE 7- (1) İlan edilen ihtiyaç fazlası taşınırı devralmak isteyen harcama birimi, İdari ve 
+Mali İşler Daire Başkanlığı Taşınır Yönetim Birimine talepte bulunur. Taşınır Yönetim Birimi, taşınır 
+devir sürecinin Yönetmeliğe uygun olarak gerçekleşmesini koordine eder. Ancak, devir işlemleri 
+taşınırın kayıtlı olduğu harcama birimi ile talep eden harcama birimi arasında yürütülür.  
+(2)  İlan  edilen  ihtiyaç  fazlası  taşınıra  bir yılsonunda Üniversite içinden  talep  olmaması 
+hâlinde; Yönetmeliğin 31 inci maddesi hükümlerine uygun olan taşınırların Üniversitenin muhtemel 
+ihtiyaçları gözetilerek  Taşınır  Yönetim  Birimi  tarafından  KBS  “İhtiyaç  Fazlası  Taşınır 
+Uygulaması”ndan tüm kamu idarelerine duyurulması sağlanır. Ayrıca ihtiyaç fazlası taşınırlar, gerek 
+görülmesi hâlinde kamu idarelerine yazılı olarak bildirilir.  Taşınır Yönetim Birimi, talep olması 
+hâlinde devir işlemlerinin Yönetmeliğe uygun olarak gerçekleşmesi sürecini koordine eder. 
+(3) Taşınırların, Üniversite dışında bir kamu idaresine bedelsiz devrinde ve harcama birimleri 
+arasındaki devrinde her yıl Hazine ve Maliye Bakanlığı tarafından yayımlanan ‘Parasal Sınırlar ve 
+Oranlar’ başlıklı Genel Tebliğinde yer alan parasal sınırlar dikkate alınır. Devir işleminde taşınırların 
+değerleri söz konusu sınırlar dâhilinde ise harcama yetkilisinin, üzerinde ise Rektör’ün onayı ile 
+yapılır. Devir işlemlerinin birden fazla taşınırı ihtiva etmesi hâlinde söz konusu sınırlar taşınır bazında 
+değil, işlem bazında uygulanır. 
+(4) Kamu idarelerinin talebinin Rektörlük tarafından uygun görülmesi hâlinde ihtiyaç fazlası 
+taşınırlar, yukarıda  belirtilen  süreler  dikkate  alınmaksızın  Taşınır  Mal  Yönetmeliğinin  31  inci 
+maddesi hükümlerine göre devredilebilir. 
+(5) Taşınır Yönetim Birimi tarafından KBS “İhtiyaç Fazlası Taşınır Uygulama” sayfasından 
+ilanı yapılan taşınırlara bir yıl kadar talep olmaması durumunda, ilgili harcama birimince  hurdaya 
+ayırma/satış işlemi başlatılabilir. 
+ÜÇÜNCÜ BÖLÜM 
+Hurdaya Ayırma Komisyonu, Görev ve Sorumluluklar 
+Komisyonun oluşturulması  
+MADDE 8- (1) Komisyonda görev alacak uzman üyeler:  
+a)  Bilgisayar  ve  donanımları  ile  yazıcı,  faks,  kamera  vb.  için  Bilgi  İşlem  Daire 
+Başkanlığından, 
+b) Makine teçhizat,  mobilya ve mefruşat için Yapı İşleri ve Teknik Daire Başkanlığından, 
+c) Tıbbi ve kimyasal içerikli atıklar için Sağlık Kültür Spor Daire Başkanlığı veya alanla ilgili 
+diğer akademik/idari birimlerden, 
+(2) Hurdaya Ayırma Komisyonu; harcama yetkilisi tarafından harcama birimi taşınır kayıt 
+yetkilisi ve bir uzman üye zorunlu olmak üzere en az üç kişiden oluşturulur. 
+Komisyonun görev, yetki ve sorumlulukları  
+MADDE 9- (1) Hurdaya Ayırma Komisyonunun görevleri şunlardır: 
+a) Taşınırların  hurdaya  ayrılmasının  değerlendirilmesinde  kamu  kaynaklarının  etkili, 
+ekonomik  ve  verimli  bir  şekilde  kullanılması,  hesap  verebilirliği  ve  mali  saydamlığı  sağlamak 
+ilkesine göre yapmak. 
+b) Öncelikle taşınırın tamir ve bakım yoluyla kullanıma kazandırılmasını değerlendirmek. 
+c) Taşınırı,  Üniversitenin  diğer  harcama  birimleri  veya  diğer  kamu  idareleri  tarafından 
+kullanılabilirliği açısından değerlendirmek. 
+
+ Taşınır Mal ve Hurda Yönetimi Yönergesi 
+Sayfa 4 / 11 
+ç) Muhteviyatı itibarı ile diğer harcama birimlerindeki taşınırlarla parçaları birleştirilebilecek 
+durumda olan taşınırın imha edilmeyerek ekonomiye kazandırılmasını sağlamak. 
+d) Komisyonca  yapılan  değerlendirme  sonucunda  hurdaya  ayrılması  uygun  görülmeyen 
+taşınırlar hakkındaki ilgili kararı harcama yetkilisine bildirmek. 
+e) Komisyonca hurdaya ayrılmasına karar verilenler için ise, “Kayıttan Düşme Teklif ve 
+Onay Tutanağı” düzenlemek. Bu tutanakta taşınır sicil numarası belirtilir ve ilgili taşınırın fotoğrafı 
+tutanağa eklenir. 
+f) Hurdaya ayrılan taşınırları cinslerine, bulundukları duruma,  yapılarındaki maden veya 
+madeni bileşenlerden mamul olup olmadığına ve ekonomik değerlerinin bulunup bulunmadığına göre 
+raporda belirtmek. 
+g) Laboratuvarlarda,  atölyelerde  veya  inşaat  ve  yapım  işleri  sırasında  düzeltmesi 
+yapılamayacak şekilde bozulan ve başka maksatla kullanılma imkânı olmayan iktisadi kıymetler, 
+kırpıntı, döküntü gibi esas gayesinde kullanılması imkânı kalmayan malzeme atık ve parçaların 
+hurdaya ayrılmasını sağlamak. 
+ğ) Ekonomik   değeri  olmayan  çöp  niteliğindeki ürünlerin;  Belediyenin  çöp  alanına 
+dökülmesine veya  ahşap veya  metal olanların  marangozhanede veya  ilgili  akademik  birimlerde 
+kullanımını sağlamak. 
+DÖRDÜNCÜ BÖLÜM 
+Taşınır Yönetim Birimi, Görev ve Sorumlulukları 
+Taşınır Yönetim Birimi 
+MADDE 10- (1) Üniversitemiz taşınır mallarının etkin, verimli ve ekonomik kullanılmasını 
+sağlayarak ihtiyaç fazlası taşınır mal ve hurda sürecini yürütmek üzere İdari ve Mali İşler Daire 
+Başkanlığı bünyesinde Taşınır Yönetim Birimi kurulur. 
+(2) Üniversite  harcama  birimlerince  hurdaya  ayrılarak  çıkışı  yapılan  taşınırların; 
+değerlendirilmesi,  güvenliğinin  sağlanması,  ilgili  mevzuata  göre  Makine  ve  Kimya  Endüstrisi 
+Anonim Şirketine satışı ile demir aksanından ayrışmış olarak hurda alanında  bulunan  ekonomik 
+değerli atıkların satış işlemleri İdari ve Mali İşler Daire Başkanlığı/Taşınır Yönetim Birimi tarafından 
+yapılır.  
+(3) Taşınır Yönetim Biriminde görev yapmak üzere; 
+a)  Taşınır mevzuatı konusunda tercihen eğitim almış/tecrübe kazanmış bir birim yetkilisi, 
+b)  Gerektiğinde bilgisayar ve  donanımları  ile  yazıcı,  faks,  kamera  vb. ürünleri söküp 
+parçalayıp değerlendirmek üzere; Bilgisayar Teknikeri veya Bilgisayar Teknisyeni, 
+c)  Gerektiğinde makine,  teçhizat,  tesisat  ve  cihaz  vb.  ürünleri  söküp  parçalayıp 
+değerlendirmek için Makine Teknikeri veya Makine Teknisyeni, 
+ç)  Mobilya,  ofis  gruplarını ve çalışma koltuklarını söküp parçalayıp değerlendirmek için; 
+Marangoz Ustası veya Mobilya Ustası olmak kaydıyla yeteri kadar personel,  
+d) Hurdalık alanının güvenliğini sağlamak ve oradaki giriş çıkış işlemlerini yönetmek üzere 
+bir daimi personel görevlendirilir. 
+Taşınır Yönetim Biriminin görev, yetki ve sorumlulukları  
+MADDE 11- (1) İhtiyaç fazlası taşınır süreciyle ilgili Taşınır Yönetim Biriminin görev, yetki 
+ve sorumlulukları şunlardır:  
+a)  Harcama  birimlerindeki ihtiyaç fazlası taşınırların tespiti ve bunların etkin, ekonomik, 
+verimli bir şekilde kullanılması süreçlerini koordine etmek. 
+b) Taşınırların etkin, ekonomik, verimli kullanılması ve ihtiyaç fazlası taşınırların tespiti için 
+Rektörlük onayı ile yerinde kontroller yapmak veya bu konuda komisyon kurmak.  
+c) İhtiyaç  fazlası taşınırların Üniversitenin ihtiyacı olan harcama birimlerine veya kamu 
+idarelerine devrini koordine etmek. 
+ç) Taşınırların etkin, verimli ve ekonomik kullanılmama durumları hakkında tespit edilen 
+izlenimleri, yılda en az bir kere (takip eden yılın Ocak ayının sonuna kadar) Rektörlük makamına 
+raporlamak. 
+(2) Taşınırların hurdaya ayrılması süreciyle ilgili Taşınır Yönetim Biriminin görev, yetki ve 
+sorumlulukları şunlardır:  
+
+ Taşınır Mal ve Hurda Yönetimi Yönergesi 
+Sayfa 5 / 11 
+a) Taşınırların hurdaya ayrılması süreçlerinde ihtiyaç duyulması hâlinde harcama birimlerine 
+danışmanlık yapmak, onları koordine etmek. 
+b) Komisyon tarafından hazırlanan rapor doğrultusunda, harcama birimi tarafından cins ve 
+durumlarına göre ayrıştırılarak hurdalık alana getirilen hurdaları tutanaklar ile teslim almak.  
+c) Kullanılabilir durumdaki ahşap veya metal hurdaların Üniversite marangozhanesinde veya 
+ilgili akademik birimlerde değerlendirilmesini sağlamak veya hurda niteliğinde olanların diğer katı 
+yakıt kullanılan yerlerde kullanılmasını sağlamak. 
+ç) İmhasına karar verilen hurdaları usulüne göre yakmak, gömmek veya eritmek suretiyle 
+imhasının yapılmasını koordine etmek. 
+d) Hizmet  binalarında  yapılan  tadilat  esnasında  oluşan  atıklar  ile  ekonomik  değeri olan 
+hurdaların hurdalık alanda ayrı ayrı tasnif edilmesini koordine etmek. 
+e)  Hurdaların, 19/03/2001  tarihli  2001/15  sayılı Genelge  doğrultusunda  Makine  Kimya 
+Endüstrisi  Anonim  Şirketi tarafından  alınmasını  ve  bedelinin  Üniversite  bütçesine  gelir 
+kaydedilmesini sağlamak ile muhasebe kayıtları için Strateji Geliştirme Daire Başkanlığına (SGDB) 
+gelir belgesini/bilgisini sunmak. 
+f) Hurdaya ayrılan ve hurdaya ayrılması teklif edildiği hâlde komisyon tarafından hurdaya 
+ayrılması uygun görülmeyen taşınırlar ile satışı yapılan hurdalarla ilgili yılda en az bir kere (Takip 
+eden yılın Ocak ayının sonuna kadar) Rektörlük Makamına rapor sunmak. 
+g) Yönergede belirlenen süreçlerle ilgili ihtiyaç duyulan standart formları hazırlamak. 
+ğ) Yılda en az bir kere, taşınır ve hurdaya ayırma süreçlerinin işleyişi, yaşanan aksaklıklar,  
+süreçlerin işleyişi konularında Rektörlük Makamına rapor sunmak.  
+Harcama birimlerinin sorumlulukları  
+MADDE 12- (1) Harcama birimlerinin sorumlulukları şunlardır: 
+a) İhtiyaç fazlası olan taşınırları, bu Yönerge ile belirlenen takvim doğrultusunda, Taşınır 
+Yönetim Birimine bildirmek. 
+b) Taşınır  Kayıt  Yetkilisini,  taşınır  süreci  ile  ilgili  eğitim  almış  personel  içinden 
+görevlendirmek  veya  eğitimini  sağlamak  ile görevlendirilen  Taşınır  Kayıt Yetkilisi  ile  Taşınır 
+Kontrol Yetkilisini, Taşınır Yönetim Birimi ile Strateji Geliştirme Daire Başkanlığına bildirmek. 
+c) Taşınır işlemlerini, mevzuatına uygun olarak yürütmek. 
+ç) Muhasebe kayıtlarından düşülmesi için Strateji Geliştirme Daire Başkanlığına gönderilen 
+“Kayıttan  Düşme  Teklif  ve  Onay  Tutanağı”  ekinde  bu  Yönergeye  göre  oluşturulan  komisyon 
+raporunu  eklemek  (Komisyon  raporu  olmadan  Strateji  Geliştirme  Daire  Başkanlığı  tarafından 
+kayıttan düşme işlemi yapılamaz). 
+d) Komisyon tarafından hazırlanan rapor doğrultusunda, ayrıştırılması gereken hurdaların 
+bulundukları duruma, yapılarındaki maden veya madeni halitalardan mamul olmalarına ve ekonomik 
+değerlerine göre ayrıştırılmasını sağlamak. 
+e) Hurdalık alana dökülecek çöp/demir aksan/ahşap/teknik parça gibi geri dönüşüme uygun 
+malzemeleri ayrıştırmak ve hurda alanına teslim ederken de bu ayrımı gösteren tutanak ile İdari ve 
+Mali İşler Daire Başkanlığı tarafından birimlere yazılı olarak bildirilen görevliye teslim etmek. 
+f) Yönetmeliğin  33’üncü maddesine  göre,    taşınır  kayıt  yetkililerinin,  sorumlulukları 
+altındaki  ambarlarda  bulunan  taşınırları  ve  bunlara  ilişkin  kayıt  ve  belgeleri,  yerlerine 
+görevlendirilenlere devretmeden görevlerinden ayrılmalarına izin vermemek. 
+BEŞİNCİ BÖLÜM 
+Hurdaya Ayırma İşlemleri 
+Hurdaya ayırma takvimi 
+ MADDE 13- (1) Hurdaya ayırma işlemleri; Şubat, Mayıs, Ağustos ve Kasım aylarında olmak 
+üzere yılda dört defa yapılır.  Acil durumlarda, İdari ve Mali İşler Daire Başkanlığı/Taşınır Yönetim 
+Biriminden izin alınarak işlem yapılabilir. 
+Hurdaya ayırma işlemleri  
+MADDE 14- (1)  Harcama birimleri; Yönetmeliğin 28 inci maddesi hükümleri doğrultusunda 
+ekonomik ömrünü tamamlamış veya teknik ve fiziki nedenlerle kullanılmasında yarar görülmeyerek 
+
+ Taşınır Mal ve Hurda Yönetimi Yönergesi 
+Sayfa 6 / 11 
+hizmet dışı bırakılması gerektiği düşünülen taşınırları hurdaya ayırma işlemleri için bu Yönergede 
+belirlenen takvim ve usule göre “Hurdaya Ayırma Komisyonu”nu kurar (Ek:1-2). 
+(2) Harcama birimleri; komisyon tarafından hurdaya ayrılması uygun görülen taşınırları, 
+hurdaya ayırdığı ay içerisinde bulundukları duruma, yönergenin 12/e maddesinde belirtildiği gibi 
+yapılarındaki maden veya madeni halitalardan mamul olup olmamalarına ve ekonomik değerlerine 
+göre ayrıştırıp Taşınır Kayıt Yetkilisi nezaretinde; Kayıttan Düşme Teklif ve Onay Tutanağı ve 
+Kayıttan  Düşme  Taşınır  İşlem  Fişi  (TİF)  ile  birlikte  Taşınır  Yönetim  Biriminin  kontrolünde 
+Üniversitenin hurdalık alanına teslim eder. Hurdaya ayırma Süreci Ek-3’te verilmiştir. 
+(3) Taşınır Yönetim Birimi; ahşap malzemelerin Üniversitemiz veya diğer kamu idarelerinin 
+katı yakıt kullanılan yerlerinde değerlendirilmesini sağlar.  
+(4) Ayrıştırılarak hurdalık alana dökülen malzemelerden  ekonomik değeri olanların MKE 
+A.Ş.’ye  satılmasından  ve  geri  dönüşüme  verilecek  olan  atıkların  değerlendirilmesinden Taşınır 
+Yönetim Birimi sorumludur  ve ekonomik değeri olan bu hurda ve atıkların satılması ile bedelinin 
+Üniversiteye gelir olarak kaydedilmesini sağlar.  
+(5) Taşınır Yönetim Birimi; imhasına karar verilenlerin usulüne göre yakılması, gömülmesi, 
+eritilmesi vb. yöntemlerle imha edilmesini koordine eder.  
+Taşıtların hurdaya ayrılması  
+MADDE 15- (1) Taşıtların hurdaya ayrılması, 05.01.1961 tarih ve 237 sayılı Taşıt Kanununun 
+13 üncü maddesine göre; 
+“– Bu kanunun konusuna giren taşıtların satılabilmeleri, ya tahsis edildiği hizmet konusunun 
+artık kalmamış olmasına veya ekonomik ömrünü doldurmuş bulunmasına bağlıdır. Bu taşıtların 
+ekonomik ömürlerini doldurmuş olmaları hâli ilgili dairesinin teklifi üzerine Karayolları veya Devlet 
+Su İşleri idaresinden bir makine uzmanı, kurumun yetkili bir personeli ile trafik teşkilatından bir 
+uzmandan teşekkül edecek komisyon tarafından hazırlanacak raporla belirtilir. Bu raporlar kurumun 
+bağlı olduğu bakanlıkların tasvibine sunulur. Bu taşıtlar yürürlükte bulunan hükümlere göre satılır. 
+Hizmet  konusunun  kalmaması  hâlinde  taşıtlar, gereği  yapılmak  üzere  Devlet  Malzeme  Ofisine 
+devredilir” hükmü uyarınca işlem yapılır.  
+(2) Taşıtların hurdaya ayrılma işlemleri, garaj biriminin bağlı olduğu Yapı İşleri ve Teknik 
+Daire Başkanlığı sorumluluğundadır.  
+Bayrağın hurdaya ayrılması  
+MADDE  16- (1) Eskimiş, solmuş, yırtılmış, kullanılamayacak duruma gelmiş ve düşümü 
+tamamlanmış olan bayraklar, tutanakla Taşınır Yönetim Biriminde toplanarak “Eskimiş, Solmuş, 
+Yırtılmış ve Kullanılamayacak Duruma Gelmiş Bayrakların Yok Edilmesi Usul ve Esaslarını Gösterir 
+Yönetmelik” uyarınca Valiliğe üst yazı ile teslim edilir. 
+Hurda değeri olmayan ve ayrıştırılamayan taşınırlar  
+MADDE 17- (1) Bu Yönerge kapsamında oluşturulan komisyon tarafından hurdaya ayrılan 
+taşınırlardan Makine Kimya Endüstrisi Kurumuna satışı yapılamayacak olan ve yatak, kanepe, koltuk 
+gibi ayrıştırılması ekonomik olmayan taşınırlar ile kalorifer kazanı veya diğer katı yakıt kullanılan 
+yerlerde yakılarak değerlendirilemeyen atıklar (çöp vasfında kabul edilenler), Belediyeden alınan yer 
+bilgisi uyarınca gösterilen (Taşınır Yönetim Birimince önceden bildirilen) alanlara bıraktırılır. 
+Döner sermaye işletmesi bütçesinden alınan taşınırların kayda alınması 
+MADDE  18- (1) “Yükseköğretim Kurumları Döner Sermaye İşletmelerinin Kurulmasına 
+İlişkin Yönetmelik” in 13 üncü maddesi uyarınca işlemler yapılır. 
+Bağış yoluyla edinilen taşınırların kayda alınması 
+MADDE 19- (1) 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun 40 ıncı maddesi ile 
+diğer mevzuat çerçevesinde bağış yoluyla edinilen taşınırlar, bağışta bulunan tarafından kanıtlayıcı 
+bir  belge  ile  belgelendirilen  değer  üzerinden,  kanıtlayıcı  belge  yoksa  değer  tespit  komisyonu 
+tarafından belirlenecek değer üzerinden kayda alınır. 
+Sayım fazlası taşınırların kayda alınması 
+MADDE 20- (1) Sayım fazlası olarak tespit edilen taşınırlar,  Taşınır İşlem Fişi düzenlenerek 
+kayıtlara alınır. Sayım fazlası taşınırlar kaydedilirken son bir yıl içinde söz konusu taşınırla aynı 
+
+ Taşınır Mal ve Hurda Yönetimi Yönergesi 
+Sayfa 7 / 11 
+nitelikte olup girişi yapılan taşınır varsa bu taşınırın değeri, yoksa değer tespit komisyonu tarafından 
+belirlenecek değer esas alınır. 
+Bina yapım aşamasında projeye dâhil edinilen taşınırların kayda alınması 
+MADDE  21- (1) Bina yapım aşamasında projeye dâhil edinilen dayanıklı taşınırlar, KBS 
+üzerinden envanter girişi yapılarak kayda alınır.  
+Kurum tarafından imalatı yapılan taşınırların kayda alınması 
+MADDE  22- (1) Yapı İşleri ve Teknik Daire Başkanlığı atölyelerinde veya diğer birim 
+atölyelerinde imalatı yapılan dayanıklı taşınırlar, KBS üzerinden envanter girişi yapılarak kayda alınır.  
+ALTINCI BÖLÜM 
+Yılsonu İşlemleri 
+Taşınır sayımları ve sayım sonrası yapılacak işlemler 
+MADDE 23- (1) Taşınır sayımı üç durumda gerçekleştirilir; 
+a) Taşınır kayıt yetkilisinin görevinden ayrılması durumunda, 
+b) Yılsonu işlemlerinde, 
+c) Rektör ya da harcama yetkilisinin gerekli gördüğü durumlarda.. 
+(2) Harcama yetkilisince, kendisinin veya taşınır kontrol yetkilisi başkanlığında taşınır kayıt 
+yetkilisinin de katılımıyla, en az üç kişiden oluşturulan Sayım Kurulu tarafından sayım yapılır. 
+(3) Sayım süresince, hizmetin aksamaması ve bozulabilecek nitelikteki taşınırlar için gerekli 
+tedbirlerin alınması kaydıyla, taşınır giriş ve çıkışları Sayım Kurulunun talebi üzerine harcama 
+yetkilisince durdurulabilir. Sayım yapılırken gerekli önlemlerin alınması, Sayım Kurulunun görev ve 
+sorumluluğu altındadır. 
+(4) Sayım Kurulu öncelikle, taşınır kayıt yetkilisince ambarda bulunduğu veya ambardan 
+çıktığı hâlde belgesi düzenlenmediği ve kayıtları yapılmadığı belirtilen taşınırlara ilişkin işlemlerin 
+yaptırılmasını sağlar. Daha sonra yılsonu itibarıyla en son düzenlenen TİF’in sıra numarasını gösteren 
+tutanak düzenlenerek Kurul üyelerince imzalanır. 
+(5) Sayım Tutanağının “Kayıtlara Göre Ambardaki Miktar” sütunu, defter kayıtları esas 
+alınarak  doldurulduktan  sonra  ambarlardaki  taşınırlar  fiilen  sayılır  ve  bulunan  miktarlar  Sayım 
+Tutanağının ‘Ambarda Bulunan Miktar’ sütununa kaydedilir. 
+(6) Sayım Kurulu, dayanıklı taşınırlar üzerinde olması gereken barkodlu etiketin Yönergenin 
+ilgili maddesine göre uygunluğunu kontrol eder. 
+(7) Ambar sayım işlemleri tamamlandıktan sonra oda, büro, bölüm, koridor, sınıf, amfi, 
+mescit,  geçit,  salon,  atölye,  garaj  ve  servis  gibi  ortak  kullanım  alanlarında  bulunan  taşınırlar 
+‘Dayanıklı Taşınırlar Listeleri’ esas alınarak sayılır ve sayım sonuçları Sayım Tutanağında gösterilir. 
+Kullanım amacıyla Üniversite personeline taşınır teslim belgesiyle verilmiş olan taşınırlar için, sayım 
+yapılmaksızın Sayım Tutanağının ‘Kayıtlara Göre Kişilere Verilen Miktar’ sütunundaki bilgiler 
+dikkate alınır. 
+(8) Sayımda bulunan miktar ile kayıtlı miktar arasında fark bulunması hâlinde miktarlarında 
+farklılık bulunan taşınırların sayımı bir kez daha tekrarlanır. Yine farklı çıkarsa bu miktar "Fazla" 
+veya "Noksan" sütununa kaydedilir. 
+(9) Sayım Kurulunca, taşınırların fiili miktarlarının kayıtlı miktarlardan eksik olduğunun 
+tespit edilmesi  hâlinde ‘Kayıttan Düşme Teklif ve Onay Tutanağı’ ve TİF; fazla olduğunun tespit 
+edilmesi hâlinde ise TİF düzenlenerek, TKYS kayıtlarının sayım sonuçlarıyla uygunluğu sağlanır. 
+(10) Düzenlenen giriş ve çıkış belgelerinin bir örneği, muhasebe kayıtlarının yapılması için 
+SGDB’ye gönderilir. 
+(11) Kayıtların sayım sonuçlarıyla uygunluğu sağlandıktan sonra Sayım Kurulu tarafından 
+‘Taşınır Sayım ve Döküm Cetveli’ imzalanır. Bu Cetvel ve eki sayım tutanağı ile sayım sonuçlarına 
+göre düzenlenen giriş ve çıkış belgeleri, taşınır kayıt yetkilisinin yıl sonu hesabını oluşturur. 
+(12) Yılsonu işlemleri süresince taşınır kayıt yetkilisine yıllık izin kullandırılmaz. 
+(13) Taşınır Kayıt Yetkilisi Sayım Kurulunun doğal üyesidir. En az üç kişiden oluşacak 
+kurulun yıl sonu işlemlerinde diğer üyelerinin kimler olacağına harcama yetkilisi karar verir. 
+
+ Taşınır Mal ve Hurda Yönetimi Yönergesi 
+Sayfa 8 / 11 
+(14) Birinci fıkranın (a) bendi gereğince oluşturulacak Sayım Kurulunun üyeleri arasında eski 
+ve yeni taşınır kayıt yetkilisi ile taşınır kontrol yetkilisi yer alır. Harcama yetkilisi üye sayısını 
+arttırabilir. 
+Harcama birimlerince düzenlenecek bilgi belge ve malî raporlar 
+MADDE  24- (1)  Taşınır  mal  yönetim  hesabı:  Kanunun, kaynakların  kullanılması  ve 
+yönetilmesi  konusunda  harcama  birimi  ve  harcama  yetkililerine  yüklediği  sorumluluğun  gereği 
+olarak taşınır kayıt ve işlemlerinin usulüne uygun yapılıp yapılmadığının, harcama yetkilisi tarafından 
+kontrol ve denetimine esas olmak üzere taşınır kayıt yetkilisi tarafından harcama birimleri itibarıyla 
+hazırlanır. Taşınır kontrol yetkilisince, kayıt ve belgeler ile malî tablolara uygunluğu kontrol edilerek 
+imzalanır. Taşınır mal yönetim hesabında; önceki yıldan devredilen, bulunduğu yıl içinde giren, çıkan 
+ve ertesi yıla devredilen taşınırlar ile yılsonu sayımında bulunan fazla ve noksanlar gösterilir. 
+(2) Taşınır mal yönetim hesabı aşağıdaki belgelerden oluşur: 
+a) Yılsonu sayımına ilişkin Sayım Tutanağı 
+b) Taşınır Sayım ve Döküm Cetveli 
+c) Harcama Birimi Taşınır Mal Yönetim Hesabı Cetveli; müze ve kütüphane olarak faaliyet 
+gösteren harcama birimlerinde Müze/Kütüphane Yönetim Hesabı Cetveli 
+ç) Yılsonu itibarıyla en son düzenlenen TİF’in sıra numarasını gösterir tutanak 
+(3) Taşınır kayıt  yetkilisince, Sayım Kurulu tarafından imzalanan Taşınır Sayım ve Döküm 
+Cetveline dayanılarak iki nüsha Harcama Birimi Taşınır Mal Yönetim Hesabı Cetveli, Müze Yönetim 
+Hesabı Cetveli ve/veya Kütüphane Yönetim Hesabı Cetveli düzenlenir. Bünyesinde tarihi veya sanat 
+değeri olan taşınırlar ile kütüphane materyalleri bulunan harcama birimleri söz konusu cetvellerden 
+ilgili olanı ayrıca düzenler. 
+(4) Harcama Birimi Taşınır Mal Yönetim Hesabı Cetveli, Müze Yönetim Hesabı Cetveli 
+ve/veya Kütüphane Yönetim Hesabı Cetvelini taşınır sayım ve döküm cetveline uygunluğunu taşınır 
+kontrol yetkilisi kontrol edip imzaladıktan sonra SGDB’ye gönderir. Muhasebe yetkilisi, gönderilen 
+cetvellerdeki kayıtları muhasebe kayıtlarıyla karşılaştırıp uygunluğunu onaylarsa, düzenlenen iki 
+nüshayı  da  imzalayarak  harcama  yetkilisine  gönderir.  En  son  harcama  yetkilisi  de  cetvelleri 
+imzaladıktan sonra bir nüshasını SGDB’ye gönderir. 
+(5) Yılsonu işlemlerine  dair  düzenlenen  belgeler,  yetkili  mercilerce  istenildiğinde  ibraz 
+edilmek  veya  gönderilmek  üzere  harcama  birimlerinde  ‘Taşınır Yılsonu İşlemleri’  klasöründe 
+muhafaza edilir 
+Strateji Geliştirme Daire Başkanlığınca düzenlenecek bilgi, belge ve malî raporlar 
+MADDE  25- (1) Taşınır konsolide görevlisince; harcama birimlerinin hazırlamış olduğu 
+‘Harcama Birimi Taşınır Mal Yönetimi Hesabı Cetvelleri’ öncelikli I inci düzey detay kodu itibariyle 
+ayrı ayrı birleştirmek suretiyle ‘İdare Taşınır Mal Yönetimi Ayrıntılı Hesap Cetveli’, taşınır hesap 
+grupları  itibarıyla  birleştirmek  suretiyle  de  ‘İdare  Taşınır  Mal  Yönetim  Hesabı  İcmal  Cetveli’ 
+hazırlanır. 
+(2) Taşınır konsolide görevlisi tarafından düzenlenen ‘İdare Taşınır Mal Yönetim Hesabı 
+İcmal Cetveli’ Rektör tarafından da imzalandıktan sonra ‘İdare Taşınır Mal Yönetimi Ayrıntılı Hesap 
+Cetveli’ ile birlikte Üniversitenin hesabına eklenir. 
+(3) Gerek görülmesi hâlinde taşınır konsolide görevlisince ‘Harcama Birimi Taşınır Mal 
+Yönetimi  Hesabı  Cetveli’  esas  alınarak  taşınırlar,  taşınır  II’nci  düzey  detay  kodu  düzeyinde 
+düzenlenen ‘Taşınır Hesap Cetveli’ TKYS’den alınır. 
+(4) Yılsonu işlemlerine  dair  düzenlenen  belgeler  yetkili  mercilerce  istenildiğinde  ibraz 
+edilmek veya gönderilmek üzere SGDB’de “Taşınır Yılsonu İşlemleri”  klasöründe muhafaza edilir. 
+YEDİNCİ BÖLÜM 
+Diğer Hükümler 
+Yönergede hüküm bulunmayan hâller  
+MADDE  26- (1) Bu Yönergede hüküm bulunmayan hâllerde, Taşınır Mal Yönetmeliği ve 
+diğer mevzuat hükümleri uygulanır. 
+Yürürlük 
+MADDE 27-  (1) Bu Yönerge, Senatoda kabul edildiği tarihte yürürlüğe girer.  
+
+ Taşınır Mal ve Hurda Yönetimi Yönergesi 
+Sayfa 9 / 11 
+Yürütme 
+MADDE 28- (1) Bu Yönergeyi Rektör yürütür. 
+ 
+Yönergenin Kabul Edildiği Senato Kararının Tarih ve Sayısı 
+Tarih Sayı 
+06.11.2023 2023-2024/3.9 
+
+ 
+ Taşınır Mal ve Hurda Yönetimi Yönergesi 
+Sayfa 10 / 11 
+                                                                                                                                                                            
+EK-1 
+                                                
+FIRAT ÜNİVERSİTESİ REKTÖRLÜĞÜ 
+....................................... 
+ 
+Sayı:                                                                                                                                                              __.__.20__  
+Konu: Hurda ayırma komisyonu üye talebi 
+                                           
+................................................. DEKANLIĞINA/MÜDÜRLÜĞÜNE/ BAŞKANLIĞINA 
+ 
+Dekanlığımız/Müdürlüğümüz/Başkanlığımız envanterine kayıtlı olan ve hurdaya ayrılması  
+düşünülen  taşınırların (......................................................)  Taşınır Mal  Yönetmeliğinin 
+28.      maddesine   istinaden harcama  yetkilisi  tarafından  oluşturulacak  komisyon  tarafından 
+değerlendirilmesi gerekmektedir. 
+Söz konusu komisyona uzman üye olarak görevlendirilmek üzere biriminizde görev yapan bir 
+personelin bildirilmesi hususunda; 
+Gereğini arz ederim. 
+  
+                                                                                                                                    
+....................... 
+                                                                                                                   Dekan/Müdür/Daire Başkan 
+ 
+  
+
+ Taşınır Mal ve Hurda Yönetimi Yönergesi 
+Sayfa 11 / 11 
+EK-2 
+ 
+FIRAT ÜNİVERSİTESİ REKTÖRLÜĞÜ 
+..................................................... 
+ 
+Sayı:                                                                                                                                                        __.__.20__ 
+Konu: Hurda Komisyonu Teşkilatı 
+ 
+                                                                  DEKANLIK/MÜDÜRLÜK/BAŞKANLIK MAKAMINA 
+ 
+Taşınır Mal  Yönetmeliğinin  “Hurdaya  ayırma  nedeniyle  çıkış”  başlıklı  28.  Maddesinde; 
+ekonomik/kullanım ömrünü tamamlamış olan veya tamamlamadığı hâlde teknik ve fiziki nedenlerle 
+kullanılmasında yarar görülmeyerek hizmet dışı bırakılması gerektiği ilgililer veya özel mevzuatı 
+çerçevesinde oluşturulan  komisyon tarafından  bildirilen  taşınırların,  harcama  yetkilisinin 
+belirleyeceği en az üç kişiden oluşan komisyon tarafından değerlendirileceği öngörülmüştür. 
+Dekanlığımız/Müdürlüğümüz/Başkanlığımız  ambarında  yer  alan  dayanıklı  taşınırlardan 
+hurdaya ayrılacak olanların belirlenmesi amacıyla bir komisyon kurulması gerekmektedir. 
+Makamlarınca  uygun  görüldüğü  takdirde,  Dekanlığımız/Müdürlüğümüz/Başkanlığımız 
+ambarında mevcut dayanıklı taşınırlardan Yönetmeliğin yukarıda belirtilen ilgili maddesi hükmü 
+gereği  hurdaya  ayrılacak  olanların  belirlenmesi  amacıyla  aşağıda  belirtilen personelin 
+görevlendirilmesi hususunu; 
+Olurlarınıza arz ederim.  
+İmza 
+Adı ve Soyadı 
+Başkan 
+ 
+ 
+ 
+İmza İmza İmza İmza 
+Adı ve Soyadı Adı ve Soyadı Adı ve Soyadı Adı ve Soyadı 
+Üye Üye Üye Üye 
+ 
+ 
+İmza 
+ 
+Adı ve Soyadı 
+Daire Başkanı/Fakülte/Yüksekokul/Enstitü Sekreteri 
+ 
+ 
+ 
+OLUR 
+ 
+___.___.20___ 
+ 
+İmza 
+ 
+ 
+Adı ve Soyadı 
+Harcama Yetkilisi
