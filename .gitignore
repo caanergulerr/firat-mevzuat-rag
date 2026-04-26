@@ -47,4 +47,14 @@ logs/
 
 # Results (büyük CSV dosyaları hariç tutulabilir)
 evaluation/results/*.csv
-node_modules/  
+node_modules/
+
+# Debug ve gecici dosyalar
+debug_pipeline.py
+debug_query.py
+fix_encoding.py
+backend_yapilacak_isler/
+data/processed/chunks_fixed.json
+
+# Tesseract dil verisi (buyuk dosya)
+*.traineddata

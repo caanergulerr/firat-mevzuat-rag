@@ -1,0 +1,152 @@
+ONİYER. Senato Karar No:
+& Ka İlk Yayın Tarihi:
+3 İsi Kenzo
+2 © Revizyon No:
+01975 1” Sayfa:
+FIRAT ÜNİVERSİTESİ ÖĞRENCİ BİLGİ SİSTEMLERİ YETKİ TANIMLAMA
+YÖNERGESİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve
+Tanımlar
+Amaç
+MADDE 1- (1) Bu usul ve esaslarının amacı; Fırat Üniversitesinde ön lisans, lisans ve
+lisansüstü programlarında öğrenim gören öğrenciler ile idari ve akademik personel tarafından
+kullanılmakta olan Öğrenci Bilgi Sistemi yetkilendirilmesinin ilke ve esaslarını belirlemektir.
+Kapsam
+MADDE 2 - (1) Bu usul ve esaslarının amacı; Fırat Üniversitesinde kullanılmakta olan
+Öğrenci Bilgi Sistemini kullanan idari ve akademik personelin kullanma yetkilerinin ilke ve
+esaslarını belirlemektir.
+Dayanak
+MADDE 3 - (1) Bu uygulama usul ve esasları; Fırat Üniversitesi ön lisans, lisans ve lisansüstü
+eğitim ve öğretim yönetmenliği ile 2547 Yükseköğretim Kanunu'na dayanarak hazırlanmıştır.
+Tanımlar
+MADDE 4- (1) Bu Yönergede geçen;
+a) Üniversite: Fırat Üniversitesini,
+b) Rektör: Fırat Üniversitesi Rektörünü,
+c) Öğrenci İşleri Başkanı: Fırat Üniversitesi Öğrenci İşleri Daire Başkanlığını,
+ç) OBS (Öğrenci Bilgi Sistemi): Fırat Üniversitesinde ön lisans, lisans ve lisansüstü programlarında
+öğrenim gören öğrenciler ile idari ve akademik personel tarafından kullanılmakta olan Öğrenci Bilgi
+Sistemini,
+d) Akademik Birim: Fırat Üniversitesi bünyesinde bulunan fakülte, enstitü, yüksekokul ve meslek
+yüksekokullarını,
+e) İdari Birim: Fırat Üniversitesi Rektörlüğüne bağlı daire başkanlıkları ve idari birimlerini,
+f) OBS Kullanıcı Tipi: Öğrenci Bilgi Sisteminde tanımlı bulunan kullanıcı tiplerini,
+g) OBS Yetki Grupları: Öğrenci Bilgi Sisteminde tanımlı bulunan kullanıcı gruplarını,
+İKİNCİ BÖLÜM
+Kullanıcı Tipleri
+MADDE 5- (1) Fırat Üniversitesi Öğrenci Bilgi Sisteminde tanımlı bulunan kullanıcı tipleri,
+2547 sayılı Yükseköğretim Kanunu'nda öngörülen üniversite birimlerinin akademik yönden
+teşkilatlanması, işleyiş, görev, yetki ve sorumluluklarıyla, ilgili alt birimlerin üst birimlerle olan
+ilişkilerini düzenleyen Üniversitelerde Akademik Teşkilat Yönetmeliği esas alınarak Öğrenci İşleri
+Daire Başkanlığı tarafından belirlenir.
+
+1/4
+ÜNİVERSİTESİ Fırat Üniversitesi OBS Yetki Tanımlama Yönergesi
+(2) OBS kullanıcı tipleri;
+a) Standart Kullanıcı (İdari): Akademik birim öğrenci işlerinde görev yapmakta olan personel için
+tanımlanan kullanıcı tipidir.
+(b) Süper Kullanıcı (İdari): Öğrenci bilgi sisteminde tanımlı bulunan tüm yetkileri kullanan personel
+için kullanılan kullanıcı tipidir.
+c) Bölüm/Program Başkanı/Yardımcısı: Bölümün her düzeydeki eğitim-öğretim faaliyet, iş ve işlem
+için ilgili Bölüm/Program başkanlarına/yardımcılarına tanımlanan kullanıcı tipidir.
+ç) Müdür/Müdür Yardımcısı: Enstitü, Yüksekokul veya Meslek Yüksekokulu için görevlendirilen
+ilgili personel için tanımlanan kullanıcı tipidir.
+d) Dekan/Dekan Yardımcısı: Fakülte için yönetici olarak görevlendirilen ilgili personel için
+tanımlanan kullanıcı tipidir.
+e) Yönetici: Herhangi bir Fakülte/Enstitü/Yüksekokul/Meslek Yüksekokulu için idari görevi
+bulunmayıp yönetici konumundan görev yapmakta olan personel için kullanılan kullanıcı tipidir.
+ÜÇÜNCÜ BÖLÜM
+Yetkilendirme Grupları
+MADDE 6- (1) Yetki gruplarına göre yetkilendirme işlemleri, Üniversitemiz Kalite Yönetim
+Sistemi kapsamında yetki talep eden personel tarafından onaylanmış “görev tanım formu” dikkate
+alınarak, Öğrenci İşleri Daire Başkanlığı tarafından değerlendirilir ve yetkilendirmede bulunulur.
+(2) Sekreterlik Yetkisi: Yetki alanı sınırlı olup inceleme, görme ve yazdırma yetkisine sahip olan
+standart kullanıcı tipi yetki grubudur. Sekreterlik yetkisi, OBS'de yer alan raporları kullanmak
+durumunda olan üniversitemiz birim personelleri ile kurum dışı paydaşlarımız için tanımlanan yetkileri
+kapsar.
+(3) Dekan / Müdür/ Bölüm Başkanı: Görevlendirme belgesinde bahsi geçen ilgili birim için OBS
+Otomasyon yetkilisinin himayesinde bulunan görevler haricinde geniş yetkiye sahiptir. Yetkileri
+kapsamında; inceleme, yazdırma, değiştirme, silme gibi tüm fonksiyonel işleri içerir.
+(4) Birim Öğrenci İşleri Yetkisi: Fırat Üniversitesindeki tüm akademik birim ve programları içeren
+OBS yönetici yetkisi hariç geniş yetkileri kapsar.
+(5) OBS Yönetici Yetkisi: OBS sisteminde yer alan tüm yetkileri kapsayan süper kullanıcı yetkileridir.
+DÖRDÜNCÜ BÖLÜM
+Yetkilendirme Uygulamaları
+MADDE 7 - (1) Üniversitemize ataması gerçekleşen akademik personelin atama işlemi
+Personel Daire Başkanlığınca bilgi yönetim sistemine tanımlanacaktır.
+
+(2) Üniversite dışından geçici görevlendirme ile ders vermek üzere gelen personelin
+görevlendirme onay belgesi Personel Daire Başkanlığınca Öğrenci İşleri Daire Başkanlığına
+gönderilecektir.
+(3) Yönetici yetkisi tanımlamak için, atama kararı Öğrenci İşleri Daire Başkanlığına
+gönderilecektir.
+(4) İdari personel yetkisi tanımlamak için, personelin onaylı görev belgesinin, görev yaptığı
+birim yöneticisi tarafından Öğrenci İşleri Daire Başkanlığına gönderilmesi sonrasında, yetki talep eden
+personel tarafından onaylanmış “OBS Kullanıcı Tanımlama Formu” ile yetki talebinde bulunulur.
+(5) Kurum dışından yetki talep eden kurumun, yetki talebine dair resmi talep yazısının üst
+yönetim tarafından onaylanması sonrasında yetki tanımlamasında bulunulur.
+214
+ÜNİVERSİTESİ Fırat Üniversitesi OBS Yetki Tanımlama Yönergesi
+(6) Talep edilen yetki/yetkiler, OBS otomasyon yetkilisi tarafından değerlendirildikten sonra
+kullanıcı tipi ve yetki grubuna göre OBS'de T.C. kimlik numarası üzerinden tanımlanır, bu kişilerin
+kullanıcı adı ve şifresi kurumsal mail adreslerine e-posta veya tanımlı bulunan iletişim numarasına SMS
+ile gönderilir.
+(7) OBS otomasyon yetkilisi tarafından yetki tanımlaması yapıldıktan sonra onaylanan
+yetkilendirilen personele gönderilir.
+BEŞİNCİ BÖLÜM
+Yetkilerin Sonlandırılması
+MADDE 8 - (1) Öğrenci Bilgi Sistemine yetki tanımlamaya gerekçe teşkil eden durumun
+ortadan kalkması durumunda, yetkinin sonlandırılmasına yönelik bilgiyi 5 (beş) iş günü içerisinde ilgili
+personel ve birim yöneticisi Öğrenci İşleri Daire Başkanlığına bildirmekten sorumludur.
+(2) Yetki tanımlamaya gerekçe teşkil eden durum ortadan kalktığı halde bu durumun Öğrenci
+İşleri Daire Başkanlığına bildirilmemesi sonrasında, doğabilecek kullanıcı kaynaklı olumsuzluklardan
+birim yöneticisi sorumludur.
+(3) İdari görev ataması yapılan görevler (Dekan, Bölüm Başkanı, Müdür) için görev süreleri
+dikkate alınarak başlangıç ve bitiş sürelerine göre yetki tanımlaması yapılmaktadır. Bu tür yetkiler için
+
+ilave işlem yapılmasına gerek yoktur.
+ALTINCI BÖLÜM
+Dikkat Edilecek Hususlar
+MADDE 9 -— (1) Tanımlanan şifre, işlem güvenliği açısından personelin kurumsal e-posta
+adresine veya iletişim numarasına SMS ile gönderilmektedir. İşlem güvenliği açısından tanımlanan
+şifrenin güncellenmesi gerekmektedir.
+(2) Hassasiyet gerektiren konular için az sayıda personel yetkilendirilecektir.
+(3) Yetki gruplarının önemine göre; belli periyotlarda tanımlı yetkilerin kontrolü Öğrenci İşleri
+Daire Başkanlığınca yapılacaktır.
+(4) Kullanıcı, yetki kullanım şifresinin muhafazasından sorunludur. Şifrenin bilgisayara
+kaydedilmesi, farklı kişilere verilmesi vs. durumlardan doğabilecek olumsuzluklar sistemde tanımlı
+kullanıcıyı bağlamaktadır.
+Hüküm bulunmayan haller
+MADDE 10 -(1) Bu Yönergede hüküm bulunmayan hallerde ilgili diğer mevzuat hükümleri
+uygulanır.
+Yürürlük
+MADDE 11 - (1) Bu yönerge Üniversite Senatosu'nun onayı ile yürürlüğe girer.
+Yürütme
+MADDE 12 - (1) Bu Yönetmelik hükümlerini Fırat Üniversitesi Rektörü yürütür.
+3/4
+ÜNİVERSİTESİ Fırat Üniversitesi OBS Yetki Tanımlama Yönergesi
+— Zİ
+e A
+——
+ALE
+
+e — A
+e
+er —
+se — — A
+A
+Bere —
+Fe — A
+ses
+ee —
+— İİdari - Dekan/Müdür
+— İİdari - Dekan Yardımcısı/Müdür Yardımcısı
+— İdari - Enstitü/Fakülte/YO/MYO Sekreteri
+Kullanıcı Tipi — İdari - Bölüm Başkanı
+LL İldari - Bölüm Başkan Yardımcısı
+Lİidari - Birim Yetkilisi
+MD Diğe .....0 0 ee A AAA AAA AAA
+EZEL |
+Yetkili Olduğu
+Bölüm ve Programlar
+414

@@ -1,0 +1,238 @@
+T.C.
+-— FIRATÜNİVERSİTESİ |
+KALİTE GÜVENCE SİSTEMİ YÖNERGESİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 — Bu Yönerge'nin amacı; Fırat Üniversitesi'nin eğitim-öğretim, toplumsal katkı ve araştırma
+faaliyetleri ile idari hizmetlerinin iç ve dış kalite güvencesi, akreditasyon süreçleri ve bu kapsamda
+tanımlanan görev, yetki ve sorumluluklara ilişkin esasları düzenlemek ve Fırat Üniversitesi Kalite
+Komisyonu'nun çalışma usul ve esaslarını belirlemektir.
+Kapsam
+MADDE 2 — Bu Yönerge; Yükseköğretim Kalite Güvencesi Yönetmeliği hükümleri gereğince Fırat
+Üniversitesi'nde yürütülecek kalite, akreditasyon ve denetim çalışmalarının usul ve esaslarına ilişkin
+hükümleri kapsar.
+Dayanak
+MADDE 3 - Bu Yönerge; 4/11/1981 tarihli 2547 sayılı Yükseköğretim Kanununun 7 ve 65. maddeleri ile
+44.  maddesinin  (b)  bendi  ve  23.07.2015  tarih  ve  29423  sayılı  Resmi  Gazetede  yayınlanan  
+Yükseköğretim
+Kalite Güvencesi Yönetmeliği'ne dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 - Bu Yönerge'de geçen;
+a) Üniversite: Fırat Üniversitesini,
+b) Senato: Fırat Üniversitesi Senatosunu,
+c) Rektör: Fırat Üniversitesi Rektörünü,
+ç) Akademik Birim: Fırat Üniversitesine bağlı fakülte, enstitü, yüksekokul, konservatuvar, meslek
+yüksekokulu, uygulama ve araştırma merkezleri ile bölüm ve programları,
+d) İdari Birim: Fırat Üniversitesine bağlı tüm idari birimleri,
+e) Kalite Elçisi: Fırat Üniversitesi akademik ve idari birimlerinde kalite değerlendirme ve güvencesi
+çalışmaları ile akreditasyon çalışmalarının düzenlenmesi ve yürütülmesinden sorumlu kişiyi,
+f£) Dış Değerlendirme: Üniversitenin veya bir programının, eğitim-öğretim ve araştırma faaliyetleri ile
+idari hizmetlerinin kalitesinin, Yükseköğretim Kalite Kurulu tarafından yetkilendirilen dış
+değerlendiriciler veya Yükseköğretim Kurulunca tanınan, bağımsız kalite değerlendirme tescil
+belgesine sahip dış değerlendirme kuruluşları tarafından yürütülen dış değerlendirme sürecini,
+
+g) İç Değerlendirme: Eğitim-öğretim, toplumsal katkı ve araştırma faaliyetleri ile idari hizmetlerin
+kalitesinin ve kurumsal kalite geliştirme çalışmalarının, Kalite Komisyonu tarafından
+değerlendirilmesini,
+8) İç Değerlendirme Raporu: Stratejik plan, performans programı, faaliyet raporu ile bütünleşik
+yapıda, bu Yönetmeliğin 11. maddesi ve daha sonra Yükseköğretim Kurulu Başkanlığı tarafından
+çıkarılacak düzenlemelerde belirtilen diğer hususlara sahip olacak şekilde hazırlanan raporu,
+h) Akreditasyon: Bir dış değerlendirici kurum tarafından belirli bir alanda önceden belirlenmiş
+akademik ve alana özgü standartların bir yükseköğretim programı tarafından karşılanıp
+karşılanmadığını ölçen değerlendirme ve dış kalite güvence sürecini,
+1) Kalite Değerlendirme Tescil Belgesi: Yükseköğretim Kurulu tarafından onaylanan, bağımsız
+kurum veya kuruluşların Üniversite'de eğitim-öğretim, toplumsal katkı ve araştırma etkinlikleri ile
+idari hizmetlerinin kalite düzeyini ve kalite geliştirme çalışmalarını değerlendirmeye yetkili
+olduğunu gösteren belgeyi,
+Sayfa: 1
+i) Kalite Güvencesi: Üniversitenin veya bir programının, iç ve dış kalite standartları ile uyumlu kalite
+ve performans süreçlerini tam olarak yerine getirdiğine dair güvence sağlayabilmek için yapılan
+planlı ve sistemli işlemleri,
+j) Kalite Komisyonu: Üniversitede kalite değerlendirme ve kalite güvencesi çalışmaları ile
+akreditasyon çalışmalarının düzenlenmesi ve yürütülmesinden sorumlu komisyonu,
+k) Alt Komisyon: Üniversitede kalite değerlendirme ve güvencesi çalışmaları ile akreditasyon
+çalışmalarının süreçlere göre düzenlenmesi ve yürütülmesi için Kalite Komisyonu üyelerinden
+oluşmuş komisyonu,
+D Çalışma Grubu: Alt Komisyon üyelerinden birer üye alarak 5 kişiden oluşan ve bu gruba atanmış
+birimlerde yürütülen kalite değerlendirme ve güvencesi çalışmaları ile akreditasyon çalışmaları için
+birimlere rehberlik eden grubu,
+m) Kalite Komisyonu Öğrenci Temsilcisi: Fırat Üniversitesi Öğrenci Konseyi Başkanını,
+n) Kalite Koordinatörlüğü: Fırat Üniversitesi Kalite Koordinatörlüğü,
+0) Stratejik Planlama: Üniversitenin; kalkınma planları, programlar, ilgili mevzuat ve benimsediği
+temel ilkeler çerçevesinde geleceğe ilişkin misyon ve vizyonlarını oluşturmak, stratejik amaçlar ve
+
+ölçülebilir. hedefler belirlemek, performanslarını önceden belirlenmiş olan göstergeler
+doğrultusunda ölçmek ve bu sürecin izleme ve değerlendirmesini yapmak amacıyla katılımcı
+yöntemlerle stratejik plan hazırlama ve ilgili performans göstergelerini sürekli izleme sürecini,
+©) Türkiye Yükseköğretim Yeterlilikler Çerçevesi (TYYÇ): Yükseköğretim için tanımlanan Ulusal
+Yeterlilikler Çerçevesini
+ifade eder.
+İKİNCİ BÖLÜM
+Komisyonun Oluşumu, Görevleri ve Çalışma Esasları
+Komisyonun Oluşumu
+MADDE 5 - (1) Kalite Komisyonu: Rektör, Rektör Yardımcısı, Kalite Koordinatörü, Rektör tarafından
+Senato'ya önerilen üniversitemizde tam zamanlı çalışan akademik ve idari personeller, Üniversite 
+Öğrenci
+Temsilcisi, Senato tarafından seçilen dış paydaş temsilcisi veya temsilcilerinden oluşur.
+(2) Kalite Komisyonu'nun Başkanlığını Rektör; Rektör'ün bulunmadığı zamanlarda ise Rektör'ün
+görevlendireceği Rektör Yardımcısı yapar.
+(3) Komisyon Üyeleri Üniversite web sayfasında ilan edilir.
+(4) Senato tarafından onaylanan ve 5(1). Maddede yer alan üyelerin görev süreleri iki yıldır. Üyeler bu
+sürenin sonunda yeniden görevlendirilebilirler.
+Görevleri
+MADDE 6- (1) Kalite Komisyonu'nun görevleri şunlardır:
+a) Üniversitenin stratejik planı ve hedefleri doğrultusunda, eğitim-öğretim, toplumsal katkı ve
+araştırma faaliyetleri ile idari hizmetlerin değerlendirilmesi ve kalitesinin geliştirilmesi ile ilgili iç
+ve dış kalite güvence sistemini kurmak, kurumsal göstergeleri belirlemek ve bu kapsamda
+yapılacak çalışmaları Yükseköğretim Kalite Kurulu tarafından belirlenen usul ve esaslar
+doğrultusunda yürütmek ve bu çalışmaları Senato onayına sunmak,
+b) İç değerlendirme çalışmalarını yürütmek ve kurumsal değerlendirme ve kalite geliştirme
+çalışmalarının sonuçlarını içeren yıllık kurumsal iç değerlendirme raporunu hazırlamak ve
+Senatoya sunmak, onaylanan yıllık kurumsal değerlendirme raporunun, kamuoyuna duyurulmasını
+sağlayacak şekilde Üniversitenin web sayfasında yer almasını sağlamak,
+c) Dış değerlendirme sürecinde gerekli hazırlıkları yapmak, Yükseköğretim Kalite Kurulu ile dış
+değerlendirici kurumlara her türlü desteği vermek,
+ç) Her yıl düzenli olarak, bir sonraki takvim yılının başlangıcına kadar, kendi yıllık iç değerlendirme
+raporunu, bir sonraki yılın iş takvimini ve iyileştirme planlarını oluşturmak ve yürütmek,
+
+Sayfa: 2
+d) Çalışmalarında ve raporlamalarında Üniversite genelinde standardı sağlamak için form, cetvel,
+tablo vb. geliştirmek,
+e) İç ve dış değerlendirme raporları sonucuna göre ortaya çıkacak ve iyileştirmeye gereksinim
+duyulan alanlarla ilgili gerekli çalışmaları yapmaktır.
+Çalışma Usul ve Esasları
+MADDE 7 - (1) Kalite Komisyonu, aşağıda belirtilen usul ve esaslara göre çalışır:
+a) Komisyon, her akademik yılda en az iki kez, ayrıca Başkan'ın veya Koordinatör'ün çağrısı veya
+kurul üyelerinin salt çoğunluğunun yazılı isteği ile toplanır. Toplantı çağrısı Başkan tarafından
+yapılır.
+b) Komisyon, üye tam sayısının salt çoğunluğu ile toplanır ve toplantıya katılanların salt çoğunluğu ile
+karar alır. Oyların eşit olması durumunda Kalite Komisyonu Başkanı'nın oyu doğrultusunda karar
+verilmiş sayılır.
+ÜÇÜNCÜ BÖLÜM
+Kalite Koordinatörlüğü
+Koordinatörlüğün Oluşumu
+MADDE 8 - (1) Kalite Koordinatörlüğü, Kalite Koordinatörü, Kalite Koordinatör Yardımcıları ve yeterli
+sayıda personelden oluşur.
+(2) Kalite Komisyonu üyeleri arasından Rektör tarafından iki yıllığına Kalite Koordinatörü görevlendirilir.
+Koordinatör, kendisine en fazla iki yardımcı seçer. Görev süresi biten Koordinatör ve Koordinatör
+Yardımcıları aynı usul ile tekrar görevlendirilebilir. Koordinatör, gerekli hallerde Rektör tarafından
+değiştirilebilir.
+(3) Koordinatörlüğün sekretaryasını yürütmek üzere Rektör tarafından yeterli sayıda personel
+görevlendirilir.
+Koordinatörlüğün Görevleri
+MADDE 9 - (1) Kalite Koordinatörlüğü'nün görevleri şunlardır:
+a) Kalite Yönetim Sistemi için gerekli süreçleri belirlemek, uygulamak ve sürdürülmesini sağlamak,
+b) Kalite Yönetim Sistemi performansı ve iyileştirme için ihtiyaçları raporlamak,
+c) Kalite Yönetim Sistemi ile ilgili konularda dış kuruluşlarla ilişkileri yürütmek,
+
+ç) Kalite Koordinatörlüğü'nün görevleriyle ilgili olarak Üniversitenin tüm akademik ve idari birimleri
+arasında koordinasyonu sağlamak,
+d) Kalite standartlarını takip ederek Kalite Yönetim Sistemi'nin yapılanmasını sağlamak,
+e) Akademik birimlerin Kalite Elçileri ile yapılan toplantıları koordine etmek,
+£) Görev alanıyla ilgili doküman hazırlamak, dokümanlarda düzeltme yapmak, yayınlamak,
+kaydetmek ve dağıtım yapmak,
+g) Kalite iç denetim planını hazırlamak ve iç denetimlerin yapılmasını sağlamak,
+ğ) Kalite temsilcilerinin, iç denetçilerin, süreç sorumlularının ve çalışanların Kalite Yönetim
+Sistemleri ile ilgili eğitim almalarını sağlamak, konuyla ilgili eğitimler vermek,
+h) Yönetimin gözden geçirme toplantısı için girdileri hazırlamak, toplantının yapılması, alınan
+kararların yazılması ve birimlere dağıtımını yapmak,
+1) Kalite hedeflerinin belirlenmesini ve hedef bazlı performans ölçümlerinin yapılmasını sağlamak
+i) Komisyonun sekretarya ve personel destek hizmetlerini yürütmek,
+j) Koordinatörlük büro çalışmalarını yönetmek,
+k) Dış denetimlerin yapılması için gerekli tedbirleri almaktır.
+Sayfa: 3
+DÖRDÜNCÜ BÖLÜM
+Birim Kalite Komisyonu
+MADDE 10 — (1) Her Fakülte/Enstitü/Konservatuar/Yüksekokul/Meslek Yüksekokulunun ve her idari
+birimin Birim Kalite Komisyonu bulunmalıdır.
+(2) Birim Kalite Komisyonu, ilgili birimin Dekan veya Müdürü Başkanlığı'nda, Dekan Yardımcısı veya
+Müdür Yardımcısı, Fakülte/Enstitü/Konservatuar/Yüksekokul/Meslek Yüksekokulu Sekreteri, bölümleri
+temsilen bölüm başkanı yardımcısı, Enstitülerde anabilim dalı başkanlarından en fazla üç tanesi ile 
+oluşur.
+Birim Kalite Komisyonu üyeleri ilgili birimlerin web sayfalarında ilan edilir.
+(3) Birim Kalite Komisyonu'nun raportörlük görevini Fakülte/Enstitü/Konservatuar/Yüksekokul/Meslek
+Yüksekokulu Sekreteri yürütür.
+(4) Birim Kalite Komisyonu başkanının görevlendireceği komisyon üyesi ilgili birimin Kalite Elçisi olarak
+
+görev yapar.
+(5) Her bölüm veya programda en az 3 akademik personel ile kalite komisyonu oluşturulur.
+Fakülte/Enstitü/Konservatuar/Yüksekokul/Meslek Yüksekokulu komisyonunda yer alan bölüm/program
+başkanı yardımcısı komisyona başkanlık eder.
+(6) Her idari birimde kalite süreçlerini takip etmek üzere, bir birim amiri, bir Kalite Elçisi ve bir
+dokümantasyon memurundan oluşan kalite alt komisyonları oluşturulur.
+BEŞİNCİ BÖLÜM
+Değerlendirme Süreçleri
+İç Değerlendirme Süreci ve Takvimi
+MADDE 11 — (1) Üniversite, eğitim-öğretim ve araştırma faaliyetlerini ve bunları destekleyen idari
+hizmetlerin tümünü içine alacak şekilde stratejik plan ve yıllık olarak, performans programı ve faaliyet
+raporu ile bütünleşik yapıda bir iç değerlendirme raporu hazırlar.
+(2) Birim Kalite Komisyonları ilgili dönem içinde yaptığı çalışmalarını Kasım ayının son gününe kadar
+Birim İç değerlendirme Raporu (BİDR) otomasyonuna yüklemesini tamamlar. Yükleme işlemi kalite
+elçileri tarafından yapılır.
+(3) Birimden sorumlu çalışma grubu, Aralık ayı içinde birimin BİDR'ni inceleyerek birime geri bildirim
+olarak Birim Geri Bildirim Raporu düzenler.
+(4) Kalite koordinatörlüğü, iç değerlendirme çalışmalarını her yıl ocak ayı sonuna kadar tamamlar ve 
+Kalite
+Komisyonu'na gönderir. Kalite Komisyonu, Kalite Koordinatörlüğü'nün iç değerlendirme çalışmalarını
+değerlendirir ve İç Değerlendirme Raporu'nu Şubat ayında tamamlar. Üniversite, Hazırlanan İç
+Değerlendirme Raporu'nu YÖKAK tarafından bildirilen tarih aralığında Yükseköğretim Kalite Kurulu'na
+gönderir.
+İç Değerlendirme Raporlarının Kapsamı
+MADDE 12 - (1) Üniversite'de yapılacak iç değerlendirmeler;
+a) Üniversite'nin ulusal strateji ve hedefleri ışığında belirlenmiş misyonu, vizyonu ve stratejik
+hedefleri ile kalite güvencesine yönelik olarak belirlenen politika ve süreçlerini,
+b) Akademik birimlerin ölçülebilir nitelikteki hedeflerini, bu hedeflerle ilgili performans
+göstergelerini ve bunların düzenli olarak gözden geçirilmesini,
+c) Programların TYYÇ ile ilişkili ve öğrenme çıktılarına dayalı olarak yapılandırılması ve
+akreditasyon sürecinin gereklerinin yerine getirilmesi konusundaki çalışmalarını,
+ç) Bir önceki iç ve dış değerlendirmede ortaya çıkan ve iyileştirilmeye gereksinim duyulan alanlarla
+ilgili çalışmaları içerir.
+Sayfa: 4
+Dış Değerlendirme Süreci ve Takvimi
+MADDE 13 - (1) Üniversite, belirli periyotlarda, Yükseköğretim Kalite Kurulu tarafından yürütülecek
+düzenli  bir  kurumsal  dış  değerlendirme  süreci  kapsamında  değerlendirilmekle  yükümlüdür.  
+Üniversite'nin
+dış değerlendirme takvimi, Yükseköğretim Kalite Kurulu tarafından hazırlanır ve ilan edilir.
+
+(2) Üniversite'nin dış değerlendirilmesi, Yükseköğretim Kalite Kurulu tarafından yetkilendirilen dış
+değerlendiriciler veya Yükseköğretim Kurulu tarafından Kalite Değerlendirme Tescil Belgesi verilmiş
+bağımsız kurum ve kuruluşlarca gerçekleştirilir.
+(3) Birim/program düzeyinde akreditasyona yönelik dış değerlendirme hizmeti, Kalite Değerlendirme
+Tescil Belgesine sahip ulusal veya uluslararası bağımsız bir kurumca gerçekleştirilir ve birim/program 
+ile
+sınırlıdır.
+Dış Değerlendirme Raporlarının Kapsamı
+MADDE 14 - (1) Üniversite'nin kurumsal dış değerlendirilmesi, bu Yönerge'nin 11. maddesinde belirtilen
+kapsam ve konuları içerecek şekilde gerçekleştirilir.
+(2) Dış Değerlendirmenin Birim/Program düzeyinde yapılması durumunda değerlendirme konuları,
+değerlendirilecek olan birim/programın faaliyet/hizmet alanı konuları ile sınırlıdır.
+İç ve Dış Değerlendirme Sonuçlarının Kamuoyuna Açıklanması
+MADDE 15 — (1) Üniversite'nin iç ve dış değerlendirmelerinin sonuçları kamuoyuna açıktır. Yıllık iç ve
+dış değerlendirme raporları, Birim İç Değerlendirme Raporları, Birim Geri Bildirim Raporları
+Üniversite'nin internet sitesinden yayımlanır.
+Kalite Geliştirme ve Kalite Güvencesi Çalışmaları Kapsamındaki Harcamalar
+MADDE 16 - (1) Bu Yönerge kapsamında, Üniversite tarafından gerçekleştirilecek çalışmalara ilişkin 
+her
+türlü harcama, Üniversite'nin bütçesine ilgili konuda tahsis edilecek ödenekle karşılanır.
+Dış Değerlendirme Kuruluşları ve Tanınma Süreci
+MADDE 17 - (1) Yükseköğretim Kalite Kurulunun dışında, kurum, birim veya program bazında, Kalite
+Değerlendirme  Tescil  Belgesi'ne  sahip  bağımsız  kalite  güvencesi  kurum  ve  kuruluşları  da  
+değerlendirme
+faaliyetleri gösterebilir.
+(2)  Yükseköğretim  Kalite  Kurulu  dışındaki  bağımsız  kalite  güvencesi  kurum  ve  kuruluşlarının  
+raporlarının
+değerlendirilmesi, Kalite Değerlendirme Tescil Belgesi'ne başvuru, düzenli değerlendirilme süreçleri ve
+etkinliklerine ilişkin ilkeler Yükseköğretim Kalite Kurulu tarafından belirlenir.
+ALTINCI BÖLÜM
+Diğer Hükümler
+Hüküm Bulunmayan Haller
+MADDE 18 — (1) Bu Yönerge'de hüküm bulunmayan hallerde ilgili mevzuat hükümleri ve Senato
+kararları uygulanır.
+Yürürlük
+MADDE 19 - (1) Bu Yönerge, Senato tarafından kabul edildiği tarihten itibaren yürürlüğe girer.
+Yürütme
+MADDE 20 — (1) Bu Yönerge hükümleri Rektör tarafından yürütülür.
+Senato Tarafından Kabulü
+TARİH SAYI
+Sayfa: 5

@@ -1,15 +1,10 @@
 """
 rag_pipeline.py
 ---------------
-Uçtan uca RAG pipeline: soru → retrieval → generation → kaynaklı cevap.
-
-Kullanım:
-    pipeline = RAGPipeline()
-    result = pipeline.ask("Mazeret sınavı için GPA şartı var mı?")
-    print(result["answer"])
-    print(result["sources"])
+Uctan uca RAG pipeline: soru -> query expansion -> retrieval -> generation -> kaynakli cevap.
 """
 
+import os
 import logging
 import time
 from dataclasses import dataclass, field
@@ -19,13 +14,85 @@ from backend.generator import generate_answer
 
 logger = logging.getLogger(__name__)
 
-# Düşük skor eşiği — bu değerin altındaki sonuçlar görmezden gelinir
-MIN_RELEVANCE_SCORE = 0.4
+MIN_RELEVANCE_SCORE = 0.1
+
+
+def _normalize_tr(text: str) -> str:
+    """Turkce karakterleri ASCII'ye donusturur — sozluk eslemesi icin."""
+    tr_map = {
+        'c': 'c', 'g': 'g', 'i': 'i', 's': 's', 'o': 'o', 'u': 'u',
+        'C': 'C', 'G': 'G', 'I': 'I', 'S': 'S', 'O': 'O', 'U': 'U',
+    }
+    result = []
+    for ch in text:
+        if ch == '\u00e7': result.append('c')    # c
+        elif ch == '\u011f': result.append('g')  # g
+        elif ch == '\u0131': result.append('i')  # dotless i
+        elif ch == '\u015f': result.append('s')  # s
+        elif ch == '\u00f6': result.append('o')  # o
+        elif ch == '\u00fc': result.append('u')  # u
+        elif ch == '\u00c7': result.append('C')  # C
+        elif ch == '\u011e': result.append('G')  # G
+        elif ch == '\u0130': result.append('I')  # dotted I
+        elif ch == '\u015e': result.append('S')  # S
+        elif ch == '\u00d6': result.append('O')  # O
+        elif ch == '\u00dc': result.append('U')  # U
+        else: result.append(ch)
+    return ''.join(result)
+
+# Statik arama genisleme sozlugu - Gemini rate limit durumunda fallback
+QUERY_DICT = {
+    "ustten ders": "ust yariyil ders alma sarti GNO not ortalamasi 3.00 ust yariyildan ders alabilir",
+    "ust yariyil": "ust yariyil ders alma sarti GNO not ortalamasi 3.00 ust yariyildan ders alabilir",
+    "cift anadal": "cift anadal basvuru kabul sarti GNO not ortalamasi yuzde yirmi basari sirasi kontenjan",
+    "yandal": "yandal programa basvuru sarti GNO AKTS kredi",
+    "mazeret sinav": "mazeret sinavi hakki basvuru belge saglik raporu haklı gecerli mazeret",
+    "kayit dondur": "kayit dondurma izinli ayrilma ogrencilik hakki",
+    "mezun olma": "mezuniyet sarti toplam kredi AKTS staj bitirme projesi",
+    "not ortalama": "genel not ortalamasi GNO agirlikli ortalama hesaplama",
+    "dersten cekil": "ders birakma cekilme kayit silme akademik takvim",
+    "staj": "zorunlu staj pratik calisma mezuniyet sarti kredi",
+    "disiplin": "disiplin cezasi ogrenci sinav kopya ihlal",
+    "burs": "burs basvuru sarti basari kriteri sosyal yardim",
+    "yatay gecis": "yatay gecis basvuru sarti kontenjan not ortalamasi",
+    "dikey gecis": "dikey gecis basvuru DGS sarti",
+    "af": "ogrenci af kanunu egitim ogretim suresi uzatma",
+    "sinavdan kaldi": "basarisiz ders tekrar FF DC not",
+    "sinif tekrar": "sinif tekrar basarisiz ders yuk GNO",
+}
+
+EXPANSION_PROMPT = """Bir universite ogrencisinin gunluk dilde sordugu soruyu,
+universite yonetmeligi metinlerinde daha iyi arama yapabilmek icin
+resmi Turkce akademik/hukuki terimlerle zenginlestirilmis bir arama sorgusuna donustur.
+
+Sadece Turkce arama terimi yaz (5-12 kelime). Baska hicbir sey yazma.
+
+Ornekler:
+Soru: ustten ders alabilirmiyim
+Donusum: ust yariyil ders alma sarti GNO not ortalamasi 3.00 akademik danisман onayi
+
+Soru: sinifi gecemem ne olur
+Donusum: basarisiz ogrenci genel not ortalamasi GNO sinif gecme sarti ders tekrari
+
+Soru: dersten cekilebilir miyim
+Donusum: ders birakma cekilme kayit silme yariyil akademik takvim
+
+Soru: cift anadal sartlari nelerdir
+Donusum: cift anadal programa basvuru sarti GNO not ortalamasi AKTS kredi
+
+Soru: staj zorunlu mu
+Donusum: zorunlu staj pratik calisma mezuniyet sarti toplam kredi
+
+Soru: mazeret sinavi nasil alinir
+Donusum: mazeret sinavi hakki basvuru belge saglik raporu haklı gerekce yonetim kurulu
+
+Soru: {question}
+Donusum:"""
 
 
 @dataclass
 class RAGResult:
-    """RAG pipeline'ının tek bir sorguya verdiği yanıtı temsil eder."""
+    """RAG pipeline'inin tek bir sorguya verdigi yaniti temsil eder."""
     question: str
     answer: str
     sources: list[str]
@@ -37,42 +104,93 @@ class RAGResult:
 
 class RAGPipeline:
     """
-    Fırat Mevzuat dijital asistan pipeline'ı.
+    Firat Mevzuat dijital asistan pipeline'i.
 
-    1. Soruyu BERTurk ile encode et
-    2. ChromaDB'den en ilgili k chunk'ı al (semantik arama)
-    3. Düşük skorlu chunk'ları filtrele
-    4. LLM ile kaynaklı cevap üret
+    1. Gemini ile sorguyu genislet (query expansion)
+    2. Genisletilmis sorgu ile ChromaDB + BM25 hibrit arama
+    3. Dusuk skorlu chunk'lari filtrele
+    4. LLM ile kaynakli cevap uret
     """
 
-    def __init__(self, top_k: int = 5, min_score: float = MIN_RELEVANCE_SCORE):
+    def __init__(self, top_k: int = 15, min_score: float = MIN_RELEVANCE_SCORE):
         self.top_k = top_k
         self.min_score = min_score
         self.retriever = MevzuatRetriever()
+        self._genai_model = None
+
+    def _get_genai(self):
+        """Gemini API client'ini lazy olarak baslatir."""
+        if self._genai_model is None:
+            try:
+                import google.generativeai as genai
+                genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+                self._genai_model = genai.GenerativeModel("gemini-2.5-flash")
+            except Exception as e:
+                logger.warning(f"Gemini baslatılamadi: {e}")
+        return self._genai_model
+
+    def _expand_query(self, question: str) -> str:
+        """
+        Ogrencinin gunluk dil sorusunu mevzuat terimleriyle zenginlestirir.
+        Once statik sozluge bakar, yoksa Gemini API kullanir.
+        """
+        q_lower = question.lower()
+        q_normalized = _normalize_tr(q_lower)  # Turkce karakter normalizasyonu
+
+        # 1. Once statik sozluge bak (hizli, Gemini gerekmez)
+        for keyword, expansion in QUERY_DICT.items():
+            if keyword in q_normalized:  # Normalize edilmis sorgu ile karsilastir
+                combined = f"{question} {expansion}"
+                logger.info(f"Statik expansion: '{question}' -> '{combined[:80]}'")
+                return combined
+
+        # 2. Statik esleme yoksa Gemini'ye sor
+        model = self._get_genai()
+        if model is None:
+            return question
+
+        try:
+            prompt = EXPANSION_PROMPT.format(question=question)
+            response = model.generate_content(
+                prompt,
+                generation_config={"temperature": 0.1, "max_output_tokens": 80}
+            )
+            expanded = response.text.strip().split("\n")[0].strip()
+            if expanded and len(expanded) > 5:
+                logger.info(f"Query expansion: '{question}' -> '{expanded}'")
+                # Orijinal + genisletilmis sorguyu birlestir (her ikisi de aransin)
+                return f"{question} {expanded}"
+        except Exception as e:
+            logger.warning(f"Query expansion basarisiz: {e}")
+
+        return question
 
     def ask(self, question: str) -> RAGResult:
         """
-        Öğrencinin sorusuna cevap verir.
+        Ogrencinin sorusuna cevap verir.
 
         Args:
-            question: Doğal dil sorusu (Türkçe)
+            question: Dogal dil sorusu (Turkce)
 
         Returns:
-            RAGResult — cevap, kaynaklar ve metrikler
+            RAGResult - cevap, kaynaklar ve metrikler
         """
         start = time.time()
-        logger.info(f"Soru işleniyor: '{question}'")
+        logger.info(f"Soru isleniyor: '{question}'")
 
-        # 1. Retrieval
-        chunks = self.retriever.retrieve(question, top_k=self.top_k)
+        # 1. Query Expansion - sorguyu mevzuat diline genislet
+        expanded_query = self._expand_query(question)
 
-        # 2. Alaka düzeyi filtreleme
+        # 2. Hybrid Retrieval (BM25 + Semantic) ile genisletilmis sorgu
+        chunks = self.retriever.retrieve(expanded_query, top_k=self.top_k)
+
+        # 3. Alaka duzeyi filtreleme
         relevant_chunks = [c for c in chunks if c.score >= self.min_score]
 
         if not relevant_chunks:
-            logger.warning(f"Hiçbir chunk eşiği geçemedi (min_score={self.min_score}). Ham chunk sayısı: {len(chunks)}")
+            logger.warning(f"Hicbir chunk esigi gecemedi. Ham chunk sayisi: {len(chunks)}")
 
-        # 3. Cevap üretimi
+        # 4. Cevap uretimi (orijinal soruya gore)
         gen_result = generate_answer(question, relevant_chunks)
 
         latency = round((time.time() - start) * 1000, 1)
@@ -88,7 +206,7 @@ class RAGPipeline:
         )
 
     def is_ready(self) -> bool:
-        """Pipeline'ın sorguya hazır olup olmadığını kontrol eder."""
+        """Pipeline'in sorguya hazir olup olmadigini kontrol eder."""
         return self.retriever.is_ready()
 
 
@@ -96,12 +214,12 @@ if __name__ == "__main__":
     pipeline = RAGPipeline()
 
     if not pipeline.is_ready():
-        print("⚠️  Önce indexleme yapın: python scripts/embed_and_index.py")
+        print("Once indexleme yapin: python scripts/embed_and_index.py")
     else:
         questions = [
-            "Mazeret sınavı hakkı ne zaman kullanılabilir?",
-            "Çift anadal için GPA şartı nedir?",
-            "Öğrenci kayıt dondurabilir mi?",
+            "Ustten ders alabilir miyim?",
+            "Cift anadal icin GPA sarti nedir?",
+            "Ogrenci kayit dondurabilir mi?",
         ]
         for q in questions:
             result = pipeline.ask(q)
@@ -109,4 +227,4 @@ if __name__ == "__main__":
             print(f"Soru: {result.question}")
             print(f"Cevap: {result.answer[:300]}...")
             print(f"Kaynaklar: {', '.join(result.sources)}")
-            print(f"Süre: {result.latency_ms}ms | Chunk sayısı: {result.num_chunks_retrieved}")
+            print(f"Sure: {result.latency_ms}ms | Chunk: {result.num_chunks_retrieved}")

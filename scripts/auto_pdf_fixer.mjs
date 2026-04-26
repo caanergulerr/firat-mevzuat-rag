@@ -6,11 +6,10 @@ const require = createRequire(import.meta.url);
 const pdfParse = require('pdf-parse');
 import { createWorker } from 'tesseract.js';
 import * as mupdf from 'mupdf';
-import PDFDocument from 'pdfkit';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const pdfDir = path.join(__dirname, '..', 'data', 'raw', 'yönetmelikler');
+const pdfDir = path.join(__dirname, '..', 'data', 'raw');
 const arialFontPath = 'C:\\Windows\\Fonts\\arial.ttf';
 
 async function processPdfs() {
@@ -26,20 +25,31 @@ async function processPdfs() {
         const dataBuffer = fs.readFileSync(filePath);
 
         try {
-            // 1. ADIM: Belgenin sağlıklı olup olmadığını ölç (Metin yoğunluğunu kontrol et)
+            // 1. ADIM: Belgenin sağlıklı olup olmadığını ölç (Metin yoğunluğunu ve bozuk Font Encoding'i kontrol et)
             // Performans için sadece ilk 3 sayfaya bakılır.
             const parsed = await pdfParse(dataBuffer, { max: 3 });
-            const text = parsed.text ? parsed.text.trim().replace(/\s+/g, '') : '';
+            const rawText = parsed.text || '';
+            const textL = rawText.trim().replace(/\s+/g, '');
+            const lowerText = rawText.toLowerCase();
 
-            if (text.length >= 50) {
+            // Sık görülen Font Encoding bozulmaları (Ç-> , Ö-> , Ş-> )
+            const isCorrupted = lowerText.includes('ift anadal') || 
+                                lowerText.includes('renci') || 
+                                lowerText.includes('bavuru') || 
+                                lowerText.includes('artlar');
+
+            if (textL.length >= 50 && !isCorrupted) {
                 // Bu dosya %100 sağlıklı ve okunabilir metin katmanına sahip. RAG için hazır.
-                // Log kalabalığı yapmamak için sessizce (veya kısaca) geçiyoruz.
-                // console.log(`[PAS GEÇİLDİ] ${file} - Yeterli metin var.`);
+                // console.log(`[PAS GEÇİLDİ] ${file} - Yeterli temiz metin var.`);
                 continue;
             }
 
-            console.log(`\n⚠️ [GÖRSEL/TARAMA BELGE TESPİT EDİLDİ]: ${file}`);
-            console.log(`    >> Belge okunmaya uygun değil. Oto-Tamir (OCR) operasyonu başlatılıyor...`);
+            console.log(`\n⚠️ [GÖRSEL VEYA BOZUK FONT TESPİT EDİLDİ]: ${file}`);
+            if (isCorrupted) {
+                console.log(`    >> HATA: Metin var ama Türkçe karakterler (Ç,Ö,Ş) bozuk kodlanmış! Oto-Tamir (OCR) başlatılıyor...`);
+            } else {
+                console.log(`    >> Belge okunmaya uygun değil (Görsel). Oto-Tamir (OCR) operasyonu başlatılıyor...`);
+            }
 
             // Eğer Tesseract motoru henüz ayağa kalkmadıysa başlat
             if (!worker) worker = await createWorker('tur');
@@ -62,30 +72,13 @@ async function processPdfs() {
                 process.stdout.write("Bitti!\n");
             }
 
-            // 3. ADIM: Okunan verileri güzel formatlı yeni bir PDF içine yaz
-            process.stdout.write(`    >> Temiz metin yeni PDF dosyasına yazılıyor... `);
-            const tempPdfPath = path.join(pdfDir, file + '.temp');
-            const pdfDoc = new PDFDocument({ margin: 50, info: { Title: 'Tamir Edilmiş Belge - Fırat Mevzuat AI' } });
+            // 3. ADIM: Okunan temiz metni .txt dosyası olarak kaydet (PDF yazma — kısır döngüyü önler)
+            process.stdout.write(`    >> Temiz metin .txt olarak kaydediliyor... `);
+            const txtPath = filePath + '.txt';
+            fs.writeFileSync(txtPath, fullText.trim(), { encoding: 'utf8' });
             
-            const writeStream = fs.createWriteStream(tempPdfPath);
-            pdfDoc.pipe(writeStream);
+            console.log(`    ✅ BAŞARILI: ${file}.txt oluşturuldu ve RAG için %100 hazır!`);
 
-            // Windows Arial fontu ile (Türkçe 100% uyumlu)
-            pdfDoc.font(arialFontPath)
-                  .fontSize(11)
-                  .lineGap(4)
-                  .text(fullText.trim(), { align: 'justify' });
-
-            pdfDoc.end();
-
-            // Kayıt bitmesini bekle
-            await new Promise((resolve) => writeStream.on('finish', resolve));
-            
-            // 4. ADIM: Eski bozuk belgeyi sistemden sil ve yerine yenisini koy
-            fs.unlinkSync(filePath);             // Eskisini sil
-            fs.renameSync(tempPdfPath, filePath); // Yenisini asıl isme çevir
-            
-            console.log(`    ✅ OPARASYON BAŞARILI: ${file} eskisinin yerine kaydedildi ve okumaya/RAG işlemine %100 hazır!`);
             fixedCount++;
 
         } catch (err) {
@@ -97,9 +90,9 @@ async function processPdfs() {
     
     console.log("----------------------------------------------------------------------------------");
     if (fixedCount > 0) {
-        console.log(`🎉 OTO-TAMİR TAMAMLANDI! Toplam ${fixedCount} adet bozuk/okunamayan PDF başarıyla tamir edildi.`);
+        console.log(`🎉 OTO-TAMİR TAMAMLANDI! Toplam ${fixedCount} adet bozuk PDF için .txt dosyası üretildi.`);
     } else {
-        console.log(`✅ KONTROL TAMAMLANDI! Tüm belgeleriniz zaten okumaya uygun, bozuk belge bulunamadı.`);
+        console.log(`✅ KONTROL TAMAMLANDI! Tüm belgeleriniz zaten temiz, bozuk belge bulunamadı.`);
     }
 }
 
