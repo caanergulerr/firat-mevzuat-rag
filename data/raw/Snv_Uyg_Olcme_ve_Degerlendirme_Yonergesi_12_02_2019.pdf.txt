@@ -1,0 +1,1114 @@
+FIRAT ÜNİVERSİTESİ TIP FAKÜLTESİ SINAV UYGULAMA,
+ÖLÇME ve DEĞERLENDİRME YÖNERGESİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar )
+Amaç
+Madde 1:
+(1) Bu Yönergenin amacı, Fırat Üniversitesi Tıp Fakültesi'nde düzenlenen sınavların
+hazırlanması, yapılması, değerlendirilmesi, ilanı ve itiraz süreci ile ilgili olarak Fırat
+Üniversitesi Tıp Fakültesi Eğitim-Öğretim ve Sınav Yönetmeliği ile Mezuniyet
+Öncesi Koordinasyon Yönergesi'nde açıklanmayan sınavlara ilişkin usul ve esasları
+düzenlemektir.
+Kapsam
+Madde 2:
+(1) Bu Yönerge, Fırat Üniversitesi Tıp Fakültesi'nde yapılan sınavlara ilişkin hükümleri
+kapsar.
+Dayanak
+Madde 3:
+(1) Bu Yönerge, Fırat Üniversitesi Tıp Fakültesi Eğitim-Öğretim ve Sınav
+Yönetmeliği'ne dayanılarak hazırlanmıştır.
+Tanımlar
+Madde 4:
+(1) Bu Yönergede geçen:
+Üniversite: Fırat Üniversitesi'ni,
+Senato: Fırat Üniversitesi Senatosu'nu,
+Rektör: Fırat Üniversitesi Rektörünü,
+Tıp Fakültesi (Fakülte): Fırat Üniversitesi Tıp Fakültesi'ni,
+Dekanlık: Fırat Üniversitesi Tıp Fakültesi Dekanlığı' nı,
+Dekan: Fırat Üniversitesi Tıp Fakültesi Dekanını,
+Fakülte Kurulu: Fırat Üniversitesi Tıp Fakültesi Fakülte Kurulunu,
+Fakülte Yönetim Kurulu: Fırat Üniversitesi Tıp Fakültesi Yönetim Kurulunu,
+Mezuniyet Öncesi Eğitim Komisyonu: Koordinatörler kurulu ve tıp eğitimi anabilim
+dalı başkanından oluşan Fırat Üniversitesi Tıp Fakültesi Mezuniyet Öncesi Eğitim
+Komisyonu'nu,
+Koordinatörler Kurulu: Tıp Fakültesinde eğitim ve öğretimin düzenli bir şekilde
+yürütülmesi, planlanması ve koordinasyonu için mezuniyet öncesi eğitimden sorumlu
+dekan yardımcısı başkanlığında, baş koordinatör, baş koordinatör yardımcıları, dönem
+koordinatörleri, dönem koordinatör yardımcıları, ölçme-değerlendirme ve eğiticilerin
+eğitimi komisyonu başkanı, mesleki beceri eğitim (MBE) komisyonu başkanı, bilimsel
+
+araştırma eğitimi komisyonu başkanı, iletişim becerileri komisyonu başkanı, tıp eğitimi öz
+değerlendirme kurulu koordinatörü, multidisiplin laboratuvarı koordinatörü, probleme
+dayalı öğrenim (PDÖ) komisyonu başkanı, tıp eğitimi anabilim dalı başkanı, sürekli tıp
+eğitimi koordinatörü ve fakülte öğrenci temsilcisinden oluşan kurulu,
+Baş Koordinatör: Sorumlu olduğu eğitim-öğretim döneminde hazırlanan ders
+programlarını (ders kurulları, klinik pratik uygulama, klinik, poliklinik eğitim-öğretim
+programlarını) ve sınavlarını denetleyen, dönem koordinatörleri arasındaki koordinasyonu
+sağlayan dönem I-II-IN-IV-V ve Vİ” da yapılan tüm sınavlardan ve doğrudan eğitimden
+sorumlu dekan yardımcısına karşı sorumlu olan fakülte öğretim üyesini,
+1
+Baş Koordinatör Yardımcısı: Sorumlu olduğu eğitim-öğretim döneminde baş
+koordinatöre karşı sorumlu ve çalışmalarında baş koordinatöre yardımcı olan fakülte
+Öğretim üyesini,
+Dönem Koordinatörü: Sorumlu olduğu eğitim-öğretim döneminde (1-II-IN-IV-V-VI)
+eğitim süreçlerini (ders kurulları, klinik pratik uygulama, klinik, poliklinik eğitim öğretim
+programlarını) ve sınavlarını planlayan, düzenleyen, eksiksiz ve düzenli olarak
+yapılmasını sağlayan ve baş koordinatöre karşı sorumlu olan fakülte öğretim üyesini,
+Dönem Koordinatör Yardımcısı: Sorumlu olduğu eğitim-öğretim döneminde, dönem
+koordinatörüne karşı sorumlu ve çalışmalarında dönem koordinatörüne yardımcı olan
+fakülte öğretim üyelerini,
+Sınav Ölçme ve Değerlendirme Sorumlusu: Sorumlu olduğu eğitim-öğretim döneminde
+yapılan tüm sınavların ölçme, değerlendirme ve istatistiksel uygulamalarından sorumlu,
+Biyoistatistik ve Bilişim Anabilim Dalı' ndaki öğretim üyeleri arasından, dekan tarafından
+görevlendirilen, dönem koordinatörlerine ve baş koordinatöre karşı sorumlu fakülte
+Öğretim üyesini,
+Ders Kurulu Başkanı: Sorumlu olduğu eğitim-öğretim döneminde, her ders kurulu için o
+kurulda görevli olan fakülte öğretim üyeleri arasından atanan ve dönem koordinatörü ile
+dönem koordinatör yardımcılarına karşı sorumlu olan öğretim üyesini,
+Ders Kurulu Başkan Yardımcısı: Sorumlu olduğu eğitim-öğretim döneminde, her ders
+kurulu için o kurulda görevli olan tıp fakültesi öğretim üyeleri arasından atanan ve ders
+kurulu başkanına karşı sorumlu olan fakülte öğretim üyelerini,
+Klinik Pratik Uygulama Sorumlusu: Eğitim verilen pratik uygulamalarda (dönem IV-
+V-VI) öğrencilerin pratik uygulama programlarından, pratik uygulama eğitiminin
+işleyişinden ve pratik uygulama sınavlarından sorumlu olan klinik pratik uygulamanın
+yapıldığı anabilim dalı başkanı veya onun görevlendirdiği anabilim dalında görevli, eğitim
+
+açısından dönem koordinatörlerine ve koordinatör yardımcılarına karşı sorumlu fakülte
+Öğretim üyesini,
+Öğrenci: Fırat Üniversitesi Tıp Fakültesi öğrencisini,
+Dönem: Tıp Fakültesinde her biri bir ders yılını kapsayan 6 (altı) sınıf bulunur. Dönem
+sınıf karşılığını,
+Ders Kurulu: Tıp Fakültesi anabilim dalları tarafından dönem |, II ve III” de birden çok
+anabilim/bilim dalı tarafından entegre konu başlıklarına göre oluşturulmuş ve
+bütünleştirilmiş bir düzen içerisinde teorik eğitim ve pratik uygulamalar bütününün
+oluşturduğu dersler grubunu,
+Ders Kurulu Notu: Ders kurulu süresince ve kurul sonunda yapılan sınavda alınan notu,
+Klinik Pratik Uygulama: Yükseköğretim Kurulu ilkelerine uygun olarak saptanan bir
+süre ile Dönem IV, V ve VI” da bulunan Anabilim/Bilim Dallarınca ders, seminer ve
+uygulamalı (klinik, ameliyathane, poliklinik) olarak verilen çalışmaları,
+Klinik Pratik Uygulama Geçme Notu: Klinik pratik uygulama süresince ve klinik pratik
+uygulama sonunda yapılan sınavlar sonucunda klinik pratik uygulama başarı durumunu
+gösteren notu,
+İnternlik Dönemi (VI. sınıf): VI. Sınıftaki klinik, ameliyathane, poliklinik ve saha
+çalışmalarını kapsayan on iki aylık dönemi,
+Seminer: Öğretim programına ilişkin bir konu çerçevesinde hazırlanıp sunulan ve
+tartışmalı olarak geliştirilen çalışmaları,
+Ders Kurulu Teorik Sınavı: Dönem 1, Il ve IV te ilgili ders kurulu içinde teorik dersleri
+bulunan anabilim dalları tarafından gönderilen (kuruldaki ders sayısı ile orantılı)
+sorulardan oluşan ve ilgili kurul sonunda yapılan teorik sınavları,
+Ders Kurulu Pratik Sınavı: Dönem 1, II ve IP te ilgili ders kurulu içinde pratik
+uygulamaları bulunan anabilim dalları tarafından ilgili kurul sonunda yapılan pratik
+uygulama sınavlarını,
+Yılsonu Genel Teorik (Final) Sınavı: İlgili dönem (1, II ve II) öğretim yılı içinde, ilgili
+dönemde yer alan tüm ders kurullarının teorik derslerini kapsayacak şekilde bu ders
+2
+kurullarında yer alan anabilim dalları tarafından hazırlanmış sorulardan (tüm eğitim-
+öğretim yılındaki ders sayısı ile orantılı olarak) oluşan ve ilgili dönem kurulunun son ders
+kurulu teorik sınavından en az 14 gün sonra yapılan sınavı,
+Bütünleme sınavı: İlgili dönem (1, II ve II) eğitim-öğretim yılı içinde, yılsonu genel
+teorik (Final) sınav notu 50'den düşük olan veya yılsonu genel teorik (Final) sınav notu
+
+50'den yüksek olduğu halde dönem başarı notu 60”ın altında kalan öğrenciler için yılsonu
+genel teorik (Final) sınavından en az 14 gün sonra yapılan ve soru dağılımı yılsonu genel
+teorik (Final) sınavı ile aynı olan genel teorik sınavı,
+Bütünleme Dönemi: Her dönem için eğitim-öğretim yılı sonunda ve başlangıç ile bitiş
+tarihleri, fakülte kurulunca akademik takvim kapsamında belirlenen bütünleme
+sınavlarının yapılacağı dönemi,
+Mazeret (Telafi) Sınavı: Fakülte yönetim kurulunca kabul edilen geçerli bir mazereti
+olmak şartıyla, fakültenin ilgili döneminde yapılan herhangi bir sınavına katılamayan
+öğrenciler için yapılan ve giremediği sınav konularını kapsayan teorik ya da pratik veya
+aynı yöntem ile yapılan sınavı,
+Klinik Pratik Uygulama Sınavı: Dönem IV ve V' te her klinik pratik uygulamanın son iş
+günü ilgili anabilim/bilim dallarınca belirlenen yöntemlerle yapılan uygulama ve yazılı
+sınavları,
+Baraj: İlgili ders kurulu teorik, mazeret (telafi), yılsonu genel teorik (final) ve bütünleme
+sınavlarında; ayrı ayrı olmak üzere, her anabilim dalının soru grubu; entegre oturum-
+panel-seminer-olgu sunumu-klinik yaklaşım soru grubu ve klinik bilimler soru grubunda
+sorulan soru sayılarının yarısını,
+Ham Not: Bir sınavdan alınan ve herhangi bir baraj uygulaması yapılmamış notu, ifade
+eder.
+İKİNCİ BÖLÜM
+Görev Tanımları ve Sorumluluklar
+Koordinatörler
+Madde 5:
+(1) Baş Koordinatör: Dekan tarafından önerilerek fakülte yönetim kurulu tarafından 1
+(bir) eğitim-öğretim dönemi için atanır. Görev süresi dolan baş koordinatör tekrar aynı
+
+göreve atanabilir. Baş koordinatör, her eğitim-öğretim döneminde dekanlık ve fakülte
+kurulu tarafından alınan kararlar doğrultusunda eğitim ve öğretimin planlanması,
+koordinasyonu, denetlenmesi ve dönem koordinatörleri arasındaki koordinasyonun
+sağlanması açısından doğrudan eğitimden sorumlu dekan yardımcısına karşı
+sorumludur.
+(2) Baş Koordinatör Yardımcıları: Baş koordinatörün de görüşü alınarak dekan tarafından
+önerilir ve fakülte yönetim kurulu tarafından | (bir) eğitim-öğretim dönemi için 2 (iki)
+baş koordinatör yardımcısı atanır. Görev süresi dolan baş koordinatör yardımcısı
+tekrar aynı göreve atanabilir. Baş koordinatör görevinde bulunmadığı durumlarda
+yardımcılardan biri baş koordinatörlüğe vekâlet eder. Baş koordinatör yardımcıları,
+her eğitim-öğretim döneminde dekanlık ve fakülte kurulu tarafından alınan kararlar
+doğrultusunda eğitim ve öğretimin planlanması, koordinasyonu, denetlenmesi ve
+dönem koordinatörleri arasındaki koordinasyonun sağlanması açısından doğrudan baş
+koordinatöre karşı sorumludur.
+(3) Dönem Koordinatörleri: Her bir dönem için (I-I-IN-IV-V-VI), baş koordinatörün de
+görüşü alınarak dekan tarafından önerilir ve fakülte yönetim kurulu tarafından | (bir)
+eğitim-öğretim dönemi için atanır. Görev süresi dolan dönem koordinatörü tekrar aynı
+göreve atanabilir. Dönem koordinatörleri her eğitim-öğretim döneminde dekanlık ve
+fakülte kurulu tarafından alınan kararlar doğrultusunda eğitim ve öğretimin
+planlanması, koordinasyonu, denetlenmesi ve sürdürülmesi açısından doğrudan baş
+koordinatör ve baş koordinatör yardımcılarına karşı sorumludur.
+3
+(4) Dönem koordinatörleri aşağıda belirtilen görevleri yerine getirir:
+a. Sorumlu oldukları dönem öğrencileri ile ilgili ders kayıtlarının yapılmasında
+rehberlik etmek,
+b. Sorumlu oldukları dönemle ilgili olarak eğitim-öğretim rehberindeki
+programların bütünlüğünü, entegrasyonunu ve düzenli bir şekilde
+yürütülmesini sağlamak,
+c. Sorumlu oldukları dönemin amaç ve öğrenim hedeflerinin belirlenmesini ve
+sürekli güncellenmesini sağlamak,
+d. Her eğitim-öğretim döneminde en geç mart ayı sonuna kadar bir sonraki
+akademik yılın eğitim-öğretim rehberinde yer alacak olan kendi dönemine ait
+
+ders içeriklerine ve ders programlarına yönelik düzenlemeleri koordine ve
+takip etmek,
+e. Her eğitim-öğretim döneminde en geç mart ayı sonuna kadar bir sonraki
+akademik yılın eğitim öğretim rehberinde yer alacak olan kendi dönemine ait
+ders kurulları, klinik pratik uygulama ve internlik sürelerinin başlama ve bitiş
+tarihleri ile sınav tarihlerini belirleyerek koordinatörler kuruluna sunmak,
+f. Her eğitim-öğretim döneminde öğretim elemanları, klinik pratik uygulama
+sorumluları, panel sorumlusu, mesleki beceri laboratuvarı sorumlusu ve
+probleme dayalı öğrenim başkanının eğitim-öğretim programına uyumunu ve
+katılımını sağlamak ve denetlemek,
+g. Eğitim-öğretim rehberindeki programın yürütülmesi sırasında karşılaşılan
+aksaklıkları ve çözüm önerilerini koordinatörler kuruluna bildirmek,
+h. Eğitim-öğretimde kullanılan teorik ve pratik çalışma ortamlarının fiziki ve
+donanımsal koşullarının uygunluğunu denetlemek ve bunları baş koordinatörlüğe
+bildirmek,
+i. Basılı ve sanal ortamda eğitim materyali sağlanması için girişimlerde bulunmak,
+j. İlgili ders kurulunun kurul sonu teorik sınavlarının soru dağılım oranları ve soru
+sayısını belirleyerek ilgili ders kurulu başkanına bildirmek ve ders kurulu başkanı
+tarafından hazırlanan soru kitapçığının sınavdan en az 15 (on beş) gün önce
+koordinatörlüğe ulaşmasını sağlamak,
+k. İlgili dönemin yılsonu genel teorik (Final), yılsonu genel pratik, mazeret
+(Telafi), bütünleme ve benzeri sınavlarının ağırlıklı soru dağılım oranları ve soru
+sayısını belirleyerek ilgili anabilim dallarına bildirmek, buna göre sınav
+sorularının ve cevap anahtarlarının anabilim dallarından sınav tarihinden en az 15
+(on beş) gün önce koordinatörlüğe ulaşmasını sağlamak,
+1. Ders kurulu başkanları ile birlikte ölçme ve değerlendirmede kullanılacak olan
+sınav soru kitapçıkları ve cevap anahtarlarının derlenmesi, basımdan önce teknik
+incelemesinin yapılması, gerekli gördüğünde anabilim dalı başkanları veya
+bunların görevlendireceği öğretim üyelerinin katılacağı düzenleme toplantılarını
+gerçekleştirilmesi sağlamak,
+m. Sınavların Fırat Üniversitesi Tıp Fakültesi Eğitim-Öğretim ve Sınav
+Yönetmeliği'ne uygun olarak yapılmasını sağlamak; bunun için ders kurulu
+
+başkanı ile birlikte sınav yerlerinin hazırlanması, sınav  gözetmenlerinin
+belirlenmesi, cevap anahtarlarının oluşturulması ve sınavın disiplin içerisinde
+yapılmasını sağlamak,
+n. Sınavlar esnasında ders kurulu başkanları tarafından sınav salonlarına
+yerleştirilen salon başkanları ve sınav gözetmenlerinin yerleştirilmesini
+denetlemek, sınavın asayişi sağlamak, sınav esnasında ders kurulu başkanları
+tarafından iletilen sorular veya sınav evrakları ile ilgili ortaya çıkabilecek
+sorunları çözmek,
+o. Ders kurulu başkanı ile birlikte sınav sonuçlarının değerlendirilmesini yapmak,
+sonuçları öğrencilere duyurmak, klinik pratik uygulama sınavı ve internlik
+değerlendirme sonuçlarının ilgili yöneticiler tarafından açıklanmasını ve bu
+4
+sonuçların sınav tarihinden sonra en geç 3 (üç) iş günü içinde baş koordinatörlük
+ve dekanlığa ulaşmasını sağlamak,
+p-. Dönem DI ve TP lere ait sınav notlarını yasal süresi içerisinde otomasyon
+sistemine girmek,
+g. Öğrencilerin ölçme ve değerlendirme ile ilgili yazılı itirazlarını inceleyip ilgili
+öğretim üyesi ve/veya ilgili anabilim veya bilim dalı akademik kurulları ile
+birlikte karara bağlamak, sonuç alınamayan durumlarda konuyu baş koordinatöre
+bildirmek,
+r. Ders kurulu ve klinik pratik uygulamalar içerisindeki tüm etkinliklerin (panel,
+olgu sunumu, entegre oturum, konferans, beceri laboratuvarı, kurum ziyareti,
+sağlık eğitimi uygulaması, kurs vb.) organizasyonlarını denetlemek,
+s. Klinik pratik uygulamaların ve intern programlarının düzenli şekilde işleyişini ve
+intern karnelerinin doldurulmasını sağlamak, bu konularda meydana gelebilecek
+aksaklıkları gerekli hâllerde baş koordinatöre iletmek,
+t. Öğretim elemanları ve öğrencilerin katıldığı iletişim toplantılarını organize etmek,
+u. Tıp Eğitimi Anabilim Dalı başkanı veya görevli öğretim üyesi ile birlikte ders
+kurulu ve klinik pratik uygulama değerlendirme anketleri başta olmak üzere
+eğitim ve öğretimle ilgili tüm geri bildirim anketlerinin yapılmasını sağlamak,
+
+eğitim yılı sonunda eğitim ve öğretimin başarısını değerlendirmek ve sonuçları baş
+koordinatöre sunmak,
+v. Koordinatörler kurulunun diğer üyeleriyle iş birliği yapmak
+(5) Dönem Koordinatör Yardımcıları: Her bir dönem için (I1-IL-I-IV-V-VD), dönem
+koordinatörünün de görüşü alınarak dekan tarafından önerilir ve fakülte yönetim
+kurulu tarafından | (bir) eğitim-öğretim dönemi için fakülte öğretim üyeleri arasından
+2 (iki) öğretim üyesi dönem koordinatörlerinin görevine yardımcı olmak için atanır.
+Görev süresi dolan dönem koordinatör yardımcısı tekrar aynı göreve atanabilir.
+Dönem koordinatörleri her eğitim-öğretim döneminde dekanlık ve fakülte kurulu
+tarafından alınan kararlar doğrultusunda eğitim ve öğretimin planlanması,
+koordinasyonu, denetlenmesi ve sürdürülmesi açısından doğrudan dönem
+koordinatörüne karşı sorumludur.
+(6) Dönem koordinatör yardımcıları, 5. maddenin 4. bendinde belirtilen görevlerin yerine
+getirilmesinde dönem koordinatörüne yardım eder.
+Ders Kurulu Başkan ve Yardımcıları
+Madde 6:
+(1) Ders Kurulu Başkanı: Her bir dönem için (I-II-II), dönem koordinatörünün de görüşü
+alınarak dekan tarafından önerilir ve fakülte yönetim kurulu tarafından | (bir) eğitim-
+öğretim dönemi için fakülte öğretim üyeleri arasından atanır. Görev süresi dolan ders
+kurulu başkanı tekrar aynı göreve atanabilir. Ders kurulu başkanı görevinde
+bulunmadığı durumlarda yardımcılardan biri ders kurulu başkanlığına vekâlet eder.
+Ders kurulu başkanı her eğitim-öğretim döneminde dekanlık ve fakülte kurulu
+tarafından alınan kararlar doğrultusunda eğitim ve öğretimin planlanması,
+koordinasyonu, denetlenmesi ve sürdürülmesi açısından doğrudan dönem
+koordinatörü ve koordinatör yardımcılarına karşı sorumludur.
+(2) Ders kurulu başkanları aşağıda belirtilen görevleri yerine getirir:
+a. Sorumlu olduğu eğitim-öğretim döneminde en geç Şubat ayı sonuna kadar bir
+sonraki akademik yılın eğitim-öğretim rehberinde yer alacak olan kendi
+döneminin ders kuruluna ait ders içerikleri ve ders programlarına yönelik
+düzenlemeleri ders kurulu üyelerinin görüşlerini alarak hazırlayıp dönem
+koordinatörüne sunmak,
+b. Sorumlu olduğu eğitim-öğretim dönemindeki ders kurulu programlarının
+eksiksiz ve düzenli bir şekilde yürütülmesini sağlamak ve bu konuda ilgili
+
+dönem koordinatörü ile işbirliği ve iletişim içinde çalışmak,
+5
+c. Sorumlu olduğu eğitim-öğretim dönemindeki ders kurulu içerisinde yapılacak
+ders anlatım günü ve saati ile ilgili, ders kurulu öğretim elemanlarınca istenen
+değişiklikleri değerlendirmek, uygun gördüklerini uygulamak ve bu
+değişiklikleri yazılı olarak ders günü ve saatinden önce ilgili tüm öğrencilere
+duyurmak,
+d. Sorumlu olduğu eğitim-öğretim dönemindeki ders kurulu içerisinde ders veren
+öğretim elemanlarınca yoklamaların düzenli bir şekilde yapılmasını sağlamak
+ve bunların öğrenci devam çizelgesine işlenmesini denetlemek,
+e. Sorumlu olduğu eğitim-öğretim dönemindeki ders kurulunun kurul sonu teorik
+sınav sorularını ilgili anabilim dallarından yazılı olarak talep etmek, bunları
+derlemek, kitapçık şekline getirmek (elektronik ortamda) ve bunları dönem
+koordinatörüne sunmak,
+f. Sorumlu olduğu eğitim-öğretim dönemindeki dönem koordinatörü ile birlikte
+kurul sınavları ve yılsonu sınavlarının hazırlanarak yapılmasını sağlamak,
+g. Sorumlu olduğu eğitim-öğretim dönemindeki ders kurulu sınavı esnasında
+salon başkanları ve sınav gözetmenlerinin sınav salonlarına yerleştirilmesinden
+ve sınavın asayişinden sorumlu olmak, sınav esnasında sınav salonlarını
+denetlemek, sorular veya sınav evrakları ile ilgili ortaya çıkabilecek sorunların
+ilgili dönem koordinatörü ile iletişime geçerek çözülmesini sağlamak,
+h. Sorumlu olduğu eğitim-öğretim dönemindeki ders kurulu sınavı sonunda sınav
+ile ilgili tüm evrakları, sınav salon başkanı ve sınav gözetmenlerinden eksiksiz
+olarak teslim almak ve ilgili dönem koordinatörüne tarih ve sayılı bir tutanak
+ile teslim etmek,
+i. Sorumlu olduğu eğitim-öğretim dönemindeki ders kurulu içerisindeki PDÖ
+uygulamalarının değerlendirme sonuçlarını PDÖ yürütücülerinden alarak dönem
+koordinatörüne teslim etmek,
+j. Dönem koordinatörüyle birlikte sorumlu olduğu eğitim-öğretim dönemindeki
+ders kurulu sınav sonuçlarının değerlendirilmesi ve doğru olarak hesaplanıp
+açıklanmasını sağlamak,
+
+k. Sorumlu olduğu eğitim-öğretim dönemindeki ders kurulu bittikten sonra 15 (on
+beş) gün içinde, dönem koordinatörleriyle birlikte ders kurulu öğretim
+elemanlarını toplamak, uygulanan ders kurulunun genel bir değerlendirilmesini
+yapmak, konu başlıkları ve içeriğini güncelleştirerek bir sonraki eğitim-
+öğretim dönemine ait program taslağını hazırlayıp dönem koordinatörüne
+sunmak,
+1. Sorumlu olduğu eğitim-öğretim dönemindeki laboratuvarların hazırlanıp,
+laboratuvar çalışmalarının yürütülmesini düzenlemek,
+(3) Ders Kurulu Başkan Yardımcıları: Her bir dönem için (I-IL-II), ders kurulu
+başkanının da görüşü alınarak dekan tarafından önerilen ve fakülte yönetim kurulu
+tarafından | (bir) eğitim-öğretim dönemi için fakülte öğretim üyeleri arasından | (bir)
+öğretim üyesi ders kurulu başkanı görevine yardımcı olmak için atanır. Görev süresi
+dolan ders kurulu başkan yardımcısı tekrar aynı göreve atanabilir. Ders kurulu başkanı
+görevinde bulunmadığı durumlarda ders kurulu başkan yardımcısı ders kurulu
+başkanlığına vekâlet eder. Ders kurulu başkan yardımcısı her eğitim-öğretim
+döneminde dekanlık ve fakülte kurulu tarafından alınan kararlar doğrultusunda eğitim
+ve öğretimin planlanması, koordinasyonu, denetlenmesi ve sürdürülmesi açısından
+doğrudan ders kurulu başkanına karşı sorumludur.
+(4) Ders kurulu başkan yardımcıları, 6. maddenin 2. bendinde belirtilen görevlerin yerine
+getirilmesinde ders kurulu başkanına yardım eder.
+6
+Klinik Pratik Uygulama Sorumlusu
+Madde 7:
+(1) Klinik Pratik Uygulama Sorumlusu, eğitim verilen klinik pratik uygulamalarda
+(dönem IV-V-VI) öğrencilerin klinik pratik uygulama programlarından, klinik pratik
+uygulama eğitiminin işleyişinden ve klinik pratik uygulama sınavlarından sorumlu
+olan klinik pratik uygulamanın yapıldığı anabilim dalı başkanı veya onun
+görevlendirdiği anabilim dalında görevli, eğitim açısından dönem koordinatörlerine ve
+koordinatör yardımcılarına karşı sorumlu öğretim üyesidir.
+(2) Klinik pratik uygulama sorumlusunun görevleri şunlardır:
+a. Klinik pratik uygulama eğitim programının taslağını hazırlamak ve ilgili
+
+dönem koordinatörüne sunmak,
+b. Kabul edilen klinik pratik uygulama programının eksiksiz ve düzenli bir
+şekilde yürütülmesini sağlamak,
+c. Klinik pratik uygulamalarda teorik ve uygulamalı eğitimleri yürütecek öğretim
+elemanlarını belirlemek,
+d. Klinik pratik uygulamalarda ders veren öğretim elemanlarınca yoklamaların
+düzenli bir şekilde yapılmasını sağlamak ve bunların öğrenci devam
+çizelgesine işlenmesini denetlemek,
+e. Klinik pratik uygulama sonu yazılı sınav uygulamasında öğretim elemanlarından
+soruları sağlayarak, uygun koşullarda çoğaltılmasını sağlamak ve sınav
+gözetmenlerini belirlemek,
+f. Klinik pratik uygulama sonu sözlü sınav yapılacaksa sınav jürilerini oluşturmak,
+g. Klinik pratik uygulama sonu sınavının (yazılı, sözlü vb.) düzenli bir şekilde
+yapılmasını sağlamak,
+h. Yapılandırılmış nesnel uygulama sınavları yapıldığında bu sınavlardaki görevlileri
+belirlemek, sınavın uygun bir şekilde gerçekleştirilmesini sağlamak,
+i. Klinik pratik uygulama sonu sınav sonuçlarının doğru olarak hesaplanıp
+açıklanmasından birinci derecede sorumlu olmak,
+j. Klinik pratik uygulama sınav sonuçlarını sınavdan sonra en geç 3 (üç) iş günü
+içerisinde dekanlığa bildirmek,
+k. Klinik pratik uygulama sınav sonuçlarını yasal süresi içerisinde otomasyon
+sistemine girmek,
+1. Klinik pratik uygulamalarla ilgili anketlerin yapılması ve sonuçlarının dönem
+koordinatörlerine ve Tıp Eğitimi Anabilim Dalı'na iletilmesini sağlamak,
+Sorumluluklar
+Madde 8:
+(1) Ders kurulu teorik ve mazeret (Telafi) sınavları için soruların toplanması, farklı grup
+soru kitapçıklarının hazırlanması, basımı-zımbalanması, sınav salonlarının hazır hale
+
+getirilmesi, sınavın zamanında yapılması, soru/cevap kâğıtlarının güvenliğinin
+sağlanması, sınav evraklarının dönem koordinatörüne teslim edilmesi ve sınavın her
+aşamasında ders kurulu başkanı ve yardımcılarının tümü müştereken sorumludur.
+(2) Yılsonu genel teorik (Final) ve bütünleme sınavları için soruların toplanması, farklı
+grup soru kitapçıklarının hazırlanması, basımı-zımbalanması, sınav salonlarının hazır
+hale getirilmesi, sınavın zamanında yapılması, soru/cevap kâğıtlarının güvenliğinin
+sağlanması, sınav evraklarının dönem koordinatörüne teslim edilmesi ve sınavın her
+aşamasında dönem koordinatörleri ve yardımcılarının tümü müştereken sorumludur.
+7
+ÜÇÜNCÜ BÖLÜM
+Devam Zorunluluğu, Mazeretler, İzinler)
+Eğitim-Öğ! retime Devam Zorunluluğu
+Madde 9:
+(1) Fakültede teorik ve pratik dersler (laboratuvar, klinik ve saha çalışmaları) ile klinik
+pratik uygulamalara devam zorunludur.
+(2) Ders, ders kurulu veya klinik pratik uygulama sınavlarına girebilmek için teorik
+derslerin en az *470'ine; pratik dersler ile klinik pratik uygulamaların ise en az
+9080'ine devam etmek gerekir. Her ne sebeple olursa olsun ders kurulundaki teorik
+derslerin 9030, pratik dersler ile klinik pratik uygulamalarının 20 devamsızlık
+sınırını geçen öğrenci o ders kurulu, pratik ders veya klinik pratik uygulama sınavına
+giremez. Ayrıca bir ders kurulundaki herhangi bir anabilim/bilim dalı uygulamasının
+9020'sinden fazlasına katılamayan öğrenci ders kurulundaki o anabilim/bilim dalının
+teorik sınavına, bir yıl içinde toplam teorik ders saatlerinin 30'dan fazlasına
+girmeyen öğrenci ise final sınavına giremez ve devamsızlıktan sınıfta kalır. Öğrenci, o
+dönem veya klinik pratik uygulamayı tekrarlamak zorundadır. Devamsızlık saatleri
+hesaplanırken ortaya çıkabilecek ondalık sayılar (sayı değerine bakılmaksızın) bir üst
+tam sayıya yuvarlatılır.
+(3) Devam durumları imza karşılığında yapılacak yoklamalarla belirlenir. Devamsızlıklar
+her ders kurulu ve tüm yıl için değerlendirilir.
+(4) Öğrencinin herhangi bir nedenle fakülte yönetim kurulunca kabul edilen devamsızlık
+süresi, normal öğretim süresine eklenir.
+(5) Fakültemiz I., II. ve II. dönem öğrencilerinden eğitim-öğretimine devam edip yıl sonu
+
+sınavı veya bütünleme sınavları sonucu dönem tekrarına kalanların tekrar edecekleri o
+dönem için pratik ve teorik derslere devam zorunluğu aranmaz. Öğrenci o dönem için
+mevcut sınav takvimine uymak zorundadır.
+Mazeretler
+Madde 10:
+(1) Mazeretler; öğrencinin sağlık sorunu, tutukluluğu, birinci derece akrabasının vefatı,
+doğal afet ve fakülte yönetim kurulunca kabul edilen diğer haklı ve geçerli
+nedenlerdir.
+(2) Öğrencilerin, belgelendirmeleri şartıyla mazeretlerinin kabulüne veya reddine fakülte
+yönetim kurulunca veya üniversite yönetim kurulunca karar verilir.
+(3) Sağlık mazereti: Öğrencinin sağlık sorunu nedenine bağlı olarak sınavları ile ilgili
+mazeretli sayılabilmesi için hastalığını sağlık kuruluşlarından alacağı sağlık raporu ile
+belgelendirmesi ve bu raporunun fakülte yönetim kurulunca kabul edilmesi gerekir.
+Fakülte yönetim kurulunca raporu kabul edilen öğrenci, raporlu bulunduğu süre
+içinde devamsız sayılır, derslere girse bile bu durum devamlılıktan sayılmaz ve
+sınavlara giremez. İlgilinin raporlu bulunduğu sürede giremediği sınavlar varsa
+kendisine mazeret sınavı hakkı verilir. Ancak toplam devamsızlık süresi kurul veya
+klinik pratik uygulama teorik derslerinin e 30'unu, pratik derslerin *6 20'sini geçerse
+devamsız sayılır ve sınavlara giremez. Klinik pratik uygulamalarda ise klinik pratik
+uygulama tekrarı gerekir.
+(4) Milli Takım karşılaşmalarında Milli Takımlarımızda, yıllık üniversitelerarası spor
+karşılaşmalarında ve üniversite takımlarında yer alan öğrencilerin bu takımlarda
+bulunmak zorunda olmaları nedeniyle kendilerine fakülte yönetim kurulu kararı ile
+izin verilir. Öğrencilerin mazeretli izinli sayıldıkları süre içinde ara sınavına
+giremedikleri ders veya dersler varsa bu derslerden mazeret sınavına alınırlar. Ancak
+toplam devamsızlık süresi kurul veya klinik pratik uygulama teorik derslerinin 9o
+30'unu, pratik derslerin 6 20'sini geçerse devamsız sayılır ve sınavlara giremez.
+8
+Öğrenci dönem IV, V, Vİ” da ise devam etmediği süreyi anabilim dalının göstereceği
+zamanlarda tamamlamak zorundadır. Öğrenci bu süreyi tamamlamadığı takdirde
+klinik pratik uygulamayı tekrarlar.
+(5) Mazeretlere ilişkin başvuruların, belgeleriyle birlikte mazeretin bitim tarihinden
+
+itibaren en geç 5 (beş) iş günü içerisinde dekanlığa yapılması gerekir. Daha sonra
+yapılan müracaatlar, geç sunulan raporlar, fakülte yönetim kurulunca kabul edilmeyen
+raporlar işleme konulmaz.
+(6) Fakülte yönetim kurulu öğrencinin her türlü mazeretini, gerekçe göstererek kabul veya
+reddedebilir.
+İzinler
+Madde 11:
+(1) İzinler, öğrencilerin fakülte yönetim kurulu kararı ile geçici bir süre için kayıtlı
+oldukları döneme ait eğitimlerine ara vermeleridir. İlgili mevzuat hükümleriyle
+belirlenen süreler dışında, öğrencilere bir defaya mahsus olmak üzere en fazla | (bir)
+yıla kadar izin verilebilir. İzin için başvurunun, öngörülmeyen ve zorunlu haller
+dışında, akademik yıl başlanmadan önce yapılması gerekir. İzinli öğrencilerin tüm
+hakları saklı tutulur.
+(2) Öğrencilerin izinli sayılabileceği haller şunlardır:
+a. Sağlık kuruluşlarından almış oldukları sağlık raporları ile belgelenmiş bulunan
+uzun süreli bir hastalığı olmak,
+b. Eğitim-öğretimine doğal afetler nedeniyle ara vermek zorunda kalmış olmak,
+c. Birinci dereceden akrabalarının ağır hastalığı halinde, bakacak başka
+kimsesinin bulunmaması nedeni ile eğitim-öğretimine ara vermek zorunda
+olduğunu belgelemiş olmak,
+d. Eğitim-öğretimine zorunlu ekonomik nedenlerden dolayı ara verdiğini resmi
+belgelerle belgelendirmiş olmak,
+e. İlgili mevzuat hükümlerine göre öğrencilik sıfatını kaldırmayan veya
+yükseköğretim kurumundan çıkarmayı gerektirmeyen mahkümiyet ve
+tutukluluk halinin olması,
+f. Tecil hakkını kaybetmek veya tecilinin kaldırılması suretiyle askere alınmak,
+g. Üniversite dışı burs, klinik pratik uygulama, araştırma gibi imkânların
+doğması,
+h. Üniversite yönetim kurulu ve üniversite senatosunca kabul edilebilecek diğer
+
+haller,
+i. Üniversite yönetim kurulu ve üniversite senatosunca kabul edilebilecek diğer
+haller dışında öğrencinin her türlü izin isteğinin kabulüne veya reddine fakülte
+yönetim kurulunca karar verilir.
+DÖRDÜNCÜ BÖLÜM
+Sınavlar ve Değerlendirme Esasları
+Sınavlarla İlgili Esaslar
+Madde 12:
+(1) Tıp Fakültesi öğrencilerinin eğitim-öğretim amaç ve hedeflerine ulaşılıp
+ulaşılmadığının belirlenmesi için sınav, ölçme ve değerlendirme yöntemleri kullanılır.
+(2) Dönem LIL-INP te ders kurulu sınavları ve yılsonu final ve bütünleme sınavları pratik
+ve/veya yazılı olarak yapılabilir. Mazeret sınavları ve her tür pratik sınavlar ise sözlü,
+yazılı veya hem sözlü hem de yazılı olarak yapılabilir.
+(3) Öğretim üyesi ve görevlileri daha önceden haber vererek veya vermeden pratikler
+sırasında bazı öğrencileri veya tüm sınıfı pratik sınavına alabilir.
+9
+(4) Ders kurulu teorik sınavları en çok iki saatlik süre içinde ve ders kurulu başkanı ile
+ilgili koordinatörün gözetimi ve sorumluluğu altında yapılır.
+(5) Yılsonu teorik sınavları en çok dört saatlik süre içinde ve ders kurulu başkanları ile
+dönem koordinatörünün gözetim ve sorumluluğu altında yapılır.
+(6) Yılsonu sınavları bir veya birden fazla gün ve oturumda yapılabilir.
+(7) Teorik yazılı sınavlar, açık uçlu sorulu (klasik sınav), klasik teorik veya çoktan
+seçmeli test vb. şeklinde yapılabilir. Pratik sınavlar ise sözlü, yapılandırılmış sözlü,
+teorik yazılı veya hem sözlü hem de teorik yazılı olarak yapılabilir.
+(8) Dönem DIL-IN” te yapılan kurul sınavlarında alınan ondalık puanlar tam sayıya
+yuvarlatılmaz. Kurul notu ondalık sayıyı da içerecek şekilde kabul edilir. Yıl sonunda
+tüm kurullardan alınan puanlar (Ondalık yüzdeleri ile birlikte) toplanarak kurul
+sayısına bölünür ve yıl sonu kurul ortalaması bulunur. Yıl sonu kurul ortalaması
+hesaplandığında ortaya çıkabilecek ondalık puanlar tam sayıya yuvarlatılır (Ondalıklı
+
+sayı 0.50'den büyük veya eşit ise bir üst tam sayıya, 0.50'den küçük ise bir alt tam
+sayıya yuvarlatılır). Kurul sınavları dışındaki tüm sınavlarda ve dönem IV ve V'in
+sınavlarında, sınav notu hesaplanırken, ortaya çıkabilecek ondalık puanlar tam sayıya
+yuvarlatılarak hesaplanır (Ondalıklı sayı 0.50'den büyük veya eşit ise bir üst tam
+sayıya, 0.50'den küçük ise bir alt tam sayıya yuvarlatılır). (Değişik:29.01.2019 tarih
+ve 2018-2019/7.9 sayılı Senato Kararı)
+Sınav Tarihleri
+Madde 13:
+(1) Eğitim-Öğretim yılı içerisinde yapılması planlanan tüm sınavların tarihleri dönem
+koordinatörleri tarafından önerilir ve fakülte kurulunda görüşülüp onaylandıktan sonra
+senatoya gönderilir. Sınavların tarihleri ancak senato onayından sonra yürürlüğe girer.
+(2) Dönem T-IL-IN te, yıl içinde pratik ve/veya teorik sınavlardan oluşan ders kurulu
+sınavları; yıl içerisinde ve/veya yılsonunda beceri uygulaması sınav(lar)ı ve yıl
+sonunda yılsonu genel pratik ve teorik final ve bütünleme sınavları yapılır.
+(3) Dönem DİLİN te yılsonu genel teorik (Final) sınavları son ders kurulu teorik
+sınavından en az 14 (on dört) gün sonra yapılır.
+(4) Dönem I-IL-ITV te bütünleme sınavları, yılsonu genel teorik (Final) sınavından en az
+14 (on dört) gün sonra yapılır.
+(5) Dönem LIL-IN te sınavlar, en az bir gün önceden bildirilmek kaydıyla fakülte veya
+üniversite bünyesinde normal ders saatleri dışında veya hafta sonunda yapılabilir.
+(6) Dönem IV-V” te klinik pratik uygulama sonu sınavları ilgili klinik pratik uygulamanın
+son gününü geçmemek kaydı ile yapılır. Bu sınav yazılı ve/veya sözlü (hasta başı,
+laboratuvar veya klinik uygulama vb.) sınav olarak yapılır.
+(7) Sınavlar ilan edildiği tarih ve saatler dışında yapılamaz. Ancak zorunlu koşullarda,
+dönem koordinatörünün önerisi ve fakülte yönetim kurulunun kararı ile daha önceden
+ilan edilmiş sınav yeri, tarih ve saatleri değiştirilebilir.
+Dönem I-II-IHI Ders Kurulu Sonu Sınavları ve Uygulama Yöntemleri
+Madde 14:
+(1) Her ders kurulundan sonra pratik ve/veya teorik sınavlardan oluşan ders kurulu sonu
+sınavı yapılır. Bu sınavda ders kurulunu oluşturan anabilim/bilim dallarından teorik ve
+pratik ders ağırlıklarına göre soru sorulur.
+
+(2) Her ders kurulu için dersler ya da ders grupları teorik ve pratik değerlendirmesinde
+9050 barajı uygulanır.
+10
+(3) Ders kurulu notu, ders kurulunu oluşturan anabilim/bilim dallarından alınan toplam
+puandan, her anabilim/bilim dalı için 9450'nin altında olan puanlar çıkarılarak
+hesaplanır. Ders kurulu teorik ve mazeret (telafi) sınavlarında sorulan soruların her
+biri 1 (bir) puan değerindedir. Herhangi bir ders grubunda (farklı derslerden oluşabilir)
+baraj geçilemezse (soru grubunda sorulan soruların yarısı doğru cevaplanamazsa), o
+ders grubunda doğru yanıtlanan soru sayısı, o ders grubunun barajından düşülerek
+hesaplanır. Baraj uygulaması, sınavın tümünde doğru yapılan soru sayısından
+düşülerek ders kurulu teorik sınavı notu elde edilir. Öğrencinin sınava girmiş olması
+koşuluyla ders kurulu teorik sınavı notu sıfır (0)'dan düşük olamaz.
+(4) Ders kurulunda bir anabilim/bilim dalının pratik sınavına giremeyen öğrenci o
+anabilim/bilim dalının teorik sorularını cevaplayamaz ve ders kurulundaki o
+anabilim/bilim dalı notu sıfır (0) almış olarak kabul edilir. Ancak o anabilim/bilim dalı
+için ayrıca toplam puandan o anabilim/bilim dalı puanının *450'si oranında puan
+indirimi yapılmaz. Sadece pratik sınavı olan dallar için de aynı uygulama yapılır.
+(5) Devam koşullarını yerine getirdiği halde bir ders kurulunun teorik sınavına mazeretsiz
+girmeyen öğrenci o sınavdan sıfır (0) alır.
+(6) Her ders kurulu sonunda mazereti, ilgili anabilim/bilim dalınca kabul edilen öğrenciye
+pratik telafisi açılır.
+(7) Ders kurulu teorik sınavı ile pratik sınavı aynı oturumda yapılabilir. Bu sınavların
+süresi anabilim dalları tarafından belirlenir ve bu anabilim dallarından öğretim üyeleri
+sınav görevlisi olarak sınav salonunda hazır bulunur.
+Mazeret (Telafi) Sınavları
+Madde 15:
+(1) Ders kurullarına ve klinik pratik uygulamalara devam etmiş olup fakülte yönetim
+kurulunca kabul edilen haklı ve geçerli mazeretleri nedeniyle sınava girmeyen
+öğrenciler içi mazeret sınavı açılır ve ilgili öğrenciler bu sınava girer.
+(2) Yılsonu (Final) ve bütünleme sınavlarına mazeret sınavı açılmaz.
+
+(3) Ders kurullarının mazeret sınavı o dönemin sonunda yapılır ve değerlendirilmesinde
+bu yönetmeliğin 14. maddesi hükümleri uygulanır.
+Yıl Sonu Sınavı ve Başarı Notu
+Madde 16:
+(1) Öğrencinin yılsonu sınavına girebilmesi için devam ile ilgili bütün koşulları yerine
+getirmesi zorunludur.
+(2) Devam koşulunu yerine getiren öğrenciler son ders kurulu sınavının bitiminden sonra
+tüm ders kurullarını kapsayacak yılsonu teorik (Final) sınavına alınırlar. Bu sınavın
+yapılması ve yılsonu sınav notunun bulunması hakkında bu yönetmeliğin 14. maddesi
+hükümleri uygulanır.
+(3) Dönem 1, II, II te final ve bütünleme sınavları soru dağılımı; teorik, pratik ve PDÖ
+ders saati ağırlıklarına göre dönem koordinatörlüğü tarafından hesaplanır. Bu
+sınavlardan alınan notların toplanmasıyla yılsonu başarı notu elde edilir.
+(4) Her dönemde ders kurulları not ortalaması 080 ve üzeri olan öğrenciler, devam
+koşulunu yerine getirmek, tüm ders kurullarını almak, sınavlarına (pratik ve teorik
+olmak üzere) girmek ve her bir ders kurulu sonu notu en az 450 olmak koşuluyla
+yazılı olarak başvurmaları halinde yılsonu sınavına girmeden başarılı olarak kabul
+edilir. İlgili eğitim-öğretim dönemindeki ders kurulları notları toplanarak ortalamaları
+alınır ve bu not başarı notu olarak öğrencilerin dosyalarına işlenir. Öğrenci isterse
+yılsonu genel teorik/pratik (Final) veya bütünleme sınavına girme hakkına sahiptir.
+(5) Her dönemde ders kurulları not ortalaması 680 ve üzeri olan öğrenciler başarı
+notlarını yükseltmek amacıyla yılsonu (Final) ve bütünleme sınavına girebilirler. Bu
+11
+öğrencilerin başarı notları girdikleri yılsonu (Final) veya bütünleme sınavından
+aldıkları not esas alınarak yeniden hesaplanır.
+(6) Yılsonu sınavına giren, bu maddenin 3. bendinden faydalanamayan, öğrenciler için
+başarı notu 460 ve üzeridir. Başarı notunun hesaplanması için yılsonu sınavlarında en
+az 050 not almak gerekir. Yıl içi ders kurulları not ortalamasının *460”'ı ile yılsonu
+sınav notunun 9040”ının toplamları yılsonu başarı notunu oluşturur.
+
+(7) Onur Öğrencileri: Bir öğrenci her dönem için, disiplin cezası almamış olmak
+koşuluyla, ders kurulları genel başarı notu 85.00 ve üzeri olduğu takdirde, Onur
+Öğrencisi olmaya hak kazanır. Onur öğrencileri bir sonraki eğitim ve öğretim yılı
+başında dekanlığın uygun göreceği şekilde ödüllendirilir.
+Bütünleme Sınavı ve Başarı Notu
+Madde 17:
+(1) Yılsonu başarı notu 9460'in altında olan öğrencilerin yılsonu bütünleme sınavına
+girmeleri gerekir. Bütünleme sınavı başarı notunun hesaplanması, bu Yönetmeliğin
+14. ve 16. maddeleri hükümlerine göre yapılır.
+(2) Bütünleme sınavı başarı notu »60'ın altında olan öğrencilerin o yılı tekrar etmeleri
+gerekir.
+Dönem LI te Sınav Hazırlıkları ve Görevlendirmelerinin Yapılması
+Sınav Soru Sayılarının ve Soru Şekillerinin Belirlenmesi
+Madde 18:
+(1) Ders kurulu teorik sınavlarındaki soru sayıları, o ders kurulundaki anabilim dallarının
+teorik ve pratik toplam ders saatleri ile orantılı olarak hesaplanır. PDÖ eğitiminde
+sorulacak soru sayısı PDÖ Kurulu tarafından dönem başında belirlenir. Seçmeli
+dersler ve zorunlu ortak derslerden soru sorulmaz.
+(2) Yılsonu genel teorik (Final) sınavı ve bütünleme sınavında derslere ait soru sayıları, o
+öğretim yılındaki tüm teorik ve pratik derslerin toplam saatine göre hesaplanır.
+(3) Dönem koordinatörleri her ders kurulu, final, bütünleme ve benzeri sınavların ağırlıklı
+soru dağılım oranları ile soru sayısını belirler ve ders kurulu sınavları için bunları ders
+kurulu başkanlarına bildirir.
+(4) Sınavlarda farklı soru şekilleri (çoktan seçmeli, açık uçlu, klasik test, senaryo odaklı,
+film, video vb.) kullanılabilir.
+Sınav Sorularının İstenmesi
+Madde 19:
+(1) Ders kurulu, kurul sonu teorik ve mazeret sınavları için ders kurulu başkanları;
+yılsonu genel teorik (Final) veya bütünleme sınavları için dönem koordinatörleri final,
+bütünleme ve benzeri sınavların ağırlıklı soru dağılım oranları ile soru sayısını resmi
+
+yazı ile anabilim dallarına bildirir ve anabilim dallarından ilgili sınav için soruları
+dijital kayıt ortamında (e-mail hariç) ister.
+(2) Ders kurulu başkanları ders kurulunun başladığı ilk iş günü belirlenen sayıda sınav
+sorularını ve cevap anahtarlarını anabilim dalları başkanlıklarından 5 (beş) iş günü
+içerisinde ister. Yılsonu genel teorik (Final) veya bütünleme sınavları için ise dönem
+koordinatörleri sınav tarihinden en az 15 (on beş) gün önce sınav sorularını ve cevap
+anahtarlarını anabilim dalları başkanlıklarından ister.
+(3) Anabilim dalı başkanları, ders kurulu başkanından gelen soru istem yazısını ilgili ders
+kurulunda görev alan öğretim üyelerine tebliğ eder ve onlardan belirlenen sayıda
+soruyu kendisine göndermelerini ister. Daha sonra ilgili öğretim üyelerinden gelen
+soruları toplayarak soruların hatalı olup olmadığını, imla kurallarına uyulup
+uyulmadığını, daha önce sorulup sorulmadığını, açık ve anlaşılır olup olmadığını ve
+eğitim ve öğretim hedeflerine uyup uymadığını değerlendirir.
+12
+(4) Anabilim dalı başkanları ilgili öğretim üyelerinden gelen soruların hatalı olduğuna,
+daha önce sorulmuş olduğuna veya öğrenim hedeflerine uymadığına kanaat getirir ise
+anabilim dalı kurulunu toplayarak, kurul kararı ile bu soruyu/soruları ilgili öğretim
+üyesine/üyelerine iade edebilir ya da sorunun/soruların değiştirilmesini isteyebilir.
+Buna rağmen tekrar hatalı/aynı tarz soru/sorular gönderilmesi durumunda anabilim
+dalı başkanı ve dönem koordinatörünce hatalı/aynı tarz olduğu düşünülen soru/sorular
+değerlendirilir. ve gerektiğinde — soru/sorular iptal edilebilir. İptal edilen
+sorunun/soruların yerine anabilim dalı başkanından yeni bir soru/sorular göndermesi
+istenir. İlgili öğretim üyesi/üyeleri dekanlık makamınca yazılı olarak uyarılır.
+Sınav Soru Kitapçıklarının Hazırlanması
+Madde 20:
+(1) Ders kurulu ve mazeret sınavları için ders kurulu başkanları, yılsonu genel teorik
+(Final) veya bütünleme sınavları için ise dönem koordinatörleri anabilim dalı
+başkanlarınca kendilerine gönderilen veya sisteme yüklenen sınav sorularını düzenler.
+Barajlarına göre ders gruplarını oluşturur. Bunları en az A ve B olmak üzere iki farklı
+kitapçık haline getirir. Sınava girecek öğrenci sayısı 20' nin altındaysa tek kitapçık
+türü hazırlanabilir. Ders kurulu başkanı hazırladığı soru kitapçıklarını ve bunlara ait
+cevap anahtarlarını elektronik ortamda sınav tarihinden en az 15 (on beş) gün önce
+dönem koordinatörüne ulaştırır.
+
+(2) Kitapçıklar hazırlanırken, ders baraj gruplarını oluşturan dersler baraj grupları içinde
+ve her dersin sorusu kendi ders başlığı altında karıştırılabilir. Soruların doğru
+şıklarının yeri de kitapçık grubuna göre değiştirilebilir.
+Sınav Görevlendirilmeleri
+Madde 21:
+(1) Ders kurulu ve mazeret sınavları için ders kurulu başkanları, yılsonu genel teorik
+(Final) veya bütünleme sınavları için ise dönem koordinatörleri, sınavlarda
+görevlendirilecek salon başkanları (öğretim üyesi) ve gözetmenleri (öğretim üyesi
+veya elemanı) ders kurulunu oluşturan anabilim dalları içerisinden (yeterli öğretim
+elemanı varsa) veya diğer anabilim dallarından belirleyerek, dekanlıktan
+görevlendirilmelerine dair “olur” alır. Olur aldıktan sonra bu görevlendirmeleri
+ilgililere bildirerek görevlilerin sınav günü sınav saatinden en az 15 dakika önce
+dekanlıktaki koordinatörler odasına gelmelerini sağlar.
+(3) Ders kurulu ve mazeret sınavları ders kurulu başkan ve yardımcıları; yılsonu genel
+teorik (Final) veya bütünleme sınavları dönem koordinatörü ve yardımcıları ile
+dekanlık tarafından görevlendirilmiş öğretim elemanlarının gözetiminde yapılır.
+Sınavda görevlendirilen öğretim elemanları geçerli bir mazereti olmadıkça sınav
+görevini yerine getirmekle yükümlüdür.
+(4) Mazeretlerinden dolayı sınava gelemeyecek öğretim elemanları mazeretlerini yazılı
+olarak sınav tarihinden en az 3 (üç) gün önce bağlı oldukları anabilim dalı
+başkanlıklarına, ilgili dönem koordinatörüne ve ders kurulu başkanına bildirmelidir.
+(5) Sınava katılamayacaklarını mazeretleriyle bağlı oldukları anabilim dalları
+başkanlıklarına bildiren öğretim elemanlarının yerine ilgili anabilim dalı başkanı
+tarafından yeni bir öğretim elemanı görevlendirilir ve bu durumu sınav tarihinden
+önce yazılı olarak yeni görevlendirdiği öğretim elemanına, dönem koordinatörüne ve
+ders kurulu başkanlarına bildirir. Yeni görevlendirdiği öğretim elemanının sınava
+katılmasını sağlar.
+(6) Sınav görevlileri aşağıda belirtilen kurallara uymak zorundadır:
+a. Sınav görevlilerinin zorunlu haller dışında ve ilgili ders kurulu başkanı veya
+dönem koordinatörünün haberi olmadan sınav salonundan dışarı çıkmaları,
+13
+sınav sırasında gazete, kitap, ödev veya sınav kâğıdı gibi şeyler okumaları
+
+kesinlikle yasaktır.
+b. Görevlilerin yanlarında, bilgisayar ve benzeri elektronik cihazları
+bulundurmaları kesinlikle yasaktır.
+c. Sınav görevlileri tüm sınavlarda sınav saatinden en az on beş dakika önce
+sınav yerinde olmalı ve sınav süresince görev yerinden ayrılmamalıdır.
+(7) Sınav görevlilerinin görevleri:
+a. Sınav salonunun asayişinden sorumlu olmak, kopya vb. sınav asayişini bozan
+her türlü olumsuz gelişmeyi anında ilgili ders kurulu başkanı veya dönem
+koordinatörüne haber vermek ve tutanak tutmak,
+b. Sınav evrakları ve sorular konusunda ortaya çıkabilecek sorunları hemen ilgili
+ders kurulu başkanı veya dönem koordinatörüne iletmek,
+c. Sınava giren öğrenci sayısını belirleyerek mevcut öğrencilerin yoklama
+çizelgesine imza atmalarını sağlamak,
+d. Sınav tutanağını tutmak ve imzalamak,
+e. Sınav sonunda aşağıdaki evrakları sayarak eksiksiz olarak ilgili ders kurulu
+başkanı veya dönem koordinatörüne bizzat teslim etmek:
+i. Kendileri tarafından imzalanmış, yoklama ile kitapçık gruplarının
+işaretli olduğu form ve sınav tutanağı
+ii. Sınav soru kağıtları
+ili. Sınav cevap kağıtları
+iv. Boş soru ve cevap kağıtları
+v. Sınavla ilgili diğer evrakları
+Sınavların Yapılması
+Madde 22:
+(1) Öğrenciler, sınavın olduğu gün daha önce ilan edilen saatte öğrenci işleri tarafından
+önceden belirlenen, sınav salon kapılarına ve ilan panolarına asılan listelerde belirtilen
+sınav salonunda hazır olmak zorundadır.
+(2) Sınav salonuna sadece kimlik, kurşun kalem, silgi ve su getirilebilir. Bilgi depolama,
+işleme, iletme işlevi olan (cep telefonu, ipad, tablet pc, telsiz, bluetooth, hesap
+makinesi vb. (ilgili sınavda gereklilikleri bildirilmediği sürece)) cihazlar ve kitap, ders
+
+notu, müsvedde kâğıt gibi eşyalarla sınav salonuna getirilmesi yasaktır. Bu tip
+cihazları veya eşyaları sınav salonuna sokmak kopya çekmeye teşebbüs olarak
+nitelendirilir.
+(3) Sınava giren öğrenciler öğrenci kimlik kartlarını yanlarında bulundurmak zorundadır.
+Sınav esnasında, öğrenci kimlikleri kontrol edilir ve kimliklerindeki fotoğrafla sınava
+giren kişiler karşılaştırılır. Herhangi bir sebepten dolayı yanında kimliği olmayan
+öğrenciden şüphelenilmesi halinde öğrenciden kimlik bilgilerini bir kâğıda yazması
+istenilir, bu kâğıt sınav tutanağına eklenir ve salon görevlileri tarafından bu durum
+sınav tutanağında belirtilir.
+(4) Daha önceden öğrenci işleri tarafından hazırlanmış olan sınav salon yoklama
+listelerine göre öğrencilerin yoklamaları sınav salon görevlileri tarafından imza
+karşılığında yapılır.
+(5) Öğrencilerin, sınav kitapçık grupları salon görevlileri tarafından ilgili formlara
+işaretlenir.
+(6) Öğrencilerin, cevaplama işlemini erken tamamlamış olması veya sınava devam etmek
+istememesi durumunda bile, sınavın ilk 30 dakikası ve son 15 dakikası içinde sınav
+salonundan çıkmasına izin verilmez.
+(7) Sınavın başlamasından sonraki ilk 10 dakika içinde gelen öğrenci, ek süre verilmeden
+sınava alınır. Bu süreden sonra gelenler sınava alınmaz.
+(8) Zaruri hallerde veya sağlık kurulu raporu ile sınav salonu dışına sınav sırasında
+çıkmasını gerektirebilecek bir rahatsızlığı olduğunu belgeleyen öğrencilere, gözetmen
+14
+eşliğinde (lavabo vb. ihtiyaçları için) sınav salonu dışına çıkıp sınava geri dönme izni
+verilir. Zorunlu haller dışında sınav sırasında salon başkanı ve/veya gözetmenlerin de
+sınav salonu dışına çıkması yasaktır.
+(9) Sınavlar sınav görevlilerinin "Sınav Başladı" komutuyla başlar ve “Sınav Bitti”
+komutuyla sona erer.
+(10) Öğrencilerden sınav sorularında belirtilmediği takdirde her soru için sadece bir cevap
+şıkkı işaretlemeleri istenir. Sınav cevap kâğıtlarındaki uygunsuz işaretlemeler veya
+işaretlenip vazgeçildikten sonra iyi silinmemiş seçenekler yanlış olarak kabul edilir.
+
+(11) Öğrencilerin sınav sorularına verdikleri cevaplar optik — okuyucularda
+incelenmektedir. Bu incelemelerden elde edilen bulgular, dönem koordinatörlüğü
+tarafından değerlendirilir, ikili veya toplu kopya çekildiği sonucuna varılan
+salonlarda, kopya eylemine karıştığı belirlenen adayların sınavları geçersiz sayılır. Bu
+nedenle sınav salonunda kopya çekme veya diğer adaylardan yararlanma
+girişimlerinde bulunulmaması, cevap kâğıtlarının sınav süresince diğer adaylar
+tarafından görülmeyecek şekilde kullanılmasına öğrenciler tarafından azami dikkat
+edilmesi gerekmektedir.
+(12) Sınavda kopya çeken, kopya girişiminde bulunan, kopya veren, kopyaya yardım eden
+öğrenciler o sınavdan sıfır (0) not almış sayılır. Bu durum, ilgili sınav görevlileri
+tarafından salon sınav tutanağında belirtilir. Bu öğrenciler hakkında ayrıca
+Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliği hükümleri gereğince işlem
+yapılır.
+(13) Sınav sırasında sınav kurallarına aykırı davranışta bulunan öğrencilerin sınava devam
+etmelerine izin verilmez. Ancak sınav görevlileri diğer adayların dikkatini
+dağıtmamak ve zaman kaybetmelerine yol açmamak için gerekli görürlerse kural dışı
+davranışlarda bulunan öğrencileri sözel olarak uyarabilirler. Buna rağmen öğrenci
+eylemlerine devam ederse, bu öğrencilerin kimlikleri ve kusurları salon sınav
+tutanağına açıkça yazılır, sınavlarının geçersiz sayılacağı sınav tutanağında belirtilir.
+(14) Sınav süresi tamamlanıp sınav bittikten sonra tüm soru ve cevap kâğıtları salon
+görevlileri tarafından öğrencilerden toplanıp ayrı ayrı sayılır ve sınav imza
+sirküsündeki (yoklama kâğıdı) sınava giren öğrenci sayısı ile karşılaştırılır. Daha
+sonra sınav görevlileri tarafından “Sınav Tutanağı” doldurulup imzalanır ve tüm diğer
+belgelerle (soru ve cevap kağıtları, öğrenciler tarafından imzalanan yoklama ve
+öğrencilerin sınav gruplarının işaretlendiği form) birlikte dönem koordinatörüne
+teslim edilir.
+Sınavların Değerlendirilmesi
+Madde 23:
+(1) Ders kurulu teorik, ders kurulu pratik ve beceri uygulama sınavlarında başarı, tam not
+olan 100 puan üzerinden sayısal olarak değerlendirilir.
+(2) Çoktan seçmeli sorularda yanlış doğruyu götürmez.
+(3) Teorik ve pratik sınavlarda eş değerde olmayan soruların değerleri sözlü olarak veya
+sınav kâğıdı üzerinde belirtilir.
+
+(4) Ders kurulu teorik sınavı kâğıtları dönem koordinatörü ve ders kurulu başkanı veya
+görevlendirdiği bir yardımcısının gözetiminde Ölçme ve Değerlendirme Birimi
+tarafından optik okuyucuda okutulur ve soru analizleri yapılır.
+(5) Optik cevap kâğıdının kullanıldığı sınavlarda, optik cevap kâğıdı dışında (soru
+kitapçığı dâhil olmak üzere) başka bir yere yapılan işaretlemeler dikkate alınmaz.
+(6) Farklı kitapçık türleri kullanılan sınavlarda kitapçık türünü cevap kâğıdı üzerine
+kodlamak öğrencinin sorumluluğundadır. Kitapçık türünün işaretlenmediği veya hatalı
+işaretlendiği durumlarda yapılacak itirazlar kabul edilmez.
+(7) Sınava giren öğrenciler tarafından sınavda sorulan soruya veya soruda verilen cevap
+şıklarına itiraz edildiği durumda, dönem koordinatörü tarafından soruyu hazırlayan
+anabilim dalı başkanlığından soru ile ilgili itiraza sınav günü dâhil 2 (iki) iş günü
+15
+içerisinde anabilim dalı kurul kararı ile yazılı olarak cevap vermesi istenir.
+Anabilim dalı kurulunun vermiş olduğu yazılı cevap sonrası öğrencilerin itirazı
+haklı bulunursa soru testten çıkartılır. Yapılan itiraz haksız bulunursa soru ve şıkları
+geçerli olarak kabul edilir. İhtilaflı durumlarda Ölçme ve Değerlendirme Kurulu
+ve/veya başka yükseköğretim kurumlarından görüş alınabilir.
+Sınavın değerlendirmesi: Öğrencilerin itiraz edip haklı bulundukları sorular
+testten çıkarıldıktan sonra sınavın tam puanı kalan soru sayısına bölünerek kalan
+sorular için bir sorunun puan değeri bulunur. Sınavın değerlendirilmesi hesaplanan bu
+soru değeri üzerinden yapılır. (Değişik:29.01.2019 tarih ve 2018-2019/7.9 sayılı
+Senato Kararı)
+(8) Soru kitapçığında birden fazla doğru yanıt içeren sorunun olduğu tespit edilirse, bu
+soru testten çıkarılmaz, bu durumda doğru olarak bildirilen tüm seçenekler doğru
+kabul edilir ve bu seçeneklerden herhangi birini işaretleyen öğrenci bu sorudan tam
+not alır.
+(9) Sınav sonrası yapılan analizlerde bir sorunun ayırt ediciliğinin düşük olması veya
+zorluğunun yüksek olması soru iptal gerekçesi değildir. Ancak ilgili anabilim dalı bu
+konunun tekrarı durumunda dönem koordinatörünce uyarılır.
+Sınav Sonuçlarının İlanı ve İtirazlar
+
+Madde 24:
+(1) 1, II ve Hİ ders kurulu teorik, yılsonu genel teorik (Final) ve bütünleme sınav soruları ve
+soruların doğru cevapları ilan edilir. (Değişik:29.01.2019 tarih ve 2018-2019/7.9 sayılı
+Senato Kararı)
+(2) Dönem 1, II ve II ders kurulu pratik sınav sonuçları sınavı izleyen en geç 2 (iki) iş günü
+içerisinde pratik sınav sorumlusu (İlgili dersin anabilim dalı başkanı veya onun
+görevlendireceği öğretim elemanı) tarafından dönem koordinatörüne bildirilir. Dönem
+koordinatörleri bu sonuçlarla teorik sınav sonuçlarını birleştirir ve tek bir sınav notu
+(teorik sınav notu * pratik sınav notu) saptar.
+(3) Sınav sonuçları, sınavı izleyen en geç 3 (üç) iş günü içerisinde ilan edilmek üzere ilk üç
+dönem için dönem koordinatörü; IV. ve V. dönemler için ise anabilim dalı başkanı
+tarafından dekanlığa teslim edilir. Sınavla ilgili ihtilaf söz konusu ise bu süreler aynı
+oranda uzatılır.
+(4) Sınav sonuçları dekanın onayı ile sınav tarihinden itibaren en geç 7 (yedi) iş günü
+içerisinde ilan edilir. Dekanlık tarafından ilan edilen sınav sonuçları ilgili dönem
+koordinatörlerine de gönderilir. Sınavla ilgili ihtilaf söz konusu ise bu süreler aynı oranda
+uzatılır.
+(5) Dönem IV ve V sınav sonuçları, dekanlık ilanından sonra ilgili anabilim dalı başkanlığı
+tarafından öğrencilerin görebileceği bir yere asılır.
+(6) Öğrenciler sınav sonuçlarının ilanını izleyen en çok 5 (beş) iş günü içerisinde, sınav
+evraklarının maddi hata yönünden incelenmesini dekanlığa yapacakları yazılı başvuru ile
+isteyebilirler.
+(7) Sınav kâğıtlarında ve öğretim elemanlarının not takdirinde maddi hata dışında değişiklik
+yapılamaz. Maddi hataya ilişkin düzeltmeler fakülte yönetim kurulu tarafından yapılır.
+(8) Sınav sonuçlarına itirazların yapılan başvurudan itibaren 15 (on beş) gün içerisinde ilgili
+dönem koordinatörü veya klinik pratik uygulama sorumlusu tarafından sonuçlandırılması
+ve aynı süre içerisinde ilan edilmesi gerekir. İhtilaflı durumlarda Ölçme ve
+Değerlendirme Kurulu ve/veya başka yükseköğretim kurumlarından görüş alınabilir. Bu
+durumda belirtilen süreler göz önüne alınmaz, ilgili kurul veya kurumlardan cevap
+geldiği tarihten itibaren 15 (on beş) gün içerisinde itirazlar sonuçlandırılır.
+(9) Eğitim-öğretim yılı veya klinik pratik uygulama başında öğrencilere en az 2 (iki) adet
+
+öğrenci düzeyinde referans kaynak kitap önerilmiş olması kaydıyla sınavlarda, derste
+anlatılmayan ancak öğrenim hedefleri ile ilgili konulardan soru sorulabilir. Bu durum
+itiraz konusu olamaz.
+16
+(10) Dönem IV-V klinik pratik uygulamalarında, klinik pratik uygulama sorumlusu tarafından
+öğrencinin vizitlere katılımı, uygulamaları nicelik ve nitelik olarak gerçekleştirmesi,
+sorumluluklarını yerine getirmesi vb. durumuna bakılarak verilen klinik pratik uygulama
+pratik notuna itirazın değerlendirilmesi klinik pratik uygulama sorumlusunun yetkisi
+dâhilindedir.
+(11) Bu yönergede belirtilen itiraz süreleri dışında yapılan itirazlar değerlendirmeye alınmaz.
+Ders Kurulu Kurul Sonu Değerlendirme Toplantıları
+Madde 25:
+(1) Ders kurulu öğrenci geri bildirimleri, fakültenin akademik eğitim programında belirtilen
+gün ve saatte Tıp Eğitimi Anabilim Dalı öğretim üyelerince alınır.
+(2) Tıp Eğitimi Anabilim Dalı Başkanı veya onun görevlendireceği öğretim üyesi ders
+kurulu öğrenci geri bildirimleri ve her ders kurulu sonunda yaptıkları ders kurulu sınav
+soru analizlerini birleştirerek bir rapor haline getirir. Bu raporu gereği için ilgili anabilim
+dalı başkanlığına ve bilgi için dönem koordinatörüne gönderir.
+(3) Ders kurulu sınavından en fazla 15 (on beş) gün içerisinde dönem koordinatörü ve ders
+kurulu başkanlarının daha önce iş akış şemasında birlikte belirlediği gün ve tarihte “Ders
+Kurulu Kurul Değerlendirme Toplantısı” yapılır. Bu toplantıya dönem koordinatörü
+başkanlık yapar.
+(4) Toplantı tarih ve saati ders kurulunda görevli tüm öğretim elemanlarına ve koordinatör
+yardımcılarına, dekanlık oluru alınıp yazılı olarak bildirilir.
+(5) Bu toplantıda Tıp Eğitimi Anabilim Dalınca 2. bendinde bahsedilen rapor sunulur ve bu
+rapor üzerinden ders kurulu sınavında sorulan sorular üzerinde tartışılır. Ayrıca ilgili ders
+kurulu değerlendirilerek bir sonraki eğitim-öğretim yılına ait kararlar alınır. Alınan bu
+kararlar dönem koordinatörü tarafından rapor haline getirilerek toplantı tarihinden
+itibaren en geç 7 (yedi) iş günü içerisinde baş koordinatörlüğe ve dekanlığa gönderilir.
+
+(6) Ders Kurulu Kurul Değerlendirme Toplantısı” na ilgili kurulda ders veren tüm öğretim
+üyeleri, ders kurulu başkanı, dönem koordinatörü veya yardımcısının katılımı mecburidir.
+(7) Toplantıya katılımını engelleyecek mazereti olan öğretim elemanları mazeretlerini yazılı
+olarak en geç toplantı saatinden 24 saat önce eğitim ve öğretimden sorumlu dekan
+yardımcısına ve dönem koordinatörüne bildirmek zorundadırlar.
+(8) Eğitim ve öğretimden sorumlu dekan yardımcısı bildirilen mazereti geçerli görmeme
+hakkına sahiptir.
+Ortak Zorunlu Dersler ve Sınavı
+Madde 26:
+(1) Fakültede, üniversite yetkili birimlerince belirlenen süre içinde Atatürk İlkeleri ve
+İnkılap Tarihi, Türk Dili ve Yabancı Dil dersleri ortak zorunlu ders olarak verilir. Bu
+konuda üniversitemizdeki ilgili mevzuat uygulanır
+Not Değerlendirme
+Madde 27:
+(1) Öğrenciye verilecek ders notları; A, B, C, E, F, T, Z harfleri ile gösterilir. Ders
+notlarına ilişkin tablo ve açıklamalar aşağıda belirtilmiştir:
+a. Harfler Notlar Derecesi
+A 85-100 Pekiyi
+B 70-84 İyi
+C 60-69 Orta
+b. E (Eksik) notu: Ödev veya çalışması eksik demektir. Öğrenimin ağırlığı ders dışı
+çalışma veya uygulamaya dayalı olan dersler için verilir. Öğrenci bütünleme
+sınavından bir hafta öncesine kadar eksiğini tamamlamak zorundadır. Eksiğini
+tamamlamayan öğrenciye T notu verilir. Verilen sürede eksiğini tamamlayan
+öğrenciler, bütünleme sınavına alınırlar.
+17
+c. F (Geçmez) notu: Genel sınava girme hakkı almış olduğu halde, herhangi bir
+nedenle sınava girmeyen, genel sınavda 60'tan az not alan veya başarı notu 60'ın
+altında kalan, bütünleme sınavına girecek öğrenciye verilir.
+
+d. T (Geçmez) notu: Girdiği bütünleme sınavında başarı sağlamayan ve dersi tekrar
+etmesi gereken öğrenciye verilir.
+e. Z (Devamsız) notu: Devamsızlık nedeni ile genel sınava giremeyecek ve dersi
+tekrar edecek öğrenciye verilir.
+(2) Bütünleme sınavına girmeyen öğrenciler, mazeretine bakılmaksızın başarısız sayılırlar.
+Ağırlıklı Ortalama ve Mezuniyet Derecesi
+Madde 28:
+(1) Mezuniyet başarı derecesi, mezun olan öğrencinin okuduğu bütün derslerin sınav başarı
+notlarının ağırlıklı ortalaması alınarak hesaplanır. Ağırlıklı ortalama, bütün dersler veya ayrı
+ders niteliğindeki uygulamaların her birinden elde edilen ders başarı notu ile kredi saati
+sayısının çarpılmasından elde edilecek sayılar toplamının, kredi saatleri sayıları toplamına
+bölünmesi sonucunda ortaya çıkacak değerdir. Öğrencinin mezuniyet derecesi, öğretiminin
+tümü için hesaplanan ağırlıklı ortalama ile belirlenir. Mezunlar arası derecelendirmede puan
+eşitliği halinde doğrudan sınıf geçenler öncelik alırlar. Buna göre mezuniyet dereceleri ve
+karşılığı olan ağırlıklı ortalamalar aşağıdaki tabloda gösterilmiştir:
+Mezuniyet Derecesi Ağırlıklı Ortalama
+Pekiyi 85-100
+İyi 70-84
+Orta 60-69
+BEŞİNCİ BÖLÜM
+IV., V. ve VI. Döneme İlişkin Esaslar)
+Dönem IV ve V
+Madde 29:
+(1) Dönem IV ve V” te her bir klinik pratik uygulama bir ders olarak kabul edilir. Her bir
+klinik pratik uygulamada; klinik pratik uygulama süresinin iş günü olarak *620'sinden
+fazla devamsızlığı olan öğrenci klinik pratik uygulama sonu sınavına alınmaz ve
+klinik pratik uygulamayı tekrarlar. Dönem IV ve V öğrencileri, öğrenci değişim
+programına dâhil yurt içi ve yurt dışı eğitimlerini fakülte yönetim kurulu kararı ile
+yapabilir. Fakülte dışındaki eğitim süresi toplam eğitim süresinin 1/3'ünü aşamaz.
+(2) Klinik pratik uygulama döneminde öğrencilerin klinik pratik uygulamaya devamı,
+
+hastalara ilgisi, ders, toplantı ve seminerlere katkısı, hasta ve yakınları ile ilişkisi göz
+önüne alınarak klinik pratik uygulama değerlendirilmesi, klinik pratik uygulama
+sorumlusu tarafından yapılır.
+(3) Klinik pratik uygulama sonu sınavına girebilir değerlendirmesi alan öğrenciye klinik
+pratik uygulama sonunda yazılı ve/veya sözlü sınav yapılır. Bu sınava girmeyen
+öğrenci sıfır (0) alır. Klinik pratik uygulama sonu sınavları 100 (yüz) puan üzerinden
+değerlendirilir. Başarı notu 060 ve üzeridir. Klinik pratik uygulamasını bir defa alan
+ve sınava girme hakkını elde eden öğrenci başarısız olduğu takdirde bu klinik pratik
+uygulamalara ilgili ara bütünleme sınav hakkını, kaldığı klinik pratik
+uygulama/uygulamaların herhangi bir klinik pratik uygulama sonu sınavında, en geç
+bir hafta önce dekanlığa yazılı olarak başvurmak koşuluyla kullanabilir. Bu şekilde ara
+bütünleme sınavına giren ve başarısız olan öğrenci bu klinik pratik uygulamanın
+yılsonu bütünleme sınavına giremez.
+18
+(4) Klinik pratik uygulama sınavında başarılı olamayan ve ara bütünleme sınavına
+girmeyen öğrenci, eğitim programındaki diğer klinik pratik uygulamalarına devam
+eder ve yılsonu bütünleme sınav tarihlerinde başarısız olduğu klinik pratik
+uygulama/uygulamaların bütünleme sınavına/sınavlarına girer. Yılsonu bütünleme
+sınavı, son klinik pratik uygulama sınavından en az 7 (yedi) gün sonra yapılabilir.
+(5) Bütünleme sınavında başarısız olan öğrenci tüm klinik pratik uygulamalarını aldıktan
+sonra başarısız olduğu klinik pratik uygulamayı tekrar eder. Tekrarda da başarısız olan
+Öğrenci azami eğitim süresi içinde bu klinik pratik uygulamayla ilgili her sınava
+girebilir.
+(6) Dönem IV ve V” te aldığı son klinik pratik uygulamasında tekrarda da başarısız olan
+öğrenciye, öğrencinin dekanlığa yazılı talebi tarihini takiben 15 (on beş) gün içerisinde
+en fazla bir sınav hakkı verilir. Bu sınava girmeyen veya bu sınavda da başarısız olan
+öğrenci ilgili klinik pratik uygulamasına ait rutin klinik pratik uygulama sonu
+sınavlarına girer.
+(7) Klinik pratik uygulamaya devam eden, ancak sınava katılamayan ve fakülte yönetim
+kurulunca mazereti kabul edilen öğrenciye ek bir sınav hakkı verilir. Öğrenci bu ek
+sınava uygun olan diğer sınav tarihlerinde veya bütünleme sınav tarihinde girebilir.
+Eğer klinik pratik uygulama takvimi bu sınav tarihlerine uymuyorsa öğrenci için ayrı
+sınav yapılır. Mazeret sınavında başarısız olan öğrenciye bütünleme sınavı hakkı
+tanınır.
+
+(8) Bulunduğu sınıfa ait tüm klinik pratik uygulamalarını başarı ile tamamlamış olan
+öğrenci bir üst döneme açılacak ilk klinik pratik uygulamadan başlayabilir.
+(9) Optik okuyucu formları kullanılarak teorik klinik pratik uygulama sınavı yapıldığı
+durumlarda cevap kâğıtları ve cevap anahtarı klinik pratik uygulama sorumlusu veya
+anabilim dalı başkanı tarafından kadrolu bir öğrenci işleri memuruna veya sınav ölçme
+ve değerlendirme sorumlusuna kapalı zarf içerisinde imza karşılığı teslim edilir.
+Dönem VI
+Madde 30:
+(1) Dönem VI (internlik dönemi) eğitim programının amacı, öğrencinin daha önceki
+yıllarda edindiği teorik ve pratik bilgilerin klinik uygulamalarını yaptırmak, hekimlik
+mesleğinin uygulanmasında deneyim ve beceri kazandırmak, hekim adayını bu
+mesleği yalnız başına en iyi uygulayabilecek düzeye getirmektir.
+(2) İnternlik dönemi on iki ay sürelidir ve belirlenen dilimler şeklinde devam eder. Bir
+dilimden yeterlik belgesi alamayan öğrenci o dilimin tümünü yıllık programın
+sonunda tekrarlar.
+(3) Öğrenciler, eğitim gördükleri tüm kurum ve kuruluşların koşullarına uymak, her türlü
+sağlık hizmetlerini yapmak, ameliyat, laboratuvar çalışması, vaka takdimi, konferans,
+seminer ve benzeri tüm klinik aktivitelere katılmak ve bunları denetim altında bizzat
+yapmak zorundadır. Öğrenciler uygulanan program içinde her dilimde haftada en az
+bir nöbet tutarlar. Nöbet sırasında klinik nöbetçi hekimine karşı doğrudan
+sorumludurlar. Öğrencinin bu aktiviteleri eksiksiz yerine getirebilmesi için kendisine
+olanaklar dâhilinde gerekli koşullar sağlanır.
+(4) İnternliğin gerek görülen dilimleri, fakülte yönetim kurulunun kararı ile yurt
+içinde/yurt dışında tıp fakülteleri veya eğitim kuruluşlarında yapılabilir. Fakülte
+dışındaki eğitim süresi internlik dönemi eğitiminin toplam süresinin 1/4'ünü (üç
+ayı) geçemez. İnternlik dönemi eğitiminin, tanınan süreyi aşmamak koşuluyla, bir ya
+da birden fazla dilimini diğer bir tıp fakültesinde yapmak isteyen öğrencilerin
+isteği, eğitimin başlamasından iki ay önce dilekçe ile dekanlığa başvurması, fakülte
+yönetim kurulunun kararı ve diğer (öğrencinin gitmek istediği) tıp fakültesinin veya
+eğitim kuruluşlarının kabulü ile gerçekleştirilir.
+(5) Yurt içindeki diğer tıp fakülteleri ile yabancı tıp fakülteleri intern dönemi öğrencileri,
+fakültesinin izni ve fakülte yönetim kurulunun kararı ile eğitim dilimlerinden bir ya da
+
+19
+birkaçını fakültede yapabilirler. Fakültede internlik dönemi eğitimi yapmak isteyen
+diğer tıp fakültesi öğrencisinin, internlik eğitimi başlamadan bir ay önce
+fakültesinden alacağı resmi yazı ve dilekçesi ile dekanlığa başvurması gerekir.
+(6) Ulusal ve uluslararası öğrenci değişim programlarındaki süreler ilgili mevzuat
+hükümlerine göre belirlenir.
+(7) İnternlik dönemi eğitim programı ilgili anabilim dalı kurulunun görüşleri alındıktan
+sonra dönem  koordinatörlüğünce hazırlanır, fakülte kurulunda görüşülüp
+onaylandıktan sonra dekan başkanlığında dönem koordinatörü ve yardımcısı ile
+yürütülür. Bu eğitimin dilimlerindeki uygulamalarından anabilim/bilim dalları
+başkanları sorumludur. Bölüm başkanları uygulamayı sürekli denetler. Anabilim/bilim
+dalları başkanları klinik pratik uygulama sonu bilgisini ölçmek amacıyla klinik pratik
+uygulama sonunda sınav uygulayabilir.
+(8) Her öğrenciye bu dönemde, internlikteki tüm çalışmalarının kaydedileceği bir
+uygulama karnesi verilir. Öğrencinin klinik ve pratik çalışmalarını gösteren bu karne,
+öğrencinin eğitiminden sorumlu olan öğretim elemanlarınca doldurulur,
+anabilim/bilim dalı başkanlarınca onaylanır. Uygulama karnesinde, internin tek tek
+bütün öğrenim hedeflerinde yeterlik kazanıp kazanmadığı ve genel sonuç olarak
+anabilim dalındaki eğitiminde başarılı olup olmadığı belirtilir. İntern programının
+sonunda bu karnelerle birlikte ilgili anabilim/bilim dalı sorumlularınca düzenlenen
+yeterlik belgesi anabilim dalı başkanı tarafından onaylandıktan sonra 5 (beş) iş günü
+içinde dekanlığa teslim edilir.
+(9) İnternlik süresinin bir kısmını başka bir tıp fakültesi veya eğitim kuruluşlarında yapan
+öğrencinin uygulama karnesi eğitim aldığı kurum yetkilisi tarafından doldurulur ve
+eğitimden sorumlu dekan yardımcısı tarafından onaylanır.
+(10) İntern öğrenci eğitim programı boyunca ilgili anabilim dalı başkanı veya
+görevlendireceği bir öğretim üyesi nezaretinde en az bir genel seminer anlatır ve bu
+açıdan Yeterli/Yetersiz olarak değerlendirilir. Yetersiz olduğu takdirde seminer tekrar
+edilir.
+İnternlik Dönemi Eğitimi
+Madde 31:
+(1) İnternlik döneminde eğitim;
+a. Acil tıp diliminde iki ay,
+
+b. Genel cerrahi diliminde bir ay,
+c. Kadın hastalıkları ve doğum diliminde iki ay,
+d. İç hastalıkları diliminde iki ay (iki hafta kardiyolojide, iki hafta göğüs
+hastalıklarında),
+e. Çocuk sağlığı ve hastalıkları diliminde iki ay,
+f. Halk sağlığı diliminde iki ay,
+g. Psikiyatri diliminde bir ay
+olarak uygulanır.
+(2) Halk sağlığı diliminde öğrenciler bir ay aile hekimliği birimlerinde eğitim görürler.
+Diğer bir aylık sürede ise toplum sağlığı merkezi, ana-çocuk sağlığı merkezi, verem
+savaş dispanseri ve benzeri temel sağlık hizmetleri sunan diğer kurumlarda
+eğitimlerini sürdürürler.
+(3) İnternlik döneminde program çalışmalarına devam zorunludur. Anabilim/bilim dalları
+başkanları devamı takiple yükümlü olup, devamsızlık ya da benzeri nedenlerle yeterli
+olmayanlar yetersiz kabul edilir ve klinik pratik uygulama tekrarı internlik süresi
+sonunda yaptırılır.
+(4) İnternlik dönemi öğrencileri her çalıştığı dilimde yapmış oldukları çalışmaları,
+uyguladıkları girişimleri ve izledikleri hastaların analizlerini kapsayan çalışma
+raporunu anabilim/bilim dalı başkanlığına son hafta içinde teslim ederler. Bu raporlar
+başarı belgesinin değerlendirilmesinde uygulama karnesi ile birlikte esas olarak alınır.
+20
+İnternlik Dönemi Başarı Değerlendirmesi
+Madde 32:
+(1) Öğrencilerin anabilim/bilim dallarında başarılı sayılmaları için; anabilim dalı
+kurullarınca tespit edilip dekanlıkça onaylanmış tüm koşulları yerine getirmiş olmaları
+gerekir. Bu koşullara uyulup uyulmadığı anabilim dalı başkanlarınca kontrol edilir.
+(2) On iki aylık dönem içinde, dilimlerdeki her bir süreyi zamanında tamamlamak, ilgili
+klinik ve polikliniklerde bilfiil çalışmış olmak, zorunlu hallerden eksik kalan
+çalışmaları tamamlamak, görev yaptığı birimdeki uygulamalara gözetim altında bizzat
+katılmış olmak ve her dilimin süresi sonunda anabilim/bilim dalı başkanının
+onayladığı dilimin başarı ile tamamlandığını bildiren yeterlik belgesini almak şarttır.
+Başarısız olunan dilimlerde, bu dilimlerin normal süresinin yarısı kadar süreyle tekrar
+edilmesi gerekir. Bir dilimin *620'sine mazeretsiz devam etmeyenler o dilimi tam
+
+süreyle tekrarlar.
+21
+Eğitim Teşkilat Şeması
+Madde 33:
+(1) Fırat Üniversitesi Tıp Fakültesi Tıp Programı Eğitim Teşkilat Şeması aşağıdaki gibidir.
+Dekan
+Dekan Yardımcısı
+(M. Ö. Eğitimden Sorumlu)
+Baş Koordinatör
+Dönem | Koordinatör ve Ders Kurul Başkanı ve
+Yardımcıları Yardımcısı
+Dönem II Koordinatör ve Ders Kurul Başkanı ve
+Yardımcıları Yardımcısı
+Dönem HI Koordinatör ve Ders Kurul Başkanı ve
+Yardımcıları Yardımcısı
+Dönem IV Koordinatör ve Klinik Pratik Uygulamaları
+Yardımcıları Sorumlusu / Anabilim
+Dalı Başkanı
+Dönem V Koordinatör ve Klinik Pratik Uygulamaları
+Yardımcıları Sorumlusu / Anabilim
+Dalı Başkanı
+Dönem VI Koordinatör ve Klinik Pratik Uygulamaları
+Yardımcıları Sorumlusu / Anabilim
+Dalı Başkanı
+22
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Belgelerin Saklanması
+Madde 34:
+(1) Sınav evrakı ve başarı notunun belirlenmesine ilişkin tüm belgeler en az iki yıl
+süreyle dekanlık tarafından saklanır.
+Görevlerin Yerine Getirilmemesi
+Madde 35:
+
+(1) Yukarıda açıklanan görevlerin ilgililerce layıkıyla yerine getirilmemesi durumunda
+2547 sayılı kanun ile 657 sayılı kanunun disiplin ile ilgili hükümleri uygulanır.
+Yönergede Hüküm Bulunmayan Haller
+Madde 36:
+(2) Bu yönergede hüküm bulunmayan hallerde; 27.10.2013 tarih ve 28804 sayılı Resmi
+Gazete” de yayınlanan Fırat Üniversitesi Tıp Fakültesi Eğitim ve Sınav Yönetmeliği,
+3/7/2013 tarihli ve 28696 sayılı Resmi Gazete” de yayımlanan Fırat Üniversitesi Ön
+lisans ve Lisans Eğitim-Öğretim Yönetmeliği ve ilgili diğer mevzuat hükümleri ile
+Fakülte Kurulu ve Fakülte Yönetim Kurulu kararları uygulanır.
+Yürürlük
+Madde 37:
+(DBu Yönerge, Fırat Üniversitesi Senatosunda kabul edildikten sonra yürürlüğe girer. (Senato
+Kabul Tarihi: 16.04.2018 tarih ve 2017-2018/8.4 sayılı karar)
+Yürütme
+Madde 38:
+(1) Bu Yönerge hükümlerini Fırat Üniversitesi Tıp Fakültesi Dekanı yürütür.
+23

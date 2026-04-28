@@ -104,12 +104,19 @@ def parse_pdf(pdf_path: str, regulation_name: str = None) -> list[dict]:
 
     logger.info(f"PDF işleniyor: {pdf_path}")
 
-    # Önce pdfplumber dene, sonra PyMuPDF
-    try:
-        text = extract_text_pdfplumber(pdf_path)
-    except Exception as e:
-        logger.warning(f"pdfplumber başarısız ({e}), PyMuPDF deneniyor...")
-        text = extract_text_pymupdf(pdf_path)
+    # ⭐ Önce .txt sidecar dosyasını kontrol et (OCR ile düzeltilmiş temiz metin)
+    txt_path = path.with_suffix(path.suffix + ".txt")
+    if txt_path.exists():
+        logger.info(f"  → Temiz .txt dosyası bulundu: {txt_path.name}")
+        with open(txt_path, "r", encoding="utf-8") as f:
+            text = f.read()
+    else:
+        # Yoksa normal PDF okuma yap
+        try:
+            text = extract_text_pdfplumber(pdf_path)
+        except Exception as e:
+            logger.warning(f"pdfplumber başarısız ({e}), PyMuPDF deneniyor...")
+            text = extract_text_pymupdf(pdf_path)
 
     if not text.strip():
         raise ValueError(f"PDF'den metin çıkarılamadı: {pdf_path}")

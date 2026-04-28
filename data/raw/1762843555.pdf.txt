@@ -1,0 +1,603 @@
+<RİV
+SX Eş '9 Senato Karar No:
+& ke İlk Yayın Tarihi:
+< A . ae
+Bi m Revizyon Tarihi:
+> © Revizyon No:
+Nn .* : 1/10
+*1975 * Sayfa: 1/
+T.C.
+FIRAT ÜNİVERSİTESİ İÇ KONTROL ESAS VE USULLERİ YÖNERGESİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1- (1) Bu Yönergenin (Esas ve Usullerin) amacı Fırat Üniversitesinin iç kontrol sisteminin
+oluşturulmasına, uygulanmasına, izlenmesine ve geliştirilmesine ilişkin ilke, yöntem, işlem ve süreçleri
+belirlemektir.
+Kapsam
+MADDE 2- (1) Bu Yönerge, Fırat Üniversitesi birimlerinde iç kontrol sisteminin işleyişi ile ilgili
+yürütülecek tüm iş ve işlemlerin Esas ve Usullerini kapsar.
+Dayanak
+MADDE 3- (1) Bu Yönerge (Esas ve Usuller) 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu, Kamu
+İç Kontrol Yönetmeliği, Kamu İç Kontrol standartları Tebliği ve Kamu İç Kontrol Rehberine dayanılarak
+hazırlanmıştır.
+Tanımlar
+MADDE 4- (1) Bu Yönergede (Esas ve usullerde) geçen;
+a) Bakanlık: Hazine ve Maliye Bakanlığını,
+b) İdare: Fırat Üniversitesini,
+c) Rektör: Fırat Üniversitesi Rektörünü,
+ç) Harcama birimi: Fırat Üniversitesi bütçesinde ödenek tahsis edilen ve harcama yetkisi bulunan birim 
+ile
+
+ödenek gönderme belgesi ile ödenek gönderilen birimleri,
+d) Harcama yetkilisi: Bütçeyle ödenek tahsis edilen veya ödenek gönderme belgesi ile ödenek 
+gönderilen her
+bir harcama biriminin en üst yöneticisini,
+e) İç kontrol: İdarenin amaçlarına, belirlenmiş politikalara ve mevzuata uygun olarak faaliyetlerin etkili,
+ekonomik ve verimli bir şekilde yürütülmesini, varlık ve kaynakların korunmasını, muhasebe kayıtlarının 
+doğru ve
+tam olarak tutulmasını, mali bilgi ve yönetim bilgisinin zamanında ve güvenilir olarak üretilmesini 
+sağlamak üzere
+idare tarafından oluşturulan organizasyon, yöntem, süreç ile iç denetimi kapsayan mali ve diğer 
+kontroller
+bütününü,
+f) Kanun: 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununu,
+g) Kurul: Üst yönetici başkanlığında birimlerin harcama yetkililerinden ve ihtiyaç duyması halinde üst
+yöneticinin görevlendireceği diğer kişilerden oluşan İç Kontrol İzleme ve Yönlendirme Kurulunu,
+8) Mali hizmetler birimi: Strateji geliştirme daire başkanlığını,
+h) Mali hizmetler birim yöneticisi: Strateji geliştirme daire başkanlıklarında daire başkanını,
+1) Üst yönetici: 5018 sayılı Kanunun 11 inci maddesine göre tanımlanan üst yöneticiyi,
+ifade eder.
+1/10
+(Ba fekasırısı İç Kontrol Sistemi Yönergesi
+İKİNCİ BÖLÜM
+İç Kontrolün Amaçları, Temel İlkeleri, Yetki ve Sorumluluklar
+İç Kontrolün Amaçları
+MADDE 5 - (1) İç kontrolün amaçları;
+a) Kamu gelir, gider, varlık ve yükümlülüklerinin etkili, ekonomik ve verimli bir şekilde yönetilmesini,
+b) Kamu idarelerinin kanunlara ve diğer düzenlemelere uygun olarak faaliyet göstermesini,
+c) Her türlü mali karar ve işlemlerde usulsüzlük ve yolsuzluğun önlenmesini,
+ç) Karar oluşturmak ve izlemek için düzenli, zamanında ve güvenilir rapor ve bilgi edinilmesini,
+d) Varlıkların kötüye kullanılması ve israfını önlemek ve kayıplara karşı korunmasını
+sağlamaktır.
+
+İç kontrolün işleyişi
+MADDE 6- (1) Fırat Üniversitesi Bakanlık tarafından belirlenen standart, düzenleme ve yöntemlere
+uygun olarak;
+a) Faaliyetlerin; görev, yetki ve sorumlulukların belirlendiği uygun bir kurumsal yapı içerisinde,
+etik değerleri benimsemiş, yeterli ve yetkin personel tarafından yürütülmesini,
+b) Amaç ve hedefler ile bunların gerçekleşmesini ve faaliyetleri etkileyebilecek risklerin
+belirlenmesini, değerlendirilmesini ve bu riskler için uygun kontrol yöntemlerinin geliştirilmesini ve
+uygulanmasını,
+c) Etkin bir bilgi ve iletişim sisteminin kurulmasını ve işletilmesini,
+ç) Faaliyetlerin sürekli ve sistemli bir şekilde izlenmesini ve geliştirilmesini
+sağlamak suretiyle iç kontrol sistemlerini oluşturur, uygular, izler ve geliştirir.
+İç Kontrolün Temel İlkeleri
+MADDE 7- (1) İç kontrolün temel ilkeleri aşağıdaki gibidir:
+a) İç kontrol faaliyetleri yönetim sorumluluğu çerçevesinde yürütülür.
+b) İç kontrol faaliyet ve düzenlemelerinde öncelikle riskli alanlar dikkate alınır.
+c) İç kontrole ilişkin sorumluluk, işlem sürecinde yer alan bütün görevlileri kapsar.
+ç) İç kontrol mali ve mali olmayan tüm işlemleri kapsar.
+d) İç kontrol sistemi yılda en az bir kez değerlendirilir ve alınması gereken önlemler belirlenir.
+e) İç kontrol düzenleme ve uygulamalarında mevzuata uygunluk, saydamlık, hesap verebilirlik ve
+ekonomiklik, etkinlik, etkililik gibi iyi mali yönetim ilkeleri esas alınır.
+İç kontrolün bileşenleri
+MADDE 8- (1) İç kontrolün bileşenleri şunlardır:
+a) Kontrol ortamı: Faaliyetler; görev, yetki ve sorumlulukların açık bir şekilde belirlendiği bir kurumsal 
+yapı
+içerisinde, etik değerleri benimsemiş, yeterli ve yetkin personel tarafından yürütülür. Hesap verebilirliği 
+sağlamak
+
+üzere yöneticilerin ve personelin performans ölçütleri belirlenir, iç kontrol sisteminin oluşturulması ve 
+uygulanması
+için gerekli yetki, görev ve sorumluluklar tanımlanır.
+b) Risk değerlendirme: İdarenin stratejik amaç ve hedeflerine yönelik kurumsal riskler ile harcama
+birimlerinin faaliyet ve süreçlerine yönelik operasyonel risklerin, suiistimal risklerinin, teknolojiye ilişkin 
+risklerin
+ve benzer risklerin belirlenmesi, analiz edilmesi, etki ve olasılıklarının ölçülmesi, önceliklendirilmesi, 
+risklere
+yönelik alınacak kararların belirlenmesi, raporlanması ve izlenmesi aşamalarından oluşur.
+c) Kontrol faaliyetleri: Risk değerlendirme sürecinde belirlenen risklerin etki ve olasılıklarını kabul 
+edilebilir
+düzeylere indirmek amacıyla uygun kontrol faaliyetlerinin belirlenmesini, uygulanmasını ve izlenmesini 
+kapsar.
+2/10
+ÜNİVERSİTESİ İç Kontrol Sistemi Yönergesi
+Risklere yönelik belirlenen ve uygulamaya konulan yönlendirici, önleyici, tespit edici ve düzeltici her türlü 
+kontrol
+faaliyetleri idarenin iç düzenlemelerine ve uygulama süreçlerine dâhil edilerek süreklilik sağlanır.
+ç) Bilgi ve iletişim: İdarenin ihtiyaç duyacağı her türlü bilginin uygun bir şekilde kaydedilmesini, tasnif
+edilmesini ve ilgililerin sorumluluklarını yerine getirebilecekleri bir şekilde ve sürede iletilmesini kapsar.
+d) İzleme: İç kontrol sisteminin ve işleyişinin sürekli izleme veya özel bir değerlendirme yapma ya da bu 
+iki
+yöntem birlikte kullanılarak değerlendirilmesi ve raporlanmasıdır.
+Kamu İç Kontrol Standartları
+MADDE 9- (1) Kamu İç Kontrol Standartları, tüm idarelerde tutarlı, kapsamlı ve standart bir iç kontrol
+sisteminin oluşturulması, uygulanması, izlenmesi, değerlendirilmesi ve geliştirilmesini amaçlar.
+(2) İdareler, mali ve mali olmayan tüm işlemlerinde Kamu İç Kontrol Standartlarına uymakla ve bu
+standartların gereğini yerine getirmekle yükümlüdür.
+(3) Kamu İç Kontrol Standartları; kontrol ortamı, risk değerlendirme, kontrol faaliyetleri, bilgi ve iletişim 
+ve
+
+izleme bileşenleri çerçevesinde belirlenen standartlardan ve genel şartlardan oluşur.
+(4) Kamu İç Kontrol Standartlarına ilişkin belirlenen genel şartlar, söz konusu standartlara uyum 
+sağlamaya
+yönelik hususları içerir. Belirli bir standarda uyum sağlamak için asgari olarak o standarda ilişkin genel 
+şartların
+yerine getirilmesi esastır.
+(5) İdarelerin üst yöneticileri tarafından, iç kontrol sisteminin Kamu İç Kontrol Standartlarına uyumunu
+sağlamak üzere yapılması gereken çalışmaların belirlenmesini, bu çalışmalar için eylem planı 
+oluşturulmasını,
+çalışmaların etkili bir şekilde ve zamanında yürütülmesini sağlamak üzere gerekli önlemler alınır.
+İç kontrole ilişkin temel sorumluluklar
+MADDE 10- (1) Üst yöneticiler, harcama yetkilileri ve diğer yöneticiler, mesleki değerlere ve dürüst
+yönetim anlayışına sahip olunmasından, mali yetki ve sorumlulukların bilgili ve yeterli yöneticiler ile 
+personele
+verilmesinden, belirlenmiş standartlara uyulmasının sağlanmasından, mevzuata aykırı faaliyetlerin 
+önlenmesinden,
+kapsamlı bir yönetim anlayışıyla uygun bir çalışma ortamının ve saydamlığın sağlanmasından görev ve 
+yetkileri
+çerçevesinde sorumludur.
+Üst yöneticinin yetki ve sorumlulukları
+MADDE 11- (1) Üst yönetici, idarede iç kontrol sisteminin oluşturulmasını sağlar, işleyişi izler ve gerekli
+tedbirleri alır. Üst yönetici, iç kontrol sisteminin oluşturulmasını sağlamak üzere görev ve sorumlulukları 
+tanımlar,
+Kamu İç Kontrol Standartlarına uyum için gerekli olan yazılı prosedürleri, talimatları ve eylem planlarını 
+yürürlüğe
+koyar ve uygulama sonuçlarını izler. Üst yönetici, bu sorumluluğun gereklerini harcama yetkilileri, mali 
+hizmetler
+birimi ve iç denetçiler aracılığıyla yerine getirir.
+(2) Üst yönetici, her yıl Üst Yöneticinin İç Kontrol Güvence Beyanını imzalar ve idare faaliyet raporuna
+ekler.
+(3) Üst yönetici, iç kontrol güvence beyanını imzalarken; harcama birimleri tarafından sunulan faaliyet
+raporlarını ve eki iç kontrol güvence beyanlarını, iç denetim raporlarını, mali hizmetler birimi tarafından 
+hazırlanan
+
+yıllık iç kontrol sistemi değerlendirme raporunu ve mali hizmetler birim yöneticisinin beyanını da dikkate 
+alır. İç
+kontrol sisteminin izlenmesi sonucunda yeterli güvencenin sağlanamadığı tespit edilen hususlar ve 
+alınması
+öngörülen tedbirler iç kontrol güvence beyanına eklenir.
+Harcama yetkilisinin görev ve sorumlulukları
+MADDE 12- (1) Harcama yetkilisi, birimindeki düzenleme, faaliyet, süreç ve işlemlerin Kamu İç Kontrol
+Standartlarına uyumunu sağlamaktan ve hiyerarşik olarak üst kademe yöneticileri ile üst yöneticiye ve 
+yetkili
+mercilere hesap vermekten sorumludur. Bu amaçla harcama yetkilisi, biriminde iç kontrol sistemini 
+oluşturur,
+uygular, izler ve raporlar. Harcama yetkilisi biriminde, işlem yönergeleri ve süreç akış şemalarının 
+oluşturulmasını
+ve bunlar esas alınarak tespit edilen risklere karşı alınacak önlemlerin belirlenmesini sağlar.
+3/10
+ÜNİVERSİTESİ İç Kontrol Sistemi Yönergesi
+(2) Harcama yetkilisi, Harcama Yetkilisinin İç Kontrol Güvence Beyanını imzalar, birim faaliyet raporuna
+ekler ve üst yöneticiye sunar.
+(3) Harcama yetkilisi iç kontrol güvence beyanını imzalarken, kendisine sunulan bilgi ve raporlar ile iç
+denetim raporlarını da dikkate alır. İç kontrol sisteminin izlenmesi sonucunda yeterli güvencenin 
+sağlanamadığı
+tespit edilen hususlar ve alınması öngörülen tedbirler iç kontrol güvence beyanına eklenir.
+Diğer yöneticiler ve personelin görev ve sorumlulukları
+MADDE 13- (1) İdarenin hiyerarşik kademelerinde yer alan diğer yöneticiler ve personel, görev ve yetki
+alanları çerçevesinde, iç kontrol sisteminin gereklerinin yerine getirilmesinden ve uygulanmasından 
+sorumludur.
+Bu kapsamda, yürütülen görevlere ilişkin risk değerlendirme çalışmaları yapılır, önlem alınması gereken 
+riskler
+iyileştirme önerileri ile birlikte bir üst yöneticiye yılda en az bir kez bildirilir. Acil eylem gerektiren riskler 
+ise
+derhal bildirilir.
+
+Mali hizmetler birim yöneticisinin görev ve sorumlulukları
+MADDE 14- (1) Mali hizmetler birim yöneticisi; harcama birimlerinde iç kontrol sisteminin 
+oluşturulmasını
+ve Kamu İç Kontrol Standartlarına uyum çalışmalarını yönlendirir, koordine eder, eğitim ve rehberlik 
+hizmeti verir,
+uygulama sonuçlarını izler, değerlendirir, üst yöneticiye raporlar ve ön mali kontrol faaliyetini yürütür.
+(2) Mali hizmetler birim yöneticisi, her yıl Mali Hizmetler Birim Yöneticisinin Beyanını imzalar ve idare
+faaliyet raporuna ekler.
+Muhasebe yetkilisinin görev ve sorumlulukları
+MADDE 15-(1) Muhasebe yetkilisi, muhasebe kayıtlarının usulüne ve standartlara uygun, saydam ve
+erişilebilir şekilde tutulmasından sorumludur.
+İç denetçilerin görev ve sorumlulukları
+MADDE 16- (1) İç denetçiler, iç kontrol sistemini Kanun ve ilgili diğer mevzuat kapsamında 
+denetlemekten
+ve üst yöneticiye raporlamaktan sorumludur. İç denetçiler düzenledikleri raporlarda bulgularını; iç 
+kontrolün
+gerekleri, Kamu İç Kontrol Standartları ve ilgili diğer düzenlemelerle ilişkilendirerek öneriler geliştirir.
+İç Kontrol İzleme ve Yönlendirme Kurulunun görev ve sorumlulukları
+MADDE 17-(1) İç Kontrol İzleme ve Yönlendirme Kurulu, iç kontrol sisteminin ve Kamu İç Kontrol
+Standartlarına  uyum  çalışmalarının  izlenmesinden,  yönlendirilmesinden  ve  üst  yöneticiye  
+raporlanmasından
+sorumludur. Kurul, yılda en az iki kez olmak üzere toplanır.
+(2) Kurulun sekretarya hizmetleri Fırat Üniversitesi Strateji Geliştirme Daire Başkanlığı tarafından 
+yürütülür.
+ÜÇÜNCÜ BÖLÜM
+İç Kontrol Sisteminin Bileşenleri ve Standartları
+İç Kontrol Sisteminin Bileşenleri
+MADDE 18- (1) Üniversitenin iç kontrol sistemi; kontrol ortamı, risk değerlendirmesi, kontrol faaliyetleri,
+bilgi ve iletişim ile izleme olmak üzere beş bileşenden oluşur.
+Kontrol Ortamı Bileşeni
+
+MADDE 19- (1) Kontrol ortamının temel unsurları; kişisel ve mesleki dürüstlük ilkeleri, yönetim ve
+personelin etik değerleri benimsemesi, üst yönetimin iç kontrole yönelik performansı, insan kaynakları 
+politikaları
+ve uygulamaları, yönetim felsefesi ve iş yapma tarzı ile yetki devridir. Kontrol ortamı bileşeni; etik 
+değerler ve
+dürüstlük, misyon, organizasyon yapısı ve görevler, personelin yeterliliği ve performansı ile yetki devri 
+olmak
+üzere dört standarttan oluşmaktadır.
+Etik Değerler ve Dürüstlük Standardı
+MADDE 20- (1) Üniversitenin iç kontrol sistemi tüm personel tarafından sahiplenilir ve yöneticiler iç
+kontrol sisteminin uygulanmasında personele örnek olurlar. Faaliyetlerde dürüstlük, saydamlık ve 
+hesap
+4/10
+ÜNİVERSİTESİ İç Kontrol Sistemi Yönergesi
+verebilirliğin sağlanması, tüm bilgi ve belgelerin doğru, tam ve güvenilir olarak üretilmesi ve personele ya 
+da
+hizmet verilenlere adil ve eşit davranılması esastır. Üniversitenin etik değerleri ile etik davranış ilkelerinin 
+dışında
+sergilenen tutum ve davranışlara ilişkin başvuruların yapılması ile bu başvuruların değerlendirilmesinde
+Üniversite Kurumsal Etik Kurulu Yönergesi hükümlerine uyulur.
+Misyon, Organizasyon Yapısı ve Görevler Standardı
+MADDE 21- (1) Üniversitenin ve birimlerin misyonu, vizyonu ve teşkilat şemaları güncel olarak internet
+sayfalarında yayınlanır. Üniversitenin misyon ve vizyonu stratejik planlama çalışmaları kapsamında 
+belirlenir.
+Birimlerin misyon ve vizyonları Üniversitenin misyon ve vizyonu ile uyumlu olacak şekilde; akademik 
+birimlerde
+ilgili enstitü, fakülte, yüksekokul, meslek yüksekokulu vb. kurulu kararıyla, idari birimlerde ise; birim
+personelinin görüşü alınmak suretiyle birim amirinin teklifi ve üst yöneticinin onayıyla belirlenir.
+Birimler ve birimlere bağlı alt birimlerin görevleri, iş akışları ile personelin görev, yetki ve sorumlulukları
+tanımlanır internet sayfasında yayınlanır. Birimlerde ifa edilen görevlerden hassas nitelikte olanlar 
+sırasıyla,
+Hassas Tespit Formu, Hassas Görev Envanteri ve Hassas Görev Listesi tablolarıyla tespit edilerek, bu 
+görevlere
+
+ilişkin geliştirilen prosedürler ilgili personele bildirilir.
+Üniversitenin ve birimlerin organizasyon yapısı; temel yetki ve sorumluluk dağılımı, hesap verebilirlik ve
+uygun raporlama ilişkisini gösterecek şekilde tasarlanır ve yöneticiler verilen görevlerin sonucunu 
+izlemeye
+yönelik mekanizmalar oluşturur.
+Personelin Yeterliliği ve Performansı Standardı
+MADDE 22- (1) Üniversitenin insan kaynakları yönetimi; yerleşik bir kariyer ve liyakat kültürüne sahip,
+norm kadro tekniğini esas alan sürekli eğitim anlayışına dayalı bir yapı içerisinde yürütülür. Eğitim 
+faaliyetlerinin
+planlanmasında ve yürütülmesinde “Üniversite Hizmet İçi Eğitim Yönergesi' esas alınır.
+Üniversitenin ve birimlerin organizasyon yapısı; temel yetki ve sorumluluk dağılımı, hesap verebilirlik ve
+uygun raporlama ilişkisini gösterecek şekilde tasarlanır ve yöneticiler verilen görevlerin sonucunu 
+izlemeye
+yönelik mekanizmalar oluşturur.
+Yetki Devri Standardı
+MADDE 23- (1) Üniversitede alt görevlerde çalışan personelin sorumluluk duygusunu ve moral
+motivasyonunu artırarak onları üst görevlere hazırlamak, yönetici personelin iş yükünü azaltarak daha 
+rahat
+çalışmalarına olanak sağlamak ve karar alma süreçlerinin daha hızlı ve daha doğru işlemesini temin 
+etmek amacıyla,
+yetki devri uygulamasından etkin bir şekilde yararlanılır.
+Risk Değerlendirme Bileşeni
+MADDE 24- (1) Risk değerlendirmesi; kurum hedeflerine ulaşılmasını engelleyebilecek tüm risklerin
+tanımlanması ve ölçülmesini içerir. Risk değerlendirme bileşeni; planlama ve programlama ile risklerin
+belirlenmesi ve değerlendirilmesi olmak üzere iki standarttan oluşmaktadır.
+Planlama ve Programlama Standardı
+MADDE 25- (1) Üniversitenin faaliyetlerini, amaç, hedef ve bunları gerçekleştirmek için ihtiyaç
+duydukları kaynakları planlanabilmesi amacıyla Kamu İdarelerince Stratejik Planlamaya İlişkin Usul ve 
+Esaslar
+Hakkında Yönetmelik ve ilgili düzenlemeler esas alınarak Başkanlık koordinasyonunda beş yıllık stratejik 
+planlar
+
+hazırlanır.
+Stratejik planlarda yer alan amaç ve hedefler ile faaliyet ve kaynak ihtiyacının yıllık dilimleri performans
+programlarında tespit edilir, gösterilir ve uygulanır. Üniversitenin performans programları, Kamu 
+İdarelerince
+Hazırlanacak Performans Programları Hakkında Yönetmelik ve ilgili düzenlemeler esas alınarak 
+Başkanlığın
+koordinasyonunda hazırlanır.
+Risklerin Belirlenmesi ve Değerlendirilmesi Standardı
+MADDE 26- (1) Stratejik plan ve performans programında yer alan amaç ve hedefler ile faaliyetlere 
+ilişkin
+riskler, kurumsal risk yönetimi anlayışı çerçevesinde tespit edilerek, değerlendirilir. Risklerin 
+belirlenmesi,
+5/10
+ÜNİVERSİTESİ İç Kontrol Sistemi Yönergesi
+değerlendirilmesi ve risklere karşı alınacak önlemlerin tespit edilmesine ilişkin iş ve işlemler, Üniversite 
+Risk
+Yönetim Stratejisi ve Sürecinde belirlenen usul ve esaslara göre yürütülür.
+Kontrol Faaliyetleri Bileşeni
+MADDE 27- (1) Kontrol faaliyetleri; öngörülen bir riskin etki ve/veya olasılığını azaltmayı ve böylece
+idarenin amaç ve hedeflerine ulaşma olasılığını artırmayı amaçlayan politika ve prosedürlerdir. Kontrol 
+faaliyetleri
+bileşeni; kontrol stratejileri ve yöntemleri, prosedürlerin belirlenmesi ve belgelendirilmesi, görevler 
+ayrılığı,
+hiyerarşik kontroller, faaliyetlerin sürekliliği ve bilgi sistemleri kontrolleri olmak üzere altı standarttan 
+oluşur.
+Kontrol Stratejileri ve Yöntemleri Standardı
+MADDE 28- (1) Birimlerde yürütülen faaliyetler, faaliyet kapsamında yürütülen iş ve işlemlerin niteliğine
+ve niceliğine uygun yöntemlerle kontrol edilmekte olup, kontrol faaliyetlerinin tespiti, uygulanması ve
+değerlendirilmesine ilişkin olarak birimlerin iş akış şemaları, görev tanımları hazırlanmış, hassas 
+görevleri ve bu
+görevlerdeki risk ve alınacak tedbirler belirlenmiştir.
+Prosedürlerin Belirlenmesi ve Belgelendirilmesi Standardı
+MADDE 29- (1) Üniversite birimlerimizde yürütülen mali işler ile ilgili işlemler için; Fırat Üniversitesi
+Risk Yönetim Stratejisi ve Sürecinde standartları belirtilen iş akış şemaları ile birimlerin süreç akışı ve 
+görev
+
+tanımları birimlerin web adreslerinde ayrıca Strateji Geliştirme Daire Başkanlığının web adresinde 
+erişime
+sunulmuştur.
+İdare, faaliyetleri ile mali karar ve işlemleri için gerekli yazılı prosedürleri ve bu alanlara ilişkin
+düzenlemeleri hazırlar, güncellemeli ve ilgili personelin erişimine sunmalıdır.
+Görevler Ayrılığı Standardı
+MADDE 30- (1) Hata, eksiklik, yanlışlık, usulsüzlük ve yolsuzluk riskleri hassas görevlerinin tespiti,
+envanteri ve görev listelerinde belirtilmekle birlikte bu görevi yürüten personel ile sorumlu birim amiri
+belirlenmiştir.
+Hiyerarşik Kontroller Standardı
+MADDE 31- (1) Birimlerde yürütülen tüm iş ve işlemler hiyerarşik olarak kontrol edilir. Birim amirleri
+personelin iş ve işlemlerini izleyerek, onaylar ve tespiti halinde hata veya usulsüzlüklerin giderilmesi için 
+gerekli
+talimatları verir.
+Faaliyetlerin Sürekliliği Standardı
+MADDE 32- (1) Birimlerde yürütülen faaliyetler, iş tanımları, görev ve sorumluluklar iş süreçleri ve iş 
+akış
+şemaları; birime yeni atanan veya rotasyon uygulaması ile birimin yürüttüğü işlere sonradan dahil olan 
+personel için
+oldukça yararlı dokümanlar olup, bu suretle görevden ayrılacak personelin yerine geçici veya sürekli 
+olarak bakacak
+personelin birim faaliyetlerini aksatmadan sürdürülebilmesi sağlanmaktadır. Birimlerde yürütülen
+işlerin/faaliyetlerin takibi ve adaptasyonu sürekliliği şube müdürleri/birim sorumluları tarafından sağlanır.
+Faaliyetlerin sürekliliğini sağlamak amacıyla rotasyon uygulamasından da etkin biçimde faydalanılması 
+esastır.
+Bilgi Sistemleri Kontrolleri Standardı
+MADDE 33- (1) Üniversitede kullanılan bilgi sistemlerinin güvenliği, bilgi sistemine veri ve bilgi girişi
+ile bunlara erişim konusundaki yetkilendirmeler mevcuttur.
+Bilgi ve İletişim Bileşeni
+MADDE 34- (1) Bilgi ve iletişim, gerekli bilginin ihtiyaç duyan kişi, personel ve yöneticiye belirli bir
+formatta ve ilgililerin iç kontrol ve diğer sorumluluklarını yerine getirmelerine imkan verecek bir zaman 
+dilimi
+içinde iletilmesini sağlayacak bilgi, iletişim ve kayıt sistemini kapsar. Bilgi ve iletişim bileşeni; bilgi ve 
+iletişim,
+raporlama, kayıt ve dosyalama sistemi ile hata, usulsüzlük ve yolsuzlukların bildirilmesi olmak üzere 
+dört
+standarttan oluşur.
+Bilgi ve İletişim Standardı
+6/10
+
+ÜNİVERSİTESİ İç Kontrol Sistemi Yönergesi
+MADDE 35- (1) Üniversite birimlerinden raporlamalara esas olarak alınan bilgiler, birimler tarafından,
+birimlere verilen kullanıcı adı ve şifresi ile sağlanmakta olup, bu bilgilerin güvenliği ve sürekliliği 
+Üniversite web
+sunucularına ve sunucularına dışarıdan girişin mümkün olmaması ve Bilgi İşlem Daire Başkanlığı 
+tarafından
+kontrol ve yedeklemelerinin yapılması ile sağlanmaktadır. Kurum içi ve kurum dışı iletişim; bilgilendirme, 
+görüş
+alma, ortak karar alma konularında toplantılar, raporlar, bilgilendirme amaçlı broşür basımı, yine görüş 
+alma ve
+değerlendirme kapsamında anket çalışmaları, çalıştay, konferans, yazışma ve e-posta gibi iletişim 
+yöntemleriyle
+gerçekleştirilmektedir.
+Raporlama Standardı
+MADDE 36- (1) Üniversitenin amaç, hedef, gösterge, faaliyet ve projeleri ile kaynak ihtiyacına ilişkin
+bilgiler her yıl Ocak ayı içerisinde Başkanlık tarafından kamuoyuna açıklanır.
+Üniversite bütçesiyle ödenek tahsis edilen harcama yetkilileri tarafından, bir önceki mali yılda birimlerde
+yürütülen faaliyetler, kullanılan ödenekler, hedef ve gerçekleşme verileri ile varsa sapmaların 
+nedenlerine ilişkin
+bilgileri kapsayan birim faaliyet raporları her yıl ocak ayı sonuna kadar üst yöneticiye sunulur ve 
+Başkanlığa
+iletilir.
+Stratejik planlarda belirtilen amaç ve hedeflere göre performans programında belirlenen performans
+faaliyetleri ile performans göstergelerinin sonucu, kaynak kullanımları Kamu İdarelerince Hazırlanacak 
+Faaliyet
+Raporları Hakkında Yönetmelik ve ilgili düzenlemeler esas alınarak Başkanlık tarafından hazırlanan 
+idare faaliyet
+raporu her yıl Şubat ayı sonuna kadar kamuoyuna açıklanır.
+Kurumsal mali durum ve beklentiler raporu, Üniversite bütçesinin ilk altı aylık uygulama sonuçları ile
+ikinci altı aya ilişkin beklenti, hedef ve faaliyetleri kapsayacak şekilde her yıl Temmuz ayı içerisinde 
+Başkanlık
+tarafından kamuoyuna açıklanır.
+Bir önceki yıla ait kamu yatırım projelerinin gerçekleşme ve uygulama sonuçları yatırım değerlendirme
+raporları ile Mart ayı sonuna kadar Başkanlık tarafından kamuoyuna açıklanır.
+
+Yukarıda bahsi edilen raporlardan, performans raporları ile idare faaliyet raporları Üniversitenin ve
+Başkanlığın internet sayfalarında, kurumsal mali durum ve beklentiler raporu ile yatırım değerlendirme 
+raporu
+Başkanlığının internet sayfasında yayınlanmaktadır.
+Kayıt ve Dosyalama Sistemi Standardı
+MADDE 37- (1) Üniversitede “e-Belge Yönetimi ve Arşivleme Sistemi (e-BEYAS)” ile kurum içi iletişim,
+kurumlar arası bilgi/belge paylaşımı ve elektronik belgelerin arşivlenmesi güvenilir bir ortamda
+gerçekleştirebilecek; orta ve uzun vadede e-devlet kapısı kanallarında kurumlar arası bilgi/belge 
+paylaşımına
+yönelik uygulamalara eklenecek bir sistemin kurulması hedeflenerek; Fırat Üniversitesi İç Kontrol Uyum 
+Eylem
+Planı ve Yol Haritasında belirtildiği üzere e-BEYAS çalışmaları Bilgi İşlem Daire Başkanlığı ile BEYAS
+Koordinatörlüğünün ortak çalışması neticesinde 16 Eylül 2013 tarihinde tüm idari birimleri ile e-BEYAS
+Uygulamasına geçiş yapılmıştır.
+Hata, Usulsüzlük Ve Yolsuzlukların Bildirilmesi Standardı
+MADDE 38- (1) Kurum itibarı, yolsuzluk riski, gizli bilgilerin açığa çıkması ve benzeri yönlerden diğer
+görevlerle kıyaslandığında çok daha büyük önem taşıyan özellikteki görevler hassas görev olarak 
+nitelendirilmek
+olup, Üniversite birimlerine konu hakkında bilgilendirme sunumu gerçekleştirilmiş ayrıca, hassas görev 
+formaları
+ile alınacak önlem ve tedbirler birim bazında düzenlenir. Üniversite faaliyetlerinde tespit edilen veya 
+bildirilen
+hata, usulsüzlük ve yolsuzluklar, yetkili kişi veya mercilere ivedilikle bildirilir. Hata, usulsüzlük ve 
+yolsuzlukların
+incelemekle görevli yetkililer, bildirilen hususlara ilişkin yeterli incelemeyi yapmakla yükümlüdür. Hata,
+usulsüzlük ve yolsuzlukları bildiren personele haksız ve ayırımcı bir muamele yapılamaz.
+İzleme Bileşeni
+MADDE 39- (1) İzleme faaliyetinin temel amacı iç kontrol sisteminin performansı hakkında sağlıklı ve
+düzenli bir değerlendirme yapmak ve yapılması gereken değişiklikleri sisteminin güncel koşullara uyum
+sağlayacak şekilde değiştirilip, değiştirilmediği izleme faaliyetleri ile anlaşılmaktadır. İzleme bileşeni; iç
+7/10
+(Ba fekasırısı İç Kontrol Sistemi Yönergesi
+
+kontrolün değerlendirilmesi ve iç denetim olmak üzere iki standarttan oluşur.
+İç Kontrolün Değerlendirilmesi Standardı
+MADDE 40- (1) Üniversitenin İç Kontrol Uyum Eylem Planı, yılda en az bir kez olmak üzere revize
+edilerek Başkanlık internet sayfasında yayınlanır. İç kontrol sistemi Fırat Üniversitesi İç Kontrol Sistemi 
+İzleme
+ve Yönlendirme Kurulu Çalışma İlkeleri doğrultusunda izleme, gözden geçirme ve değerlendirme 
+çalışmaları
+yürütülür. (Fırat Üniversitesi İç Kontrol Uyum Eylem Planı)
+İç Denetim Standardı
+MADDE 41- (1) Üniversitede iç denetim faaliyetleri, iç denetim biriminde görevli iç denetçiler tarafından,
+ilgili yasal ve idari düzenlemeler esas alınarak fonksiyonel ve bağımsız bir şekilde yürütülür.
+DÖRDÜNCÜ BÖLÜM
+Kamu İç Kontrol Standartlarına Uyum Çalışmaları
+Kamu İç Kontrol Standartlarına uyum
+MADDE 42-(1) İdarelerde Kamu İç Kontrol Standartlarına uyum çalışmaları; harcama birimlerinin
+sorumluluğunda, üst yöneticinin liderliği ve gözetiminde, mali hizmetler biriminin teknik desteği ve
+koordinatörlüğünde yürütülür. Gerek görülmesi halinde üst yönetici onayıyla iç denetçilerin danışmanlık
+desteğinden yararlanılabilir.
+(2) İdarelerde Kamu İç Kontrol Standartlarına uyum çalışmalarının başlatılması, yürütülmesi ve 
+izlenmesine
+ilişkin usul ve esaslar, idarenin üst yöneticisi tarafından belirlenir.
+Harcama birimlerinde Kamu İç Kontrol Standartlarına uyum eylem planı
+MADDE 43- (1) Harcama yetkilisi, iç kontrol ve risk koordinatörü olarak görevlendireceği bir 
+yardımcısının,
+yardımcısı yoksa hiyerarşik olarak kendisine en yakın kademedeki bir görevlinin koordinatörlüğünde, 
+harcama
+birimindeki alt birim yöneticileri ve personelin katılımlarıyla birim faaliyetlerine ilişkin mevcut durumun 
+Kamu İç
+Kontrol Standartlarına uyumunu değerlendirir ve uyumu sağlayacak veya güçlendirecek tedbirleri içeren 
+birim
+
+Kamu İç Kontrol Standartlarına uyum eylem planını yürürlüğe koyar.
+(2) Harcama yetkilisi, birim Kamu İç Kontrol Standartlarına uyum eylem planında yer alan ve yetkisi
+dâhilinde olan eylemlerin planda öngörülen süre içinde uygulanmasını sağlar ve sonuçlarını izler.
+(3) İdarenin bütününü ilgilendiren veya birimin görev alanına girmekle birlikte üst yöneticinin onayını
+gerektiren eylemler, idare Kamu İç Kontrol Standartlarına uyum eylem planına dâhil edilmek üzere mali 
+hizmetler
+birimine bildirilir.
+(4) Birim Kamu İç Kontrol Standartlarına uyum eylem planının hazırlanması, uygulanması ve 
+izlenmesine
+ilişkin usul ve esaslar mali hizmetler birimince hazırlanır ve üst yönetici onayı ile yürürlüğe girer.
+Harcama birimlerinde risk kontrol eylem planı
+MADDE 44- (1) Harcama yetkilisi, iç kontrol ve risk koordinatörü olarak görevlendireceği bir 
+yardımcısının,
+yardımcısı yoksa hiyerarşik olarak kendisine en yakın kademedeki bir görevlinin koordinatörlüğünde, 
+harcama
+birimindeki alt birim yöneticileri ve personelin katılımlarıyla, biriminde yürütülen faaliyet ve süreçleri 
+olumsuz
+etkileyebilecek risklerin tespit edilmesini, değerlendirilmesini ve bu risklerin etki ve olasılıklarını 
+azaltacak
+önlemlerin alınmasını sağlamak üzere hazırlanan birim risk kontrol eylem planını yürürlüğe koyar.
+(2) Harcama yetkilisi, birim risk kontrol eylem planında yer alan ve yetkisi dâhilinde olan eylemlerin 
+planda
+öngörülen süre içinde uygulanmasını sağlar ve sonuçlarını izler.
+(3) Harcama birimlerinin faaliyet ve süreçlerine yönelik operasyonel risklerden idarenin stratejik 
+planında
+yer alan amaç ve hedeflerini olumsuz etkileyebilecek olanlar idare risk kontrol eylem planına dâhil 
+edilmek üzere
+mali hizmetler birimine bildirilir.
+8/10
+ÜNİVERSİTESİ İç Kontrol Sistemi Yönergesi
+
+(4) Birim risk kontrol eylem planının hazırlanması, uygulanması ve izlenmesine ilişkin usul ve esaslar 
+mali
+hizmetler birimince hazırlanır ve üst yönetici onayı ile yürürlüğe girer.
+İdare Kamu İç Kontrol Standartlarına uyum eylem planı ve idare risk kontrol eylem planı
+MADDE 45- (1) Mali hizmetler birimi, idare Kamu İç Kontrol Standartlarına uyum eylem planına dâhil
+edilmek üzere harcama birimlerince iletilen eylemleri, İç Kontrol İzleme ve Yönlendirme Kurulunun
+değerlendirmesine sunar. Kurul, yeni bir eylem eklenmesini, eylemlerin yeniden değerlendirilmesini 
+veya
+çıkarılmasını kararlaştırabilir.
+(2) Eylem planı, varsa üst yöneticinin uygun gördüğü değişiklikler yapıldıktan sonra yürürlüğe konulur.
+Eylem planında öngörülen çalışmaların gerçekleştirilmesi sırasında ortaya çıkan ihtiyaçlar doğrultusunda 
+üst
+yöneticinin onayıyla eylem planı her zaman revize edilebilir.
+(3) İdare Kamu İç Kontrol Standartlarına uyum eylem planları en fazla iki yıllık dönemler itibarıyla mali
+hizmetler birimince hazırlanır, en geç kapsadığı dönemin ilk yılının Ocak ayının ilk haftası itibarıyla 
+yürürlüğe
+konulur. İdare Kamu İç Kontrol Standartlarına uyum eylem planı, üst yöneticinin onayını izleyen on iş 
+günü içinde
+Bakanlığa gönderilir.
+(4) İdare Kamu İç Kontrol Standartlarına uyum eylem planlarında öngörülen eylemlerin gerçekleşme
+sonuçları, idarelerin mali hizmetler birimi tarafından en az altı ayda bir olmak üzere düzenli olarak izlenir 
+ve her
+yılın Haziran ve Aralık ayı sonu itibarıyla iki dönem halinde ve eylem planı formatında üst yöneticiye 
+sunulur.
+(5) Mali hizmetler birimi, idarenin stratejik planında yer alan amaç ve hedeflerine yönelik kurumsal 
+riskler
+ile harcama birimlerinden idare risk kontrol eylem planına eklenmek üzere bildirilen risklerden oluşan 
+idare risk
+kontrol eylem planını hazırlar ve Kurula sunar. Kurul tarafından değerlendirilen idare risk kontrol eylem 
+planı üst
+yöneticinin onayına sunulur. Üst yönetici onayı ile yürürlüğe giren idare risk kontrol eylem planı 
+uygulamaları,
+idare tarafından belirlenecek periyotlarda mali hizmetler birimince takip edilir ve sonuçları Kurula 
+raporlanır.
+
+İdarede iç kontrol sisteminin izlenmesi
+MADDE 46-(1) Harcama yetkilisi; birimindeki düzenleme, faaliyet, süreç ve işlemlerin iç kontrol
+bileşenleri ile Kamu İç Kontrol Standartlarına uyum düzeyini sürekli değerlendirmeler yapmak suretiyle 
+izler ve
+sonuçlarını mali hizmetler birimine raporlar.
+(2) Harcama yetkilisi, mali hizmetler biriminin iç kontrol sisteminin izlenmesine yönelik olarak talep ettiği
+bilgilerin temin edilmesini ve iç kontrol sistemi değerlendirme yöntemlerinin biriminde uygulanmasını 
+sağlar.
+(3) Mali hizmetler birimi, idarenin yönetici ve diğer personelinin görüşleri, kişi ve/veya idarelerin talep ve
+önerileri, harcama birimlerinin değerlendirmeleri, eylem planlarının gerçekleşme sonuçları ile iç ve dış 
+denetim
+sonucunda düzenlenen raporları dikkate alarak idarede iç kontrol sisteminin uygulama sonuçlarını izler,
+değerlendirir ve hazırladığı iç kontrol sistemi değerlendirme raporunu güvence beyanlarına kanıt teşkil 
+etmek
+amacıyla üst yöneticiye sunar. Üst yönetici tarafından onaylanan iç kontrol sistemi değerlendirme raporu 
+ve idare
+Kamu İç Kontrol Standartlarına uyum eylem planı gerçekleşme sonuçları, Kanuna ekli (1), (ID) ve (IV) 
+sayılı
+cetvellerde yer alan idarelerce izleyen yılın en geç Mart ayının on beşine kadar, mahalli idarelerce ise 
+izleyen yılın
+en geç Mayıs ayının on beşine kadar Bakanlığa gönderilir.
+(4) Üst yönetici, uygulama sonuçlarını izler ve gerekli tedbirleri alır.
+İç Kontrol Sistemi Dokümanları
+MADDE 47- (1) İç kontrol sisteminin tesisine yönelik çalışmalar kapsamında Üniversitenin teşkilat
+şemasında yer alan birimlerce üretilecek dokümanlar “Dokümanlar” kısmında listelenmiştir. Bu 
+dokümanlardan
+birçoğu internet, e-mail vb. yöntemlerle alınarak farklı alanlarda tutulmakta iken, Başkanlık ile Bilgi İşlem 
+Daire
+Başkanlığının ortaklaşa yürüttüğü ve analizlerinin yapıldığı sistemde; tüm raporlara tek bir kanaldan 
+ulaşım
+sağlanabilecek olup, birim kullanıcılarının tanımlanması ve rolleri verilerek tüm birimlerin sisteme 
+geçmesi 2026
+yılsonu olarak öngörülmektedir.
+Bu yönergenin yürürlüğe girdiği tarihten sonra kurulan veya faaliyetlerine başlayan Üniversite birimleri;
+
+faaliyete geçmelerini müteakip, en geç altı ay içinde, iç kontrol sistemi dokümanlarını hazırlar.
+9/10
+(Ba fekasırısı İç Kontrol Sistemi Yönergesi
+Faaliyete geçerek hizmet sunumu gerçekleştirmeye başlayan birimlerin yazılı talepte bulunulması 
+halinde;
+iç kontrol sisteminin tesisine ilişkin danışmanlık hizmeti ihtiyacı, Başkanlığın koordinasyonunda 
+karşılanır.
+İç Kontrol Sistemi Dokümanlarının Kullanılması ve Yönetimi
+MADDE 48- (1) Birim dokümanlarının, kendi alt birimlerine ait olan dokümanlarını birim personeline
+dağıtılması birim amirleri aracılığıyla sağlanır.
+Yeni dokümanların üretilmesi, dokümanların revizyonu ve iptali ile doküman talebi, dağıtımı, kontrolü 
+gibi
+dokümanların yönetimine ilişkin hususlarda Başkanlık ile birimler koordineli olarak çalışır.
+BEŞİNCİ BÖLÜM
+Çeşitli Hükümler
+Koordinasyon, Danışmanlık ve Sekretarya
+MADDE 49- (1) Başkanlık Yönerge (esas ve usuller) ilişkin koordinasyonu sağlamak ve koordinasyona
+ilişkin sekretarya işlerini yürütmekle görevlidir. İç kontrol sisteminin tesisine ilişkin danışmanlık hizmeti 
+ihtiyacı,
+İç denetim birimi ile Strateji geliştirme daire başkanlığı koordinasyonunda karşılanır.
+Tereddütlerin Giderilmesi
+MADDE 50- (1) Bu Yönergenin (esas ve usullerin) uygulanmasında ortaya çıkabilecek tereddütleri
+gidermeye Üniversite yetkilidir.
+Uyum süreci
+MADDE 51- (1) Birim Kamu İç Kontrol Standartlarına uyum eylem planları, bu 2026 yılı başından 
+itibaren
+kademeli olarak her yıl idarece belirlenecek en az 10 harcama biriminde olmak üzere en geç 1/1/2028 
+tarihine kadar
+idarenin tüm birimlerinde hazırlanır ve yürürlüğe konulur. Birim Kamu İç Kontrol Standartlarına uyum 
+eylem planı
+hazırlanıncaya kadar birimler eylemlerini, idare Kamu İç Kontrol Standartlarına uyum eylem planına dâhil 
+edilmek
+üzere mali hizmetler birimine göndermeye devam eder.
+(2) Birinci fıkra uyarınca tüm harcama birimlerinin kademeli olarak geçişine ilişkin takvim, mali hizmetler
+birimince hazırlanır ve üst yönetici onayı ile yürürlüğe girer.
+(3) Risk kontrol eylem planlarının hazırlanması çalışmalarına en geç 1/1/2026 tarihi itibarıyla başlanır.
+Yürürlük
+MADDE 52- (1) Bu Yönergenin (esas ve usullerin) onaylandığı tarihte yürürlüğe girer.
+
+Yürütme
+MADDE 53- (1) Bu Yönergenin (esas ve usullerin) Fırat Üniversitesi Rektörü yürütür.
+Yönergenin Kabul Edildiği Senato Kararının Tarih ve Sayısı
+10/10

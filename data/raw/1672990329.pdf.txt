@@ -1,0 +1,208 @@
+RİVER
+© Ka s
+< a
+1:
+doza *”
+FIRAT ÜNİVERSİTESİ
+EK DERS YÖNETİM SİSTEMİ (EDYS) YÖNERGESİ
+BİRİNCİ BÖLÜM
+Başlangıç Hükümleri
+Amaç ve kapsam
+MADDE 1- (1) Bu Yönergenin amacı, ek ders ücret beyanlarının elektronik ortamda alınması,
+ücretin hesaplanması, onaylanması, saklanması ve raporlanması süreçleri ile bu süreçlerde
+kullanılacak web tabanlı yazılımın özelliklerine, kullanımına ve güvenlik politikalarına ilişkin usul
+ve esasları belirlemektir.
+(2) Bu Yönerge, Fırat Üniversitesi Ek Ders Yönetim Sistemi yazılımına ve kullanılmasına
+dair esasları kapsar.
+Dayanak
+MADDE 2- (1) Bu Yönerge, 2547 sayılı Yükseköğretim Kanunu'nun 14 üncü maddesinin b
+fıkrasına, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu'nun 8 inci maddesi ile Ek Madde 4
+e, Maliye Bakanlığı tarafından 26/06/2018 tarihli ve 30460 sayılı Resmi Gazete'de yayımlanan
+Bütünleşik Kamu Mali Yönetim Bilişim Sistemi Uygulama Usul ve Esasları Hakkında Yönetmeliğe
+dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3- (1) Bu Yönergede geçen;
+a) Birim: Fırat Üniversitesi'ne bağlı fakülte, enstitü, yüksekokul, konservatuvar ve meslek
+yüksekokulu ile Rektörlüğe bağlı bölümleri,
+b) Birim Ön İncelenme Görevlisi: Ek ders formlarını incelemek üzere, Birimlerde
+Dekan/Müdür tarafından, Bölümlerde ise Bölüm/Program başkanı tarafından görevlendirilen
+
+akademik veya idari personeli,
+© Dekan: İlgili Fakültenin Dekanını,
+© EDYS: Fırat Üniversitesi Ek Ders Yönetim Sistemi'ni,
+d) Müdür: İlgili enstitü, yüksekokul, konservatuvar veya meslek yüksekokulu müdürünü,
+€) Öğretim elemanı: Profesör, Doçent, Doktor Öğretim Üyesi, Öğretim Görevlisi, Araştırma
+Görevlisi kadrolarında bulunanlar ile sözleşmeli veya ücret karşılığı ders görevi verilen eğitim-
+öğretim görevlilerini,
+1) Rektör: Fırat Üniversitesi Rektörünü,
+© Senato: Fırat Üniversitesi Senatosunu,
+©) Üniversite: Fırat Üniversitesini,
+h) Yapısal dosya formatı: Verilerin dosya içerisinde belli bir düzende dizilmiş olması
+nedeniyle yazılımlar aracılığıyla kolayca işlenebilen elektronik dosya formatlarını,
+1) Yapısal olmayan dosya formatı: Dosya içerisindeki verilerin belli sabit bir düzende
+olmaması nedeniyle bilgisayar dilleri ile işlenmesi zor olan formatları (kâğıt belgelerin taranması ile
+elde edilenler dâhil)
+ifade eder.
+İKİNCİ BÖLÜM
+Ek Ders Yönetim Sistemi
+Tanım ve Sorumluluklar
+MADDE 4- (1) 5018 Sayılı Kamu Mali Yönetimi ve Kontrol Kanunu'nun 8 inci ve 55 inci
+maddeleri ile Ek Madde 4 ü, ayrıca Hazine ve Maliye Bakanlığının 15/02/2022 tarih ve E-92447149-
+719-956042 sayılı yazısı kapsamında Üniversite, öğretim elemanlarının ek ders ücreti beyanlarını (e-
+beyan) güvenli elektronik ortamda veri girişi yaparak hazırlamalarını isteyebilir.
+Sayfa 1/4
+ÜNİVERSİTESİ Ek Ders Yönetim Sistemi Yönergesi
+
+(2) Öğretim elemanlarının ek ders ücreti e-beyanı yapabilecekleri elektronik ortam Ek Ders
+Yönetim Sistemi (EDYS) olarak tanımlanır. Bu sistemle ilgili yazılım Üniversiteye ait bilgisayar ağı
+ve sunucuları üzerinde web tabanlı hizmet verir ve bu Yönergedeki usul ve esaslara göre kullanılır.
+(3) EDYS Yazılımının Üniversite imkânlarıyla üretilmesi ve geliştirilmesi esastır. Yazılımın
+geliştirilmesi ve hatalardan arındırılması sürecinde sistem üzerinde tanımlı roller için atanan tüm
+personel, kullanıcı tarafında karşılaşılan problemler ile ilgili olarak yazılım geliştirme ekibine destek
+olmakla sorumludur.
+(4) Yazılım geliştirmenin mümkün olmaması halinde Bilgi İşlem Daire Başkanlığı tarafından
+satın alma yoluna gidilir.
+(5) EDYS Kullanımı ile ilgili eğitimleri vermek ve sistemin düzenli çalışmasını sağlamak
+Üniversite Bilgi İşlem Daire Başkanlığının sorumluluğundadır.
+Roller ve Yetkiler
+MADDE 6- (1) EDYS üzerinde tanımlı roller; Yönetici, Harcama Yetkilisi, Gerçekleştirme
+Görevlisi, Ön İnceleme Görevlisi, Yazılım Geliştirici ve Standart Kullanıcıdan ibarettir.
+(2) Yönetici, Harcama Yetkilisi, Gerçekleştirme Görevlisi rollerine kontrol ve onay yetkileri,
+Ön İnceleme Görevlisi rolüne ise sadece kontrol yetkisi verilir.
+(3) Ek ders beyanında bulunacak öğretim elemanlarına Standart Kullanıcı rolü verilir.
+(4) Yazılım Geliştirici rolü Bilgi İşlem Daire Başkanlığı tarafından resmi yazı görevlendirilen
+personele verilir. Bu personel, veri tabanı dahil sistem denetimi, değişikliği, modül ekleme ve
+çıkarma, kullanıcı adı denetimi, hesap açma ve kapatma, sistemin işletilmesi, hata tespiti ve acil
+müdahale yetkilerine sahiptir. Yazılım Geliştirici rolüne atanan personel, test amaçlı açılan
+hesaplarda her türlü veri girişi, denetimi, onay işlemi ve doküman üretimi gerçekleştirebilir.
+(5) Tüm rollerin, parola hariç sisteme erişim bilgileri de dâhil olmak üzere sistem üzerinde
+gerçekleştirdiği her türlü işlem güvenli bir veri tabanında en az beş yıl süre ile kayıt altına alınır.
+Eğitim Materyali
+MADDE 7- (1) EDYS sisteminin kullanımı ile ilgili eğitim materyali ve bilgi notları Bilgi
+İşlem Daire Başkanlığının görevlendireceği personel tarafından hazırlanır ve ilgililere gerekli
+bilgilendirme yapılır. Bu kapsamda her yarıyıl başında iş akışı/işlem basamakları ve eğitim
+
+materyallerine erişim hakkında gerekli bilgilendirme ilgili daire başkanlığının web sayfasından ve
+Üniversitenin Kurumsal İletişim Birimi tarafından yapılır.
+Erişim ve Parolalar
+MADDE 8- (1) EDYS'ye Üniversite'nin merkezi kimlik doğrulama servisi/modülü üzerinden
+kullanıcı adı ve parolası tanımlı olan kişiler tarafından erişim sağlanır.
+(2) Sisteme giriş için gerekli kullanıcı adı ve parolası sadece sahibi tarafından kullanılır, başka
+kişilere devredilemez ve paylaşılamaz.
+(3) Parolaların sahibi tarafından paylaşılmasından doğacak sorumluluk parola sahibine aittir.
+Problem Çözümü
+MADDE 9- (1) Kullanıcı rol tanımı, parola unutulması, sisteme erişim hatası, hatalı veri
+çekilmesi ve benzeri olumsuzlukların çözümünde sisteme müdahale yetkisi sadece Bilgi İşlem Daire
+Başkanlığındadır. Başkanlık gerektiğinde ve gerekçelendirmek suretiyle acil durumlarda önceden
+haber vermeksizin kullanıcı hesaplarına erişimi askıya alabilir.
+Kurum İçi Entegrasyon
+MADDE 10- (1) EDYS veri kaynağını Personel Bilgi Sistemi, Öğrenci Bilgi Sistemi,
+Elektronik Belge Yönetim Sistemi vb. kurum içi sistemler ile kullanıcı girişleri oluşturur.
+(2) Kurum içi diğer bilgi sistemlerine EDYS tarafından sadece bilgi çekmek/okumak için
+erişim sağlanır, adı geçen sistemlerde hiçbir veriyi değiştirme ve başka bir sisteme aktarma yetkisi
+bulunmaz.
+(3) EDYS tarafından okunan bilgiler 6698 sayılı Kişisel Verilerin Korunması Kanunu
+hükümleri kapsamında korunur, işlenir ve saklanır.
+Sayfa 2/4
+ÜNİVERSİTESİ Ek Ders Yönetim Sistemi Yönergesi
+Hesaplamalar
+MADDE 11- (1) EDYS tarafından yapılacak ek ders ve ücret hesaplamaları “Fırat
+Üniversitesi Derse Görevlendirme ve Ek Ders Ücreti Ödeme Yönergesi” esasları dikkate alınarak
+
+yapılır. Adı geçen yönergede yapılacak değişiklikler Bilgi İşlem Daire Başkanlığına en geç beş iş
+günü içinde iletilir.
+(2) Ek ders ve ücret hesabında, kurum içi entegrasyonu sağlanan diğer bilgi sistemlerinin ortak
+veri tabanında bulunan veriler ile kullanıcılar tarafından yapılan giriş verileri kullanılır. Giriş
+verilerinin güncellenmesi halinde hesaplamalarda güncel veriler kullanılır.
+Raporlama
+MADDE 12- (1) EDYS üzerindeki tüm veriler ilgili makamlar tarafından talep edildikleri
+takdirde istenilen formatta kâğıt ortamı da dâhil olmak üzere raporlanır. Elektronik ortamında dosya
+oluşturma veya kâğıda basılı rapor üretme yetkisi Bilgi İşlem Daire Başkanındadır.
+(2) EDYS kullanıcılarına, sadece kendi rolleri ile ilişkili elektronik belge üretme yetkisi
+verilir. Bu şekilde üretilen belgelerin izinsiz olarak yayımından doğacak her türlü yasal sorumluluk
+belgeyi üreten kullanıcıya aittir.
+Geliştirme ve MYS/KBS Entegrasyonu
+MADDE 13- (1) Hazine ve Maliye Bakanlığı tarafından 26/06/2018 tarihli ve 30460 sayılı
+Resmi Gazetede yayımlanan Bütünleşik Kamu Mali Yönetim Bilişim Sistemi (BKMYBS) Uygulama
+Usul ve Esasları Hakkında Yönetmelik dikkate alınarak EDYS'nin BKMYBS ile uyum sağlayacak
+şekilde geliştirilmesi esastır. Bu kapsamda ek ders ödeme süreçlerinde kağıt ve ıslak imza
+kullanılmadan Hazine ve Maliye Bakanlığı tarafından yayınlanan Standart Belge ve Raporlama
+(SBR-TR) paketindeki tanımlara uygun elektronik yapısal dosya formatları kullanılarak Bakanlığın
+Mali Yönetim Sistemine (MYS) tam entegre bir EDYS geliştirilmesi esas alınır.
+Verilerin Saklanması
+MADDE 14- (1) BKMYBS Yönetmeliği Md.22/(9) uyarınca; SBR kapsamında elektronik
+ortamda oluşturulan ve muhatabına elektronik ortamda iletilen belgelerin, yine elektronik ortamda
+muhafaza edilmesi zorunlu olup kâğıt ortamında yapılacak muhafaza işlemi hüküm ifade etmez.
+Ancak, EDYS'deki e-imza da dâhil tüm işlem ve belgelendirme süreçlerinin SBR-TR formatına
+aktarılması çalışmaları tamamlanıncaya kadar, kanıt niteliğindeki (derse görevlendirmeler, haftalık
+ders programları, sınav tutanakları, sınav öğrenci çizelgeleri, onay belgeleri vb.) basılı belgelerin ve
+ıslak imzalı belgelerin muhafazası, işlemi gerçekleştiren harcama birimlerinin sorumluluğundadır.
+(2) e-Belgeler ve basılı belgeler ilgili yönetmelik hükümlerine göre uygun sürelerle muhafaza
+edilir ve ibraz yükümlülükleri çerçevesinde ilgili makamlara sunulur.
+Mücbir Sebepler
+
+MADDE 15- (1) Deprem, yangın, sel gibi doğal afetler ile salgın hastalık veya Üniversite'nin
+bilgisayar ağı ve sunucu sistemlerinin herhangi bir nedenle çalışmaması gibi mücbir sebep hallerinde;
+veri, bilgi ve belgelerin oluşturulması, kaydedilmesi, iletilmesi, muhafazası ve ibrazına ilişkin
+yöntemler Hazine ve Maliye Bakanlığınca belirlenir. Mücbir sebep hallerinde, Üniversite bilgisayar
+ağı sistemleri ve sunucuları üzerinden yürütülen işlemlerde yaşanabilecek gecikme nedeniyle
+ilgililere, gecikme faizi, gecikme zammı ve ceza gibi yaptırımlar uygulanmaz.
+ÜÇÜNCÜ BÖLÜM
+Ek Ders Yönetim Sisteminin Kullanımı
+Ek Ders Yönetim Sistemi'nin kullanımı, veri girişi ve elektronik onaylar
+MADDE 16- (1) Öğretim elemanları, her öğretim yarıyılı/yılı başında EDYS'ye giriş yaparak
+elektronik ders yükü çizelgelerini ve haftalık ders programlarını doğru şekilde oluşturup “onay”
+butonlarıyla kesinleştirmekle yükümlüdür.
+(2) Bölümün/Programın haftalık ders programlarının zamanında ve doğru şekilde EDYS'ye
+giriş yapılması sorumluluğu Bölüm/Program Başkanlarında, onay sorumluluğu ise ilgili Birim Ön
+İncelenme Görevlisi ile Dekan/Müdürdedir.
+(3) EDYS üzerinde kontrol ve elektronik onay işlemleri, “onay” butonları ile gerçekleştirilir.
+Sayfa 3/4
+ÜNİVERSİTESİ Ek Ders Yönetim Sistemi Yönergesi
+(4) Ders yükü çizelgeleri ve haftalık ders programları onaylanan öğretim elemanlarının ek
+ders ücret formları, EDYS ortamında her ödeme dönemi için ilgili birim gerçekleştirme görevlisi
+tarafından oluşturulur. Oluşturulan ek ders ücret formaları sırasıyla Bölüm/Program Başkanı ile
+Dekan/Müdür onayına sunulur.
+DÖRDÜNCÜ BÖLÜM
+Ödeme Usulü ve Tahakkuk
+Ödeme usulü ve tahakkuk
+MADDE 17- (1) Öğretim elemanlarının EDYS üzerinden yaptıkları ek ders ücreti e-beyanları
+elektronik ortamda alınır, değerlendirilir, onaylanır, muhasebeleştirilmek üzere Kamu Hesapları Bilgi
+Sistemine (KBS) aktarılır ve kayıt altına alınır.
+(2) Öğretim elemanları, görevlendirildikleri derslerin ilgili birim tarafından Öğrenci Bilgi
+
+Sistemine girişleri yapıldıktan sonra, ilgili yarıyıl/yıl ve döneme ait ders yükü çizelgelerini ve haftalık
+ders programlarını EDYS'ye giriş yaparak kesinleştirirler. Kesinleştirilen veriler ilgili makama ibraz
+niteliğindedir. Ders yükü veya haftalık ders programında değişiklik olması halinde aynı süreç
+tekrarlanır.
+(3) Bölüm/Program Başkanlığı, öğretim elemanlarına ait ders yükü çizelgelerini
+görevlendirildikleri dersleri ve haftalık ders programlarını dikkate alarak inceler ve onaylayıp
+kesinleştirir ya da reddeder.
+(4) Bölüm/Program Başkanlığı tarafından onaylanan ders yükü çizelgeleri, harcama birimi
+(Dekanlık/Müdürlük) tarafından kontrol edilerek onaylanır ya da reddedilir.
+(5) Ders yükü çizelgesi onaylanmış öğretim elemanları için her ödeme dönemine ait ek ders
+ücret bildirim formu harcama birimi tarafından EDYS üzerinden oluşturulur. Oluşturulan ek ders
+ücret formlarını Bölüm/Program Başkanı inceler, gerekiyorsa ek ders usul ve esasları çerçevesinde
+değişiklik yaparak onaylar. Onaylanan formlar ilgili Dekanlık/Müdürlük onayına sunulur.
+(6) Tüm onayları tamamlanan ek ders ücret formlarına ait KBS listeleri oluşturularak
+gerçekleştirme görevlisi ya da görevlendirdiği kişilerce KBS sistemine girilir.
+(7) KBS'de sırasıyla; tahakkuk edecek ek ders ücret hesaplamaları yapılarak ödeme yapılacak
+kişilere ait bordro icmal ve ek ders ücret çizelgeleri ile banka ödeme listesi oluşturulur. Oluşturulan
+belgeler ödeme emrine bağlanarak sistem üzerinden gerçekleştirme görevlisi ve harcama yetkilisinin
+onayına sunulur.
+(8) Gerçekleştirme Görevlisi ve Harcama Yetkilisi tarafından elektronik ortamda onaylanan
+Ödeme Emri ve ek belgeler ödeme yapılmak üzere Strateji Geliştirme Dairesi Başkanlığına iletilir.
+(9) Elektronik ortamda oluşturulan ortak bir veri tabanından yararlanmak suretiyle yapılacak
+harcamalarda, veri giriş işlemleri gerçekleştirme görevi sayılır. Bu fıkranın uygulanmasına ilişkin
+esas ve usuller Hazine ve Maliye Bakanlığınca belirlenir.
+BEŞİNCİ BÖLÜM
+Son Hükümler
+Hüküm Bulunmayan Haller
+MADDE 18- (1) Bu Yönergede hüküm bulunmayan hallerde ilgili kanun ve yönetmelik
+hükümleri ile Senato kararlarına göre işlem yapılır.
+Yürürlük
+
+MADDE 19- (1) Bu Yönerge, Senato tarafından kabul edildiği tarihte yürürlüğe girer.
+Yürütme
+MADDE 20- (1) Bu Yönerge hükümlerini Fırat Üniversitesi Rektörü yürütür.
+Sayfa 4/4

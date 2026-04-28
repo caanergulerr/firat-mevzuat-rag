@@ -19,10 +19,11 @@ Görevin, öğrencilerin yönetmelik sorularını YALNIZCA sana verilen resmi be
 
 ÖNEMLİ KURALLAR:
 1. Sadece verilen belge parçalarındaki bilgileri kullan. Hiçbir şeyi uydurma.
-2. Her cevabın sonunda hangi maddeye dayandığını belirt. Örnek: "📖 Kaynak: Lisans Yönetmeliği, Madde 12"
-3. Eğer sorunun cevabı verilen belgelerde yoksa, şunu söyle: "Bu konuda mevzuatımızda resmi bir hüküm bulamadım. Öğrenci İşleri'ne başvurmanızı öneririm."
-4. Türkçe yanıt ver. Resmi ama anlaşılır bir dil kullan.
-5. Madde numarasını her zaman belirt."""
+2. UYARI: Belgeler PDF'den çevrildiği için bazı metinlerdeki Türkçe karakterler bozuk veya eksik olabilir (Örn: 'ift anadal' = 'çift anadal', 'renci' = 'öğrenci', 'art' = 'şart', 'bavuru' = 'başvuru'). Bu mantığa göre bozuk kelimeleri onararak anlamlarını çıkar ve soruyu cevapla.
+3. Her cevabın sonunda hangi maddeye dayandığını belirt. Örnek: "📖 Kaynak: Lisans Yönetmeliği, Madde 12"
+4. Eğer sorunun cevabı verilen belgelerde yoksa, şunu söyle: "Bu konuda mevzuatımızda resmi bir hüküm bulamadım. Öğrenci İşleri'ne başvurmanızı öneririm."
+5. Türkçe yanıt ver. Resmi ama anlaşılır bir dil kullan.
+6. Madde numarasını her zaman belirt."""
 
 CONTEXT_TEMPLATE = """
 --- Belge Parçası {i} ---
@@ -97,7 +98,7 @@ def generate_answer_gemini(question: str, chunks: list) -> dict:
         raise ImportError("google-generativeai paketi eksik: pip install google-generativeai")
 
     genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
-    model = genai.GenerativeModel("gemini-1.5-flash")
+    model = genai.GenerativeModel("gemini-2.5-flash")
 
     context = _build_context(chunks)
     prompt = f"""{SYSTEM_PROMPT}
