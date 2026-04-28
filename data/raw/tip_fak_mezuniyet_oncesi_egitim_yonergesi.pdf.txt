@@ -1,0 +1,648 @@
+FIRAT ÜNİVERSİTESİ TIP FAKÜLTESİ
+MEZUNİYET ÖNCESİ EĞİTİM KOORDİNASYONU
+YÖNERGESİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç ve Kapsam
+Madde 1 - Bu yönergenin amacı, Fırat Üniversitesi Tıp Fakültesindeki mezuniyet öncesi eğitim
+programlarının hazırlanması, uygulanması, değerlendirilmesi ve geliştirilmesi amacıyla, Tıp
+Fakültesi bünyesinde kurulacak olan komisyonlar ve koordinatörlüklerin yapılanması, görev,
+yetki ve sorumlulukları ile çalışma usul ve esaslarını düzenlemektir.
+Dayanak
+Madde 2 - (1) Bu yönerge 2547 Sayılı Yükseköğretim Kanunu'nun 14/b, 16 ve 17.
+maddelerine dayanarak hazırlanmıştır.
+Tanımlar
+Madde 3— Bu Yönerge'de geçen:
+a) Üniversite: Fırat Üniversitesini,
+b) Rektör: Fırat Üniversitesi Rektörünü,
+c) Senato: Fırat Üniversitesi Senatosunu,
+d) Tıp Fakültesi: Fırat Üniversitesi Tıp Fakültesini,
+e) Dekan: Fırat Üniversitesi Tıp Fakültesi Dekanını,
+f) Fakülte Kurulu: Fırat Üniversitesi Tıp Fakültesi Fakülte Kurulunu,
+g) Fakülte Yönetim Kurulu: Fırat Üniversitesi Tıp Fakültesi Yönetim Kurulunu,
+h) Tıp Eğitimi Koordinatörler Kurulu (TEKK): Tıp Fakültesinde eğitim ve öğretimin düzenli
+bir şekilde yürütülmesi, planlanması ve koordinasyonu için oluşturulmuş olan kurulu,
+1) Baş koordinatör: Fırat Üniversitesi Tıp Fakültesinde eğitim ve öğretim programlarının
+planlanması, yürütülmesi ve koordinasyonundan sorumlu olan öğretim üyesini,
+i) Baş koordinatör yardımcısı: Baş koordinatör olarak belirlenen öğretim üyesinin
+yardımcısını,
+j) Dönem: Fakültenin her bir eğitim-öğretim yılını,
+k) Ders kurulu: Dönem 1, II ve I'de entegre konu başlıklarına göre oluşturulmuş birden çok
+bilim dalını ilgilendiren ders gruplarını,
+1) Dönem Koordinatörü: Sorumlu olduğu dönemde eğitim ve öğretiminin düzenli bir şekilde
+yürütülmesi ve koordinasyonunu sağlayan öğretim üyesini,
+1
+m) Dönem Koordinatörü Yardımcısı: Dönem Koordinatörü olarak belirlenen öğretim üyesinin
+yardımcısını,
+n) Ders Kurulu Başkanı ve Yardımcısı: Her Ders Kurulu için o kurulda görevli olan Tıp
+Fakültesi öğretim üyeleri arasından atanan öğretim üyelerini,
+0) Staj Yöneticisi: Eğitim verilen stajın bulunduğu Anabilim Dalı Başkanı veya onun
+
+görevlendirdiği Anabilim Dalında görevli bir öğretim üyesini,
+p) Pratik (Uygulama): Ders Kuruluları kapsamında yer alan teorik konuları ile bağlantılı, bu
+konuların anlaşılmasını kolaylaştıran ve/veya tıpta uygulama ve entelektüel beceri
+kazandırmaya yönelik eğitimi,
+r) Panel, konferans ve sempozyum Sorumlusu: Dekan tarafından görevlendirilen, öğrencilere
+yönelik yapılacak olan panel, konferans ve sempozyumun koordinasyonundan sorumlu
+öğretim elemanını,
+s) Mesleki Beceri Laboratuvarı Sorumlusu (MBLS): Dekan tarafından görevlendirilen,
+Mesleki Beceri Laboratuvarının ilgili Dönem Koordinatörleriyle koordinasyonunu sağlayan,
+Tıp Eğitimi Anabilim Dalında görevli öğretim üyesini,
+t) Multidisiplin Laboratuvarı Koordinatörü: Dekan tarafından görevlendirilen, Anabilim
+Dallarınca yürütülecek laboratuvar çalışmaları için gerekli düzenlemeleri yaparak
+uygulanmasına yardımcı olan öğretim üyesini,
+u) Fakülte Öğrenci Temsilcisi: Fırat Üniversitesi Öğrenci Konseyi Yönergesine uygun olarak
+seçilen öğrenciyi,
+v) Mezun Takip Birimi: Tıp Fakültesi Sekreteri başkanlığında, öğrenci işlerinden bir memur ve
+fakülte yönetim kurulu tarafından görevlendirilmiş bir mezundan oluşan, Fırat Üniversitesi Tıp
+Fakültesi mezunları ile sürekli bir iletişim kurmak ve mezun öğrencilerin mesleki ve sosyal
+başarılarına yönelik araştırma yapmakla sorumlu birimi,
+y) ERASMUS Koordinatörü: Dekan tarafından görevlendirilen, Avrupa Birliği Eğitim ve
+Gençlik programlarında yer alan Erasmus Programı çerçevesinde Fırat Üniversitesi Erasmus
+Program Direktörü ile işbirliği içerisinde koordinasyonu sağlayan öğretim üyesini,
+z) FARABİ Koordinatörü: Dekan tarafından görevlendirilen, “Farabi Değişim Programı”
+çerçevesinde Fırat Üniversitesi Farabi Koordinatörlüğü ile işbirliği içerisinde koordinasyonu
+sağlayan öğretim üyesini,
+aa) MEVLANA Koordinatörü: Dekan tarafından görevlendirilen, MEVLANA öğrenci ve
+Öğretim üyesi Değişim Programı Fırat Üniversitesi Mevlana Koordinatörlüğü ile bağlantılı
+olarak koordinasyonu sağlayan öğretim üyesini,
+2
+bb) Sürekli Tıp Eğitimi Koordinatörü: Dekan tarafından görevlendirilen, Fırat Üniversitesi
+Tıp Fakültesi'nde düzenlenecek mezun öğrencilere yönelik eğitimlerinin planlanması,
+yürütülmesi ve koordinasyonundan sorumlu öğretim üyesini,
+cc) Mezuniyet Öncesi Eğitim Ölçme Değerlendirme ve Eğiticilerin Eğitimi Komisyonu:
+Mezuniyet öncesi eğitimde objektif ölçme ve değerlendirme yöntemlerini belirleyen,
+
+geliştiren, aynı zamanda öğretim üyelerine verilecek eğitici eğitimi kurslarını düzenleyen
+komisyonu,
+dd) Probleme Dayalı Öğrenim Komisyonu (PDÖK): Mezuniyet öncesi eğitim programlarının
+amaç ve öğrenim hedefleri doğrultusunda PDÖ uygulamalarının içeriğini belirlemek,
+programı oluşturmak ve geliştirmek amacıyla oluşturulan kurulu,
+ee) Mesleki Beceri Eğitim Komisyonu: Mezuniyet öncesi mesleki beceri eğitim
+programlarının içeriğini belirlemek, programı oluşturmak ve geliştirmek amacıyla kurulan
+komisyonu,
+ff) Bilimsel Araştırma Eğitimi Komisyonu: Tıp Fakültesi öğrencilerinin araştırma tip ve
+stratejilerini, tıbbi makale çeşitlerini, bunların yazım ve yayım usullerini tanımalarını
+sağlamak, makale okuma ve anlama gücünü geliştirmek, bilimsel düşünme ile analiz, sentez,
+gibi daha üst becerileri geliştirebilmelerine yardımcı olmak amacıyla tıp fakültesi mezuniyet
+öncesi eğitim programını düzenleyen ve geliştiren komisyonu,
+gg) İletişim Becerileri Komisyonu: Mezuniyet öncesi, mezuniyet sonrası ve sürekli tıp eğitimi
+programları çerçevesinde, tüm tıp fakültesi öğrencilerine, doktorlarına ve sağlık personeline
+iletişim becerileri konusunda eğitim ve danışmanlık hizmeti vermek amacıyla kurulan
+komisyonu,
+hh) Tıp Eğitimi Öz değerlendirme Kurulu (TEÖK): Tıp Eğitimini sürekli ve sistemik olarak
+değerlendirip geliştirmek ve akreditasyonuna katkı sağlamak amacıyla oluşturulan kurulu,
+11) Ulusal Standartlar Çalışma Grupları: Tıp Eğitimi Standartları kümelerinden her üçü için
+
+kurula çalışma gruplarını tanımlar.
+| İKİNCİ BÖLÜM
+Mezuniyet Öncesi Eğitim Komisyon/ Kurullarının Görev ve Sorumlulukları
+Madde 4- (1) Fırat Üniversitesi Tıp Fakültesi Koordinatörler Kurulu:
+Dekan başkanlığında, Mezuniyet öncesi Eğitimden Sorumlu Dekan Yardımcısı, Baş
+koordinatör, Baş koordinatör yardımcıları, Ölçme, Değerlendirme ve Eğiticilerin Eğitimi
+Komisyonu Başkanı, Mesleki Beceri Eğitim (MBE) Komisyonu Başkanı, Bilimsel Araştırma
+Eğitimi Komisyonu Başkanı, İletişim Becerileri Komisyonu Başkanı, Tıp Eğitimi
+Özdeğerlendirme Kurulu Başkanı, Multidisiplin Laboratuvarı Koordinatörü, Probleme Dayalı
+3
+Öğrenim (PDÖ) Komisyonu Başkanı, Tıp Eğitimi Anabilim Dalı Başkanı, Dönem
+Koordinatörleri, Dönem Koordinatör Yardımcıları, Sürekli Tıp Eğitimi Koordinatörü ve
+Fakülte Öğrenci Temsilcisinden oluşur. Fakülte Yönetim Kurulu gerektiğinde Koordinatörler
+Kurulu üyelerini değiştirebilir.
+2) Baş koordinatör: Bu yönergenin 5. maddesinde yer alan görev ve faaliyetlerin
+düzenli bir şekilde yürütülmesini ve kurul çalışmalarında gerekli koordinasyonu sağlar. Dekan
+tarafından önerilerek Fakülte Yönetim Kurulu tarafından 1 (bir) dönem için atanır. Baş
+koordinatör görevinde bulunmadığı durumlarda yardımcılarından biri Baş koordinatörlüğe
+vekâlet eder. Görev süresi dolan Baş koordinatör tekrar aynı göreve atanabilir.
+3) Baş koordinatör Yardımcısı: Koordinatörler Kurulunun çalışmalarında Baş
+koordinatöre yardım etmek amacıyla Dekan tarafından önerilerek Fakülte Yönetim Kurulu
+tarafından | (bir) dönem için 2 (iki) Başkoordinatör yardımcısı atanır. Görev süresi dolan Baş
+koordinatör yardımcıları tekrar aynı göreve atanabilir.
+4) Dönem Koordinatörü: Her sınıf için o sınıfta dersi bulunan öğretim üyeleri
+arasından seçilen ve atandığı dönemin eğitim ve öğretiminin işleyişinden sorumlu öğretim
+üyesidir. Dekan tarafından önerilerek Fakülte Yönetim Kurulu tarafından 1 (bir) dönem için
+atanır. Görev süresi dolan veya görev süresi dolmadan görevinden ayrılan Dönem
+Koordinatörü yerine yeni atama yapılıncaya kadar Baş koordinatörün belirlediği Dönem
+Koordinatör yardımcısı göreve vekâlet eder. Görev süresi dolan Dönem Koordinatörü aynı
+
+göreve tekrar atanabilir.
+5) Dönem Koordinatör Yardımcısı: Her sınıf için o sınıfta dersi bulunan öğretim
+üyeleri arasından seçilir ve atandığı dönemin eğitim ve öğretiminde Dönem Koordinatörüne
+yardım eder. Dekan tarafından önerilerek Fakülte Yönetim Kurulu tarafından 1 (bir) dönem
+için 2 (iki) Dönem Koordinatörü Yardımcısı atanır. Dönem Koordinatörünün görevinde
+bulunmadığı durumlarda Dönem Koordinatörüne vekâlet eder. Görev süresi dolan Dönem
+Koordinatör yardımcıları aynı göreve tekrar atanabilirler.
+6) Ders Kurulu Başkanları ve Yardımcıları: Mezuniyet öncesi eğitimden Sorumlu
+Dekan Yardımcısı tarafından her kurul için, o kurulda dersi olan öğretim üyeleri arasından
+belirlenir. Görevli olduğu ders kurulu döneminde eğitim programının düzenli bir şekilde
+yürütülmesinden sorumludur.
+Madde 5- KOORDİNATÖRLER KURULU'NUN GÖREVLERİ
+Her eğitim öğretim yılında Dekanlık ve Fakülte Kurulu tarafından alınan kararlar
+doğrultusunda eğitim ve öğretimin planlanması, koordinasyonu, denetlenmesi ve
+değerlendirilmesi amacı ile aşağıdaki görevleri yapar;
+4
+1) Fakültenin eğitim çıktıları doğrultusunda eğitim ve öğretimin düzenli ve birbirleriyle
+uyumlu bir şekilde planlanmasını sağlamak,
+2) Eğitim ve öğretimin akademik takvime uygun olarak düzenli bir şekilde yürütülmesini
+sağlamak,
+3) Eğitim ve öğretimin yıllık değerlendirmelerini yapmak ve raporlamak,
+4) Her yıl en geç mart ayı sonuna kadar bir sonraki akademik yılın eğitim öğretim rehberini
+Anabilim ve Bilim dallarının görüşlerini alarak hazırlamak ve Dekanlığa sunmak,
+5) Zorunlu durumlarda eğitim ve öğretimdeki aksamaları önlemek üzere programdaki
+değişiklik önerisini Fakülte Kurulu'nda görüşülmek üzere Dekanlığa sunmak,
+6) Eğitimin kalitesini yükseltmek için, Anabilim ve Bilim dallarından gelecek öneriler
+
+çerçevesinde, o yıla ait öncelikli ihtiyaç listesini belirlemek, gereken ders eğitim araçları,
+eğitim altyapısı, yönetmelik ve yönergelerde yapılması gereken değişiklikler hakkında görüş
+oluşturarak bu görüşleri Dekanlığa sunmak,
+7) Tıp Fakültesi öğrencileri için akademik ve sosyal hizmetler ile kariyer danışmanlığı
+hizmetlerini organize etmek, izlemek ve bu konularda Dekanlık makamına görüş bildirmek,
+8) Eğitim Öğretim Rehberi'ndeki programın yürütülmesinde karşılaşılan aksaklıkları ve
+çözüm önerilerini Dekanlık makamına bildirmek,
+9) Gerektiğinde Probleme Dayalı Öğrenim (PDÖ) Komisyonu, Mesleki Beceri Eğitim
+Komisyonu ve Ölçme Değerlendirme ve Eğiticilerin Eğitimi Komisyonu ile iş birliği yapmak,
+10) Laboratuvarların hazırlanıp, laboratuvar çalışmalarının yürütülmesini düzenlemek,
+11) Akademik yıl bitimini izleyen | (bir) ay içerisinde o yıla ait öğrenci ve öğretim elemanı
+yıllık değerlendirme raporlarını, iletişim toplantıları ışığında değerlendirerek dekanlığa
+sunmak,
+12) Fakülte yetkili organları tarafından verilecek olan eğitim ve öğretimle ilgili diğer
+görevleri yerine getirmek.
+Koordinatörler Kurulunun Çalışma Biçimi: Koordinatörler Kurulu her yarıyıl en az bir kez
+olmak üzere Başkoordinatörün daveti üzerine toplanarak gündemindeki konuları görüşür ve
+alınan kararları Dekanlık makamına sunar. Kurulun ilk toplantısında raportör seçimi yapılır ve
+raportör raporlarını tutar. Kurulun toplanabilmesi için salt çoğunluğun sağlanmış olması
+yeterlidir. Kararlar, katılanların salt çoğunluğu ile alınır. Oylamada çekimser oy kullanılamaz,
+
+eşitlik sağlanması durumunda Başkanın oyu iki oy sayılır. Koordinatörler Kurulu üyelerinin
+toplantıya mazeretsiz katılmaması durumunda gerekli girişimleri yapar. Kurul, gerektiğinde
+alt kurullar oluşturabilir. Alt kurul oluşturmak ve bunların çalışmaları için tüm
+görevlendirmeler Başkoordinatör tarafından yapılır. Alt kurullar görevlendirildikleri konu
+5
+üzerindeki çalışma raporlarını Başkoordinatöre sunar. Kurul sonunda alınan kararların resmi
+yazışmaları Tıp Fakültesi Fakülte Sekreteri tarafından yürütülür.
+Madde 6- DÖNEM KOORDİNATÖRÜNÜN GÖREVLERİ
+1) Eğitim Öğretim rehberindeki programın düzenli bir şekilde yürütülmesini sağlamak,
+2) Her yıl en geç mart ayı sonuna kadar bir sonraki akademik yılın eğitim öğretim rehberinde
+yer alacak olan kendi dönemine ait ders içerikleri, ders programlarına yönelik düzenlemeleri,
+o döneme ait ders kurulunda görevli öğretim elemanları, ders kurulu başkanları ve staj
+yöneticileri ile uyum içinde çalışıp hazırlayarak koordinatörler kuruluna sunmak,
+3) Her yıl en geç mart ayı sonuna kadar bir sonraki akademik yılın eğitim öğretim rehberinde
+yer alacak olan kendi dönemine ait ders kurulları, staj ve intörnlük sürelerinin başlama ve bitiş
+tarihleri ile sınav tarihlerini belirleyerek koordinatörler kuruluna sunmak,
+4) Öğretim elemanları, staj yöneticileri, panel sorumlusu, mesleki beceri laboratuvarı
+sorumlusu, probleme dayalı öğrenim başkanının eğitim öğretim programına uyumunu ve
+katılımını sağlamak ve denetlemek,
+5) Ders veren öğretim elemanlarınca yoklamaların düzenli bir şekilde yapılmasını sağlayarak
+öğrenci devam çizelgesine işlenmesini denetlemek.
+6) Eğitim Öğretim rehberindeki programın yürütülmesi sırasında karşılaşılan aksaklıkları ve
+çözüm önerilerini Koordinatörler Kuruluna bildirmek,
+7) Eğitim ve öğretimde kullanılan teorik ve pratik çalışma ortamlarının fiziki ve donanımsal
+koşullarının uygunluğunu denetlemek,
+8) Basılı ve sanal ortamda eğitim materyali sağlanması için girişimlerde bulunmak,
+9) Ders Kurulu, dönem sonu, bütünleme ve benzeri sınavların ağırlıklı soru dağılım oranları
+ve soru sayısını belirleyerek ilgili anabilim dallarına bildirmek, buna göre sınav sorularının ve
+cevap anahtarlarının Anabilim Dallarından sınav tarihinden en az iki hafta önce
+koordinatörlüğe ulaşmasını sağlamak,
+10) Ölçme ve değerlendirmede kullanılacak olan sınav soru kitapçıkları ve cevap
+anahtarlarının derlenmesi, basımdan önce teknik incelemesinin yapılması, gerekli gördüğünde
+Anabilim Dalı temsilcilerinin katılacağı düzenleme toplantılarını gerçekleştirilmesi, sınav
+kitapçıklarının çoğaltılması ve sınav gününe kadar korunmasını sağlamak,
+11) Sınavların Fırat Üniversitesi Tıp Fakültesi Eğitim Öğretim ve Sınav Yönetmeliği'ne
+uygun olarak yapılmasını sağlamak; bunun için sınav yerlerinin hazırlanması, sınav
+
+gözetmenlerinin belirlenmesi, cevap anahtarlarının oluşturulması ve sınavın disiplin içerisinde
+yapılmasını sağlamak,
+6
+12) Sınavlar esnasında salon başkanları ve sınav gözetmenlerinin sınıflara yerleştirilmesinden
+ve sınavın asayişi ile sınav esnasında sorular veya sınav evrakları ile ilgili ortaya çıkabilecek
+sorunları çözmek,
+13) Ders Kurulu Başkanı ile birlikte sınav sonuçlarının değerlendirilmesini yapmak, sonuçları
+öğrencilere duyurmak, staj sınavı ve intörnlük değerlendirme sonuçlarının ilgili yöneticiler
+tarafından açıklanmasını ve bu sonuçların sınav tarihinden sonra en geç 3 (üç) iş günü içinde
+baş koordinatörlük ve Dekanlığa ulaşmasını sağlamak,
+14) Öğrencilerin ölçme ve değerlendirme ile ilgili yazılı itirazlarını inceleyip ilgili öğretim
+üyesi ve /veya ilgili Anabilim veya Bilim dalı akademik kurulları ile birlikte karara bağlamak,
+sonuç alınamayan durumlarda konuyu Koordinatörler Kuruluna bildirmek,
+15) Her ders kurulu içerisindeki PDÖ uygulamalarının değerlendirme sonuçlarını PDÖ
+yürütücülerinden alarak dönem koordinatörüne teslim etmek,
+16) Ders kurulu ve stajlar içerisindeki tüm etkinliklerin (panel, olgu sunumu, entegre oturum,
+konferans, beceri laboratuvarı, kurum ziyareti, sağlık eğitimi uygulaması, kurs vb.)
+organizasyonunu denetlemek,
+17) Stajların ve intörn programının düzenli şekilde işleyişini ve intörn karnelerinin
+doldurulmasını sağlamak, bu konularda meydana gelebilecek aksaklıkları gerekli hâllerde
+Koordinatörler Kuruluna iletmek,
+18) Öğretim elemanları ve öğrencilerin katıldığı iletişim toplantılarını organize etmek,
+19) Ders Kurulu ve staj değerlendirme anketleri başta olmak üzere eğitim ve öğretimle ilgili
+tüm geri bildirim anketlerinin yapılmasını sağlamak, eğitim yılı sonunda eğitim ve öğretimin
+başarısını değerlendirmek ve sonuçları Koordinatörler Kuruluna sunmak,
+20) Öğretim elemanları, staj yöneticileri, panel sorumlusu, mesleki beceri laboratuvarı
+sorumlusu, probleme dayalı öğrenim başkanı ile işbirliği yapmak,
+21) Dekanın vereceği diğer işleri yapmaktır.
+Madde 7- DERS KURULU BAŞKANININ GÖREVLERİ
+1) Her yıl en geç mart ayı sonuna kadar bir sonraki akademik yılın eğitim öğretim rehberinde
+yer alacak olan kendi dönemine ait ders içerikleri, ders programlarına yönelik düzenlemeleri
+hazırlayarak Dönem Koordinatörüne sunmak,
+2) Ders Kurulunun işleyişi konusunda ilgili Dönem Koordinatörlüğü ile iş birliği ve iletişim
+halinde çalışmak,
+3) Ders Kurulunda görevli öğretim elemanlarınca yoklamaların düzenli bir şekilde
+yapılmasını ve bunların öğrenci devam çizelgesine işlenmesini konusunda dönem
+koordinatörüne yardımcı olmak,
+
+7
+4) Ders Kurulu programının eksiksiz ve düzenli bir şekilde yürütülmesini sağlamak,
+5) Ders Kurulu Başkanı ilgili Ders Kurulunun kurul sonu teorik sınav sorularının ilgili
+Anabilim dallarından yazılı olarak talep edilerek derlenmesi, kitapçık şekline getirilerek
+çoğaltılması ve sınav gününe kadar güvenle saklanmasında Dönem Koordinatörüne yardımcı
+olmak,
+6) Sınav öncesinde kurul sınavlarının soru kitapçıklarını ve evraklarını koordinatörden
+alınarak sınavın düzenli bir şekilde yapılmasını sağlamak,
+7) Ders Kurulu Başkanı sınav esnasında salon başkanları ve sınav gözetmenlerinin sınıflara
+yerleştirilmesinden ve sınavın asayişinden sorumlu olmak, sınav esnasında sınav salonlarını
+denetlemek, sorular veya sınav evrakları ile ilgili ortaya çıkabilecek sorunları ilgili Dönem
+Koordinatörüne ileterek çözülmesini sağlamak,
+8) Sınav sonunda sınav ile ilgili tüm evrakları sınav salon başkanı ve sınav gözetmenleri
+tarafından onaylanmış olarak teslim alıp ilgili Dönem Koordinatörlüğüne kapalı zarf içinde,
+tarih ve sayılı bir tutanak ile sunmak,
+9) Sınav sonuçlarının değerlendirilmesi ve doğru olarak hesaplanıp açıklanması konusunda
+dönem koordinatörüne yardımcı olmak,
+10) Ders Kurulu bittikten sonra Dönem Koordinatörleriyle birlikte iki hafta içinde Ders
+Kurulu öğretim elemanlarını toplamak, uygulanan Ders Kurulunun genel bir
+değerlendirilmesini yapmak, konu başlıkları ve içeriğini güncelleştirerek bir sonraki eğitim
+
+dönemine ait program taslağını hazırlayıp dönem koordinatörüne sunmak,
+11) Mazeret, dönem sonu ve bütünleme sınavlarının hazırlanmasında koordinatöre gereken
+yardımı sağlamaktır.
+12) Ders Kurulu Başkan Yardımcısı, yukarıdaki görevlerin planlanması ve yürütülmesinde
+Ders Kurulu Başkanına yardımcı olur.
+Madde 8-SINAV GÖREVLİLERİNİN GÖREVLERİ
+Her sınav salonunda ilgili dönem koordinatörü ve ders kurulu başkanı tarafından belirlenen
+bir salon başkanı ve ihtiyaç kadar sınav gözetmeni bulunacaktır. Salon başkanı mutlaka
+öğretim üyeleri, sınav gözetmenleri ise araştırma görevlileri arasından seçilecektir. Sınav
+görevlilerinin zorunlu haller dışında ve ilgili dönem koordinatörünün haberi olmadan sınav
+salonundan dışarı çıkmaları, sınav sırasında gazete, kitap, ödev veya sınav kâğıdı gibi şeyler
+okumaları kesinlikle yasaktır. Görevlilerin yanlarında; cep telefonu, bilgisayar ve benzeri her
+türlü elektronik cihaz bulundurmaları kesinlikle yasaktır. Sınav görevlileri tüm sınavlarda
+sınav saatinden en az on beş dakika önce sınav yerinde olmalı ve sınav süresince görev
+yerinden ayrılmamalıdır. Sınav görevlilerinin belirtilen tarihte sınav gözetmenliği yapmasını
+8
+engelleyen bir mazeretinin olması durumunda sınav tarihinden en az 3 (üç) gün önce ilgili
+dönem koordinatörlüğüne yazılı olarak mazeretini bildirmesi gerekmektedir.
+Sınav görevlilerinin görevleri;
+1. Sınav salonunun asayişinden sorumlu olmak, kopya vb. sınav asayişini bozan her türlü
+olumsuz gelişmeyi anında ilgili dönem koordinatörüne haber vermek ve tutanak
+tutmak,
+2. Sınav evrakları ve sorular konusunda ortaya çıkabilecek sorunları hemen ilgili dönem
+
+koordinatörüne iletmek,
+3. Sınav gözetmenleri, sınava giren öğrenci sayısını belirleyerek mevcut öğrencilerin
+yoklama çizelgesine imza atmalarını sağlamak,
+4. Sınav tutanağını imzalamak,
+5. Sınav sonunda aşağıdaki evrakları sayarak eksiksiz olarak ilgili dönem koordinatörüne
+bizzat teslim etmek:
+a. Kendileri tarafından imzalanmış yoklama çizelgesi ve sınav tutanağı
+b. Sınav soru kağıtları
+c. Sınav cevap kağıtları
+d. Boş soru ve cevap kağıtları
+e. Sınavla ilgili diğer evraklar.
+Madde 9-STAJ YÖNETİCİLERİNİN GÖREVLERİ
+1. Teorik ve uygulamalı eğitimleri yürütecek öğretim elemanlarını belirlemek, Anabilim Dalı
+Başkanının bilgisi dahilinde eğitim programını hazırlamak ve ilgili Dönem Koordinatörüne
+sunmak,
+2. Staj programının eksiksiz ve düzenli bir şekilde yürütülmesini sağlamak,
+3. Stajlarda ders veren görevli öğretim elemanlarınca yoklamaların düzenli bir şekilde
+yapılmasını ve bunların öğrenci devam çizelgesine işlenmesini denetlemek,
+4. Staj sonu sözlü sınav jürilerini oluşturmak. Yazılı sınav uygulamasında öğretim
+elemanlarından soruları sağlayarak, uygun koşullarda çoğaltılmasını sağlamak, gözetmenleri
+belirlemek. Staj sınavının düzenli bir şekilde yapılmasını sağlamak. Yapılandırılmış nesnel
+uygulama sınavları yapılması planlandığında bu sınavlardaki görevlileri belirlemek, sınavın
+uygun bir şekilde gerçekleştirilmesini sağlamak, sınav sonuçlarının doğru olarak hesaplanıp
+açıklanmasından birinci derecede sorumlu olmak,
+5. Sınav sonuçlarını sınavdan sonra en geç 3 (üç) iş günü içinde ilan etmek ve Dekanlığa
+bildirmek,
+9
+6. Stajlarla ilgili anketlerin yapılması ve sonuçlarının Dönem Koordinatörleri ve Tıp Eğitimi
+Anabilim Dalı'na iletilmesini sağlamak.
+Madde 10-PANEL, KONFERANS VE SEMPOZYUM SORUMLUSUNUN
+GÖREVLERİ
+1. Panel, konferans ve sempozyumu ders programında belirtilen tarih ve saatte
+gerçekleştirmek,
+2. Panel, konferans ve sempozyum uygulanması için gereken mekanın düzenlenmesi ve her
+
+türlü koordinasyonu Dönem Koordinatörü ile iletişim kurarak eksiksiz ve düzenli bir şekilde
+yürütülmesini sağlamak,
+3. Panel, konferans ve sempozyumda görevlendirilmiş tüm öğretim üyeleri ve öğrencilerin
+katılımlarını sağlamak,
+4. Panel, konferans ve sempozyumda yer alamayacak katılımcıların mazeretlerinin en az on
+beş gün önceden yazılı olarak Dönem Koordinatörlerine iletmek ve katılımcı değişikliğini
+sağlanmaktır.
+Madde 11- MESLEKİ BECERİ LABORATUVARI SORUMLUSUNUN GÖREVLERİ
+(MBLS)
+1. MBLS, Baş koordinatör ve Dönem Koordinatörü ile uyumlu bir şekilde çalışmak ve
+gerektiğinde Koordinatörler Kurulu toplantılarına katılmak,
+2. Her yıl en geç mart ayı sonuna kadar bir sonraki akademik yılın eğitim öğretim rehberinde
+yer alacak olan MBL uygulamalarının yapılacağı yer, tarih ve yaptıracak öğretim üyelerini
+belirleyerek Dönem Koordinatörüne sunmak,
+3. MBL uygulamalarının geliştirmek, MBL programını hazırlamak ve denetlemek,
+4. Ders Kurulu içindeki MBL uygulamaları ile ilgili programı Dönem Koordinatörlüğüne
+zamanında ulaştırmak,
+5. MBL uygulamasının ders programında belirtilen tarih ve saatte gerçekleşmesini sağlanamk,
+6. MBL uygulamasının yapılacağı fiziki ortamın düzenlenmesinde Dönem Koordinatörüne
+yardımcı olmak,
+6. Öğrencilerin almış oldukları MBL uygulama sonuçlarını Dönem Koordinatörüne
+ulaştırmaktır.
+Madde — 12-MULTİDİSİPLİN. LABORATUVARI — KOORDİNATÖRÜNÜN
+GÖREVLERİ
+1. Program gereğince Anabilim Dallarınca yürütülecek laboratuvar çalışmaları için gerekli
+düzenlemeleri yaparak uygulanmasına yardımcı olmak,
+10
+2. Dönem Koordinatörleri ile laboratuvarlardan yararlanacak Anabilim dallarının ilgili
+elemanları arasında koordinasyonu sağlayarak laboratuvarların kullanılması sırasında ortaya
+çıkacak programdaki olası örtüşmeleri ve aksaklıkları gidermek,
+3. Laboratuvarların düzen ve temizliğini denetlemek, tespit ettiği aksaklıkları Dekanlığa
+iletmek,
+4. Laboratuvarlarda tüketilen maddeleri izlemek ve bunların yeterli miktarlarda bulunmaları
+için Dekanlıktan talepte bulunmak,
+5. Laboratuvarlarda bulunan araç ve gerecin her an kullanılmaya hazır durumda bulunmalarını
+sağlamak için gereken önlemleri almak,
+6. Anabilim Dallarınca uygulanması planlanan yeni laboratuvar uygulamaları için gerekli araç
+gereç ve tüketim malzemelerini belirlemek ve Dekanlıktan bunların sağlanması için istekte
+
+bulunmak,
+7. Uygulamalı ve teorik sınavlarda kullanılacak laboratuvarların düzenlenmesi konusunda
+Dönem Koordinatörleri ile işbirliği yapmak ve düzenlemeler doğrultusunda gerekli
+hazırlıkları gerçekleştirerek sınavın uygulanmasına yardımcı olmak,
+8. Dekanın vereceği diğer işleri yapmaktır.
+Madde 13-FAKÜLTE ÖĞRENCİ TEMSİLCİSİNİN GÖREVLERİ
+Fırat Üniversitesi Öğrenci Konseyi Yönergesine uygun olarak seçilen Fakülte Öğrenci
+Temsilcisi olup, seçimin yapıldığı eğitim öğretim yılı süresince Koordinatörler Kurulunun
+doğal üyesidir. Bir sonraki eğitim öğretim yılında yeni temsilci seçilinceye kadar görevine
+devam eder.
+Fakülte Öğrenci Temsilcisinin görevleri;
+1. Temsil ettiği dönemin öğrenci sorunlarını, görüş ve önerilerini Dönem Koordinatörüne ve
+gerekirse Koordinatörler Kuruluna iletmek,
+2. Öğrenci etkinliklerinde öğrencileri temsil etmek,
+3. Öğrenci etkinliklerinin koordinasyonunda Dönem Koordinatörü ile iş birliği yapmak,
+4. Dekanın vereceği diğer işleri yapmaktır.
+Madde 14-ERASMUS KOORDİNATÖRÜNÜN GÖREVLERİ
+1. Avrupa Birliği Eğitim ve Gençlik programlarında yer alan ERASMUS Programı
+çerçevesinde Fırat Üniversitesi ERASMUS Program Direktörü ile işbirliği içerisinde Fırat
+Üniversitesi Tıp Fakültesi'nden gidecek ve gelecek öğrenci ve öğretim üyelerine akademik
+danışmanlık yapmak,
+11
+2. Fırat Üniversitesi Tıp Fakültesi adına, program çerçevesinde öğretim ve staj amacıyla
+programa katılan öğrenci, öğretim elemanının programa ilişkin iş ve işlemlerini yönetmek ve
+düzenlemeleri yapmak,
+3. Dekanın vereceği diğer işleri yapmak.
+Madde 15-FARABİ KOORDİNATÖRÜNÜN GÖREVLERİ
+1. Yükseköğretim Kurumları Arasında Öğrenci ve Öğretim üyesi Değişim Programı olan
+“FARABİ Değişim Programı” çerçevesinde Fırat Üniversitesi FARABİ Koordinatörlüğü ile
+bağlantılı olarak koordinasyonu sağlamak, bu program çerçevesinde değişim programlarından
+
+yararlanmak isteyen öğrenci ve öğretim üyelerinin başvurularının program ile ilgili
+prosedürlere uygunluğunu incelemek, ihtiyaç durumunda adaya başvuru sürecine ilişkin yol
+gösterici tavsiyelerde bulunmak.
+2. Dekanın vereceği diğer işleri yapmak.
+Madde 16-MEVLANA KOORDİNATÖRÜNÜN GÖREVLERİ
+1. MEVLANA öğrenci ve Öğretim üyesi Değişim Programı Fırat Üniversitesi MEVLANA
+Koordinatörlüğü ile bağlantılı olarak koordinasyonu sağlamak, bu program çerçevesinde
+değişim programlarından yararlanmak isteyen öğrenci ve öğretim üyelerinin başvurularının
+program ile ilgili prosedürlere uygunluğunu incelemek, ihtiyaç durumunda adaya başvuru
+sürecine ilişkin yol gösterici tavsiyelerde bulunmak.
+2. Dekanın vereceği diğer işleri yapmak.
+Madde 17-SÜREKLİ TIP EĞİTİMİ KOORDİNATÖRÜNÜN GÖREVLERİ
+1. Fırat Üniversitesi Tıp Fakültesi'nden mezun olan öğrencilerin mesleki eğitimi kapsamında
+kongre, sempozyum, konferans, panel, kurs ve yaz okullarının düzenlenmesi, yürütülmesi
+veya bu yönde yapılacak olan çalışmaların desteklenmesini sağlamak.
+2. Dekanın vereceği diğer işleri yapmak.
+MADDE 18-MEZUNİYET ÖNCESİ EĞİTİM ÖLÇME DEĞERLENDİRME VE
+EĞİTİCİLERİN EĞİTİMİ KOMİSYONUNUN GÖREVLERİ
+Komisyon, Tıp Eğitimi ve Biyoistatistik Anabilim Dalı öğretim üyeleri doğal üye olmak üzere
+en az dokuz öğretim üyesi ile en az iki öğrenci temsilcisinden oluşur. Komisyon üyeleri
+(öğrenci temsilcileri hariç) Dekan tarafından önerilerek Fakülte Yönetim Kurulu tarafından 3
+
+(üç) dönem için atanır. Komisyon kendi üyeleri arasından bir başkan, bir başkan yardımcısı ve
+bir sekreter seçer. Komisyon gerektiğinde konu ile ilgili başka uzmanları da toplantılara
+çağırabilir ve alt komisyonlar oluşturabilir. Alt komisyonların oluşturulması ve çalışmaları
+için tüm görevlendirmeler Komisyon Başkanının önerisiyle Dekan tarafından yapılır. Görev
+12
+süresi biten bir üye yeniden atanabilir. Bir dönem içinde, izinsiz veya mazeretsiz olarak üst
+üste 3 (üç) toplantıya katılmayan üyenin üyeliği düşer ve yerine aynı yöntemle yenisi seçilir.
+Komisyonun görev ve sorumlulukları;
+1) Mezuniyet öncesi eğitimde objektif ölçme ve değerlendirme yöntemlerini belirlemek ve
+ilgili kurullara önermek,
+2) Mezuniyet öncesi eğitim uygulamalarına ilişkin öğrenci ve eğitici geri bildirimlerini almak,
+değerlendirmek ve sonuçlarını ilgili kurullarla paylaşmak,
+3) Sürekli Tıp Eğitimi programlarının ölçme ve değerlendirmesine yönelik danışmanlık
+vermek ve geri bildirim almak,
+4) Öğretim üyelerine verilecek eğitici eğitimi kurslarını düzenlemek ve geri bildirimlerini
+almak,
+5) Ölçme ve değerlendirme ile ilgili elde edilen verileri değerlendirmek ve rapor hâline
+getirerek Dekanlığa sunmak,
+6) Eğitim programlarının Fırat Üniversitesi Tıp Fakültesi Tıp eğitimi amaç ve öğrenim
+hedeflerine uygunluğunu ölçmek ve değerlendirmek, sonuçları Koordinatörler Kuruluna
+iletmek,
+7) Tıpta eğitici eğitimi ile ölçme ve değerlendirme konularında kongre, seminer, eğitim
+toplantısı, sempozyum, çalıştay düzenlemek ve bu amaçla ilgili derneklerle iş birliği yapmak,
+8) Mezun Takip Birimi tarafından oluşturulan mezun öğrencilerin mesleki ve sosyal
+başarılarına yönelik raporları incelemek ve Dekanlığa sunmaktır.
+Komisyonun çalışma biçimi; Komisyon her eğitim öğretim yılında en az iki kez toplanır.
+Yılsonu toplantısında o eğitim-öğretim yılına ait çalışma raporlarını ve bir sonraki yıla ait
+planlamaları ile ilgili raporları hazırlayarak Dekanlık Makamına sunar.
+Madde 19-PROBLEME DAYALI ÖĞRENİM (PDÖ) KOMİSYONU
+PDÖ Komisyonu biri Tıp Eğitimi Anabilim Dalı Başkanı olmak üzere en az yedi öğretim
+üyesi ile en az iki öğrenci temsilcisinden oluşur. Komisyon üyeleri (öğrenci temsilcileri
+hariç) Dekan tarafından önerilerek Fakülte Yönetim Kurulu tarafından 3 (üç) dönem için
+atanır. Komisyon kendi üyeleri arasından bir başkan, bir başkan yardımcısı ve bir sekreter
+seçer. Komisyon gerektiğinde alt komisyonlar oluşturabilir. Alt Komisyon oluşturulması ve
+çalışmaları için tüm görevlendirmeler Komisyon Başkanının önerisiyle Dekan tarafından
+
+yapılır. Görev süresi biten bir üye yeniden atanabilir. Bir dönem içinde, izinsiz veya
+mazeretsiz olarak üst üste 3 (üç) toplantıya katılmayan üyenin üyeliği düşer ve yerine aynı
+yöntemle yenisi seçilir.
+PDÖ Komisyonunun görevleri;
+13
+1) Fırat Üniversitesi Tıp Fakültesi mezuniyet öncesi eğitim programlarının amaç ve öğrenim
+hedefleri doğrultusunda PDÖ uygulamalarının içeriğini belirlemek, programı oluşturmak ve
+geliştirmek,
+2) PDÖ uygulaması planlanan her dönem için eğitim programının amaç ve hedeflerine uygun
+senaryo yazımını sağlamak. Bu amaçla senaryolarla ilgili Anabilim dallarından öğretim
+üyelerini davet etmek, senaryo yazım grupları oluşturmak ve senaryo yazımı sırasında
+grupları yönlendirmek,
+3) Dönem Koordinatörleriyle uyum içinde çalışarak, PDÖ modüllerinin düzenli bir şekilde
+uygulanmasını, ders programında belirtilen tarih ve saatte gerçekleştirilmesini sağlamak,
+4) Uygulanan modüllerin ölçme ve değerlendirme yöntemlerini ilgili Komisyonlarla birlikte
+belirlemek ve uygulamak,
+5) Modül değerlendirme sonuçlarını Dönem Koordinatörü, Ölçme Değerlendirme ve
+Eğiticilerin Eğitimi Komisyonu 'na bildirmek,
+6) Modüllerin öğrenci ve öğretim üyesi geri bildirim sonuçlarını değerlendirmek,
+7) PDÖ modüllerinde görev almak üzere PDÖ eğiticisi yetiştirmek,
+8) Her PDÖ modülünün sonunda uygulanan senaryoları, uygulamaya katılan öğretim
+üyelerinin geri bildirimlerine dayanarak değerlendirmek,
+9) Her yıl en geç mart ayı sonuna kadar bir sonraki akademik yılın eğitim öğretim rehberinde
+yer alacak olan PDÖ oturumlarını yapacak öğretim üyelerini (PDÖ moderatörleri)
+belirleyerek Başkoordinatörlüğe bildirmek,
+10) Yıllık planları ve faaliyet raporlarını her eğitim yılı başında ve sonunda dekanlığa iletmek,
+11) PDÖ konusunda kongre, seminer, eğitim toplantısı, sempozyum ve çalıştay
+düzenlemesine katkıda bulunmaktır.
+Madde 20-MESLEKİ BECERİ EĞİTİM KOMİSYONUNUN GÖREVLERİ
+Komisyon, biri Tıp Eğitimi Anabilim Dalı Başkanı olmak üzere en az yedi öğretim üyesi ile
+en az iki öğrenci temsilcisinden oluşur. Komisyon üyeleri (öğrenci temsilcileri hariç) Dekan
+tarafından önerilerek Fakülte Yönetim Kurulu tarafından 3 (üç) dönem için atanır.
+Komisyon, kendi üyeleri arasından bir başkan, bir başkan yardımcısı ve bir sekreter seçer.
+Komisyon gerektiğinde konu ile ilgili başka uzmanları da çalışmalara katılmak üzere davet
+edebilir. Komisyon gerektiğinde alt komisyonlar oluşturabilir. Alt Komisyon oluşturulması ve
+çalışmaları için tüm görevlendirmeler Komisyon Başkanının önerisiyle Dekan tarafından
+yapılır. Görev süresi biten bir üye yeniden atanabilir. Bir dönem içinde, izinsiz veya
+mazeretsiz olarak üst üste 3 (üç) toplantıya katılmayan üyenin üyeliği düşer ve yerine aynı
+
+yöntemle yenisi seçilir.
+14
+Komisyonun Görev ve Sorumlulukları:
+1) Mezuniyet öncesi mesleki beceri eğitim programlarının içeriğini belirlemek, programı
+oluşturmak, uygulamak ve geliştirmek,
+2) Mesleki beceri eğitim programları için ölçme ve değerlendirme yöntemlerini ilgili
+kurullarla birlikte belirlemek ve uygulamak,
+3) Ölçme Değerlendirme ve Eğiticilerin Eğitimi Komisyonu ile iş birliği yaparak öğrenci ve
+eğitici geri bildirimlerini almak, değerlendirmek ve sonuçlarını ilgili kurullarla paylaşmak,
+4) Mesleki beceriler kazandırma eğitimi ile ilgili araştırmalar yapmak, raporlamak ve
+yayımlamak,
+5) Diğer üniversite ve eğitim hastaneleri ile mesleki beceri eğitimi konusunda iletişim kurarak
+fikir alış verişinde bulunmaktır.
+Komisyonun Çalışma Biçimi MBE Komisyonu her yarıyıl en az iki kere olmak üzere
+başkanın daveti üzerine toplanarak gündemdeki konuları görüşür ve alınan kararları Dekanlık
+Makamına sunar. Komisyon her toplantı için toplantı tutanağı tutar ve Dekanlığa sunar.
+Komisyon her eğitim öğretim yılı sonunda, gelecek eğitim öğretim yılında yapacağı
+faaliyetler ile ilgili planlarını yapar. Yıllık planlarını ve eğitim öğretim yılı ortasında ve
+sonunda hazırladıkları yıl içindeki faaliyetlerine ilişkin çalışma raporlarını Dekanlığa iletir.
+Madde 21-BİLİMSEL ARAŞTIRMA EĞİTİMİ KOMİSYONUNUN GÖREVLERİ
+Komisyon en az biri Tıp Eğitimi Anabilim Dalı'ndan olmak üzere yedi öğretim üyesi ve tıp
+fakültesi öğrenci temsilcisinden oluşur. Komisyon (öğrenci temsilcileri hariç) Dekan
+tarafından önerilerek Fakülte Yönetim Kurulu tarafından 3 (üç) dönem için atanır. Görev
+süresi biten bir üye yeniden atanabilir. Bir dönem içinde, izinsiz veya mazeretsiz olarak üst
+üste 3 (üç) toplantıya katılmayan üyenin üyeliği düşer ve yerine aynı yöntemle yenisi seçilir.
+Komisyonun Görev ve Sorumlulukları:
+1) Araştırma eğitiminin geliştirilmesi kapsamında tıp fakültesi mezuniyet öncesi eğitim
+programı içinde yeni ders içerikleri belirlemek, program oluşturmak ve Dekanlığa önermek,
+2) Fırat Üniversitesi Tıp Fakültesi mezuniyet öncesi eğitim programlarının amaç ve öğrenim
+hedefleri doğrultusunda her yıl Tıp Fakültesinin Eğitim-Öğretim Programı hazırlanırken
+Makale Saati dersinin içeriğini, dersin hangi komiteler içerisine yerleştirileceğini, komite ile
+konu bütünlüğü oluşturacak şekilde makale seçimini, makale saati dersinde görev alacak
+öğretim üyelerini belirlemek, bu öğretim üyelerinin kullanacağı kılavuzları oluşturmak,
+3) Eğitim-Öğretim yılı başlangıcında Makale Saati dersi hakkında öğretim üyelerini
+bilgilendirmek, ve pratik uygulamalar ile ders öncesi deneyimlerini artırmak,
+15
+
+4) Derslerin işleneceği sınıfların fiziksel ortamlarının uygun şekilde hazır olmasını sağlamak
+ve meydana gelebilecek aksaklıklara müdahale etmek,
+5) Öğrenci kongresi, sempozyumu, araştırma günleri vb. etkinliklerin planlanması ve
+organizasyonunu yapmak,
+6) Dersler ile ilgili öğretim üyesi ve öğrenci anketlerinin düzgün şekilde uygulanmasını
+sağlamak, Biyoistatistik Anabilim Dalı, Ölçme Değerlendirme ve Eğiticilerin Eğitimi
+Komisyonu ile iş birliği içinde çalışarak bu anketlerin değerlendirilmesini sağlamak,
+7) Geri bildirimler neticesinde öğretim üyelerine verilecek olan eğitimleri, ders içeriklerini ve
+seçilecek makaleleri her yıl yeniden şekillendirmek,
+8) Açılan dersler bünyesinde elde edilen tüm doküman ve verileri uygun şekilde saklamak ve
+belirli aralıklar ile bu sonuçların yayımlanarak tüm fakülte ile paylaşımını sağlamak.
+Komisyonun Çalışma Biçimi: Komisyon eğitim-öğretim yılı süresince her yarıyıl en az 2 (iki)
+kez toplanır. Gerektiğinde ek toplantılar da yapabilir. Komisyon her toplantı için toplantı
+tutanağı tutar ve Dekanlığa iletir. Komisyon her eğitim-öğretim yılı sonunda gelecek eğitim-
+öğretim yılında yapacağı faaliyetler ile ilgili planlarını yapar. Yıllık planlarını ve eğitim-
+öğretim yılı ortasında ve sonunda hazırladıkları yıl içindeki faaliyetlerine ilişkin çalışma
+raporlarını Fakülte Yönetim Kurulu'nda görüşülmek üzere Dekanlığa iletir.
+Madde 22-İLETİŞİM BECERİLERİ KOMİSYONUNUN GÖREVLERİ
+Komisyon, biri Tıp Eğitimi Anabilim Dalı Başkanı olmak üzere en az yedi öğretim üyesi ile
+en az iki öğrenci temsilcisinden oluşur. Komisyon üyeleri (öğrenci temsilcileri hariç) Dekan
+tarafından önerilerek Fakülte Yönetim Kurulu tarafından 3 (üç) dönem için atanır. Komisyon,
+kendi üyeleri arasından bir başkan, bir başkan yardımcısı ve bir sekreter seçer. Komisyon
+gerektiğinde konu ile ilgili başka uzmanları da çalışmalara katılmak üzere davet edebilir.
+Komisyon gerektiğinde alt komisyonlar oluşturabilir. Alt Komisyon oluşturulması ve
+çalışmaları için tüm görevlendirmeler Komisyon Başkanının önerisiyle Dekan tarafından
+yapılır. Görev süresi biten bir üye yeniden atanabilir. Bir dönem içinde, izinsiz veya
+mazeretsiz olarak üst üste 3 (üç) toplantıya katılmayan üyenin üyeliği düşer ve yerine aynı
+yöntemle yenisi seçilir.
+Komisyonun Görev ve Sorumlulukları:
+1) Mezuniyet öncesi ve mezuniyet sonrası iletişim becerileri eğitim programları geliştirmek
+üzere araştırmalar yapmak,
+2) Mezuniyet öncesi ve mezuniyet sonrası iletişim becerileri eğitim programlarının tıp
+eğitimi amaç ve öğrenim hedefleri kapsamında içeriğini belirlemek ve programı oluşturmak
+ve uygulamak,
+16
+3) İletişim becerileri eğitim programları için ölçme ve değerlendirme yöntemlerini belirlemek
+ve uygulamak,
+
+4) Öğrenci ve eğitici geri bildirim sonuçlarına göre programları düzenlemek,
+5) İletişim becerileri konusunda eğitim ve danışmanlık vermek,
+6) İletişim Becerileri eğitiminde görev almak üzere eğitici yetiştirmek,
+7) Tıpta iletişim becerileri konusunda kongre, seminer, eğitim toplantısı, sempozyum, çalıştay
+düzenlemek ve bu amaçla ilgili dernek ve diğer ilgili kuruluşlarla, yurt içindeki ve yurt
+dışındaki sivil toplum örgütleriyle işbirliği yapmak.
+Komisyonun Çalışma Biçimi
+Komisyon eğitim-öğretim yılı süresince her yarıyıl en az bir kez toplanır; gerektiğinde ek
+toplantılar da yapabilir. Komisyon her toplantı için toplantı tutanağı tutar ve Dekanlığa iletir.
+Komisyon her eğitim-öğretim yılı sonunda, gelecek eğitim-öğretim yılında yapacağı
+faaliyetler ile ilgili planlarını yapar. Yıllık planlarını ve eğitim-öğretim yılı ortasında ve
+sonunda hazırladıkları yıl içindeki faaliyetlerine ilişkin çalışma raporlarını Dekanlığa iletir.
+Madde 23-TIP EĞİTİMİ ÖZ DEĞERLENDİRME KURULU (TEÖK)NUN
+GÖREVLERİ
+Kurul; dekan, dekan yardımcıları, Ölçme Değerlendirme ve Eğiticilerin Eğitimi Komisyonu
+başkanı, Probleme Dayalı Öğrenim Komisyonu Başkanı, Sürekli Tıp Eğitimi Koordinatörü,
+Bilimsel Araştırma Eğitimi Komisyonu Başkanı, İletişim Becerileri Komisyonu Başkanı,
+Mesleki Beceri Eğitim Komisyonu Başkanı, Tıp eğitimi anabilim dalı başkanı,
+Başkoordinatör, öğrenci temsilcileri, Fakülte sekreteri ve Fakülte yönetim kurulu tarafından 3
+(üç) dönem için atanan ulusal standartlar çalışma grupları, bir mezun ve bir araştırma
+görevlisinden oluşur. Dekan ve Dekan yardımcıları Kurul'un doğal üyeleridir. Dekan,
+Kurul'un doğal başkanıdır. Kurul, kendi üyeleri arasından bir Kurul Koordinatörü ve bir
+Kurul Koordinatör Yardımcısı seçer. Görev süresi biten bir üye yeniden atanabilir. Bir dönem
+içinde, izinsiz veya mazeretsiz olarak üst üste 3 (üç) toplantıya katılmayan üyenin üyeliği
+düşer ve yerine aynı yöntemle yenisi seçilir.
+Kurul Koordinatörü, Kurul çalışmalarının planlanması, yürütülmesi, eşgüdümü ve
+değerlendirilmesi ile Tıp Eğitimi Yıllık Özdeğerlendirme Raporlarının hazırlanmasından
+Dekan'a karşı birinci derecede sorumludur. Kurul, en az 3 (üç) ayda bir olmak üzere ve
+gerektikçe Dekanın çağrısıyla toplanır. Kurul çalışma tutanaklarının ve kararlarının yazılması,
+arşivlenmesi ve diğer işleri yapmak üzere Kurul sekreteri olarak bir memur görevlendirilir.
+17
+
+Ulusal Tıp Eğitimi Akreditasyon Kurulu (UTEAK) tarafından ilan edilen ve dokuz
+başlık altında toplanmış bulunan Tıp Eğitimi Standartları kümelerinden her üçü için bir
+çalışma grubu kurulur.
+1. Çalışma Grubu: “1. Amaç ve hedefler”, “2. Eğitim programı” ve “7.Eğitsel kaynak ve
+olanaklar” başlıklı standart kümeleri konusundaki çalışmalardan birinci derecede sorumludur.
+2. Çalışma Grubu: “3. Öğrencilerin değerlendirilmesi”, “4. Öğrenciler” ve “6.Öğretim
+elemanları” başlıklı standart kümeleri konusundaki çalışmalardan birinci derecede
+sorumludur.
+3. Çalışma Grubu: “5. Program değerlendirme”, “8. Yönetim ve yürütme” ve “9, Sürekli
+yenilenme ve gelişim” başlıklı standart kümeleri konusundaki çalışmalardan birinci derecede
+sorumludur.
+Her çalışma grubunda 6 (altı) öğretim üyesi, 3 (üç) Tıp öğrencisi, bir araştırma görevlisi
+bulunur. Her çalışma grubu kendi üyeleri arasından bir grup başkanı, bir grup başkan
+yardımcısı seçer. Öğrenci temsilcileri, öğrenciler tarafından; araştırma görevlisi, araştırma
+görevlileri tarafından belirlenir (başka bir usül ile de belirlenebilir). Çalışma gruplarına bir
+idari personel ve bir mezun da eklenebilir.
+Çalışma gruplarının görevleri:
+Her çalışma grubu, grubun farklı hedef kümelerinden her birisi için kendi içinden bir alt
+çalışma grubu oluşturur. Her alt grupta en az iki öğretim üyesi ve bir öğrenci temsilcisi yer
+alır. Alt çalışma grupları, görevlendirildikleri standart kümesinin tüm temel ve gelişim
+standartları yönünden mevcut durumu, gerektiğinde incelemeler veya araştırmalar yaparak,
+tanımlarlar; bu standartlarla ilgili eksiklik veya yetersizlikleri belirlerler ve bunların
+giderilmesi için öneriler hazırlarlar. Alt grup çalışma raporları, gerektikçe fakat en az 3 (üç)
+ayda bir bağlı bulunulan çalışma grubuna sunulur.
+Kurul Koordinatörü, kendine gelen çalışma grupları raporlarını birleştirir ve bu şekilde
+Fakültenin Yıllık Özdeğerlendirme Raporu Taslağı oluşur. Koordinatör, FÜTF-Taslak
+Özdeğerlendirme Raporu'nu Özdeğerlendirme Kuruluna tartışılmak ve son şekli verilmek
+üzere sunar.
+Tıp Eğitimi Özdeğerlendirme Raporu: Özdeğerlendirme Kurulu tarafından her yıl hazırlanır
+ve Ekim ayında Dekanlığa sunulur. Bu rapor, FÜTF Tıp Eğitiminin, mevcut ulusal ve uluslar
+arası standartların her biri yönünden değerlendirilmesini, bu değerlendirmelere dayalı olarak
+oluşturulacak tavsiyeleri kapsar. Değerlendirme çalışmalarında, UTEAK tarafından
+hazırlanmış ve yayınlanmış standardın karşılanma durumunu açıklama için yararlanılabilecek
+18
+rehber sorular ve açıklamalar, kriterler olarak kullanılırlar. Raporda her standartla ilgili,
+standardın karşılanma durumunu belirtir ifadeler, dayanağı olan değerlendirmelerle birlikte
+yer almalıdır. Rapor, değerlendirmeleri, kararları ve tavsiyeleriyle Tıp eğitiminin sürekli
+
+yenilenmesine ve gelişmesine aracılık etmelidir.
+Madde 24-YÜRÜRLÜLÜK
+1. Bu Yönerge, Fırat Üniversitesi Senatosunun kabulünden sonra yürürlüğe girer. (Senato
+Kabul Tarihi: 28.04.2016 tarih ve 2015-2016/8.7 sayılı karar)
+Madde 25-YÜRÜTME
+1. Bu Yönerge hükümlerini Fırat Üniversitesi Tıp Fakültesi Dekanı yürütür.
+19

@@ -1,0 +1,763 @@
+YÜKSEKÖĞRETİM KURUMLARI YÖNETİCİ, ÖĞRETİM ELEMANI VE MEMURLARI DİSİPLİN
+SORUŞTURMASI ESASLARI"
+I. GENEL AÇIKLAMALAR
+2547 sayılı Yükseköğretim Kanununun 53. maddesine göre; “öğretim elemanları, memur ve
+diğer personelin disiplin işlemleri, disiplin amirlerinin yetkileri, devlet memurlarına uygulanan usul ve
+esaslara göre Yükseköğretim Kurulunca düzenlenir.”
+Yine 2547 sayılı Yükseköğretim Kanununun 65. maddesinin a fıkrasının (9) bendine göre;
+“öğretim elemanları, memur ve diğer personel ile öğrencilerin disiplin işlemleri, disiplin amirlerinin
+yetkileri ve disiplin kurullarının teşkili ve çalışması ile ilgili hususlar” Yükseköğretim Kurulu tarafından
+çıkarılacak yönetmeliklerle düzenlenir.
+Sözkonusu yetkiye dayanılarak Yükseköğretim Kurumları Yönetici, Öğretim Elemanı ve
+Memurları Disiplin Yönetmeliği (RG.21.8.1982/17789) çıkarılmıştır. Yönetmelik, yükseköğretim üst
+kuruluşları ile yükseköğretim kurumları yönetici ve öğretim elemanları ile memur ve diğer
+personelinden kanun, tüzük ve yönetmeliklerin kendilerine yüklediği ödevleri yurt içinde ve yurt dışında
+yerine getirmeyenlere, uyulmasını zorunlu kıldığı hususları yapmayanlara, yasakladığı işleri yapanlara
+veya meslek vakar ve haysiyetine uymayan davranışta bulunanlara verilecek disiplin cezalarını
+göstermek amacıyla düzenlenmiştir (m.1).
+Yönetmelikte, Yükseköğretim üst kuruluşları ile yükseköğretim kurumlarının yönetici ve
+öğretim elemanları ile memur ve diğer personeline ilişkin disiplin soruşturması, görevden uzaklaştırma
+ve itiraz usulleri ile uygulama şekli düzenlenmiştir.
+Yönetmelik; disiplin suç ve cezaları ile disiplin soruşturması bakımından, 657 sayılı Devlet
+memurları Kanununa nazaran özel bir düzenleme niteliğindedir. Ancak hemen belirtilmesi gerekir ki;
+düzenlemenin uygulamasında Danıştay içtihatları büyük ölçüde yol gösterici olmaktadır.
+II. DİSİPLİN SORUŞTURMASI SÜRECİ
+A. Genel Bilgiler
+1. Ceza Kovuşturması İle Disiplin Soruşturmasının Birarada Yürütülmesi
+Aynı olaydan dolayı yönetici, öğretim elemanı, memur veya diğer görevliler hakkında ceza
+muhakemesinde kovuşturmaya başlanmış olması, disiplin kovuşturmasını geciktirmez. Sanığın Ceza
+Kanunu'na göre mahkum olması veya olmaması halleri, ayrıca disiplin cezasının uygulanmasına engel
+olmaz. Disiplin soruşturması veya sonuçları, ceza soruşturmasını etkilemez (m. 20).
+Disiplin suçu oluşturan bazı fiiller, aynı zamanda ceza yasalarında suç olarak tanımlanmış
+olabilirler. Böyle bir durumda ceza kovuşturması ve disiplin soruşturması birbirinden bağımsız olarak
+yapılacaktır. İlgiliye hem disiplin cezasının hem de ceza yasalarında öngörülen adli cezaların verilmesi
+
+mümkün olabilecektir.
+Uygulamada, aynı fiil hakkında verilen ceza mahkemesi kararının, disiplin cezasının
+verilmesinde göz önünde bulundurulacağı kabul edilmektedir. Danıştay'a göre; "bir kamu görevlisinin,
+üzerine atılı disiplin suçu aynı zamanda ceza yasasına göre de suç niteliğinde ise ve ceza yargılaması
+sonucunda suçun unsurlarının oluşmaması ya da suçun o kişi tarafından işlenmediğinin saptanması
+“ Gazi Üniversitesi web sayfasından alınmıştır.
+gerekçesiyle ilgili beraat etmiş ise, bu beraat kararının disiplin cezası verilmesindeki bağlayıcılığı
+tartışmasızdır” (Danıştay 10. D, 27.10.1987, E.1987/2015, K. 1987/1721, DD, sayı. 70-71, s. 550, Aynı
+yönde Danıştay 10. D, 30.5.1990, E. 1990/1731, K. 1990/1248, DD, sayı. 81, s. 349)
+Buna göre; adli yargıda suçun sanık tarafından işlenmediği, suçun unsurlarının oluşmadığı
+gerekçesiyle beraat kararı verilmiş ise, ilgili hakkında disiplin cezası verilemeyecektir. Doktrinde,
+hukuka uygunluk nedenlerinin (meşru müdafaa, zorda kalma, kanun hükmünün yerine getirilmesi vs.)
+bulunmasından dolayı verilen beraat kararlarının da disiplin cezasının verilmesinde bağlayıcı olduğu
+kabul edilmektedir. Çünkü, hukuka uygunluk nedenleri tüm hukuk düzeni bakımından fiilin hukuka
+aykırılığını ortadan kaldırır.
+Diğer taraftan, ceza mahkemesinin bazı kararları; disiplin cezası vermeye yetkili makamların
+takdir yetkisini ortadan kaldırmamaktadır. Genellikle, “şüpheden sanık yararlanır” ilkesi uyarınca verilen
+delil yetersizliğinden dolayı beraat kararlarının disiplin makamlarını bağlamayacağı kabul edilmektedir.
+Nitekim Danıştay'a göre; "delil yetersizliği nedeniyle verilen bir beraat kararı disiplin cezası verilmesi
+konusunda mutlak anlamda bağlayıcı nitelikte değildir. Esasen ceza hukuku açısından da delil
+yetersizliği nedeniyle beraat kararı da tam aklanma niteliği taşımamaktadır. Bu nedenle, davacının delil
+yetersizliğinden beraat etmesi karşısında olayın, disiplin soruşturması sırasında toplanan deliller ve
+tanık ifadeleriyle irdelenmesi gerekmektedir.” (Danıştay 10. D, 27.10.1987, E. 1987/2015, K.
+1987/1721, DD, sayı. 70-71, s. 550)
+Ceza kovuşturmasının zamanaşımına uğraması, disiplin soruşturması yapılmasına ve disiplin
+cezası verilmesine engel değildir. Bunun yanında, Danıştay; kamu davasının düşmesine karar 
+verilmesi,
+ceza yargılaması sonunda verilen mahkumiyet hükmünün ertelenmiş (tecil) olması, ilgili hakkında
+soruşturma izni verilmemiş olması nedeniyle ceza yargılaması yapılamaması durumlarını, disiplin 
+cezası
+vermeye engel bir sebep olarak görmemektedir. Bu gibi durumlarda, disiplin soruşturması kapsamında
+toplanan deliller değerlendirilerek disiplin cezası verilip verilmemesi konusunda bir karar verilecektir.
+2. Gizlilik İlkesi
+
+Disiplin soruşturmasının yürütülmesi sürecinde “gizlilik” esastır. Bununla birlikte,
+Yönetmeliğin 43. maddesine göre; sadece, hakkında üniversite öğretim mesleğinden veya
+memurluktan çıkarma cezası istenen kişiler, sicil dosyası haricindeki soruşturma evrakını inceleme
+hakkına sahiptirler.
+3. Yer Değiştirmenin Etkisi
+Sanığın disiplin suçundan sonra görev yaptığı üst kuruluşu, Yükseköğretim Kurumu'nu veya
+statüsünü değiştirmiş veya kurumundan ayrılmış olması, suç sırasında bağlı olduğu yükseköğretim
+kurumu veya üst kuruluş tarafından disiplin soruşturmasının başlatılmasına, başlamışsa
+tamamlatılmasına ve gerektiğinde disiplin cezasının verilmesine engel olmaz (m. 21).
+İlgili, disiplin suçunu işledikten sonra görevinden ayrılmış olsa bile, bu durum, ilgili hakkında
+disiplin soruşturması yapılmasına ve disiplin cezası verilmesine engel değildir. Danıştay'a göre; "Bir
+memurun memuriyet statüsü devam ederken bir disiplin suçu işlemesi halinde, bu suçla ilgili bütün
+belgelerin sicil dosyasında bulunması gereklidir. Zira suç, memur iken işlenmiştir. Soruşturma sırasında
+herhangi bir nedenle o kişinin memuriyetten ayrılması, suçu işlediği andaki illiyet rabıtasını ortadan
+kaldırmayacağı gibi, artık o kişinin memuriyet sıfatı kalmadığı gerekçesiyle, her suça işlediği andaki fiili
+ve hukuki duruma göre yürürlükte bulunan mevzuat hükümleri çerçevesinde ceza verilmesi gerektiği
+yolundaki hukuk kuralının uygulanmasını önlemez. Öte yandan memuriyetten ayrılan kişinin, memur
+iken işlediği suçtan dolayı, gerek savunmasının alınması, gerekse itiraz hakkını kullanması, hizmet
+gördüğü zamana ilişkin olduğundan, artık memuriyet sıfatı kalmamıştır, şeklinde bir düşünceyle
+ortadan kaldırılamaz.” (Danıştay 3. D, 27.1.1977, E. 1977/47, K. 1977/42, DBİM)
+4. Zamanaşımı
+Yönetmelikte sayılan disiplin suçu niteliğindeki fiil ve halleri işleyenler hakkında bu fiil ve
+hallerin işlenildiğinin soruşturmaya yetkili amirlerce öğrenildiği tarihten itibaren;
+a) Uyarma, kınama, aylıktan kesme ve kademe ilerlemesinin durdurulması cezalarında bir ay
+içinde,
+b) Memurluktan çıkarma cezasında altı ay içinde
+disiplin soruşturmasına başlanmadığı takdirde disiplin cezası verme yetkisi zamanaşımına
+uğrar (m. 19/f.1). Bu süreler uygun olarak başlamış olan soruşturma iki ay içerisinde bitirilmelidir. İki
+aylık soruşturma süresinin yeterli olmaması halinde soruşturmacı, gerekçelerini belirterek ek süre talep
+edebilir (m. 22).
+Disiplin cezasını gerektiren fiil ve hallerin işlendiği tarihten itibaren nihayet iki yıl içinde
+
+disiplin cezası verilmediği takdirde ceza verme yetkisi zamanaşımına uğrar (m. 19/f.2).
+5.Yazışma Şekli
+Disiplin soruşturması sürecinde kişilerle olan yazışmalar “iadeli taahhütlü” olarak yapılır.
+Evrakın elden verilmesi halinde alınacak imzalı belge dosyada muhafaza edilir. Diğer hususlarda 7201
+sayılı Tebligat Kanunu hükümleri uygulanır (m. 52).
+B. Disiplin Suçunu Soruşturmaya Yetkili Amir
+Disiplin suçunu soruşturmaya yetkili amir, sıralı disiplin amirleridir. Disiplin Amiri, disiplin suçu
+hakkında bizzat veya bildirim üzerine bilgi sahibi olduğunda soruşturmayı kendisi yapabileceği gibi
+soruşturmacı tayini sureti ile de yaptırabilir. Yükseköğretim Kurulu Başkanı, üst kuruluşlar ile bütün
+yükseköğretim kurumlarının; Rektör, bütün üniversitenin, Dekan, bütün fakültenin; Enstitü veya
+yüksekokul müdürü, bütün enstitü veya yüksekokulun her kademesindeki görevlilerin disiplin amiri
+olup bunlar hakkında resen disiplin soruşturması açabilir veya açtırabilir. Bölüm Başkanı, anabilim,
+anasanat, bilim veya sanat dalları başkanları görev alanları ile ilgili disiplin soruşturma taleplerini en
+yakın disiplin amirine yaparlar. Bu talep gecikilmeden uygulanmaya konulur (m. 17/f.1).
+Rektörler hakkında soruşturma açılması Yükseköğretim Kurulu Başkanının kararı ile olur. Bu
+soruşturma Yükseköğretim Denetleme Kurulu üyeleri tarafından yapılır (m. 18).
+Üst disiplin amirinin soruşturma açtığı veya açtırdığı disiplin olayında alt disiplin amiri ayrıca
+soruşturma yapamaz veya yaptıramaz. Daha önce açılmış soruşturma varsa bunlar üst amirin açtığı
+veya açtırdığı soruşturma dosyası ile birleştirilir (m. 17/f.3).
+C. Disiplin Suçu İşlendiğinin Öğrenilmesi
+Disiplin suçu oluşturan eylem ve işlemlerin gerçekleştirildiği çeşitli şekillerde öğrenilebilir:
+a) Disiplin amirleri, disiplin suçunu bizzat öğrenebilir.
+b) Disiplin suçu işlendiğini tespit eden başka merci veya kişiler yahut disiplin suçu teşkil eden
+fiile maruz kalan kişiler; fiili, disiplin amirine bildirebilir.
+c) Yapılan denetim ve incelemeler sonucunda disiplin suçu işlendiği öğrenilebilir.
+d) Aynı fiil hakkında başlatılan adli veya idari soruşturma sonucunda öğrenilebilir.
+D. Soruşturma Açma Kararı
+
+Ne Yönetmelikte ne de 657 sayılı Kanunda “soruşturma açma kararı” verilmesinden söz
+edilmemektedir. Danıştay, soruşturma ile yetkili makamların disiplin suçunu öğrenerek harekete
+geçmesi ile soruşturmanın açılmış olduğu yönünde kararlar vermektedir: "Soruşturma bilgi-belge
+toplayarak bir durumu aydınlatmak için yapılır. Disiplin soruşturması açılması ise yetkili kurulların
+harekete geçmesi, bu konuda çalışma yapması demektir. ...savunmanın alınmış olması, disiplin
+soruşturması açıldığı ve yapıldığını gösterir. ...davacının eylemi nedeniyle disiplin amirince savunması
+alınmakla disiplin soruşturması açıldığı anlaşılmaktadır.” (Danıştay 8. D, 30.3.1992, E. 1991/1706, K.
+1992/549, DBİM).
+Buna göre; disiplin soruşturması açmakla yetkili makamların, yazılı bir “soruşturma açma
+kararı” vermeleri bakımından bir zorunluluk yoktur. Disiplin suçunun öğrenilmesi üzerine ilk soruşturma
+işleminin yapılması ile soruşturma da kendiliğinden açılmış olacaktır.
+E. Soruşturma Emri (Soruşturma Onayı) Verilerek Soruşturmacı Tayin Edilmesi
+Disiplin suçunu soruşturmaya yetkili makam (disiplin amiri), soruşturmayı kendisi yapabileceği
+gibi soruşturmacı tayini sureti ile de yaptırabilir (m. 17/f.1). Öğretim elemanlarından soruşturmacı
+tayin edilmesi halinde, bunların sanığın akademik unvanına veya daha üst akademik unvana sahip
+olmaları şarttır. Yöneticiler hakkındaki soruşturmalarda unvan eşitliği veya üstlüğü aranır (m. 17/f.2)
+(ÖRNEK 1).
+657 sayılı Kanunun uygulamasında, Kanunda açık hüküm bulunmaması nedeniyle, disiplin
+soruşturmasının soruşturmacı tayini suretiyle yapılmasının zorunlu olup olmadığı, bir başka ifadeyle
+soruşturma yetkisine sahip disiplin amirinin soruşturmayı bizzat yapıp yapamayacağı Danıştay
+içtihatlarında tartışmalı iken; Yönetmelikte yukarıdaki hükme yer verilmek suretiyle yükseköğretim
+kurumları açısından bu tartışmalı duruma son verilmiştir. Yönetmelik'e göre; yükseköğretim
+kurumlarında disiplin soruşturması disiplin amiri tarafından bizzat yapılabileceği gibi, soruşturmacı tayin
+edilmek suretiyle de yapılabilir.
+Ancak hemen belirtilmesi gerekir ki; disiplin soruşturmasının disiplin amiri tarafından bizzat
+yürütülmesi mümkün olmakla birlikte, soruşturmanın aynı zamanda disiplin cezası vermekle de yetkili
+olan disiplin amiri tarafından değil, ayrıca atanacak bir soruşturmacı tarafından yürütülüp
+sonuçlandırılması  daha  uygundur.  Disiplin  cezalarının  idari  işlem  niteliğini  taşımasına  rağmen,  
+Danıştay,
+ceza hukukunda hakim olan birçok ilkeyi disiplin suç ve cezaları alanında da uygulamaktadır. Disiplin
+amirinin; hem disiplin soruşturmasını yürütmesi ve bu kapsamda delil toplaması hem de bu delilleri
+değerlendirerek disiplin cezası vermesi ceza usul hukukunda hakim olan “çelişme ilkesi” ne aykırıdır.
+Diğer taraftan, disiplin soruşturmasının bizzat disiplin amiri tarafından yürütülmesi halinde, ayrı bir
+disiplin soruşturması raporu düzenlenmesine gerek duyulmaması ihtimali vardır. Bu durum; disiplin
+işleminin yargısal denetiminin sağlıklı bir şekilde yapılmasını tehlikeye düşürdüğü gibi, disiplin amirinin
+objektif hareket edip etmediği konusunda şüphelere neden olacaktır.
+
+Nitekim, Danıştay; verdiği bir kararda, disiplin soruşturmasıyla görevlendirilen kişinin, disiplin
+kurulunda yer alarak oy kullanamayacağını belirtmiştir: "Disiplin kurulu kararlarının sağlıklı ve objektif
+olması, kararı veren kurul üyelerinin, olayı objektif değerlendirebilmeleriyle mümkündür. Bu itibarla,
+disiplin soruşturmasıyla görevlendirilen kişinin, delilleri toplayıp, ilgilinin savunmasını alıp, kendi
+kanaatını da bildirir şekilde hazırladığı soruşturma raporunun disiplin kuruluna intikalinden sonra,
+kurula katılarak oy kullanması disiplin hukukunda kabul edilmemektedir... soruşturmacının disiplin
+kuruluna katılarak oy kullanması, bu disiplin kurulu tarafından verilen disiplin cezasını hukuken
+sakatlar.” (Danıştay 8. D, 17.6.1999, E. 1997/3109, K. 1999/4030, DD, sayı. 102, s. 504).
+Ayrıca, Yönetmeliğinin “Görüşme Usulü” başlığını taşıyan 39. maddesinde, kurulun gerekli
+görürse soruşturmacıları da dinleyebileceği belirtilmek suretiyle esasen soruşturmacıların disiplin
+kurulunda bulunamayacakları zımnen kabul edilmiştir. Dolayısıyla, aynı zamanda ceza vermeye de
+yetkili olan disiplin amirin, disiplin soruşturmasını soruşturmacı tayin etmek suretiyle yapması yerinde
+olacaktır.
+Disiplin soruşturması, soruşturmacı olarak tayin edilen kimsenin bu konuda resmi olarak
+görevlendirilmesi, yani soruşturma emri verilmesi ile başlar. Soruşturma emri, soruşturma onayı
+düzenlenmesi suretiyle verilir. Danıştay, usulüne uygun bir soruşturma emri verilmeden disiplin cezası
+verilmesini iptal nedeni teşkil eden bir usul sakatlığı saymaktadır: “disiplin soruşturması yapan kişinin
+yetkili merciler tarafından bu iş için görevlendirilmiş olması gerekli bulunmaktadır.” (Danıştay 10. D,
+14.1.1985, E. 1984/492, K. 1985/10, DD., sayı. 60-61, s. 449)
+Soruşturma emri; disiplin soruşturmasını yapmaya yetkili olan ve Yönetmeliğin 17. maddesinin
+1. fıkrasında belirtilen disiplin amirleri tarafından verilmelidir. Soruşturma emrini verme yetkisi,
+belirtilen disiplin amirlerine aittir. Soruşturma emrini veren disiplin amiri, soruşturmanın sınırlarını da
+belirlemelidir. Soruşturma yetkisine sahip disiplin amiri, vereceği soruşturma emrinde, soruşturmanın
+konusunu oluşturan “fiil”i ve kimin hakkında soruşturma yapılacağını açıkça belirtmelidir.
+Soruşturma emrinde “fiil'in ne olduğu ve sınırları açıkça belirtilmelidir. Çünkü soruşturma
+sırasında soruşturma onayı verilen fiilden tamamen farklı bir suç olarak nitelendirilebilecek bir fiil
+ortaya çıktığında, yeniden soruşturma onayı alınması gerekir. Fiilin kim tarafından işlendiği henüz belli
+değil ise, yine soruşturma emri verilebilir. Ancak soruşturma sırasında fiilin kim tarafından işlendiğinin
+belirlenmesinden sonra soruşturmanın sürdürülebilmesi için, soruşturmacının, disiplin amirinden yazılı
+onay alması gerekir.
+F. Soruşturma Kapsamında Yapılacak İşlemeler Ve Soruşturmacının Yetkileri
+Soruşturmacının veya soruşturma komisyonunun ilk olarak, yapacağı işlerle ilgili bir tutanak
+hazırlaması uygun olur (ÖRNEK 2).
+
+Danıştay'ın da belirttiği üzere; "disiplin suçlarıyla ilgili soruşturma yapılmasından amaç,
+olaylarla, kanıtlarının, suçun işleniş koşulları, oluş biçimi, sonuçları ve ilgililerin kişisel durumları göz
+önünde tutularak yansız bir biçimde incelenip değerlendirilmesi ve böylece cezalandırma yönünden
+sağlıklı bir sonuca ulaşılmasıdır.” (Danıştay 8. D, 25.10.1978, E. 1977/3246, K. 1978/6317, DD, sayı.
+34-35, s. 382). Soruşturmanın amacı; disiplin suçu teşkil ettiği ileri sürülen fiil ve bu fiili işlediği iddia
+edilen kişi hakkında her türlü araştırmayı yaparak sorumluluğun belirlenmesidir.
+İşte bu belirlemenin yapılabilmesi için, soruşturmacı; tanık dinler, keşif yapabilir ve bilirkişiye
+başvurabileceği gibi bunları gerektiğinde istinabe sureti ile de yaptırabilir. Her soruşturma işlemi bir
+tutanakla tespit olunur. Tutanak; işlemin nerede ve ne zaman yapıldığı, işlemin mahiyeti, kimlerin
+katıldığı, ifade alınmış ise soruları ve cevapları belirtecek şekilde düzenlenir ve soruşturmacı, katip ile
+ifade sahibi veya keşif sırasında hazır bulundurulanlar veya belge sorumlularınca imzalanır. İstinabe
+talimatında; tanığın kimliği, adresi ve benzeri açıklayıcı bilgiler iyice belirtilir. Sorulacak sorular dikkatle
+tespit olunur. Tanığa yemin ettirilmesi hususu belirtilir (m.23/f.1).
+Tanığın ifadesi alınmadan önce, yemin ettirilmesi ve yeminin şeklinin de belirtilmesi gerekir.
+Buna karşılık ilgilinin savunması alınırken yemin ettirilmemelidir; aksi halde işlem sakatlanır.
+Yükseköğretim Kurumlarının bütün personeli veya diğer kamu veya özel kuruluş yetkilileri
+disiplin soruşturmacılarının istedikleri her türlü bilgi, dosya ve başka belgeleri hiçbir gecikmeye mahal
+bırakmaksızın vermeye ve istenecek yardımları yerine getirmeye mecburdurlar (m.23/f.2). Bu
+yükümlülüğe aykırı hareket edenler veya disiplin soruşturmasını geciktirenler veya buna sebebiyet
+verenler hakkında disiplin soruşturması açılır (m.23/f.3).
+1. Soruşturma Süresi Ve Ek Süre Talebi
+Soruşturmanın soruşturmacı tayini suretiyle yapılması halinde, soruşturma emri gecikilmeksizin
+soruşturmacıya bildirilir. Soruşturmacı, soruşturmayı kararın kendisine tebliğinden itibaren iki ay
+içerisinde bitirir. Bu süre içerisinde soruşturma bitirilmiyor ise soruşturmacı, gerekçeli olarak ek süre
+talebinde bulunur (ÖRNEK 3). Disiplin amiri, ek süre vermesi halinde, durumu bir üst disiplin amirine
+bilgi olarak sunar (m. 22).
+2. İlgiliye Savunma İstem Yazısının Tebliği Ve İlgilinin Savunmasının Alınması
+Savunma alınmadan disiplin cezası verilemez. Soruşturmayı yapanın veya disiplin kurulunun
+yedi günden az olmamak üzere verdiği süre içerisinde veya belirtilen bir tarihte savunmasını
+yapmayanlar savunma hakkından vazgeçmiş sayılırlar. Sanığa gönderilen yazıda, hakkında disiplin
+soruşturması açılan fiilin neden ibaret bulunduğu, savunmasını belirtilen sürede yapmadığı takdirde
+savunmasından vazgeçmiş sayılacağı bildirilir (m. 24) (ÖRNEK 4).
+
+Savunma hakkı, disiplin hukukunda hakkında soruşturma başlatılan ilgili açısından önemli bir
+teminattır. İlgiliye savunma hakkı tanınmadan disiplin cezası verilmesi bir iptal nedenidir (Danıştay 3 D,
+7.11.1983, E. 1982/2516, K. 1983/2568, DD, sayı. 54-55, s. 163). Savunma hakkının kullanılabilmesi
+için, disiplin suçu oluşturan fiilin ne olduğunun ve sınırlarının (yer, zaman, oluş biçimi vs.) ilgiliye
+bildirilmesi gerekir.
+İlgiliye, savunmasını hazırlaması için, yedi günden az olmamak üzere süre verilmesi
+gerekir. İlgilinin bu süre içerisinde savunma yapmaması; sadece savunma hakkından vazgeçmiş
+sayılacağı anlamına gelip, disiplin suçu oluşturan fiili işlediğini ikrar ettiği anlamına gelmez. İlgilinin
+savunma yapmayarak savunma hakkından vazgeçmiş olması, soruşturmacının soruşturma raporunda
+belirteceği kanaati yahut disiplin cezası vermeye yetkili makamın alacağı kararı olumsuz olarak
+etkilemez. Böyle bir durumda, soruşturma sırasında toplanan diğer belge ve bilgilere göre
+değerlendirme yapılarak karar verilmesi gerekir.
+Danıştay; savunma hakkının kullanılmasında, ilgilinin savunma dokunulmazlığından (TCK
+m. 486) yararlanabileceğini kabul etmiştir (Danıştay 3 D, 12.5.1983, E. 1982/4144, K. 1983/1601, DD,
+sayı. 52-53, s. 175).
+İlgilinin, belirtilen yer, gün ve saatte savunmasını yapmak üzere hazır bulunması
+ve fakat sorulan sorulara veya bazı sorulara cevap vermek istememesi halinde, ilgili cevap
+vermeye zorlanmamalıdır. Anayasa Mahkemesi; disiplin cezalarının, Anayasanın 38. maddesindeki
+suç ve cezalara ilişkin kurallara tabi olacağını belirtmiştir. Anayasanın 38. maddesinin 5. fıkrasına göre;
+“Hiç kimse kendisini ve kanunda gösterilen yakınlarını suçlayan bir beyanda bulunmaya veya bu yolda
+delil göstermeye zorlanamaz.” Sorulan sorulara cevap vermemesi, ilgilinin aleyhine değerlendirilemez.
+Nitekim, ilgili için savunma yapmak bir hak olup, ilgilinin savunma yapmak için gelmek zorunda
+olmaması; sorulan sorulara cevap vermek istememesi halinde zorlanamayacağını da göstermektedir
+(ÖRNEK 5).
+3. Tanığa İfade İstem Yazısının Tebliği Ve Tanığın İfadesinin Alınması
+Soruşturmacı; varsa tanık dinleyebilir ve gerektiğinde bunu istinabe sureti ile de yaptırabilir.
+Tanık ifade vermesi için davet olunur (ÖRNEK 6) ve tanığın ifadesinin alınması işlemi bir tutanakla
+tespit olunur (ÖRNEK 7). Tutanak; işlemin nerede ve ne zaman yapıldığı, işlemin mahiyeti, kimlerin
+katıldığı, ifade alınmış ise soruları ve cevapları belirtecek şekilde düzenlenir ve soruşturmacı, katip ile
+ifade sahibi tarafından imzalanır. İstinabe talimatında; tanığın kimliği, adresi ve benzeri açıklayıcı
+bilgiler iyice belirtilir. Sorulacak sorular dikkatle tespit olunur. Tanığa yemin ettirilmesi hususu belirtilir
+(m.23/f.1).
+Tanığın ifadesi alınmadan önce, yemin ettirilmesi ve yeminin şeklinin de belirtilmesi gerekir.
+
+4. İlgili Kurum Ve Kuruluşlardan Bilgi İstenmesi
+Soruşturmacı; soruşturma sırasında gerekli gördüğü bilgi ve belgeleri kamu veya özel
+kurumlardan isteme yetkisine sahiptir (ÖRNEK 8). Yükseköğretim Kurumlarının bütün personeli veya
+diğer kamu veya özel kuruluş yetkilileri; disiplin soruşturmacılarının istedikleri her türlü bilgi, dosya ve
+başka belgeleri hiçbir gecikmeye mahal bırakmaksızın vermeye ve istenecek yardımları yerine
+getirmeye mecburdurlar (m. 23/f.2). Bu yükümlülüğe aykırı hareket edenler veya disiplin
+soruşturmasını geciktirenler veya buna sebebiyet verenler hakkında disiplin soruşturması açılır (m.
+23/f.3).
+5. Keşif Yapma
+Soruşturmacı; gerekiyorsa keşif yapabilir. Keşif işlemi bir tutanakla tespit olunur. Tutanak;
+işlemin nerede ve ne zaman yapıldığı, işlemin mahiyeti, kimlerin katıldığı, keşif sırasında ifade alınmış
+ise, soruları ve cevapları belirtecek şekilde düzenlenir ve soruşturmacı, katip ile ifade sahibi veya keşif
+sırasında hazır bulundurulanlar veya belge sorumlularınca imzalanır (m.23/f.1).
+6. Bilirkişi İncelemesi Yaptırma
+Soruşturmacı; disiplin suçu teşkil eden fiilin soruşturulmasında çözümü özel ve teknik bilgiyi
+gerektiren konularda bilirkişi incelemesi yaptırabilir. Bilirkişi olarak görevlendirilen kişi veya kuruma
+gönderilecek yazıda, hangi konuda bilirkişi incelemesi talep edildiği açık bir şekilde belirtilmelidir (m.
+23/f.1).
+7. Soruşturma Raporu
+Soruşturma sona erince bir rapor düzenlenir (ÖRNEK 8). Raporda;
+a) soruşturma onayı,
+b) soruşturmaya başlama tarihi,
+c) soruşturulanın kimliği, resmi sıfatı,
+d) suç konuları,
+e) soruşturmanın safhaları,
+f) deliller,
+g) alınan savunmanın özeti.
+
+h) her suç maddesi ayrı ayrı tahlil edilerek delillere göre suçun sabit olup olmadığı tartışılır,
+i) uygulanacak ceza teklif edilir.
+Varsa belge asıl veya suretleri bir dizi pusulasına bağlanarak rapora eklenir. Rapor
+gecikilmeden onay merciine tevdi edilir (m. 25).
+8. Soruşturma Raporunun Disiplin Amirine Tevdi Edilmesi
+Yönetmeliğin 25. maddesine göre; soruşturmacı, hazırladığı soruşturma raporunu (ÖRNEK 9),
+varsa belge asıl veya suretlerini bir dizi pusulasına bağlayarak gecikmeksizin soruşturma onayını
+vermiş olan disiplin amirine tevdi etmekle yükümlüdür. Yönetmeliğin 5i. maddesine göre; disiplin
+soruşturma dosyaları, dizi pusulasıyla birlikte teslim edilir ve alınır. Dizi pusulasının altında teslim eden
+ve alanın imzaları bulunur (ÖRNEK 10).
+III. SORUŞTURMA SÜRECİNDE ALINABİLECEK TEDBİR (GÖREVDEN UZAKLAŞTIRMA)
+Görevden uzaklaştırma; devlet kamu hizmetinin gerektirdiği hallerde, görevi başında
+kalmasında sakınca görülecek üst kuruluşlar ile yükseköğretim kurumu yöneticileri, öğretim elemanları,
+memurlar ve diğer personel hakkında alınan ihtiyati bir tedbirdir. Görevden uzaklaştırma tedbiri
+soruşturmanın herhangi bir safhasında alınabilir (m. 26).
+A. Yetkili Makam
+Görevden uzaklaştırmaya yetkililer şunlardır (m. 27):
+a) Atamaya yetkili amirler,
+b) Yükseköğretim Denetleme Kurulu Üyeleri (İnceleme veya soruşturma ile görevli),
+Rektörlerin görevden uzaklaştırılabilmesi için Yükseköğretim Yürütme Kurulunun kararı şarttır.
+Bütün görevden uzaklaştırma kararları atamaya yetkili amirlere ve Yükseköğretim Kuruluna bildirilir.
+B. Yetkili Makamın Sorumluluğu
+Görevinden uzaklaştırılanlar hakkında görevden uzaklaştırmayı izleyen 10 iş günü içinde
+soruşturmaya başlanması şarttır (m. 28/f.1). Görevden uzaklaştırma işleminden sonra süresi içinde
+soruşturmaya başlamayan; bu işlemi keyfi olarak veya garaz ya da kini dolayısı ile yaptığı, yaptırılan
+soruşturma sonunda anlaşılan yetkililer hukuki, mali ve cezai sorumluluğa tabidirler (m. 28/f.2).
+C. Görevden Uzaklaştırılan İlgilinin Hak Ve Yükümlülüğü
+
+Görevden uzaklaştırılan ilgiliye bu süre içinde aylığının üçte ikisi ödenir. İlgili, kanunların
+öngördüğü sosyal hak ve yardımlardan faydalanmaya devam eder (m.29/f.1).
+Bu yönetmeliğin 31. maddesinde sayılan durumların gerçekleşmesi halinde, bunların
+aylıklarının kesilmiş olan üçte biri kendilerine ödenir ve görevden uzakta geçirdikleri süre;
+derecelerindeki kademe ilerlemesinde ve bu sürenin dereceye yükselmesi için gerekli en az bekleme
+süresini aşan kısmı, üst dereceye yükselmeleri halinde, bu derecede kademe ilerlemesi yapılmak ve
+akademik yükselme için gerekli bekleme süresinden sayılmak suretiyle değerlendirilir (m. 29/f.2).
+D. Tedbirin Kaldırılması
+Soruşturma sonunda, üniversite öğretim mesleğinden veya kamu görevinden çıkarma cezası
+önerilme dışında, görevden uzaklaştırma tedbiri; 27. maddedeki yetkililerce, Yükseköğretim Denetleme
+Kurulu üyeleri tarafından uzaklaştırma durumunda ise Yükseköğretim Kurulu Başkanlığınca derhal
+kaldırılır (m. 30/f.1). Görevden uzaklaştırma tedbirini kaldırmayan görevli hakkında 28. madde hükmü
+uygulanır (m. 30/f.2).
+Görevden uzaklaştırma tedbiri, soruşturmaya konu olan fiiller, hizmetin devamına engel
+olmadığı hallerde 30. maddede belirtildiği şekilde her zaman kaldırılabilir (m. 32).
+E. Göreve İade
+Görevden uzaklaştırma tedbiri alınmakla beraber, soruşturma sonunda yetkili makam veya
+mercilerce hakkında üniversite öğretim mesleğinden veya kamu görevinden çıkarılmadan başka bir
+disiplin cezası verilenlerle, ceza kararından evvel haklarındaki disiplin kovuşturması af ile kaldırılanlar,
+bu kararların kesinleşmesi üzerine veya tedbirin üç ay sürmesi halinde derhal göreve iade edilirler (m.
+31).
+IV. DİSİPLİN CEZASININ VERİLMESİ
+A. Disiplin Cezası Vermeye Yetkili Amir Ve Kurullar
+Disiplin cezası vermeye yetkili amir ve kurullar şunlardır (m. 33):
+a) Uyarma, kınama ve aylıktan kesme cezaları disiplin amirleri tarafından verilir.
+b) Kademe ilerlemesinin durdurulması cezası, görevlinin bağlı olduğu kurumdaki disiplin
+kurulunun kararı alındıktan sonra atamaya yetkili amirler tarafından; dekanlar için ise, bu ceza disiplin
+
+amirinin teklifi üzerine Yüksek Disiplin Kurulu kararı ile verilir.
+c) Görevinden çekilmiş sayma ve yönetim görevinden ayırma cezaları, Disiplin Kurulu kararı
+alındıktan sonra atamaya yetkili amirler tarafından, dekanlar için bu cezalar disiplin amirinin teklifi
+üzerine Yüksek Disiplin Kurulu kararı ile verilir.
+d) Üniversite öğretim mesleğinden veya kamu görevinden çıkarma cezası disiplin amirlerinin
+bu yoldaki isteği üzerine, Yüksek Disiplin Kurulu kararı ile verilir.
+Disiplin Kurulları;
+a) Yükseköğretim Kurulunda:
+Genel Sekreterin başkanlığında i. Hukuk Müşaviri, Personel,  Araştırma-Planlama,
+Koordinasyon ile İdari ve Mali İşler Dairesi Başkanlarından teşekkül eden kurulu,
+b) Üniversitelerarası Kurulda:
+Genel Sekreterin başkanlığında Hukuk Müşaviri ile Personel Müdürü ve iki uzmandan teşekkül
+eden kurulu,
+c) Yükseköğretim Kurumlarında:
+Bu kurumların yönetim kurullarını ifade eder (m. 3).
+Yüksek Disiplin Kurulu ise; Yükseköğretim Yürütme Kurulunu, Yükseköğretim Kurulu
+üyelerinin, rektörlerin ve dekanların disiplin işlerinde Genel Kurulu ifade eder (m. 3).
+B. Disiplin Kurulları Ve Karar Verme Usulü
+1. Genel Bilgiler
+Disiplin kurullarında profesörlerle ilgili hususların görüşülmesinde doçent ve yardımcı
+doçentler, doçentlerle ilgili hususların görüşülmesinde yardımcı doçentler ve kendileri ile ilgili
+hususların görüşülmesinde ilgili üyeler görüşmelere katılamazlar. Bu sebeple Kurulun teşekkül
+edememesi halinde bir üst kurul görevlidir. Değişik dereceli kimselerin bir arada suç işlemeleri halinde
+soruşturma usülü ve görevli disiplin kurulu üst dereceli sanığa göre tayin edilir (m. 34).
+2. Kurulların Toplanması
+Toplantı gündeminin yapılması, ilgililere duyurulması, kurul çalışmalarının düzenli yürütülmesi
+
+başkan tarafından sağlanır (m. 36).
+Kurullar, başkanının çağrısı üzerine belirlenecek yer, gün ve saatte toplanırlar (m. 35).
+3. Toplantı Nisabı
+Yüksek Disiplin Kurulu olarak Yükseköğretim Genel Kurulunun toplantı nisabı ondört, Yürütme
+Kurulunun toplantı nisabı altı kişidir. Diğer disiplin kurullarının toplantı nisabı kurul üye tam sayısının
+yarıdan fazlasıdır (m. 37).
+4. Raportörlük
+Kurullarda raportörlük görevi, başkanın görevlendireceği üye tarafından yürütülür. Raportör
+üye havale edilecek dosyanın incelenmesini en geç 5 gün içinde tamamlar (m. 38).
+5. Görüşme Usulü
+Kurulda, raportörün açıklamaları dinlendikten sonra işin görüşülmesine geçilir. Kurul gerek
+görürse soruşturmacıları da dinleyebilir. Konunun aydınlandığı ve görüşmelerin yeterliği sonucuna
+varıldığında oylama yapılır ve karar başkan tarafından açıklanır (m. 39).
+6. Oylama
+Disiplin Kurullarında her üye oyunu kabul veya red yoluyla vermekle görevlidir. Çekimser oy
+kullanılmaz. Kararlar toplantıya katılanların salt çoğunluğu ile alınır. Oylamada Başkan oyunu en son
+kullanır. Oyların eşitliği halinde başkanın bulunduğu taraf çoğunluk sayılır. Karar özeti üyeler tarafından
+imzalanan bir tutanakla saptanır (m. 40)
+7. Karar
+Disiplin Kurulu ve Yüksek Disiplin Kurulunun ayrı bir ceza tayinine yetkisi yoktur, cezayı kabul
+veya reddederler. Red halinde atamaya yetkili amirler başka bir disiplin cezası vermekte serbesttirler
+(m. 41).
+a) Karar Süresi
+Disiplin amirleri uyarma, kınama ve aylıktan kesme cezalarını soruşturmanın tamamlandığı
+günden itibaren 15 gün içinde vermek zorundadırlar (m. 42/f.1).
+Kademe ilerlemesinin durdurulması cezasını gerektiren hallerde soruşturma dosyası, kararını
+bildirmek üzere yetkili disiplin kuruluna 15 gün içinde tevdi edilir. Disiplin kurulu, dosyayı aldığı tarihten
+
+itibaren 30 gün içinde soruşturma evrakına göre kararını bildirir (m. 42/f.2).
+Üniversite öğretim mesleğinden veya kamu görevinden çıkarma cezası için disiplin amirleri
+tarafından yaptırılan soruşturmaya ait dosya, Yüksek Disiplin Kuruluna tevdiinden itibaren azami altı ay
+içinde bu kurulca, karara bağlanır(m. 42/f.3).
+b) Yüksek Disiplin Kurulunun Karar Usulü
+Yüksek Disiplin Kurulu Kendisine intikal eden dosyaların incelenmesinde, gerekli gördüğü
+taktirde, ilgilinin sicil dosyasını ve her nevi evrakı incelemeye, ilgili kurumlardan bilgi almaya, yeminli
+tanık ve bilirkişi dinlemeye veya niyabeten dinletmeye, mahallen keşif yapmaya veya yaptırmaya
+yetkilidir (m. 43/f.1).
+c) İlgilinin Savunma Hakkı
+Danıştay'ın yerleşik içtihadı, soruşturmacının aldığı savunmanın esasen ifade alma niteliğini
+taşıdığı, savunma alınması konusunda disiplin cezası vermeye yetkili amirlerin yetkili olduğu, savunma
+hakkı ile ilgili sürenin disiplin cezası vermeye yetkili makamlar tarafından bir defaya mahsus olmak
+üzere tanınması gerektiği yönündedir: "müfettişlerce yapılan inceleme sırasında, hakkında inceleme
+yapılan memurun sadece olay hakkındaki bilgisi alınmakta olup, ifade alınması şeklinde de adlandırılan
+bu işlem savunma olarak kabul edilemeyeceği için, savunmanın bundan ayrı olarak disiplin cezası
+vermeye yetkili amir veya merci tarafından alınması gerekmektedir.” Kararda, savunmanın ceza verme
+yetkisini haiz amirler veya kurullarca istenmesi gerektiği, ceza verme yetkisi bulunmayan
+soruşturmacının aldığı ifadenin savunma sayılamayacağı belirtilmiştir (Danıştay 3. D, 29.5.1973, E.
+1973/272, K. 1973/269, DD, sayı. 12-13, s. 151).
+Buna göre; disiplin soruşturması sırasında soruşturmacı tarafından alınan savunmanın yanı
+sıra, disiplin cezası vermeye yetkili makamlar tarafından ilgiliye savunma hakkının tanınması gerekir.
+Disiplin cezasının verilmesinde, soruşturmacının almış olduğu savunma yeterli görülmemeli, disiplin
+cezası vermeye yetkili makamların ayrıca ilgilinin savunmasını alması aranmalıdır.
+Hakkında üniversite öğretim mesleğinden veya memurluktan çıkarma cezası istenenler, sicil
+dosyası hariç, soruşturma evrakını inceleme, tanık dinletme, disiplin kurulunda sözlü veya yazılı olarak
+kendisi veya vekili vasıtasıyla savunma yapma hakkına sahiptirler (m. 43/f.2).
+Sözkonusu hüküm, 657 sayılı DMK'nın 129. maddesi ile paraleldir. Diğer disiplin cezaları
+bakımından sadece yedi günden az olmamak üzere verilen süre içinde savunma hakkının
+kullanılması kabul edilmiş iken; üniversite öğretim mesleğinden veya memurluktan
+çıkarma cezası bakımından Yüksek Disiplin Kurulunda sicil dosyası hariç, soruşturma
+evrakını inceleme, tanık dinletme, disiplin kurunda bizzat veya vekil vasıtasıyla sözlü veya
+
+yazılı savunma yapma imkanı tanınmıştır. Ancak buradaki sorun, üniversite öğretim
+mesleğinden veya memurluktan çıkarma cezası gerektiren fiiller bakımından sözkonusu
+savunma hakkının nasıl kullanılacağıdır. Bir başka ifadeyle, Yüksek Disiplin Kurulunun
+ilgiliye savunma hakkını kullanması konusunda bir bildirim yapması mı gerekecek, yoksa
+böyle bir bildirim yapılmaksızın ilgilinin kendiliğinden başvurarak savunma hakkını
+kullanmak istediğini belirtmesi mi aranacaktır? Danıştay'ın bu konudaki kararlarında istikrar
+bulunmamaktadır. Danıştay, bir kararında, ilgiliye bu haklarını kullanıp kullanmayacağı konusunda
+bildirim yapılmamasını usul yönünden sakatlık sayarak iptal nedeni saymıştır (Danıştay 10. D,
+21.11.1984, E. 1984/1949, K. 1984/1948, DD, sayı. 58-59, s. 383). Danıştay, daha sonra verdiği bir
+kararda, disiplin kurulunun sadece ilgilinin savunmasını isteme yükümlülüğünün bulunduğunu, bunun
+dışında sözkonusu haklarını kullanıp kullanmayacağı konusunda ilgiliye bildirim yapma zorunluluğunun
+bulunmadığını, ilgilinin bu haklarını kullanmak üzere kendisinin başvurması gerektiğini kabul etmiştir
+(Danıştay 10. D, 24.6.1987, E. 1987/494, K. 1987/1392, DD, sayı. 68-69, s. 676).
+Uygulamada, Yüksek Disiplin Kurulu sadece ilgilinin savunmasını istemekle
+yetinmemeli, aynı zamanda savunma hakkının etkin bir şekilde gereği gibi kullanılmasına
+imkan vermek için belirtilen haklarının da mevcut olduğu, kullanılabileceği yer, zaman ve
+tarih bildirilmelidir.
+d) Karar Verilirken Dikkate Alınacak Hususlar
+Disiplin soruşturmasına konu olan fiilin, ilgili tarafından işlendiği kesin olarak
+kanıtlanamıyorsa, ilgili hakkında disiplin cezası verilemez (şüpheden sanık yararlanır). Nitekim
+Danıştay'a göre; "tutanakların incelenmesinden, davacıyı teşhis yönünden oldukça çelişkili ifadeler
+taşıdıkları, davacının bu kişilerden para talep edip aldığı hususunda kesin ve inandırıcı deliller
+bulunmadığı anlaşılmaktadır. Öte yandan, davacının cezalandırılmasına neden olan olayın ... farklı 
+farklı
+anlatıldığı da saptanmaktadır. Bu durumda üstüne atılı disiplin suçunu işlediği hiçbir şüpheye yer
+vermeyecek biçimde kesin olarak ortaya konmadan, çelişkili ifadeler dayanak alınarak davacının
+meslekten çıkarma cezası ile cezalandırılması yolundaki dava konusu işlemde hukuki isabet
+görülmemiştir.” (Danıştay 10. D, 27.10.1987, E. 1987/2015, K. 1987/1721, DD, Sayı. 70-71, s. 550).
+Disiplin cezası verilirken, Anayasal bir ilke olan “ölçülülük” ilkesi dikkate alınmalı; disiplin
+cezası, fiilin ağırlığı ile orantılı olmalıdır. Nitekim Danıştay'a göre; "bir memur hakkında takdir edilen
+disiplin cezası ile, ilgilinin eylemi arasında adil bir denge bulunması ilkesi disiplin hukukunun temel
+ilkelerindendir. Bu denge kurulurken, olayın oluş biçimi, ilgilinin suç kastının bulunup bulunmadığı,
+irade dışı etkenlerin eylemin meydana gelmesine etkisi gibi hususların göz önünde bulundurulması
+gerekmektedir.” (Danıştay 8. D, 11.12.1997, E. 1995/3680, K. 1997/3928, DD, sayı. 96, s. 408; Aynı
+yönde Danıştay 8. D, 12.10.1998, E. 1998/4988, K. 1998/3015, DD, sayı. 99, s. 380).
+
+Aynı fiilin, Yönetmeliğin disiplin suçunu düzenleyen birden fazla hükmünü ihlal etmesi halinde
+(fikri içtima), cezalandırmanın nasıl yapılacağı konusunda Yönetmelikte bir hüküm bulunmamaktadır.
+Danıştay'a göre; Akri içtima kuralı, disiplin cezaları bakımından da uygulanabilir. Böyle bir durumda fail
+hakkında, en ağır disiplin cezasını gerektiren hüküm uygulanacaktır (Danıştay 10. D, 18.2.1985, E.
+1984/399, K. 1985/244, DD, sayı. 81, s. 352).
+Daha önce disiplin cezası verilmesine neden olmuş bir fiilin, cezanın sicilden silinmesine ilişkin
+süre içinde yeniden işlenmesi halinde (tekerrür), bir derece ağır ceza uygulanır. Aynı derece cezayı
+gerektiren ve fakat farklı bir fiil nedeniyle verilen disiplin cezalarının üçüncü uygulanmasında bir derece
+ağır ceza verilir (m. 15).
+Geçmiş hizmetleri sırasında çalışmaları olumlu olan ve iyi veya çok iyi derecede sicil alan
+yönetici ve öğretim elemanları ile memurlar ve diğer personel için verilecek cezalarda bir derece hafif
+olanı uygulanabilir (m. 16). Bu hafifletici nedenin uygulanması, disiplin cezasını vermeye yetkili
+merciin takdirindedir. Bununla birlikte, Danıştay'a göre; idare, bu koşulları sağlayan ilgili hakkında
+sözkonusu hafifletici nedeni uygulamaması halinde, bunun gerekçesini göstermek zorundadır (Danıştay
+8. D, E. 1991/1399, K. 1991/1677, DD, Yıl. 22, sayı. 84-85, s. 570).
+Danıştay, “haksız tahrik”in disiplin cezaları bakımından da uygulanacağını kabul etmiştir
+(Danıştay 10. D., E. 1990/1103, K. 1990/2547, DD., Yıl. 22, 1992/82-83, s. 982).
+Disiplin cezasının verilmesine ilişkin kararda, karara karşı başvurulabilecek yollar
+gösterilmelidir. Anayasa'ya göre; “devlet, işlemlerinde, ilgili kişilerin hangi kanun yolları ve mercilere
+başvuracağını ve sürelerini belirtmek zorundadır.” (Anayasa m. 40/f.2).
+8. Kararın Yazılması
+Kararlar, verdikleri tarihten itibaren en geç 15 gün içinde raportörler tarafından gerekçeli
+olarak ve oybirliği veya çoğunlukla verildiği belirtilerek yazılır. Başkan ve üyeler tarafından imzalanır.
+Karşı görüşte olanlar, nedenlerini yazar ve imzalarlar (m. 44).
+9. Kararın İlgiliye Tebliği
+Ceza vermeye yetkili amirler tarafından verilen disiplin cezaları bu amirlerce; disiplin
+kurullarınca verilen cezalar bu kurulların Başkanlıklarınca kararların imzalarının tamamlanmasını 
+izleyen
+en çok on gün içinde ilgililere tebliğ olunur (m. 45/f.1).
+Ceza vermeye yetkili amirlerce disiplin kurulu kararlarına dayanılarak verilmiş olan cezalarda,
+bu kararlar da eklenir. Disiplin cezasının tebliği sırasında itiraz usul ve süresi yazılı olarak hatırlatılır (m.
+
+45/f.2).
+C. Disiplin Cezasının Uygulanması
+Disiplin cezaları verildiği tarihten itibaren hüküm ifade eder ve derhal uygulanır (m. 46/f.1).
+Aylıktan kesme cezası, cezanın veriliş tarihini takip eden aybaşında uygulanır. Verilen Disiplin
+cezaları sıralı sicil amirine üniversite öğretim mesleğinden çıkarma cezası bütün üniversite
+rektörlüklerine, kamu görevinden çıkarma cezası ise ayrıca Devlet Personel Dairesine bildirilir(m.
+46/f.2).
+V. DİSİPLİN CEZASINA KARŞI BAŞVURU YOLLARI
+Yönetmeliğin 47. maddesine göre; “Disiplin amirleri veya disiplin kurulları tarafından verilen
+disiplin cezalarına karşı itiraz bir üst disiplin amirine veya disiplin kurullarına yapılabilir.
+Bu Yönetmelikte yeralan disiplin cezalarına karşı idari yargı yoluna başvurulabilir.”
+Buna göre; ilgilinin, hakkında verilen disiplin cezasına karşı başvurabileceği iki kanun yolu
+vardır: İtiraz ve idari yargı yolu.
+Disiplin cezasının verilmesine ilişkin kararda, karara karşı başvurulabilecek yollar
+gösterilmelidir. Anayasa'ya göre; “devlet, işlemlerinde, ilgili kişilerin hangi kanun yolları ve mercilere
+başvuracağını ve sürelerini belirtmek zorundadır.” (Anayasa m. 40/f.2).
+A. İtiraz
+1. İtirazın Yapılacağı Merci
+Disiplin amirleri veya disiplin kurulları tarafından verilen disiplin cezalarına karşı itiraz bir üst
+disiplin amirine veya disiplin kurullarına yapılabilir (m. 47/f.1).
+2. İtiraz Süresi
+Disiplin amirleri ve disiplin kurulları tarafından verilen disiplin cezalarına karşı yapılacak
+itirazlarda süre kararın ilgiliye tebliği tarihinden itibaren 7 gündür. Bu süre içinde itiraz edilmeyen
+disiplin cezaları kesinleşir (m. 48/f.1).
+3. İtiraz Üzerine Yapılacak İşlem
+İtiraz mercileri; itiraz dilekçesi ile karar ve eklerinin, kendilerine intikalinden itibaren 30 gün
+içinde kararlarını vermek zorundadırlar (m. 48/f.3). 30 günlük süre, düzenleyici nitelikte olup; sürenin
+
+dolmasından sonra karar verilmesi, kararın hukuken geçerli olmasına engel değildir.
+İtiraz halinde, itiraz mercileri kararı gözden geçirerek verilen cezayı aynen kabul edebilecekleri
+gibi cezayı hafifletebilir veya tamamen kaldırabilirler (m. 48/f.2). Buna karşılık, itirazı incelemeye yetkili
+merciin cezayı ağırlaştırma yetkisi bulunmamaktadır (aleyhe değiştirme yasağı). Aleyhe değiştirme
+yasağı, evrensel nitelikte bir usul kuralıdır. Amaç; insanların, herhangi bir işleme veya karara karşı
+başvuru haklarını kullanırken bunun aleyhe sonuç doğurabileceği endişesine kapılmadan bu haklarını
+kullanabilmeleri imkanını sağlamaktır. Nitekim Danıştay'a göre; "karara vaki itirazı inceleyen disiplin
+kurulunun ... disiplin cezasını ağırlaştırmaması, diğer bir deyimle aleyhe sonuç doğuracak bir karar
+vermemesi gerekirken kısa süreli durdurma cezası kaldırılarak cezanın ağırlaştırılması suretiyle ...
+görevden çıkarma cezası ile cezalandırılmasında ... hukuka uyarlık bulunmamaktadır.” (Danıştay 3. D,
+30.3.1983, E. 1982/2920, K. 1983/1080, DD, sayı. 52-53, s. 176).
+Kaldırılan cezalar sicilden silinir(m. 48/f.4).
+B. İdari Yargı Yolu
+Yönetmelikte yer alan disiplin cezalarına karşı idari yargı yoluna başvurulabilir (m. 47/f.2).
+2577 sayılı İdari Yargılama Usulü Kanununun 7/1. maddesine göre; ilgili, hakkında verilen disiplin
+cezasına karşı, kararın tebliğini izleyen günden itibaren 60 gün içinde idari yargıda dava açma hakkına
+sahiptir.
+İdari yargı yoluna başvurmadan önce işleme itiraz edilmesi halinde ve isteğin reddedilmesi
+halinde, dava açma süresi yeniden işlemeye başlar ve başvurma tarihine kadar geçmiş süre de hesaba
+katılır (2577 sayılı İYUK m. 11). Dolayısıyla disiplin cezasına itiraz edilmesi, idari yargı yoluna başvurma
+süresini durduran bir nedendir.
+Danıştay; aleyhe değiştirme yasağını, idari yargı yolu için de uygulamaktadır (Danıştay 10.
+D, 19.12.1990, E. 1990/905, K. 1990/3076, DD, sayı. 82-83, s. 976).
+Disiplin cezasına karşı açılan idari davanın, red kararı ile sonuçlanması durumunda, yeni bir
+hukuki durum ortaya çıkmaz. Çünkü, disiplin cezalarına ilişkin kararlar, verildiği anda hüküm ifade eder
+ve derhal uygulanır. Dolayısıyla davanın reddedilmesi halinde yeniden işlem yapılmasına gerek yoktur.
+Dava sonunda disiplin cezası verilmesi kararının iptal edilmesi halinde, işlem tesis edildiği andan
+itibaren geriye etkili şekilde ortadan kalkmış sayılır. Bunun üzerine, disiplin cezasına ilişkin olarak
+ilgilinin sicilinde yer alan kayıtlar çıkarılır; disiplin cezasının ilgili bakımından doğurduğu diğer sonuçlar
+da kaldırılır (Sözgelimi, aylıktan kesme cezasında kesilen aylık ilgiliye ödenir, yapılmayan kademe
+ilerlemesi yapılır vs.).
+VI. DİSİPLİN CEZALARININ SİCİLDEN SİLİNMESİ
+
+Disiplin cezaları sicile işlenir. Üniversite öğretim mesleğinden veya kamu görevinden çıkarma
+cezasından başka bir disiplin cezasına çarptırılmış olanlar; uyarma ve kınama cezalarının
+uygulanmasından 5 sene, diğer cezaların uygulanmasından 10 sene sonra, atamaya yetkili amire
+başvurarak, verilmiş olan cezalarının sicil dosyasından silinmesini isteyebilir (m. 49/f.1).
+Ceza alan kişinin, yukarıda yazılan süreler içerisindeki davranışları, bu isteği haklı kılacak
+nitelikte görülürse, isteğinin yerine getirilmesine karar verilerek bu karar sicil dosyasına işlenir (m.
+49/f.2).
+Kademe ilerlemesinin durdurulması cezasının sicilden silinmesinde disiplin kurulunun mütalâası
+alındıktan sonra yukarıdaki fikra hükmü uygulanır (m. 49/f.3).
+VII. TUTANAK ÖRNEKLERİ
+(ÖRNEK 1)
+DİSİPLİN SORUŞTURMASI EMRİ
+(Soruşturmacı tayin edilecek ise)
+Yer / Tarih
+İlgi ve Sayı:
+Sayın (Soruşturmacı),
+Üniversitemiz ...'de .....olarak görevli (ilgili)'nin, (fiil)'ini işlediği ... tarihinde ... yoluyla tespit
+edilmiştir.
+İlgilinin işlediği iddia edilen fiil hakkında soruşturma yapmakla görevlendirilmiş
+bulunmaktasınız. Disiplin soruşturmasını yaparak, soruşturma raporunuzu süresi içinde (makamımız)'a
+teslim etmenizi rica ederim.
+Disiplin Amiri
+Ek: 1 adet dilekçe (fiile maruz kalan kişinin fiili bildiren dilekçesi vb.)
+(ÖRNEK 2)
+TUTANAK
+(Soruşturmacının veya Komisyonun yapacağı işlerle ilgili)
+TUTANAK
+
+Rektörlük Makamının ......tarih ve ........ sayılı emrine dayanarak ............. tarihinde .............
+odasında toplanıldı ve soruşturma emrinde adı geçen sanık ..................hakkındaki disiplin soruşturması
+başlatıldı.
+Soruşturma süresince yazı işlerini yürütmek üzere ....... oğlu/kızı ...... 'den olma ...... yılı
+doğumlu ....... yeminli katip olarak görevlendirilmiş ve duyduklarını bildiklerini kimseye
+söylemeyeceğine dair yemin ettirildi. (Not: Katip görevlendirmek isteğe bağlıdır).
+Yapılan bu oturum ile hakkında disiplin soruşturması açılan sanığa savunma yapmak üzere
+davetiye gönderilmesine, konu hakkında bilgisi olan tanıkların çağırılarak ifadelerinin alınmasına,
+sanığın daha önce herhangi bir disiplin cezası alıp-almadığının rektörlükten sorulmasına ve işbu
+tutanağın düzenlenmesine karar verildi.
+Soruşturmacı (veya Komisyon) Yeminli Katip (varsa)
+imza imza
+(ÖRNEK 3)
+EK SÜRE İSTEM YAZISI
+«« MAKAMI'NA
+İlgi: ... gün ve ... sayılı yazınız
+İlgi yazı ile (ilgili) hakkında (fiil)'ini işlediği iddiası ile, ... tarihinde, makamınızca disiplin soruşturması
+başlatılmıştır.
+İlgi yazı ile soruşturmacı olarak görevlendirilmiş bulunmaktayım. (Ek süre talebinin gerekçesi, sözgelimi
+soruşturmanın arzettiği özellik ve güçlük; araya giren tatil vs.) nedeniyle soruşturmanın yasal süresi
+içinde bitirilmesi mümkün gözükmemektedir. Soruşturmanın tamamlanabilmesi için ek süreye ihtiyaç
+vardır. .../.../... tarihine kadar ... günlük ek süre verilmesini,
+Saygılarımla arz ederim. (Tarih)
+Soruşturmacı
+(ÖRNEK 4)
+SAVUNMA İSTEM YAZISI
+Yer ve Tarih
+Görevi
+İlgi: ... makamının ... gün ve ... sayılı yazısı
+İlgi yazı ile ... (fiil)'ini işlediğiniz iddiası ile ... tarihinde hakkınızda disiplin soruşturması başlatılmıştır.
+İlgi yazı ile soruşturmacı olarak görevlendirilmiş bulunmaktayım. Yükseköğretim Kurumları Yönetici,
+
+Öğretim Elemanı ve Memurları Disiplin Yönetmeliği'nin 24. maddesi uyarınca savunma hakkınız
+bulunmaktadır.
+Olayla ilgili olarak savunmanızı yapmak üzere ... günü saat ...'da ... yerde hazır bulunmanız
+(verilen süre 7 günden az olmamalıdır); belirtilen tarihte savunmanızı yapmamanız halinde, savunma
+hakkınızdan vazgeçmiş sayılacağınız ve hakkınızda mevcut delillere göre soruşturma raporu
+düzenleneceği hususu önemle bildirilir.
+Soruşturmacı
+(ÖRNEK 5)
+SAVUNMA TUTANAĞI
+SORUŞTURMACI : (soruşturmacının adı,soyadı, görevi)
+SAVUNMA YAPAN : İlgili
+Kimlik bilgileri: ...
+Görevi: halen Üniversitemizde (görevi) olarak çalışmaktadır.
+Adresi:
+DİSİPLİN SUÇU 1: (Disiplin soruşturmasının konusu olan ve disiplin suçu
+oluşturan fiilin ayrıntılı açıklaması)
+SAVUNMA TARİHİ VE YERİ :... gün, saat ...'de, ... yerde
+SAVUNMAYI YAZAN : Yeminli Katip (adı-soyadı, görevi)
+YEMİNİN ŞEKLİ : Katip'e usulü dairesinde yemini ettirildi.
+İlgili'ye yemin ettirilmedi.
+SAVUNMA
+Sorui : Disiplin soruşturmasının konusu olan ve disiplin suçu oluşturan eylem ilgiliye anlatıldı.
+Disiplin soruşturması konusu olayla ilgili olarak bildiklerini anlatması istendi.
+Cevapi H
+Soru 2 :
+
+Cevap 2 H
+Olayla ilgili başka bir söyleyeceği olup olmadığı soruldu.
+Başka bir söyleyeceğim yoktur dedi. Okundu, imzası alındı. (Tarih)
+İlgili Yeminli Katip Soruşturmacı
+(ÖRNEK 6)
+TANIK İFADE İSTEM YAZISI
+Yer ve Tarih
+Sayın (tanık),
+İlgi: ... makamının ... gün ve ... sayılı yazısı
+İlgi yazı ile, (ilgili) hakkında (fiil)'ini işlediği iddiası ile, ... tarihinde, disiplin soruşturması başlatılmıştır.
+İlgi yazı ile soruşturmacı olarak görevlendirilmiş bulunmaktayım.
+Olayla ilgili olarak ifade vermek üzere ... günü saat ...'da ... yerde hazır bulunmanız
+gerekmektedir.
+Bilgilerinizi ve gereğini rica ederim.
+Soruşturmacı
+(ÖRNEK 7)
+TANIK İFADE TUTANAĞI
+SORUŞTURMACI : (soruşturmacının adı,soyadı, görevi)
+İFADE VEREN : Tanık
+Kimlik Bilgileri:
+Görevi:
+Adresi:
+İFADE KONUSU ! (Üniversitemiz ...'da .....olarak görevli (ilgili)'nin işlediği iddia
+edilen, disiplin soruşturmasının konusu olan ve disiplin suçu
+oluşturan fiil nedeniyle tanık ifadesinin alınması)
+İFADE TARİHİ VE YERİ 1... gün, saat ...'de, ... yerde
+İFADEYİ YAZAN : Yeminli Katip (adı-soyadı, görevi)
+YEMİNİN ŞEKLİ : Katip ... ve ifade veren tanık ...'a usulü dairesinde yemin
+
+ettirildi.
+İFADE 1
+Sorui : Üniversitemiz ... da .....olarak görevli (ilgili)'nin işlediği iddia edilen, disiplin
+soruşturmasının konusu olan ve disiplin suçu oluşturan eylem tanığa anlatıldı. Disiplin soruşturması
+konusu olayla ilgili olarak bildiklerini anlatması istendi.
+Cevapi H
+Soru 2:
+Cevap 3 H
+Olayla ilgili başka bir söyleyeceği olup olmadığı soruldu.
+Başka bir söyleyeceğim yoktur dedi. Okundu, imzası alındı. (Tarih)
+Tanık Yeminli Katip Soruşturmacı
+SİCİL ÖZETİ VE BELGE İSTEME
+(ÖRNEK 8)
+TC
+.« ÜNİVERSİTESİ
+«« PERSONEL DAİRE BAŞKANLIĞI'NA
+İlgi: ... makamının ... gün ve ... sayılı yazısı
+İlgi yazı ile Üniversitemiz *«'da .....olarak görevli (ilgili) hakkında (fiil)'i işlediği iddiası ile disiplin
+soruşturması başlatılmıştır. İlgi yazı ile soruşturmacı olarak görevlendirilmiş bulunmaktayım.
+Soruşturma kapsamında (ilgili)'nin sicil özetinin ve daha önce herhangi bir disiplin cezası alıp
+almadığının ivedilikle gönderilmesini;
+Bilgilerinizi ve gereğini arz ederim. (tarih)
+Soruşturmacı
+(ÖRNEK 8)
+SORUŞTURMA RAPORU
+SORUŞTURMACI : (soruşturmacının adı, soyadı, görevi)
+SORUŞTURMA ONAYI 1... makamının ... gün ve ...sayılı yazısı.
+
+HAKKINDA SORUŞTURMA YAPILAN İLGİLİ:
+İlgiliye Ait Kimlik Bilgileri  :
+Görevi ve Resmi Sıfatı :
+Sicil No :
+İlk İşe Giriş Tarihi :
+SUÇ KONUSU 1 (ilgilinin işlediği iddia edilen disiplin
+soruşturmasının konusu olan ve disiplin suçu
+oluşturan eylemin ayrıntılı açıklaması)
+SUÇ TARİHİ :
+SORUŞTURMAYA BAŞLAMATARİHİ :
+SORUŞTURMANIN SAFHALARI : (soruşturma süreci, soruşturma kapsamında
+yapılan işlemler madde madde yazılır)
+DELİLLER : Soruşturma kapsamında elde edilen bilgi ve
+belgeler (sanığın savunması, tanığın ifadesi
+vb.)
+SAVUNMA ÖZETİ :
+DELİLLERİN DEĞERLENDİRİLMESİ :
+SONUÇ :
+Teklifimizdir.
+Arz ederim. (Tarih)
+Soruşturmacı
+SORUŞTURMA DOSYASININ İADESİ
+(ÖRNEK 9)
+«« MAKAMI'NA
+
+İlgi: ... gün ve ... sayılı yazınız
+İlgi yazı ile (ilgili) hakkında (fiil)'ini işlediği iddiası ile, ... tarihinde, makamınızca disiplin soruşturması
+başlatılmıştır.
+İlgi yazı ile soruşturmacı olarak görevlendirilmiş bulunmaktayım. İlgili hakkında yapılan disiplin
+soruşturması neticesinde hazırlanan dosya ve soruşturma raporu ekte sunulmuştur.
+Gereğini saygılarımla arz ederim. (tarih)
+Soruşturmacı
+Ek: Soruşturma dosyası
+(ÖRNEK 10)
+SORUŞTURMA DOSYASI DİZİ PUSULASI
+1. Disiplin suçu işlendiğini bildiren dilekçe
+2. Disiplin amirinin ... gün ve ... sayılı soruşturma onayı ve soruşturmacı tayin yazısı.
+3. Ek süre istem yazısı
+4. Disiplin amirinin ek süre talebine ilişkin yazısı
+5. Soruşturmacının ... tarihli “ilgili” ye savunma istem yazısı
+6. Soruşturmacının ... tarihli “tanık” ifade istem yazısı
+7. Soruşturmacının Personel Daire Başkanlığından ... tarihli “Sicil Özeti ve Belge” istem yazısı
+8. ... tarihli bilirkişi incelemesi yaptırılmasına ilişkin istem yazısı
+9. ... tarihli, ... tarihinde ... yerde keşif yapılacağı ve keşif sırasında hazır bulunması istenen kişilere
+gönderilen yazı suretleri
+10. (ilgili)'nin ... tarihli savunma tutanağı
+11. (Tanık)'ın ... tarihli ifade tutanağı
+12. Personel Daire Başkanlığı'nın ... gün ve ... sayılı sicil özeti ekli yazısı
+13. Bilirkişi raporu
+14. Keşif tutanağı
+15. Soruşturma raporu
+Teslim Eden Teslim Alan Teslim Tarihi
+Soruşturmacı Disiplin Amiri sr | saf va

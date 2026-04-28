@@ -1,0 +1,427 @@
+FIRAT ÜNİVERSİTESİ FİKRİ VE SINAİ MÜLKİYET HAKLARI, BULUŞLARIN
+YÖNETİMİ VE TİCARİLEŞTİRİLMESİ YÖNERGESİ
+BİRİNCİ BÖLÜM
+Amaç ve Kapsam, Dayanak, Tanımlar ve Yükümlülükler
+Amaç ve kapsam
+MADDE 1 - Bu Politika ve Esaslar; Fırat Üniversitesi bünyesindeki araştırmacıların fikri ve
+sınai mülkiyet haklarının belirlenmesi, korunması, paylaşılması, lisanslanması ve
+ticarileştirilmesi konularındaki çalışma usul ve esasları düzenler. Bu yönerge, Fırat Üniversitesi
+ile buluş yapan Fırat Üniversitesi araştırmacılarının karşılıklı yükümlülük, hak ve sorumluluklarını
+kapsamaktadır.
+Dayanak
+MADDE 2 - Bu Politika ve Esaslar; 6/11/1981 tarihli Resmi Gazete'de yayımlanan 2547 sayılı
+Yükseköğretim Kanununa, 10/1/2017 tarihli Resmi Gazete'de yayımlanan 6769 sayılı Sınai
+Mülkiyet Kanununa ve 24/4/2017 tarihli ve 30047 sayılı Resmi Gazete'de yayımlanan Sınai
+Mülkiyet Kanununun Uygulanmasına Dair Yönetmeliğe dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 - Bu Politika ve Esaslarda geçen;
+a) FÜ: Fırat Üniversitesini,
+b) Rektör: Fırat Üniversitesi Rektörünü,
+c) Üniversite Yönetim Kurulu: Fırat Üniversitesi Yönetim Kurulunu,
+ç) Senato: Fırat Üniversitesi Senatosunu,
+d) Fırat Teknokent: Fırat Teknoloji Geliştirme Bölgesi Yönetici A.Ş.'yi,
+e) Fırat TTO: Fırat Teknoloji Geliştirme Bölgesi Yönetici A.Ş. bünyesinde kurulmuş
+Teknoloji Transfer Ofisini,
+f) Değerlendirme Komisyonu: Çalışanların ortaya çıkardığı buluşların, fikri haklar
+çerçevesinde değerlendirmesini yapan Fırat Üniversitesi Fikri ve Sınai Mülkiyet Değerlendirme
+Komisyonunu,
+g) İtiraz Komisyonu: FSMH başvuru sürecinde anlaşmazlık olması veya karara itiraz
+durumunda itiraz başvurusunu değerlendirerek yönetim kuruluna rapor eden komisyonu,
+ğ) Buluş: Herhangi bir alanda mevcut problemlere teknik çözüm getiren yeni bir cihaz, ürün
+veya yöntemlerin tümünü,
+h) Hizmet Buluşları: Araştırmacıların, Üniversite bünyesinde yaptıkları bilimsel çalışmalar
+veya araştırmalar sonucunda gerçekleştirdikleri buluşlar,
+1) Serbest Buluşlar: Hizmet buluşlarının dışında kalan diğer buluşlar ya da Üniversitenin hak
+talep etmediği buluşlar,
+i) Eser: Fikri haklara konu olan, fikir ve sanat eserleri kanunu gereğince eser olarak kabul
+edilen ve sahibinin hususiyetini taşıyan, akademik yayınlar, bilimsel edebi kitaplar, makale,
+ders/konferans notları gibi ilim ve edebiyat, musiki, güzel sanatlar veya sinema eserleri olarak
+sayılan her fikir ve sanat ürünleri,
+j) Çalışan: Özel hukuk sözleşmesi veya benzeri bir hukuki ilişki gereğince başkasının
+hizmetinde olan ve bu hizmet ilişkisini işverenin gösterdiği belli bir işle ilgili olarak kişisel bir
+
+bağımlılık içinde ona karşı yerine getirmekle yükümlü olan kişiler ile kamu görevlilerini,
+k) Araştırmacı: Fırat Üniversitesi öğretim üyeleri ve elemanlarını, idari personelini,
+öğrencilerini veya ortak proje veya araştırmalarda görev alanları,
+1) Buluş Sahibi/Buluşçu: Buluşu yapan kişi veya kişiler,
+m) Fikir Ürünü: Bir biçim verilerek ifade edilmiş fikirleri,
+n) Fikri ve Sınai Mülkiyet Hakları (FSMH): Tasarım, patent, marka, coğrafi işaret, entegre
+devre, faydalı model, geleneksel ürün adları ve benzerlerini,
+o) Endüstriyel Tasarım: Bir ürünün tümü veya bir parçası veya üzerindeki süslemenin, çizgi,
+şekil, biçim, renk, doku, malzeme veya esneklik gibi insan duyuları ile algılanan çeşitli unsur
+veya özelliklerin oluşturduğu bütünü,
+ö) Patent: Teknolojinin her alanındaki buluşlara; yeni olması, buluş basamağı içermesi ve
+sanayiye uygulanabilir olması koşuluyla ulusal patent ofisleri tarafından verilen yasal mülkiyet
+hakkını,
+p) Lisanslama: Fikri veya sınai mülkiyet hakları kullanımının bedel karşılığında
+devredilmesini,
+r) Marka: Bir teşebbüsün mallarının veya hizmetlerinin diğer teşebbüslerin mallarından veya
+hizmetlerinden ayırt edilmesini sağlaması ve marka sahibine sağlanan korumanın konusunun
+açık ve kesin olarak anlaşılmasını sağlayabilecek şekilde ve sicilde gösterilebilir olması
+koşuluyla; kişi adları dâhil sözcükler, şekiller, renkler, harfler, sayılar, sesler ve malların veya
+ambalajlarının biçimi olmak üzere her tür işareti,
+s) Spin-Off Şirketi: Bir kamu kurumu veya üniversitenin entelektüel birikimiyle kurulan küçük
+ve yeni teknoloji tabanlı şirketleri,
+ş) Start-Up: Yeni kurulmuş ve hızla büyüyen girişimi,
+t) Kuluçka Merkezi: Şirketlere belli koşullarda ve belli bir süre için rehberlik hizmeti sunan,
+ofis alanı sağlayan ve yatırımcı bulma gibi konularda destek olan merkezi,
+u) Buluş Bildirim Formu: Fırat TTO Fikri Haklar Birimi tarafından düzenlenmiş, buluş ve
+buluş sahibine dair bilgilerin bulunduğu, FSMH başvuru sürecini başlatan belgeyi,
+ü) Ticarileştirme: Fikri ve sınai mülkiyet haklarının; devir, lisanslama, kuluçka merkezi, start
+up ve spin-off şirketi aracılığıyla veya herhangi bir şekilde kullanılması da dâhil olmak üzere
+ticari amaçlı tasarrufunu,
+v) Yatırım: Belirli bir kaynağın veya değerin, gelir sağlamak amacıyla kalıcı bir biçimde
+kullanılmasını,
+y) Araştırma Anlaşması: Araştırmacılar tarafından Fırat Üniversitesi ve/veya başka
+üniversitelerin araştırmacıları veya üçüncü kişiler ile yapılan, araştırmalar ve/veya Fırat
+Üniversitesi'nde oluşturulan, araştırmanın başlamasından önce Fırat Üniversitesi'nde zaten var
+olan ve/veya araştırma faaliyetlerinden doğan fikri ürünleri ile ilgili olan Araştırma Hizmet
+Anlaşmaları, kamuya açıklama koşullarını da içeren Gizlilik Anlaşmaları, İşbirliği Araştırma
+ve Geliştirme Anlaşmaları, Materyal Transferi Anlaşmaları, Danışmanlık Anlaşmaları ve diğer
+anlaşma türlerini
+
+ifade eder.
+İKİNCİ BÖLÜM
+Fırat Üniversitesi Fikri ve Sınai Mülkiyet Değerlendirme Komisyonu
+Değerlendirme Komisyonu'nun Oluşumu
+MADDE 4 - Değerlendirme Komisyonu Rektör yada Rektör tarafından yetkilendirilen Rektör
+Yardımcısı, Fırat Teknokent Yöneticisi ve Senato tarafından seçilen en fazla 7 akademisyen
+üyeden oluşur. Değerlendirme Komisyonuna Rektör yada Rektör tarafından yetkilendirilen
+ilgili rektör yardımcısı başkanlık eder. Üyeler, 1 yıl süreyle görevlendirilir. Herhangi bir
+nedenle boşalan komisyon üyeliği için yukarda ifade edilen atanma süreci işler. Süresi dolan
+üye, yeniden görevlendirilebilir. Görevlerine başlamadan önce üyelerle gizlilik sözleşmesi
+imzalanır.
+İşleyişi
+MADDE 5 — Değerlendirme Komisyonu, üyelerin salt çoğunluğuyla toplanır. Kararlar, üye
+tam sayısının salt çoğunluğuyla alınır. Komisyon, — Üniversite bünyesinde konunun
+uzmanlarından gerekli gördüğü durumlarda görüş isteyebilir veya alt komisyonlar oluşturabilir.
+Değerlendirme Komisyonu kararları tavsiye niteliğinde olup Üniversite Yönetim Kurulunun
+onayını gerektirir.
+Görevi
+MADDE 6 — Değerlendirme Komisyonunun görevleri şunlardır:
+a) Kurula gönderilen Buluş Bildirim Raporlarını değerlendirerek konuyla ilgili kararını
+Üniversite Yönetim Kuruluna sunmak,
+b) Üniversitenin fikri ve sınai haklarla ilgili politikalarını belirlemek,
+c) Fikri ve sınai haklar kapsamındaki tüm fikir ürünlerini idari, hukuki ve ekonomik açıdan
+yönetmek,
+ç) Üniversite lehine korunan fikir ürünlerinin üçüncü kişiler tarafından izinsiz kullanımıyla
+oluşan hak ihlali durumlarını raporlayarak Üniversite Yönetim Kuruluna iletmek,
+d) Fikir ürünlerinin korunması için ulusal ve uluslararası başvuruların hangi ülkelerde
+yapılacağının kararını vermek,
+e) Konunun özelliğine ve belirlenmiş işletme politikalarına uygunluğuna göre bazı fikir
+ürünlerinin ticaret sırrı olarak saklanmasının ve açıklanmamasının kararını vermek,
+f) Bu politika ve esaslara uygun olarak fikir ürünlerine ilişkin hak sahipliğinden doğan haklarla
+ilgili bedelleri belirlemek,
+g) Teknoloji transferi, üniversite-sanayi işbirliği sonucunda ortaya çıkan/çıkabilecek fikri ve
+sınai haklar üzerindeki hak sahipliği konusunda gerekli kararları almak,
+ğ) Patent veya faydalı model belgelerine ilişkin yıllık ücretlerin yatırılması ile tasarımların ve
+markaların süresinde yenilenmesi kararlarını vermek ve uygulamak,
+h) Teknoloji Geliştirme Bölgesinde Üniversite öğretim elemanları tarafından üretilen bilgi
+sonucunda ortaya çıkan fikri ve sınai mülkiyet hak sahipliği konusunda Üniversite Yönetim
+
+Kuruluna görüş bildirmek,
+1) Gerekli durumlarda buluş bildirim formunun güncellenmesini/yeniden hazırlanmasını talep
+etmek,
+i) Üniversite Yönetim Kurulu tarafından verilen görevleri yapmaktır.
+ÜÇÜNCÜ BÖLÜM
+Fikri hak sahipliği, Buluş Bildirimi, FSMH Koruma ve Ticarileştirme Süreçleri,
+Gelirlerin dağıtımı
+Fikri hak sahipliği
+MADDE 7- (1) Buluş, araştırmacıların Üniversite bünyesinde yürüttükleri bilimsel çalışmalar
+ve araştırmalar sonucu ortaya çıkarılmışsa veya ortaya çıkarılmasında Üniversite'nin finansal
+veya lojistik açıdan desteği bulunmuşsa, bu takdirde buluş hizmet buluşudur ve ortaya çıkan
+Fikri ve Sınai Mülkiyet Haklarını değerlendirme hakkı Üniversite'ye aittir. Finansal destek
+Üniversite'nin sağladığı veya sağlanmasına aracılık ettiği fon vb, lojistik destek Araştırmacının
+kullanımına sunulan laboratuvar, araç, gereç ve temin edilen malzeme vb ile Fırat
+Teknokent/Fırat TTO'nun verdiği idari desteği kapsar.
+(2) Araştırmacılar serbest buluşunun fikri ve sınai mülkiyet haklarını FÜ'ne devretmeyi talep
+edebilirler. Bu durumda FÜ, İşbu Usul ve Esasların 8 inci maddesi kapsamında fikri ve sınai
+mülkiyet hakları ile ilgili tüm işlemleri, ticarileştirme lisanslama anlaşmaları da dahil yürütme
+sorumluluğunu alır.
+(3) FÜ'nün, Üniversite Yönetim Kurulu tarafından yapılan değerlendirmelerle bu hakkı
+istememesi durumunda, araştırmacının buluşunu değerlendirme hakkı mahfuzdur.
+(4) Üçüncü Kişiler tarafından desteklenen araştırmalar veya Fırat TTO koordinatörlüğünde
+imzalanmış başka bir anlaşma kapsamında ortaya çıkan hak sahipliği, söz konusu anlaşmaların
+hükümlerine göre belirlenecektir.
+(5) FÜ tarafından istihdam edilmemiş öğrencilerin, öğrenimleri esnasında oluşturdukları bütün
+fikri ürünleri üzerindeki hakları kendilerine aittir. Ancak, Üçüncü Kişilerin öğrenciye veya
+öğrencinin çalışmalarına sponsor olduğu durumlarda öğrencilere fikri ve sınai mülkiyet
+haklarını FÜ'ne devretme seçeneği verilecek ve İşbu Usul ve Esasların 7 inci maddesinin 2.
+fıkrasında tanımlanan kapsamda herhangi bir çalışan hak sahibi gibi aynı haklara sahip
+olacaklardır. Bu gibi durumlarda, öğrenci danışmanı, ilgili koşullar ve üçüncü kişilerin hakları
+açısından öğrenciyi bilgilendirmekle yükümlüdür. Haklar FÜ'ne ya da bir sponsora tahsis
+edildiğinde veya —sponsora lisanslı olduğunda, FÜ tarafından fikri ürünlerin
+ticarileştirilmesinden elde edilecek gelirin paylaştırılması hususunda öğrenci, FÜ çalışanı
+olarak kabul edilecektir. Öğrencinin araştırma faaliyetini FÜ ve/veya kamu kaynaklarını
+kullanarak gerçekleştirdiği durumlarda buluş hizmet buluşudur ve ortaya çıkan Fikri ve Sınai
+Mülkiyet Hakları Üniversite'ye aittir.
+
+(6) FÜ, devraldığı herhangi bir fikri hakkı kullanmamaya karar verirse veya kullanamazsa, bu
+duruma ilişkin bildirimi, korumanın elde edilmesini önleyici herhangi bir eylem veya kasıtlı
+terkten en az bir (1) ay önce Araştırmacıya yapacaktır. Böyle durumlarda, Araştırmacı(lar), İşbu
+Usul ve Esasların ilkeleri kapsamında fikri haklarını bireysel olarak koruma veya
+değerlendirme seçeneğine sahip olacaktır.
+Buluş Bildirim, FSMH Koruma ve Ticarileştirme Süreçleri
+MADDE 8- (1) FÜ'nün fikri ve sınai mülkiyet haklarının korunmasından ve
+ticarileştirilmesinden Fırat TTO sorumludur. Buluş başvurusu ilk olarak Fırat TTO'ya yapılır.
+Fırat TTO sürecin yürütülmesinde hak sahibi/sahipleri ile birlikte karar alır.
+(2) Hak sahipleri, Fikri ve sınai mülkiyet haklarına konu teşkil eden buluşta elde edilen tüm
+sonuçları, araştırma sırasında alınan destekleri, sponsorlukları ve anlaşmaları Fırat TTO'ya
+bildirmekle yükümlüdür.
+(3) Araştırmacı Fırat TTO tarafından hazırlanan buluş bildirim formunu doldurmakla
+yükümlüdür. Fikri ürünün daha iyi açıklanması ve incelemesi aşamasında gerekli olan önceki
+belgeler de dahil olmak üzere tüm bilgiler, dokümanlar, planlar, tasarımlar ve diğer bilgi ve
+belgeler Araştırmacı tarafından buluş bildirim formuna eklenir. Buluş bildirim formunun
+teslimi sırasında gerekirse Fırat TTO ve Araştırmacı arasında gizlilik sözleşmesi imzalanır.
+(4) Bildirimde şekil veya içerik açısından düzeltme gerekiyorsa, Fırat TTO bunu | (bir) ay
+içinde bildirimde bulunan Araştırmacıya bildirir. Düzeltme bildiriminden sonra, araştırmacı
+talep edilen düzeltmeleri | (bir) ay içinde gerçekleştirir ve Fırat TTO'ya sunar. Araştırmacı bu
+hususları kabul edip etmediğini de bu süre içerisinde bildirir.
+(5) Fikri ürün birden çok araştırmacı tarafından gerçekleştirilmiş ise bu bildirim birlikte yapılır
+ve dahil olan tüm taraflarca imzalanan EK-İ de verilen “Mutabakat Sözleşmesi” ile hak
+sahiplerinin adları, katkı payları ve aralarındaki hak paylaşımları belirtilir.
+(6) Bildirim tarihi, Fırat TTO tarafından buluşçuların tamamı tarafından imzalanmış mutabakat
+sözleşmesinin, buluş başvuru formunun ve gerekli ek belgelerin alındığı gün olarak kabul edilir.
+(7) Buluş Bildirim tarihinden sonra, Fırat TTO, Buluş Bildirim Formu ve eklerinin
+uygunluğunu inceleyerek, gerekli görüldüğü durumlarda akademik ve/veya teknik uzman
+desteği de alarak fikri hakkın değerlendirilmesine başlar.
+(8) Fikri ve sınai mülkiyet haklarının korunması ve fikri ürünlerin ticarileştirilmesini
+engelleyebilecek başlıca engelleri belirlemek üzere bir ön değerlendirme yapılır.
+Araştırmacı(larğın EK-2'deki Buluş Bildirim Formunda ve/veya EK-İ'deki Mutabakat
+
+Sözleşmesinde verdikleri eksik ya da yanlış bildirim sebebiyle, yapılan Fikri Hak koruma
+başvuruları ve anlaşmalarda bilgilerin yanlış ya da eksik belirtilmesinden doğacak sonuçlar
+Araştırmacı(lar)ın sorumluluğundadır.
+(9) Ön değerlendirme sonuçları değerlendirme Komisyonu'na sunulur. Değerlendirme
+Komisyonu, Fikri hak için korumaya ilişkin karar alarak yönetim kuruluna iletir. Başvuru
+tarihinden itibaren 4 (dört) ay içerisinde bütün değerlendirme ve karar süreci tamamlanır.
+Üniversite Yönetim Kurulu tarafından alınan karar buluş sahibine bildirilir.
+(10) Araştırmacıların serbest buluşlarının Fikri ve sınai mülkiyet haklarının korunması ve
+ticarileştirilmesi süreçlerine destek alma karşılığı Araştırmacı(lar)a fikri ve sınai mülkiyet
+haklarını FÜ'ye devretme seçeneği verilir. Buluş Değerlendirme Kurulu tarafından
+değerlendirilir ve Üniversite Yönetim Kurulu tarafından nihai karar verilir. Hak sahipliğinin
+FÜ”ye devri konusunda karar verilirse, Fikri Hak Devir Sözleşmesi imzalanır.
+(11) Bir fikri hakka ilişkin başvuru yapılmadan önce araştırma sonuçlarının kamuya
+açıklanması, ilgili fikri ve sınai mülkiyet haklarının uygun şekilde korunmasını ciddi derecede
+tehlikeye atacağından hak sahibinden/sahiplerinden gerekli başvuru yapılmadan önce,
+araştırma sonuçlarına ilişkin kamuya herhangi bir bildirim yapmaktan kaçınmaları istenir.
+(12) Fırat TTO, yayınlardaki gereksiz gecikmeleri önlemek üzere makul bir süre içinde, yasal
+korumayı sağlamak için ilgili süreçleri gecikmeden başlatmak ve korumanın elde edilmesi için
+gerekli çabayı göstermekle yükümlüdür.
+(13) Fırat TTO ve buluş sahipleri, FÜ'nün buluşu değerlendirmeye karar vermesinden itibaren
+18 ay içerisinde değerlendirme sürecinin bir parçası olarak uygun bir ticarileştirme stratejisini
+belirler. Bu strateji, ticarileştirme sürecinde ilgili her bir tarafın görevlerinin ana hatlarını ve
+eylemlerin son tarihlerini içerir.
+(14) Fikri ve sınai ürünlerinin teknik gizli bilgi (ticari sır) olarak ticarileştirilmesinin daha
+uygun olduğu durumlarda FÜ, Fırat TTO üzerinden buluşçuyla anlaşarak, hakların koruması
+için başvurmamaya karar verebilir veya yayınlanmamış bir başvuruyu geri çekebilir. Böyle
+durumlarda, hak sahibinden/sahiplerinden fikri ürünlerini herhangi bir şekilde kamuya
+açıklamaktan sakınacaklarına dair yazılı bir beyan talep edilir. Ancak bu seçenek tercih
+edildiğinde FÜ, Araştırmacıların yayın yapma özgürlüğüne ve olası ticari kazancına zarar
+vermemekle ve ayrıca kamu menfaatlerini dikkate almakla yükümlüdür.
+(15) İşbu Usul ve Esasların 8 inci maddesi kapsamına girmeyen konular da İşbu Usul ve Esaslar
+hükümleri kapsamında Araştırmacılar tarafından FÜ”'ye bildirilir. Böyle durumlarda, FÜ ilgili
+bütün bilgilerin tam olarak bildirilmesinden itibaren 4 (dört) ay içerisinde hakların kullanıp
+kullanmayacağına karar verir. FÜ'nün hakların korunması ve fikri ürünlerin ticarileştirilmesini
+
+üstlenmeye karar vermesi halinde, işbu Usul ve Esaslarda belirtilen kurallar uygulanır ve
+hakların korunması ve fikri ürünlerin ticarileştirilmesi ile ilgili masraflar, FÜ tarafından
+karşılanır.
+(16) Değerlendirme ve ticarileştirme süreci esnasında, fikri ürünlere ait bilgiler gizlilik
+anlaşması altında üçüncü kişilere açıklanabilir.
+(17) Araştırmacıların, İşbu Usul ve Esasların 8 inci maddesinin onuncu fıkrası ve 9 uncu
+maddesinin sekizinci fıkrası kapsamında fikri ve sınai mülkiyet haklarını FÜ'ye devretmeme
+kararı almaları veya FÜ'nün Fikri ve sınai mülkiyet haklarını istememesi durumunda, fikri ve
+sınai mülkiyet haklarının buluşçular tarafından ticarileştirilmesi durumunda, İşbu Usul ve
+Esasların 2 inci maddesinde belirtilen mevzuata göre, buluşun ne şekilde ticarileştirildiği ve
+elde edilen kazanç miktarı hakkında FÜ”'ne yazılı bilgi vermekle yükümlüdürler. Üniversite,
+buluşun, tescil ve/veya ticarileştirmesi hususunu uygun bulmazsa kararını 3 (üç) ay içinde buluş
+yapana yazılı olarak bildirir.
+(18) Değerlendirme Komisyonu inceleme sonucunda, üniversitenin buluş üzerindeki haklarıyla
+ilgili olarak, aşağıda ifade edilen beş karardan hangisinin en uygun olacağını belirleyerek
+Üniversite Yönetim Kuruluna bildirir.
+a) Buluşu hizmet buluşu olarak tanıyarak tam hak talep etmek.
+b) Buluşu hizmet buluşu olarak tanıyarak kısmi hak talep etmek.
+c) Buluşu serbest buluş olarak tanıyarak, buluşa ilişkin hakların tamamının kendisine devrini
+teklif veya kabul etmek.
+d) Buluşu serbest buluş olarak tanıyarak, kısmi hak devrini teklif veya kabul etmek.
+e) Buluşu serbest buluş olarak tanıyarak her hangi bir hak talep etmemek.
+(19) Karara itiraz olması durumunda Senato tarafından yetkilendirilen ve 3 kişiden oluşan İtiraz
+Komisyonu tarafından evraklar yeniden incelenir ve 2 ay içerisinde hazırlanan rapor nihai karar
+için yönetim kuruluna sunulur.
+Gelirlerin Dağılımı
+MADDE 9- (1) FÜ, işbu Usul ve Esasları Fırat TTO üzerinden uygulayarak fikri ürünlerinin
+ticarileştirilmesini ve elde edilen gelirlerin dağıtılmasında FÜ'nün, Araştırmacıların ve Fırat
+TTO'nun çıkarlarını korumayı amaçlamaktadır.
+(2) FÜ, Fikri haktan elde edilen gelirin paylaşılması konusunda adil ve orantılı biçimde
+paylaşılmasını ilke edinmektedir. Fikri ürün için net gelirden elde edilen hasılatın paylaşım
+
+oranları aşağıdaki paylaşım oranları tablosu ile de özetlenmiştir.
+Kümülatif Gelir | Araştımacı(lar)ın Net | FÜ'nin Net Gelirden | Fırat TTO'nun Net
+Miktarı ( TL) Gelir'den Aldığı Pay | Aldığı Pay (96) Gelirden Aldığı Pay
+Ve Vo
+(0-100.000 | 80. | 12 | 8 |
+500.001-1.000.000 | — 6
+(3) Toplu ve tek sefer ödemelerde kümülatif gelire ait sınır miktarları dikkate alınarak hak
+paylaşımı yapılır.
+(4) Paylaşım oranları Türk Lirası cinsinden verilmiş olup diğer birimlerde gerçekleştirilen
+ticarileşme faaliyetlerinde günlük kur oranlarına göre Türk Lirasına dönüşümü sağlandıktan
+sonra Kümülatif Gelir Miktarı hesaplaması yapılır.
+(5) Birden fazla hak sahibi olması durumunda, hak sahipleri için ayrılan pay, İşbu Usul ve
+Esasların 8 inci maddesinin beşinci fıkrasında tanımlandığı şekilde bir mutabakat sözleşmesi
+yapılmamış olması durumunda imzalı Buluş Bildirim Formunda belirtilen “katkı” oranında hak
+sahipleri arasında paylaştırılacaktır.
+(6) Buluşun ticarileştirilmesi amacıyla spin-off şirket kurulması durumunda, sermaye payı ile
+ilgili olarak FÜ ve Fırat TTO ile hak sahibi/sahipleri arasında yapılan bireysel bir anlaşma
+uygulanabilir olacaktır. Anlaşmanın şartları, buluş bazlı olarak; fikri hakkın oluşturulmasının
+ötesinde, sonraki geliştirme ve kullanım gibi hak sahibi tarafından yapılan katkılar, yeni
+işletmede pay sahibi olan hak sahibi/sahipleri, FÜ veya Üçüncü Kişiler tarafından sağlanan
+herhangi bir finansman özellikle dikkate alınarak görüşülecektir. Spin-off yapısının şartlarına
+ilişkin karar, Fırat TTO önerisi ve FÜ üst yönetimi onayı ile belirlenecektir.
+(7) FÜ, bazı durumlarda, özellikle de hisselerin fikri hakkın lisansının (EK-3) verildiği veya
+spin-off şirket olmayan, FÜ bünyesindeki bir işletmeye devredildiği durumlarda, hisselerin
+satışı veya hisse temettülerinin ödenmesi yoluyla gelir elde edildiğinde, gelir dağıtımına ilişkin
+özel şartları müzakere edilmesi hakkını saklı tutmaktadır.
+(8) Araştırmacı İşbu Usul ve Esasların 7 inci maddesinin altıncı fıkrası kapsamında fikri
+ürününü FÜ”nden bağımsız bir şekilde ticarileştirmeyi seçtiğinde, FÜ, kendisine yapılan yazılı
+bildirim tarihinden itibaren üç (3) ay içinde elde edilen kazançtan FÜ tarafından yapılan
+harcamaları aşmayacak bir miktarı (güncel değeri hesaplanarak) Araştırmacıdan talep etme
+hakkını saklı tutmaktadır.
+(9) FÜ'nün fikri ürünün ticarileştirilmesinden elde ettiği tüm gelirler; FÜ'nde, mevcut ve
+gelecekteki araştırma geliştirme faaliyetlerini teşvik etmek ve desteklemek için ayrılmış özel
+bir fonda toplanacaktır. Bu fonun FÜ Araştırma projeleri için tahsisi, çıktıları Araştırma fonu
+sağlayabilecek projelere öncelik verilmesi suretiyle hibe şeklinde gerçekleştirilecektir. Bu fon
+ayrıca FÜ Rektörlüğü'nün kararına bağlı olarak gelecekteki geri kazanılabilir nitelikteki
+anlaşmaları finanse edebilmek için de kullanılabilir.
+
+DÖRDÜNCÜ BÖLÜM
+Tarafların Yükümlülükleri
+Üniversitenin yükümlülükleri
+MADDE 10 — (1) Fırat Üniversitesi, fikri ve sınai mülkiyet haklarının koruma altına alınması,
+araştırma faaliyetlerine dayanan buluşların uygulamaya dönüştürülmesi ve bunlardan elde
+edilen gelirlerin Fırat Üniversitesindeki araştırmaları teşvik edici rolünün bilinci ile fikri ve
+sınai mülkiyet haklarının korunması gerektiğini onaylamaktadır.
+(2) Fırat Üniversitesi işbu Usul ve Esaslar ile araştırma faaliyetlerinin sonuçlarının duyurulması
+ve yayınlanmasının zamanlaması, kapsamının saptanması, fikri ve sınai mülkiyet haklarının
+korunması, fikri ürünlerin kamu yararının aksine kullanımının engellenmesi için gerekli yasal
+ve yönetsel düzenlemeleri yapacağını, önlemleri alacağını ve araştırma faaliyetlerinin
+sonuçlarının, buluşçunun izni olmadan dağıtılmasını gerektiren anlaşmalara katılmayacağını
+taahhüt etmektedir.
+(3) Fırat Üniversitesi, araştırmacılara ait ulusal ve/veya uluslararası FSMH'nın korunması için
+resmi makamlara yapılan ve hak sahibi olduğu patent, faydalı model ve endüstriyel tasarım
+başvurularının tescil süreçleri sona erinceye kadar gerekli harç ve vekillik hizmet ücretlerinin
+araştırmacıyla yapılan anlaşmaya bağlı olarak tamamını veya hissesine düşen oranını
+karşılayacağını taahhüt etmektedir. Ancak Üniversite Yönetim Kurulu tescillenmiş buluşun 5 yıl
+içerisinde ticarileşmemesi durumunda Üniversitenin fikri ve sınai mülkiyet ile ilgili olarak
+Değerlendirme Komisyonu'ndan görüş isteyerek yeniden değerlendirme yapar.
+(4) Fırat Üniversitesi işbu Usul ve Esasların kapsam ve içeriğini farklı araçlar ve etkinliklerle
+tüm araştırmacılara duyurmak, farkındalık sağlamak ve işbu Usul ve Esasları en etkin şekilde
+yürütecektir.
+(5) Fırat Üniversitesi, buluşun gerçekleştirilmesi veya fikri koruma sonrasında prototip vb.
+gerekli aşamalar için laboratuvar ve altyapı hizmetlerini imkanlar dahilinde araştırmacı(lar)a
+sunar.
+(6) FÜ, devraldığı herhangi bir fikri hakkı, kullanmamaya karar verirse veya kullanamazsa, bu
+duruma ilişkin bildirimi, korumanın elde edilmesini önleyici herhangi bir eylem veya kasıtlı
+terkten en az bir ay önce Araştırmacıya yapacaktır. Böyle durumlarda, buluşçu(lar), İşbu Usul
+ve Esasların ilkeleri kapsamında fikri ve sınai mülkiyet haklarını bireysel olarak
+koruma/değerlendirme seçeneğine sahip olacaktır. FÜ, fikri ve sınai mülkiyet haklarının
+Araştırmacıya devrini makul olmayan sebeplerle geri tutmayacak veya geciktirmeyecektir.
+(7) Araştırmacılar, İşbu Usul ve Esasların 10 uncu maddesinin altıncı fıkrası kapsamında, fikri
+ve sınai mülkiyet haklarını bireysel olarak değerlendirmeleri durumunda, İşbu Usul ve
+Esaslar'ın 2 inci maddesinde belirtilen mevzuata göre, buluşun ne şekilde ticarileştirildiği ve
+elde edilen kazanç miktarı hakkında FÜ'ne yazılı bilgi vermekle yükümlüdürler. FÜ, kendisine
+yapılan yazılı bildirim tarihinden itibaren üç ay içinde elde edilen kazançtan FÜ tarafından
+yapılan harcamaları aşmayacak bir miktarı (güncel değeri hesaplanarak) Araştırmacıdan talep
+
+edebilecektir.
+Araştırmacının yükümlülükleri
+MADDE 11 — (1) İşbu Usul ve Esasların 3 üncü maddesinde tanımlanan kapsamdaki tüm
+Araştırmacılar İşbu Usul ve Esaslara uymakla yükümlüdürler.
+(2) Resmi bir temsilci tarafından yetkilendirilmedikçe Araştırmacılar, FÜ adına üçüncü kişiler
+ile İşbu Usul ve Esasların 3 üncü maddesinde tanımlanan Araştırma Anlaşması yapmaya yetkili
+değildirler.
+(3) Araştırmacı, buluş bildirimi yapılmış, korumaya yönelik değerlendirme veya başvuru
+sürecindeki fikri ürünle ilgili hiçbir ayrıntıyı Fırat TTO'nun önceden izni olmadan yazılı ya da
+sözlü olarak yayınlamamayı veya ifşa etmemeyi taahhüt etmektedir.
+(4) Başka bir kurumla ortak araştırma (proje kapsamı dışında), proje ortaklığı veya başka bir
+üniversitede yürütülen projede yardımcı araştırmacılık gibi görevlere sahip FÜ Araştırmacısı,
+bu görevler sırasında ortaya çıkan fikri ürünlere ilişkin haklar için FÜ'den bağımsız hareket
+edemez; bu haklar FÜ ile diğer kurum arasında yapılacak bir anlaşmaya tabidir. Bu gibi
+durumlarda Araştırmacı, Üçüncü Kişiler ile imzalanan anlaşmaların bir nüshasını Fırat TTO'ya
+vermekle yükümlüdür.
+(5) Araştırmacıların İşbu Usul ve Esaslar altındaki hak ve yükümlülükleri, FÜ'deki kayıtlarının
+veya istihdamlarının sona ermesine kadar devam eder. Ancak kayıtlarının veya istihdamlarının
+sona ermesinden önce başlamış araştırma faaliyetlerinden elde edilen verilere ait fikri ve sınai
+mülkiyet haklarında FÜ hak sahibidir. Araştırmacının kayıtlarının veya istihdamlarının sona
+ermesinden önce başlatılmış Fikri ve sınai mülkiyet haklarının korunmasına yönelik başvuruları
+ve/veya tescillere ilişkin hak ve yükümlülüklerde kayıt veya istihdam şartı aranmaz.
+(6) Araştırmacılar, yürüttükleri araştırmaların sonuçlarından elde ettikleri fikri ve sınai
+mülkiyet haklarına konu olan tüm fikirlerin korunması için resmi makamlara yapılan patent,
+faydalı model ve endüstriyel tasarımın ticarileştirilmesinden FÜ'ye ve Fırat TTO'ya belirli bir
+pay vermekle yükümlüdürler.
+(7) Araştırmacılar, FÜ'den fikri ve sınai mülkiyet hakları desteği almaları durumunda; fikrin
+veya buluşun başvurusu, takibi, korunması, ticarileştirilmesi; üçüncü kişilere lisanslanması
+veya devredilmesine yönelik tüm faaliyetleri için, Fırat TTO”'ya yetki vermekle yükümlüdürler.
+(8) Üniversite buluşun ticarileştirilmesi amacıyla yürürlükteki mevzuatın izin verdiği ölçüde
+buluş sahibi Araştırmacının şirket kurup, ticarileştirme faaliyetlerini kuracağı şirkette
+yürütmesine izin verir. Bu halde buluştan elde edilen gelir yine yukarıdaki oranlarda
+paylaşılacaktır.
+
+Fırat TTO'nun yükümlülükleri
+MADDE 12 - (1) Fırat TTO, Fırat Üniversitesi ve tüm araştırmacıların fikri ve sınai mülkiyet
+haklarının bilgilendirilmesi, tanıtılması ve savunmasından sorumludur.
+(2) Araştırmacılar ile yapılan tüm çalışmalarda gerek FÜ gerek araştırmacının tüm haklarını
+korumak adına sürecin başlangıcında süreç ile ilgili tüm sözleşmelerin yapılarak araştırmacının
+ve FÜ”'nin haklarını ve gizliliklerini sağlamayı taahhüt etmektedir.
+(3) FÜ'nde gerçekleştirilmiş araştırma sonuçlarından ortaya çıkan fikri ürünlerin korunmasını
+sağlamak için ulusal ve uluslararası alanda gerekli tüm başvuruları yapmayı taahhüt etmektedir.
+(4) FÜ'nde gerçekleştirilmiş araştırma sonuçlarından ortaya çıkan fikri ürünlerin ticari
+potansiyellerini belirleyecek süreçler oluşturmak ve bu süreçler doğrultusunda fikri ürünlerin
+değerlendirilmesinin yapılmasını sağlamayı taahhüt etmektedir.
+(5) Fırat TTO, FÜ Yönetim Kurulu'nun yaptığı değerlendirme sonucunda hakları serbest
+bırakmak istemesi durumunda, hak sahiplerine haklarını korumaları için yönlendirici destek
+vermeyi taahhüt etmektedir.
+(6) Başvuruları gerçekleştirilen fikri ürünlerin kamu yararına uygulamaya dönüştürülmesini
+ve/veya ticarileştirilmesini sağlamak için ulusal ve uluslararası alanda FÜ ve hak sahibini temsil
+etmek ve ilgili anlaşmalarda taraf olmayı taahhüt etmektedir.
+(7) Ticarileştirme anlaşmalarına taraf olunması süreçlerinde; etik ilkelere uymak ve fikri
+ürünlerin yanlış kullanımını önleyecek mekanizmalar geliştirmek, kâr amacı güden üçüncü
+kişiler tarafından hak sahiplerinin adlarının ve ticari markalarının kullanımını denetlemek,
+anlaşmaların en üst düzeyde esneklik içermesini ve FÜ ile hak sahiplerinin haklarından en üst
+düzeyde yararlanabilmelerine imkan vermek, FÜ'nün vergiden muaf statüsünün kötüye
+kullanılmasını önlemek için gerekli yasal tedbirleri FÜ'ne önermeyi taahhüt etmektedir.
+(8) Ticarileştirme faaliyetleri esnasında bölge için sosyal ve ekonomik kalkınma adına bölgeye
+özgü sorunların incelenmesi sonucunda FÜ için öncelikli araştırma alanlarıyla ilgili politika
+belgeleri oluşturmayı taahhüt etmektedir.
+(9) Fikri ve sınai mülkiyet haklarının korunması için yapılacak başvurulara Üçüncü Kişilerden
+destek almak için gerekli tüm girişimlerde bulunmayı, gerektiğinde profesyonel kişi ve/veya
+kurum/kuruluşlarla anlaşma yaparak hizmet satın almayı taahhüt etmektedir.
+(10) Fırat TTO, korunan Fikri ve sınai mülkiyet haklarının devamına ilişkin ödeme
+yükümlülüklerini ve tarihlerini takip etmeyi, tahakkuk eden her türlü masrafın zamanında
+ödenmesi konusunda hak sahibini/sahiplerini bilgilendirmeyi taahhüt etmektedir.
+(11) Fırat TTO, ticarileşen ve/veya lisans verilen her bir fikri ürün için muhasebe kayıtlarını
+tutmayı ve kullanımdan gelen gelirlerin hak sahibi/sahipleri arasında yapılan anlaşmalar
+
+çerçevesinde dağıtılmasını sağlamayı taahhüt etmektedir.
+Üniversite Yönetim Kurulunun yükümlülükleri
+MADDE 13 — (1) Üniversite Yönetim Kurulunun yükümlülükleri şunlardır:
+a) Değerlendirme Komisyonu görüşünü dikkate alarak Üniversitenin sınai mülkiyet üzerindeki
+hak sahipliğinden feragat etme, buluş ve tasarımın, serbest buluş ve tasarım niteliği kazanması
+ile ilgili nihai kararlarını vermek,
+b) Üniversitenin başvuru yapmayacağı ülkelerdeki fikri ve sınai mülkiyete ilişkin haklarını, hak
+sahibinin talebine istinaden, ilgiliye devretme kararını vermek,
+€) Tescillenmiş buluşun 5 yıl içerisinde ticarileşmemesi durumunda Üniversitenin fikri ve sınai
+mülkiyet ile ilgili olarak Değerlendirme Komisyonu'ndan görüş isteyerek yeniden
+değerlendirme yapmak,
+ç) Fikri ve sınai mülkiyet haklarının ticari/satış değeriyle ilgili kararı vermek,
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Usul ve Esasların ihlali
+MADDE 14- (1) İşbu Usul ve Esasların hükümlerinin ihlali, ilgili kanun hükümleri uyarınca
+ele alınacaktır.
+Usul ve Esasların yürürlüğe girmesi
+MADDE 15 - (1) Bu yönerge, FÜ Senatosu tarafından kabul edildiği tarihten itibaren yürürlüğe
+girer.
+(2) Bu yönergenin yürürlüğe girmesi ile önceki yönerge yürürlükten kalkar.
+Yürütme
+MADDE 16 -(1) Fırat TTO işbu Usul ve Esasların uygulanmasından Rektöre karşı sorumludur.

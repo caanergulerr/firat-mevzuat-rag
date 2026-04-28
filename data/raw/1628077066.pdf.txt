@@ -1,0 +1,204 @@
+FIRAT ÜNİVERSİTESİ
+DİJİTAL DÖNÜŞÜM VE YAZILIM OFİSİ YÖNERGESİ
+AMAÇ, KAPSAM, DAYANAK VE TANIMLAR
+AMAÇ
+MADDE 1- (1) Bu Yönergenin amacı, Fırat Üniversitesi Dijital Dönüşüm ve Yazılım Ofisi'nin
+amaçlarını, faaliyet alanlarını, yönetim organlarının çalışma şekillerini, görev, yetki ve
+sorumluluklarına ilişkin esasları düzenlemektir.
+KAPSAM
+MADDE 2- (1) Bu Yönerge, Fırat Üniversitesi Dijital Dönüşüm ve Yazılım Ofisi'nin
+örgütlenme şeklini, faaliyet alanlarını, görevlilerin yetki ve sorumluluklarına ilişkin hükümleri
+kapsar.
+DAYANAK
+MADDE 3- (1) Bu Yönerge, aşağıda belirtilen mevzuat, düzenleyici işlemler ve konuya ilişkin
+olarak Fırat Üniversitesi tarafından hazırlanan ilgili Yönergelerde yer alan esaslara dayanılarak
+hazırlanmıştır.
+a) 2547 Sayılı Yükseköğretim Kanunu
+b) 2809 Sayılı Yükseköğretim Kurumları Teşkilatı Kanunu
+c) 5018 Sayılı Kamu Mali Yönetimi ve Kontrolü Kanunu
+ç) Cumhurbaşkanlığı Devlet Denetleme Kurulu Başkanlığı'nın 08/10/2018 tarihli ve 1579 sayılı
+yazısı
+d) Yükseköğretim Kurulu Başkanlığının 75850160-199-E.88338 sayılı “Ülkemizde Yürütülen
+E-Devlet Uygulamaları ve Siber Güvenlik Faaliyetleri Değerlendirmesi Raporu”
+TANIMLAR
+MADDE 4- (1) Bu Yönergede geçen;
+Üniversite: Fırat Üniversitesini,
+Rektör: Fırat Üniversitesi Rektörünü,
+Rektör Yardımcısı: Dijital Dönüşüm ve Yazılım Ofisi'nden sorumlu Fırat Üniversitesi Rektör
+Yardımcısını,
+1
+Senato: Fırat Üniversitesi Senatosunu,
+Üniversite Yönetim Kurulu: Fırat Üniversitesi Yönetim Kurulunu,
+Dekan: Fırat Üniversitesi Fakülte Dekanlarını,
+Koordinatör: Dijital Dönüşüm ve Yazılım Ofisi Koordinatörünü,
+Koordinatör Yardımcısı: Dijital Dönüşüm ve Yazılım Ofisi Koordinatör Yardımcısını,
+Birim: Fırat Üniversitesine bağlı Fakülte, Enstitü, Yüksekokul, Meslek Yüksekokulu,
+Araştırma ve Uygulama Merkezlerini ve diğer birimleri,
+Müdür ve Birim Yetkilisi: Enstitü, Yüksekokul, Meslek Yüksekokulu, Araştırma ve Uygulama
+Merkez Müdürlerini ve diğer birim yetkililerini,
+Ofis: Fırat Üniversitesi Dijital Dönüşüm ve Yazılım Ofisini,
+
+Hizmet Birimi: Fırat Üniversitesi Dijital Dönüşüm ve Yazılım Ofisi Hizmet Birimini,
+Yürütme Kurulu: Fırat Üniversitesi Dijital Dönüşüm ve Yazılım Ofisinde tam veya yarı zamanlı
+görevlendirilmiş öğretim üyelerini,
+Dijital Dönüşüm ve Yazılım Uzmanı: Fırat Üniversitesi Dijital Dönüşüm ve Yazılım Ofisinde
+çalışan uzmanları,
+İfade eder.
+2
+İKİNCİ BÖLÜM
+DİJİTAL DÖNÜŞÜM VE YAZILIM OFİSİ'NİN
+GÖREV VE ÇALIŞMA ALANLARI
+GÖREV VE ÇALIŞMA ALANLARI
+MADDE 5- (1) Ofisin “Dijital Türkiye” hedefi doğrultusunda;
+a) Fırat Üniversitesi öğrencilerinin, akademik ve idari personelinin ihtiyaç analizlerinin
+gerçekleştirilmesi ve bu analizler sonuncunda ihtiyaç duyulan yazılımların gereksinim
+analizi dokümanlarının oluşturulması,
+b) Üniversiteye ait birimlerin iş akışlarının algoritmalarının çıkarılması ve bu akışlara uyumlu
+yazılımların gereksinim analizi dokümanlarının oluşturulması,
+c) Yürüteceği çalışmalar kapsamında, eğitim altyapısının geliştirilmesine odaklanarak Fırat
+Üniversitesinde dijital teknoloji geliştiricilerini yetiştiren programları önermek,
+ç) Dijital teknoloji alanında önlisans, lisans, lisansüstü düzeyde eğitim veren programların ve
+sertifika programlarının yaygınlaştırılmasına katkı sağlanması,
+d) Dijital dönüşüm farkındalığının artırılması,
+e) Dijital yetkinliğe sahip işgücünün sanayi ile buluşturulmasına katkı sağlanması,
+f) Gelişen teknolojiye uyum gösterecek bilişim uzmanlarının yetiştirilmesi ve bu alandaki
+yetişmiş eleman ihtiyacının karşılanması amacı doğrultusunda eğitim politikalarına katkı
+sağlanması,
+g) Üniversitemizde siber güvenlik ve e-devlet alanında seminer ve kurs programları açılmasına
+
+katkı sağlanması,
+ğ) Hazırlanan programların uzaktan eğitim seçenekleri ile güçlendirilmesine katkı sağlanması,
+h) Siber güvenlik alanında yetkin akademisyenlerin yetiştirilmesine katkı sağlanması,
+i) Yenilikçi eğitim teknolojileri ile ilgili yardımcı personel yetiştirilmesine katkı sağlanması,
+1) Mevcut eğitim programlarının dijital dönüşüm hedefleri doğrultusunda geliştirilmesine katkı
+sağlanması,
+j) Teknoloji üretiminde ve imalat sanayinde uzmanlaşmanın sağlanması amacıyla Ar-Ge
+konularının belirlenerek birlikte çalışma modellerinin oluşturulmasına katkı sağlanması,
+k) Eğitimin her aşamasında yenilikçi fikir ve buluşların elde edilmesi ve bu buluşların
+sanayileştirilmesini sağlayacak şekilde Üniversitemiz birimlerinin koordinasyonuna katkı
+sağlanması,
+D Başta dijital üniversite, dijital eğitim ve siber güvenlik konularında akademik bilgi birikime,
+sürdürülebilir bir uzman ve akademik kadronun oluşturulmasına katkıda bulunmak amacıyla
+ulusal ve uluslararası işbirlikleriyle akademik etkinlikler düzenlenmesi,
+m)Ulusal ve uluslararası akademik ve ilgili kuruluş/birimler ile işbirliği çerçevesinde dijital
+üniversite ve dijital eğitim dönüşümü ile siber güvenlik, sosyal medya politiği ve araçları,
+yapay zekâ, büyük veri ve ileri analitik, nesnelerin interneti, artırılmış/sanal gerçeklik, bulut
+3
+bilişim vb. yeni yaklaşımları içerecek farkındalık ve kapasite oluşturacak eğitimlerin hayata
+geçirilmesine katkı sağlanması,
+n) Üniversite mensuplarının bilgi güvenliği seviyesinin artırılmasına yönelik farkındalık eğitim
+ve çalıştaylarının düzenlenmesi,
+o) İlgili kamu kurum ve kuruluşları, üniversiteler ile sivil toplum kuruluşlarıyla işbirliği
+yapılarak belirlenen temalar kapsamında etkinliklerin düzenlenmesi,
+ö) Üniversite bünyesinde eğitim programlarının gerçekleştirilmesi,
+p) Bu görev ve çalışma alanlarına yönelik gerekli çalışmaların Bilgisayar Bilimleri Araştırma
+ve Uygulama Merkezi, Uzaktan Eğitim Uygulama ve Araştırma Merkezi, Sürekli Eğitim
+Uygulama ve Araştırma Merkezi, Üniversite — Üniversite-Sanayi İşbirliği Geliştirme Araştırma
+ve Uygulama Merkezi, Bilgi İşlem Daire Başkanlığı ve Öğrenci İşleri Daire Başkanlığı ile
+
+koordineli bir şekilde yürütülmesi,
+r) Dijital dönüşüm çalışmalarının izlenmesi ve değerlendirilmesine yönelik bir veri tabanının
+oluşturulmasının sağlanması,
+s) Üniversite birimlerince gerçekleştirilen dijital dönüşüm faaliyetlerine ilişkin yıllık faaliyet
+raporları yayınlamak,
+ş) Kamu ve özel kuruluşlardan dijital dönüşüme ilişkin gelen talepleri ön değerlendirmeye tabi
+tutarak üniversitenin ilgili birimlerine yönlendirmektir.
+4
+ÜÇÜNCÜ BÖLÜM
+DİJİTAL DÖNÜŞÜM VE YAZILIM OFİSİ YÖNETİMİ,
+ORGANLARI, GÖREV, YETKİ VE SORUMLULUKLARI
+YÖNETİM VE ÖRGÜT
+MADDE 6- (1) Ofisin organları; Rektör, Rektör Yardımcısı, Koordinatör, Koordinatör
+Yardımcısı, Kurullar, Komisyonlar ve Birimlerden oluşur.
+REKTÖR YARDIMCISI
+MADDE 7- (1) Ofisten sorumlu Rektör Yardımcısını ifade eder.
+REKTÖR YARDIMCISININ GÖREVLERİ
+MADDE 8- (1) Rektör Yardımcısı; Ofisin faaliyetleri ve resmi yazışmalarından sorumludur.
+KOORDİNATÖR
+MADDE 9- (1) Koordinatör; Dijital dönüşüm ve yazılım konusunda araştırma, uygulama,
+eğitim veya yönetim deneyimi bulunan ve üniversitemizde tam zamanlı görev yapan öğretim
+üyeleri arasından Rektör tarafından dört yıl için görevlendirilir. Süresi biten Koordinatör
+yeniden  görevlendirilebilir.. Koordinatör, Ofisin çalışmalarından Rektör ve Rektör
+Yardımcısına karşı sorumludur.
+KOORDİNATÖRÜN GÖREVLERİ
+MADDE 10- (1) Koordinatörün görevleri;
+a) Ofisi temsil ve ilgili kurullara başkanlık etmek,
+b) Ofisin çalışmalarını düzenlemek, kurulların ve idari personelin düzenli ve etkin çalışmasını
+sağlamak,
+c) Ofis Kurullarının gündemini hazırlamak, toplantıya çağırmak,
+ç) Ofis yıllık faaliyet raporu ve bir sonraki yıla ait yıllık çalışma programını hazırlamak ve
+Rektörün onayına sunmaktır.
+KOORDİNATÖR YARDIMCISI
+MADDE 11- (1) Koordinatör Yardımcısı; Koordinatörün önerisi üzerine Rektör tarafından,
+Ofisin çalışmalarına yardımcı olmak üzere öğretim üyeleri arasından en fazla iki öğretim
+elemanı, koordinatör yardımcısı olarak dört yıl için görevlendirilir. Koordinatör görevde
+bulunmadığı zamanlarda kendisine yardımcılardan birisi vekâlet eder. Vekâlet süresi altı ayı
+aştığı takdirde yeni bir koordinatör görevlendirilir. Koordinatörün görev süresinin dolması veya
+5
+
+herhangi bir sebeple görevinden ayrılması halinde Koordinatör Yardımcısının da görevi sona
+erer.
+KOORDİNATÖR YARDIMCISININ GÖREVLERİ
+MADDE 12- (1)
+a) Koordinatör tarafından yapılan iş bölümüne uygun olarak verilen görevleri yürütmek,
+b) Koordinatörün görevde bulunmadığı zamanlarda Koordinatörlük görevini vekâleten
+yürütmektir.
+KURULLAR
+MADDE 13- (1) Kurulların oluşumu, çalışması ve eleman temininde aşağıdaki ilkelere uyulur;
+a) Dijital dönüşüm ve yazılım konularında araştırma ve eğitim çalışmalarını iş bölümü
+çerçevesinde yürütmek üzere Koordinatörün önerisi ve Rektörün onayı ile ofisin çalışma
+alanlarında araştırma ve uygulama kurulları oluşturulabilir.
+b) Ofisin akademik, teknik ve idari personel ihtiyacı, Rektörlükçe tahsis edilecek kadrolar ile
+sözleşmeli personel atama esaslarına göre sağlanacak kadrolar veya 2547 sayılı Kanunun
+13/b(4). maddesi gereği Rektör tarafından görevlendirilecek elemanlarla karşılanır.
+c) Ofiste gerekli sekretarya, saymanlık, tercümanlık, hukuki danışmanlık, danışmanlık ve
+uzmanlık için uygun niteliklere sahip ve sayıda üniversite elemanları görevlendirilebilir.
+DİJİTAL DÖNÜŞÜM VE YAZILIM GELİŞTİRME KOORDİNASYON YÜRÜTME
+KURULU
+MADDE 14- (1) Yürütme Kurulu üyeleri, Koordinatörün önerisi üzerine Rektör tarafından dört
+yıl için görevlendirilen en az 5 üyeden oluşur. Koordinatör ve Koordinatör tarafından belirlenen
+bir Koordinatör Yardımcısı bu kurulun doğal üyesidir. Görev süresi dolan üye yeniden
+görevlendirilebilir. Görev süresi dolmadan görevden ayrılan üyenin yerine yeni bir üye
+görevlendirilir. Yürütme Kurulu, Koordinatörün daveti üzerine toplanır.
+YÜRÜTME KURULUNUN GÖREVLERİ
+MADDE 15- (1) Yürütme Kurulu,
+a) Ofisin yönetimi, araştırma ve eğitim çalışmalarına destek sağlamak,
+b) Ulusal ve uluslararası çalışmaları organize ederek ilgili programlara tanıtım, eğitim ve
+bilimsel destek vermek,
+c) Disiplinlerarası çalışmalarda ilgili kişi, kurum ve kuruluşlarla işbirliği yapmak,
+ç) Üniversitenin mevcut sistemini değerlendirerek, gerekli durumlarda çalışma gruplarının
+oluşması ve bilgilendirme toplantılarının yapılması için öneride bulunmak veya görev almak,
+d) Üniversitenin dijital dönüşüm süreçlerini hızlandırmak için stratejiler geliştirmek,
+e) Üniversitenin dijital dönüşüm ve yazılım alanında güçlü yönlerine paralel olarak öncelikleri
+belirlemek,
+6
+f) Dijital Dönüşüm ve Yazılım Ofisi'nin yıllık faaliyetlerini planlamak ve çalışma planları
+
+hazırlamak,
+g) Koordinatörün hazırlayacağı yıllık çalışma raporunu değerlendirmek ve değerlendirme
+sonuçlarını rapor halinde Rektörlüğe sunmak,
+görevlerini yürütmekle yükümlüdür.
+DİJİTAL DÖNÜŞÜM VE YAZILIM HİZMET BİRİMİ
+MADDE 16- (1) Koordinatör ve Koordinatör Yardımcısı tarafından Ofisin faaliyet alanı
+kapsamında verilecek görev ve sorumlulukları yerine getiren Dijital Dönüşüm ve Yazılım
+Uzmanlarından oluşur.
+DİJİTAL DÖNÜŞÜM VE YAZILIM HİZMET BİRİMİNİN GÖREVLERİ
+MADDE 17- (1)
+a) Ofisin faaliyetleri kapsamındaki yazışmaları yürütür.
+b) Ofis web sitesi içeriğini güncelleyerek akademik personele, öğrencilere, üniversitenin idari
+personeline ve diğer dış paydaşlara gerekli duyuruları yapar.
+c) Koordinatör ve Yardımcısı tarafından, Ofisin faaliyet alanı kapsamında verilecek görev ve
+sorumlulukları yerine getirir.
+ç) Yıllık faaliyet raporunun hazırlanmasında görev alır.
+7
+DÖRDÜNCÜ BÖLÜM
+SON HÜKÜMLER
+HÜKÜM BULUNMAYAN HALLER
+MADDE 18- (1) Bu Yönergede hüküm bulunmaması halinde ilgili mevzuat hükümleri ile Fırat
+Üniversitesi ilgili yönergeleri, Fırat Üniversitesi Senato ve Yönetim Kurulu kararları uygulanır.
+YÜRÜRLÜK
+MADDE 19- (1) Bu Yönerge, Üniversite Senatosu'nun kabul tarihinde yürürlüğe girer.
+YÜRÜTME
+MADDE 20- (1) Bu Yönerge hükümlerini Fırat Üniversitesi Rektörü yürütür.
+
+8

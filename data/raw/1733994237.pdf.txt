@@ -1,0 +1,1083 @@
+Senato Karar No:  
+ 
+İlk Yayın Tarihi: 
+ 
+Revizyon Tarihi: 
+ 
+Revizyon No: 
+ 
+Sayfa: 
+1/23 
+ 
+1 | 23 
+ 
+ 
+FIRAT ÜNİVERSİTESİ 
+ELEKTRONİK BELGE YÖNETİM SİSTEMİ ve İMZA YETKİLERİ YÖNERGESİ 
+ 
+BİRİNCİ BÖLÜM 
+Genel Esaslar 
+Amaç  
+MADDE 1- (1) Bu Yönerge, Fırat Üniversitesi Elektronik Belge Yönetim Sistemi ile yürütülecek 
+olan işlerde zaman, iş gücü ve kırtasiye giderlerinde tasarruf sağlanması, imzalanması gerekli tüm 
+evrakların sistem üzerinden elektronik imzayla imzalanması, resmî yazışmalar ile diğer iş ve işlemlerde 
+fiziksel ortamın kaldırılması amacıyla elektronik ortamlarda kayıt altına alınacak, üretilecek, başka 
+birimlere ya da kurumlara iletilecek, saklanacak ya da gerektiğinde imha edilecek elektronik bilgi ve 
+belgelerin  kayıt,  iletim,  paylaşım,  imha  ve  güvenlik  açılarından  tabi  olacakları usul  ve  esaslarını 
+belirlemek ve 5070 Sayılı Elektronik İmza Kanununa bağlı olarak tüm akademik ve idari birimler 
+arasında elektronik ortamda yazışmayı sağlamak üzere düzenlenmiştir. 
+Kapsam  
+MADDE 2- (1) Bu yönerge; 2547 sayılı Yükseköğretim Kanunu ve diğer ilgili mevzuat uyarınca, 
+Fırat  Üniversitesi  ve  bağlı  birimlerin  elektronik  ortamda  yapacakları  yazışma,  yazışmalara  ilişkin 
+yürütecekleri işlem süreçleri ile evrak/belge kayıt işlemlerinde izlenmesi gereken usul ve esaslarla ilgili 
+hususları kapsar. 
+Dayanak  
+MADDE 3- (1) Bu Yönerge 2547 sayılı Yükseköğretim Kanunu, 657 sayılı Devlet Memurları 
+Kanunu, 5187 Sayılı Basın Kanunu, 5070 sayılı Elektronik İmza Kanunu, 124 sayılı Yükseköğretim Üst 
+Kuruluşları ile Yükseköğretim Kurullarının İdari Teşkilatı Hakkında Kanun Hükmünde Kararname, 
+10.06.2020 tarihli ve 31151 sayılı Resmi Gazetede yayımlanan “Resmi Yazışmalarda Uygulanacak Esas 
+ve Usuller Hakkında Yönetmelik”, kurumlar arası elektronik belge paylaşım hizmeti kriterleri, yetki ve 
+sorumluluk gösteren yürürlükteki diğer mevzuat hükümlerine dayanılarak hazırlanmıştır. 
+Tanımlar  
+MADDE 4- (1) Bu Yönergede yer alan; 
+a) Ana Bilim Dalı /Ana Sanat Dalı/Program Başkanı: Fırat Üniversitesi akademik birimlerine 
+bağlı Ana bilim/Ana sanat dalı/ Program başkanı/sorumlusunu, 
+b) Belge Havale Yetkilisi: Birime gelen belgeleri birim amiri adına havale yapmakla 
+yetkilendirilen personeli, 
+c) Birim Amiri: Akademik ve idari birimler için birim yöneticilerini, 
+ç) Birim Evrak Kayıt Sorumlusu: Akademik ve idari birimlere gelen her türlü evrakın kayıt altına 
+alınmasını ve dağıtım işlerini, birim dışına gidecek her türlü evrakın posta işlemlerini gerçekleştirmekle 
+görevli personeli, 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+2 | 23 
+ 
+d) Birim: Fırat Üniversitesine bağlı bütün akademik ve idari birimleri, 
+e) Bölüm Başkanı: Fırat Üniversitesi akademik birimlerine bağlı Bölüm Başkanlarını, 
+f) Daire Başkanı: Fırat Üniversitesi Daire Başkanlarını, 
+g) Dekan: Fırat Üniversitesi Fakültelerinin Dekanlarını, 
+ğ) Dışarıdan Erişim: Fırat Üniversitesinin EBYS’ye tanımlı tüm kullanıcılarının kurum dışından 
+erişim ve işlerini kurum içinde olduğu gibi takip edebilmesini, 
+h) Döner Sermaye İşletme Müdürü: Fırat Üniversitesi Döner Sermaye İşletme Müdürünü, 
+ı) EBYS Sistem Yöneticisi: EBYS sisteminin işleyişinden sorumlu kişiyi,  
+i) EBYS Şifresi: Sistem kullanıcılarının elektronik ortamda, yetkisiyle ve iradesiyle oluşturduğu 
+evrak ve belgelerle birlikte, gereğini yaptığı görevlerinin kendisi tarafından yapıldığının anlaşılacağı 
+sistem sayfasına giriş yapabileceği özel ve güvenli şifresini, 
+j)  Elektronik  Belge  Yönetim  Sistemi  (EBYS):  İdarelerin  faaliyetlerini  yerine  getirirken 
+oluşturdukları her türlü dokümantasyonun içerisinden idare faaliyetlerinin delili olabilecek  belgelerin 
+ayıklanarak bunların içerik, üst veri, format ve ilişkisel özelliklerini koruyan, belgelerin ait olduğu 
+fonksiyon veya işlem için delil teşkil eden ve aidiyet zinciri içerisindeki yönetimini elektronik ortamda 
+sağlayan sistemini, 
+k) Elektronik Belge: Elektronik ortamda oluşturulan, gönderilen ve saklanan her türlü belgeyi, 
+l) Elektronik Ortam: Belge ve bilgilerin üzerinde bulunduğu her türlü elektronik araçlar ile bilgi ve 
+iletişim teknolojisi ürünlerini, 
+m) Enstitü Müdürü: Fırat Üniversitesine bağlı Enstitü/Enstitülerin Müdürlerini, 
+n) Genel Sekreter Yardımcısı: Fırat Üniversitesi Genel Sekreter Yardımcılarını, 
+o) Genel Sekreter: Fırat Üniversitesi Genel Sekreterini, 
+ö)  Güvenli  Elektronik  İmza:  Münhasıran  imza  sahibine  bağlı  olan, sadece  imza  sahibinin 
+tasarrufunda bulunan güvenli elektronik imza oluşturmak amacı ile yapılan, nitelikli elektronik 
+sertifikaya dayanarak imza sahibinin kimliğinin ve imzalanmış elektronik veride sonradan herhangi bir 
+değişiklik yapılıp yapılmadığının tespitini sağlayan elektronik imzayı, 
+p) Hukuk Müşaviri: Fırat Üniversitesi Hukuk Müşavirini, 
+r) İç Denetçi: Fırat Üniversitesi İç Denetçisi/İç Denetçilerini, 
+s) İç Denetim Birimi: Fırat Üniversitesi İç Denetim Birimini, 
+ş) İdari Birim Kimlik Kodu: Devlet teşkilatı içerisinde yer alan tüm kamu kurum ve kuruluşları ile 
+bunların merkez, taşra ve yurtdışı teşkilatlarının tüm alt birimleri için ayrı ayrı tanımlanmış 8 haneli tekil 
+ve değişmez (unique) nitelikteki kodu, 
+t) İmza Sahibi: Elektronik imza oluşturmak amacıyla bir imza oluşturma aracını kullanan gerçek 
+kişiyi, 
+u) Kayıtlı Elektronik Posta (KEP) Adresi: Fırat Üniversitesinin, elektronik ortamda kurum dışına 
+gönderdiği ve aldığı evraklar ile tebligat almaya ve göndermeye aracılık eden Kayıtlı Elektronik Posta 
+adresini, 
+ü) Koordinatörlük: Fırat Üniversitesi Yönetim Kurulu kararıyla oluşturulan Koordinatörlükleri, 
+v) Kurum Evrak Kayıt Sorumlusu: Kuruma gelen her türlü evrakın kayıt altına alınmasını ve 
+dağıtım işlerini, kurum dışına gidecek her türlü evrakın posta işlemlerini gerçekleştirmekle görevli 
+personeli, 
+y) Merkez Müdürü: Fırat Üniversitesi Uygulama ve Araştırma Merkezi Müdürlerini, 
+z) Meslek Yüksekokulu Müdürü: Fırat Üniversitesi Meslek Yüksekokullarının Müdürlerini, 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+3 | 23 
+ 
+aa) Rektör Yardımcısı: Fırat Üniversitesi Rektör Yardımcılarını, 
+bb) Rektör: Fırat Üniversitesi Rektörünü, 
+cc) Resmî Belge: Fırat Üniversitesi birimlerinin kendi aralarında veya gerçek ve tüzel kişilerle 
+iletişimlerini sağlamak amacıyla oluşturdukları, gönderdikleri veya arşivledikleri belirli bir standart ve 
+içeriği olan belgeleri, 
+çç) Resmî Yazı: Fırat Üniversitesi birimlerinin kendi aralarında veya gerçek ve tüzel kişilerle 
+iletişimlerini sağlamak amacıyla yazılan yazı, resmî belge, resmî bilgi ve elektronik belgeleri, 
+dd) Sekreter: Fakülte, Enstitü, Yüksekokul, Meslek Yüksekokulu Sekreterliklerini, 
+ee)  Sistem  Bileşenleri:  Temel  yazışma  kurallarına  uygun  olarak  elektronik  ortamda  evrak 
+oluşturma, paraflama, imzalama, evrakı sevk etme, yönlendirme, görüntülenmesini sağlama, çıktısını 
+alma, dışarıdan tarayarak sisteme atma, verileri ilgili prosedüre göre saklama, arşivleme ve arşivlemeyle 
+ilgili  prosedürü  takip  etme,  diğer  kişilerin  ulaşamayacağı  şekilde  gizli  evrak  gönderilmesini  ve 
+alınmasını temin etme, gibi temel bilgi ve belge iş süreçlerini yerine getirecek olan program; bu program 
+içerisinde oluşturulan evraklara güvenli elektronik imza atılmasını sağlayacak olan e-imza  sertifika 
+okuyucu, yedekleme üniteleri, tarayıcılar ve bilgisayarları, 
+ff) Sistem Güvenliği: Sistem üzerinde oluşturulan bilgi ve belgelerin kullanıcıdan kaynaklanan 
+sorunların dışında, kurum içi personelin haricindeki kişilerce görüntülenememesi, kopyalanamaması, 
+çalınmaması, kullanıcı şifrelerinin ele geçirilememesi, sistem veri yedeklemelerin düzenli bir şekilde 
+yapılması ve saklanmasıyla ilgili alınan önlemleri, 
+gg) Standart Dosya Planı Kodu: Resmî yazıların hangi dosyaya konulacağını gösteren kodlara ait 
+listeyi, 
+ğğ) Şube Müdürlüğü: Fırat Üniversitesi Birimlerine bağlı Şube Müdürlüklerini, 
+hh) Üniversite, Kurum: Fırat Üniversitesini, 
+ıı)  Yetkililer:  Rektör,  Rektör  Yardımcıları,  İç Denetim  Birimi,  Fakülte  Dekanları,  Enstitü 
+Müdürleri, Yüksekokul Müdürleri, Meslek Yüksekokulu Müdürleri, Uygulama ve Araştırma Merkezi 
+Müdürleri, Genel Sekreter, Genel Sekreter Yardımcıları, Daire Başkanları, Hukuk Müşaviri, Döner 
+Sermaye İşletmesi Müdürü, Koordinatörlerini, 
+ii) Yönerge: Fırat Üniversitesi Rektörlüğü Elektronik Belge Yönetim Sistemi ve İmza Yetkileri 
+Yönergesini, 
+jj) Yüksekokul Müdürü: Fırat Üniversitesi Yüksekokullarının Müdürlerini  
+ifade eder. 
+ 
+İKİNCİ BÖLÜM 
+Resmî Yazışma Ortamları 
+Elektronik yazışma ortamları  
+MADDE 5- (1) Birimler arasında yazılı iletişim, elektronik ortamda yapılır. Kamu kurum ve 
+kuruluşları ile yazılı iletişim, karşı kurumun KEP adresinin olması halinde elektronik ortamda yapılır. 
+Elektronik ortamdaki yazışmalar ilgili mevzuatta belirtilen güvenlik önlemlerine uyularak yapılır. 
+a) Gerek görülen durumlarda, 3. maddede bildirilen mevzuat hükümlerine aykırılık teşkil 
+etmeyecek şekilde, gelen yazı kâğıda dökülerek de işleme alınabilir. 
+b) Üniversitenin resmi elektronik posta (e-posta) adresi uzantısı “firat.edu.tr”dir. Her birim 
+adına uzantısı “firat.edu.tr” olan resmî e-posta adresi belirlenebilir. 
+c) Üniversitenin resmi kayıtlı elektronik posta (KEP) adresi; 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+4 | 23 
+ 
+“firatuniversitesi@firatuniversitesi.hs02.kep.tr”dir. Kurum dışı giden ve gelen elektronik yazışmalarda 
+bu KEP adresi kullanılır. 
+ 
+İlkeler ve Yöntemler 
+MADDE 6- (1) İşlemler aşağıdaki ilke ve yöntemlere göre yapılır: 
+a) Sınırları açıkça belirtilerek devredilmemiş yetkiler kullanılamaz. 
+b) Fırat Üniversitesinde her birimin, yürürlükteki mevzuat hükümlerine göre görevlerin hızlı, 
+verimli, hatasız  bir şekilde  yürütülmesinden ve bitirilmesinden birim amiri  sorumludur.  Görevlerin 
+yapılması  bakımından  birim  amirleri  birlikte  çalıştıkları  personele  yürürlükteki  mevzuat  sınırlarını 
+aşmamak üzere bu Yönerge esasları dâhilinde yetki ve sorumluluk devrederler. Ancak bu halde dahi birim 
+amirinin sorumluluğu ortadan kalkmaz. 
+c) Verilen yetkilerin sorumlulukla dengeli, tam, eksiksiz ve doğru kullanılması esastır. Bu amaçla; 
+imza yetkisi verilen yöneticiler yetkilerini görev, hizmet ve sorumluluklarının gereği olarak  dikkat  ve 
+titizlikle kullanırlar. 
+ç) Yazışmalar, yürürlükte olan “Resmi Yazışmalarda Uygulanacak Esas ve Usuller Hakkında 
+Yönetmelik” hükümlerine göre yapılacaktır. Rektörlük bu yönergenin uygulanmasını izler ve bu konuda 
+açıklayıcı ve uyarıcı direktifler verebilir. 
+d) Rektör, Üniversitenin tüm birimleriyle; Rektör Yardımcıları, kendilerine bağlı birimlerle; Genel 
+Sekreter, Üniversite idari birimleriyle; Dekanlar, Fakülteleriyle; Müdürler,  kendisine  bağlı  Enstitü, 
+Yüksekokul,  Meslek  Yüksekokulu,  Uygulama  ve  Araştırma  Merkeziyle;  Bölüm  Başkanları, 
+Bölümleriyle; Daire Başkanları ve diğer birim amirleri ise kendi birimleri ile ilgili olan tüm konularda 
+bilgi ve sorumluluk sahibidirler. 
+e) Tüm birimler tarafından Resmi Yazışmalarda kullanılacak Standart Dosya Planı Kodu, 
+Yükseköğretim Kurulu Başkanlığı’nın yürürlükte olan ilgili mevzuat hükümlerinde belirtildiği biçimde 
+olacaktır. 
+f) EBYS üzerinden hazırlanan evrak taslakları, onaylanma/imzalanma safhasına gelinceye kadar 
+hazırlayan personelden başlamak üzere onay merciine kadar sıralı amirlerce paraflanır. Onay merciince 
+elektronik olarak imzalanmadan önce taslak üzerinde değişiklik yapılabilir taslak üzerinde yapılacak 
+değişiklik talebi; gerekçesi ile taslağı oluşturan personele iade edilir. Aynı zamanda taslağı oluşturan 
+personel tarafından evrakta hata yapıldığı veya değişiklik  yapılması  gerektiği  fark  edildiğinde 
+gerekçesini bildirerek imzalanmadan önce evrak kimin üzerinde ise iadesi istenebilir. Onay merciince 
+elektronik olarak imzalanan belge hiçbir şekilde değiştirilemez. Ancak imzalanan evrak imzalayan merci 
+tarafından sadece diploma ile ilgili işlemlerde gerekçe gösterilerek Bilgi İşlem Daire Başkanlığından 
+iptalini talep edilebilir. 
+g) Görev, yetki ve sorumluluklara ilişkin bütün işlemlerde evrak ve dokümanların yürürlükteki 
+mevzuata dayalı, Devletin ve kişilerin hakları konusunda objektif bir tutum içinde ilgili makam ve 
+birimlerle iş birliği yapılarak ve 3. madde de belirtilen mevzuat hükümleri uyarınca hazırlanarak onaya 
+sunulması esastır. 
+ğ) Rektörlüğe bağlı tüm birimlere EBYS üzerinden gönderilen elektronik imzalı yazılar sistem 
+üzerinden kayıt sayısı almış olduğundan, alınan sayı aynı zamanda evrakın gönderildiği birimin de kayıt 
+numarası olarak kabul edilir. 
+h) EBYS üzerinden gönderilen yazının, gönderilen birime eş zamanlı olarak ulaşması nedeniyle, 
+evrakın  gönderildiği  zaman  bilgileri,  gönderilen  birime ulaştığı  zaman  bilgisiyle  aynıdır.  Yazının 
+gönderildiği birime düştüğü zaman ve sayısı, aynı zamanda, gönderilen birime kaydedildiğine dair evrak 
+kayıt bilgileridir. 
+ı) Sistemde kullanıcı olarak tanımlı personel; kendisinin oluşturduğu güvenli şifresiyle girebildiği 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+5 | 23 
+ 
+EBYS’ye gereği yapılmak üzere (gereğine) gelen evrakların kendisine zimmetlenmiş olması nedeniyle, 
+işlem  ve  evrakın  niteliğine  göre  gerekli  değerlendirmeyi  yaparak,  yapılacak  işlemi  geciktirmeden 
+sonuçlandırmak zorundadır. 
+i) Rektörlüğe  bağlı  tüm  birimler,  görev  alanları  ile  ilgili  mevzuat  hükümleri  dışında  makam 
+atlayarak yazışma yapmayacaklar, ancak eşdeğeri birimlerle bilgi isteme- verme gibi  yazışma 
+yapabileceklerdir. Anabilim Dalı Başkanlığı Bölüm Başkanlığını, Bölüm Başkanlığı, Dekanlığı atlayarak 
+üst makamlarla,  Daire Başkanlıkları ve Rektörlük birimleri  kendilerine imza yetkisi verilen konular 
+dışında üst makamlarla yazışma yapmayacaklardır.  Uygulama  ve  Araştırma  Merkezi 
+Müdürlükleri/Başkanlıkları üst makamlarla olan yazışmalarını ve talep yazılarım Rektörlük aracılığıyla 
+yapacaklardır. 
+j) Rektörlüğe bağlı birimler kendilerine verilmiş yetkiler dışında dış kurumlarla yapılacak 
+yazışmaları Rektörlük aracılığı ile yapacaklardır. 
+k) Akademik Birimler, eğitim ve araştırma amaçlı konularda, bağlı oldukları birimlerdeki 
+eşdeğerleri  ve  kendilerine  bağlı  birimlerle  bu  yönergede  belirlenen  ilkeler  doğrultusunda  yazışma 
+yapabilirler. 
+l) Genel Sekreter, Genel Sekreter Yardımcısı, Daire Başkanı ve Hukuk Müşavirine imzalama 
+yetkisi verilen rutin yazılar dışındaki akademik ve idari birimlere ve Üniversite dışı kurumlarla yapılacak 
+yazışmalar, Rektör veya Rektör tarafından görevlendirilen Rektör Yardımcısı imzası ile yapılır. İdari 
+birimlerden Rektörlük Makamına hitaben yazılması gereken yazılar sadece idari birimlerin amirlerinin 
+imzası ile yapılacaktır. 
+m) Akademik birimlerden Rektörlük Makamına hitaben yazılması gereken yazılar Dekan, Müdür, 
+Araştırma Uygulama Merkezi Müdürü imzası ile yapılacak. Ancak adına imza yetkisi verildiği takdirde 
+yardımcılarının imzası ile de yazışma yapılabilecektir. 
+n) Bilgi Edinme Hakkı Kanunu ve ilgili yönetmelik gereğince; Genel Sekreterliğe bağlı “Bilgi 
+Edinme Birimi” oluşturulmuştur. Üniversiteye bağlı tüm akademik ve idari birimlere yapılacak bilgi 
+edinme başvurulan ilgili birim tarafından cevaplandırılacak ve Genel Sekreterlik bünyesinde oluşturulan 
+Bilgi Edinme  Merkezi sorumluları tarafından yazılı olarak müracaat yapan kurum ve  kişilere  bilgi 
+verilecektir. 
+o) Yazıların ilgili olduğu birimde hazırlanması ve oradan gönderilmesi asildir. 
+ö) “İdari Birim Kimlik Kodu” olmayan ya da verilmeyen hiçbir birim/makam yazışma yapamaz. 
+“İdari Birim Kimlik Kodu” ile ilgili tüm işlemler Genel Sekreterlik tarafından yürütülmektedir. 
+p) “İdari Birim Kimlik Kodları” yazışmalarda “Sayı” kısmında tam olarak kullanılacaktır. (İdari 
+Birim Kodu, kurum içerisinde birimlerin organik bağını tanımlayan önemli bir yapı olup, özellikle 
+EBYS’de yazının üretildiği ve hazırlandığı birim ve alt birimin hiyerarşik yapısını ve organik bağını 
+gösteren en önemli unsurdur.) 
+r) Rektörlüğün resmi  yazılarında üniversitenin tescilli amblemi yazının sol üst köşesinde yer 
+alacaktır. 
+s) Fırat Üniversitesi ve Fırat Üniversitesine bağlı birimlerin kurum dışında yapacakları anlaşmalar 
+Rektörlük onayıyla yürürlüğe girecek ve anlaşma/protokollerin metinlerinin asılları Genel Sekreterlik 
+Makamınca muhafaza edilecektir. 
+ş) Rektörün izni olmadan hiçbir birim amiri veya idari ve akademik personel Fırat Üniversitesi 
+adına beyanatta bulunamaz. 
+t) Bir izin veya onayın kaldırılması veya düzeltilmesi işlemi, alınışındaki usule uygun olarak yapılır. 
+u) Birim amirleri belge asıllarının (diploma, askerlik belgesi, yazı vb.) suretlerini “Aslının Aynıdır” 
+şeklinde onaylayacak görevlileri resmi bir yazıyla belirler. 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+6 | 23 
+ 
+ü) Üniversite  içi  yazışmalarda  veya  dış  yazışmalarda  evrak  güvenli  elektronik  imza  ile 
+imzalandıktan sonra, belge üzerinde ve içeriğinde değişiklik yapılamaz. Bu tip değişikliklerin yapılması 
+halinde 5237 sayılı Türk Ceza Kanunu ve ilgili mevzuat hükümler kapsamında gerekli cezai ve idari işlem 
+yapılması yoluna gidilir. 
+v) Rektör Yardımcılarından biri herhangi bir nedenle yerinde olmadığı zamanlarda ona ait imza 
+yetkisi diğer Rektör Yardımcısı tarafından kullanabilir. 
+y) Bu yönerge doğrultusunda birim amirleri kendi aralarında emir niteliği taşımayan yazışmalar 
+yapabilirler. 
+z) Rektör tarafından bu yönerge ile devredilen yetkiler Rektör onayı olmadan devredilemez 
+ 
+Sorumluluklar 
+MADDE 7- (1) Yazışmaların ilgili mevzuata uygunluğundan; 
+a) Bu yönerge ile verilen yetkilerin tam ve doğru olarak kullanılmasından ve uygulamaların 
+yönergeye uygunluğunun sağlanmasından Rektör, Rektör Yardımcıları, Genel Sekreter ile tüm 
+akademik ve idari birim amirleri, 
+b) Yazışmaların yazışma kuralları, emir ve yönergeye uygun olarak yapılmasından, yazıların 
+sistematik bir şekilde dosyalanma ve korunmasından birim amirleri ile birimlerin ilgili görevlileri, 
+c) Gelen evrakın ve imzalanan yazıların ilgililere süratle ulaştırılması ve tekide mahal 
+verilmeyecek şekilde süratle cevaplandırılmasından ilgili birim amiri ve birimdeki tüm görevliler, 
+ç) Gizlilik dereceli bilgi ve evrakın, bilmesi gereken dışında, ilgisiz kişilerin eline geçmesinden, 
+haberdar olmasından birim amiri ve tüm ilgililer, 
+d) Birimlerden çıkan tüm yazılardan birinci derecede birim amiri ve parafı olan tüm ilgililer, 
+e) Günlü ve süreli evrakların takip edilmesinden ve meydana gelecek aksamalardan birim amiri ve 
+ilgili görevliler hiyerarşik olarak sorumludur. 
+f) Yükseköğretim Kurulu tarafından hazırlanan Standart Dosya Planına uygun yazışma ve 
+dosyalama işlemi yapmaktan Akademik ve idari tüm birimler sorumludur. Bu nedenle yazının 
+hazırlanması ve paraflanmasından imzaya kadar süreçte sorumluların dosya numarasının 
+doğruluğunu kontrol etmeleri gerekmektedir. 
+(2) EBYS’nin Elektronik ortamdaki güvenliği ve iş akışlarının sürdürülebilirliği; 
+a) EBYS Sunucularının kurulması, doğru olarak çalıştırılması ve güvenliklerinin sağlanmasından 
+Fırat Üniversitesi Bilgi İşlem Dairesi Başkanlığı sorumludur. 
+b) EBYS üzerinde sistem özelliklerinin değiştirilmesi ve kullanıma uygun hale getirilmesi ile iş 
+akışlarının verimliliğinin devamından Fırat Üniversitesi Bilgi İşlem Dairesi Başkanlığı sorumludur. 
+ 
+ÜÇÜNCÜ BÖLÜM 
+Uygulama Esasları 
+ 
+MADDE 8- (1) Kurum dışından gelen belgeler aşağıda belirtilen ilke ve yöntemlere göre kayıt 
+altına alınır: 
+a) Her ne şekilde gelirse gelsin, Evrak Kayıt birimine gelen her türlü belge (Fiziki veya Elektronik 
+ortamda),  görevli  personel  tarafından  doğrulama  işlemleri  yapıldıktan  sonra  EBYS  uygulaması 
+kullanılarak kayıt altına alınır ve takibi yapılır. 
+b) Elektronik ortamda hazırlanan ve kuruma Fiziksel olarak gönderilen belgelerin, Dijital Türkiye 
+(e-Devlet) üzerinden doğrulaması yapılır. Doğrulaması yapılan belgenin elektronik ortamda erişilen aslı, 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+7 | 23 
+ 
+indirilerek kayıt işlemi gerçekleştirilir. 
+c) Kurum dışından gelen belgelerde muhatabın; Fırat Üniversitesi Rektörlüğü, Uygulama ve 
+Araştırma Merkezleri, Daire Başkanlıkları, Koordinatörlükler, Ofisler, Hukuk  Müşavirliği,  Döner 
+Sermaye İşletme Müdürlüğü vb. birimler olması halinde, rektörlük makamına arz edilmek üzere kurum 
+evrak kayıt sorumlusu tarafından kayıt altına alınır. Kurum evrak kayıt sorumlusu tarafından kayıt altına 
+alınan belgeler, ilgili birimlere Rektörlük Makamı tarafından havale edilir. Yazı ile ilgili Rektörlük 
+Makamından onay alınması gerekiyorsa onay havale edilen birimler tarafından alınır. 
+ç) Kurum   dışından   gelen   belgelerde   (gizli   yazılar   hariç)   muhatabın; 
+Fakülteler/Enstitüler/Yüksekokullar/Meslek Yüksekokullar olması halinde gelen belgeler birim amirine 
+arz edilmek üzere birim evrak kayıt sorumlusu tarafından kayıt altına alınır. Birim amiri veya belge 
+havale yetkilisi tarafından havale işlemi gerçekleştirilir. 
+d) Kurum dışından gelen belgelerin tüm ekleri ile birlikte bir bütün olarak kayıt altına alınması 
+esastır. Ancak fiziksel ekleri; taranamayacak boyuttaki harita vb. basılı doküman, klasör, dosya, CD, 
+DVD, gazete, kitap, dergi, broşür ve benzeri basılı süreli veya süresiz yayınlar olması halinde üst yazı 
+taranmak suretiyle, ekler ise içeriği belirtilerek kayıt altına alınır. 
+e) “HİZMETE ÖZEL”, “ÖZEL”, “GİZLİ” ve “ÇOK GİZLİ” ibaresi taşıyan belgeler Evrak 
+Kayıt birimince teslim alınarak, açılmadan Rektörlük Makamına arz edilerek kayıt altına alınır ve 
+havalesine takiben ilgili birim/kişiye teslim edilir. 
+f) “HİZMETE ÖZEL”, “ÖZEL”, “GİZLİ” ve “ÇOK GİZLİ” ibaresi taşıyan zarflar da kayıt 
+altına alma işlemi; zarfla ilişkili üst yazı veya form, yoksa zarfın ön yüzü taranmak kaydıyla yapılır. 
+g) “KİŞİYE ÖZEL” ibaresi taşıyan zarflar ve belgeler Evrak Kayıt birimince teslim alınarak, 
+açılmadan  ilgili  kişiye  teslim  edilir. “KİŞİYE  ÖZEL” ibareli  belgeler,  belge  sahibinin  rızası 
+doğrultusunda kayda alınır. 
+ğ) Kurum dışından elektronik yöntemlerle (e-posta, faks) gönderilen belgeler önem derecesi 
+dikkate alınarak belge doğrulama işlemine müteakip elektronik ortamda işleme alınabilir. 
+h) Aslı, belge referans numarası ile daha sonra gönderilen belgelerin, mükerrer kayıt girişini 
+engellemek için referans numarası bilgisi üzerinden kaydının olup olmadığı kontrol edilir, kaydı olan 
+belgelerin ilgili birimlere sadece fiziksel dağıtımı yapılır. 
+ı) KEP adresi üzerinden alınan belgeler, kurum evrak kayıt sorumlusu tarafından elektronik 
+ortamda EBYS sistemine kayıt işlemi gerçekleştirilir. KEP adresi üzerinden gelen belgeler, elektronik 
+ortamda işlem  yapılması nedeniyle örnek nüshası (yazıcı çıktısı)  fiziksel yollarla  ilgili  birimlere 
+gönderilmeyecektir.  Ancak  KEP  adresi  üzerinden  gelen  belgelerin  aslı  veya  elektronik ortamda 
+gönderilemeyen/gönderilmeyen fiziksel ekleri (taranamayacak boyuttaki  harita  vb.  basılı  doküman, 
+klasör, dosya, CD, DVD, gazete, kitap, dergi, broşür ve benzeri basılı süreli veya süresiz yayınlar) posta 
+yoluyla kuruma ulaşmasına takiben mükerrer kayıt girişini engellemek üzere daha önce kaydı olup 
+olmadığı tespit edilerek, kaydı olan belgelerin ilgili birime sadece fiziksel dağıtımı yapılacaktır. 
+i) Kayda alınacak belgelerde mutlaka isim ve imza olmalıdır. İsim ve imza bulunmayan evraklar 
+kayda alınmaz. 
+j) Kurum evrak kayıt sorumlusu tarafından kaydı yapılan ve elektronik ortama aktarılan fiziksel 
+belgeler, elektronik ortamdaki nüshalarının ilgili birime havalesine takiben zimmet karşılığında teslim 
+edilecektir. Birim evrak kayıt sorumlusu tarafından kaydı yapılan ve elektronik ortama aktarılan fiziksel 
+belge birim arşivinde saklanacaktır. 
+k) Birimlere e-posta yoluyla gelen yazılar birim amiri tarafından değerlendirilerek kurum içinde 
+yazışma yapılması gereken durumlarda taranarak sisteme dâhil edilir. 
+(2) Kurum içinde belgelerin oluşturulması, paraf  ve imza işlemleri aşağıda belirtilen ilke  ve 
+yöntemlere göre yapılır: 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+8 | 23 
+ 
+a) Belgeler, Resmi Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmeliğe uygun 
+olarak, kurumun belirlediği kurumsal kimlik şablonları doğrultusunda hazırlanır. 
+b) Yazıların Türkçe dilbilgisi kurallarına ve günümüz Türkçesine uygun hazırlanması, metinlerin 
+açık bir ifade ile kısa ve öz olarak yazılması zorunludur. 
+c) Kurum dışına gönderilmek üzere hazırlanan belgelere eklenecek ekler sadece PDF formatında 
+olacak, birden fazla ek konulması gerektiği hallerde ekler ayrı ayrı yüklenerek içeriği belirtilecektir. 
+Ancak ekler; taranamayacak boyuttaki harita vb. basılı doküman, klasör, dosya, CD, DVD, gazete, kitap, 
+dergi, broşür ve benzeri basılı süreli veya süresiz yayınlar olması halinde ek konulacak ancak içerik 
+yüklenmeyecek, ekin koli/paket/zarflama  işlemi  belgenin  imzasına  müteakip  belgeyi  yazan  birim 
+tarafından gerçekleştirilerek gönderime sevk edilecektir. 
+ç) Kurum içi yazışmalarda ise; veri, bilgi ve belge talep eden birim tarafından üst yazıda açıkça 
+belirtilmediği takdirde belgelere eklenecek ekler PDF formatında olacak, birden fazla  ek konulması 
+gerektiği hallerde ekler ayrı ayrı yüklenerek içeriği belirtilecektir. Ancak ekler; taranamayacak boyuttaki 
+harita vb. basılı doküman, klasör, dosya, CD, DVD, gazete, kitap, dergi, broşür ve benzeri basılı süreli 
+veya süresiz yayınlar olması halinde ek konulacak ancak  içerik  yüklenmeyecek  ve  yazının 
+gönderilmesine müteakip ilgili birime teslim edilecektir. 
+d) Konuların Standart Dosya Planı Kodlarında bulunan konu alanlarına uygun olarak kısa ve öz 
+bilgi verecek şekilde yazılması zorunludur. Kurum içi resmi yazışmalar sadece EBYS ortamında yapılır. 
+Ancak yönetmelik gereğince  (Zorunlu  Haller  ve  Olağanüstü  Durum)  EBYS’de  oluşturulamayan 
+evrakların hazırlanma,  paraf ve imza işlemleri fiziksel ortamda yapılır. Fiziksel ortamda hazırlanan 
+evraklara belge sayısı EBYS’den verilir. 
+e) Cevaplanan  yazılar  ilgileri  dikkate  alınarak  hazırlanır  ve  tüm  ilgi,  referans  ve  ekleri 
+bağlantılarına uygun olarak EBYS menüleri kullanılarak yazı içinde belirtilir. 
+f) Elektronik ortamda yapılan yazışmalarda ilk imza sahibine kadar paraf elektronik ortamda 
+alınır, bu paraf da elle atılan parafın sonuçlarını doğurur. 
+g) Muhatabı  yabancı  ülke  veya  uluslararası  kuruluş  olan  ve  İngilizce  veya  başka  bir  dilde 
+yapılacak yazışmalarda imza, onay ve olurların son imza aşaması, ıslak veya  elektronik imza ile 
+tamamlanır. Yabancı dilde hazırlanan belgenin bir nüshası da Türkçe tercümesi ile birlikte saklanır. 
+ğ) İmza, onay ve olurların güvenli elektronik imza ile yapılması asildir. Bu nedenle evrakın son 
+imzasını atacak, onayını veya olurunu verecek amirin elektronik imzasının olmaması durumunda bir üst 
+amirin imzası ile yapılır. Bir üst amirin de elektronik imzasını olmaması durumunda ilgili birimin bağlı 
+olduğu rektör yardımcısının imzası ile yapılır. 
+h) Üniversite  dışındaki  kişi,  kurum  ve  kuruluşlar  ile  yapılacak  (harcama  yetkilisi  sıfatıyla 
+yapılanlar hariç) ve Rektör adına yetki verilmiş Makamlarca imzalanacak yazılarda, yazının sağ alt 
+köşesine yazıyı imzalayanın adı ve soyadı yazıldıktan sonra, altına “Rektör a.” ibaresi  konulur,  bunun 
+altına da memuriyet unvanı yazılır. 
+ı) Hukuk Müşavirliği tarafından adli ve/veya idari mercilere intikal ettirilmek üzere birimlerden 
+istenen belgeler EBYS yanında fiziksel olarak da Hukuk Müşavirliğine gönderilir. Hukuk Müşavirliğine 
+gönderilecek yazılarda ek bulunması durumunda, ekin uygun bir  yerine “Aslının Aynıdır” ibaresi 
+yazılarak yetkilendirilmiş kişiler tarafından imzalanır ve mühürlenir. 
+(3) Kurum içi belgelerin dağıtım işlemleri aşağıda belirtilen ilke ve yöntemlere göre yapılır: 
+a) Gelen belgenin işlemini birden fazla birim ve/veya kullanıcının yapması gerekiyor ise, belgenin 
+birden  fazla  birim  ve/veya  kullanıcıya  havale  işlemi  gerçekleştirebilir.  Gerekli  hallerde  belgenin 
+dağıtımı ve yapılacak işlemi konusunda not yazılır. 
+b) İlgili birime ulaşan belgeler birim amiri veya belge havale yetkilisi tarafından sorumlu birime 
+havale edilir, önem arz eden evrakların kişiye dağıtımları da yapılır, gerekli hallerde belgeye dağıtım ve 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+9 | 23 
+ 
+yapılacak işlem konusunda not yazılır. 
+c) Sorumlu birime ulaşan belge, gerekli hallerde yapılacak işlem konusunda notlar yazılarak 
+sorumlu personele dağıtılır. Dağıtımı yanlış yapılan belgeler zaman kaybetmeden yeniden dağıtım için 
+sevk edene iade edilir. 
+ç) Belgelerin  Rektörlükte  havale  noktaları;  Rektörlük,  Genel  Sekreterlik  ve  Daire 
+Başkanlıklarıdır. Ancak iş ve işlemleri hızlandırmak adına Rektör, Genel Sekreter ve Daire Başkanları 
+belge havale yetkilisi görevlendirebilir. 
+d) Akademik  Birimlerde  havale  noktası  Enstitü/Fakülte/Yüksekokul/Meslek  Yüksekokulu, 
+Dekanlığı/Müdürlüğü/Sekreterliği ve Araştırma Merkezi Müdürlüğüdür. Akademik birimlerde belge 
+havale  yetkisi;  Fakültelerde  Fakülte  Sekreteri,  Enstitülerde  Enstitü Sekreteri, Yüksekokullarda 
+Yüksekokul Sekreteri, Meslek Yüksekokullarda Meslek Yüksekokul Sekreteri tarafından kullanılır. 
+Gerek görüldüğü takdirde belge havale yetkisi birim amirince de kullanılabilir. 
+(4) Kurum dışı belgelerin gönderim işlemleri aşağıda belirtilen ilke ve yöntemlere göre yapılır: 
+a) Rektör veya Rektör Yardımcıları tarafından imzalanan belgeler kurum evrak kayıt sorumlusu 
+tarafından, birim amiri tarafından imzalanan belgeler birim evrak kayıt sorumlusu tarafından gönderim 
+işlemi gerçekleştirilir. 
+b) Kurum  dışına  yazılan  belgelerde  belgeyi  hazırlayan  personel;  belgenin  paraflanması, 
+imzalanması ve gönderim işlemlerinin tamamlanmasına kadar olan sürecin takibinden sorumludur. 
+c) İmkân dâhilinde belge ve ekleri KEP marifetiyle gönderilir. 
+ç) Kurum dışına “ÖZEL”, “GİZLİ” ve “ÇOK GİZLİ” ibaresiyle yazılan gizlilik dereceli 
+belgelerde  imza  işlemine  müteakip  posta  işlemleri  belgeyi  yazan  personel  tarafından 
+gerçekleştirilecektir. 
+d) Üniversite dışında kalan kurum ve kuruluşlara koli/paket halinde gönderilecek olan fiziksel 
+belgelerin paketleme/kolileme ve adresinin yazılması işleri belgeyi oluşturan birim tarafından yapılır. 
+e) Elektronik ortamdan çıkış kaydı alınmamış (elektronik imza işlemleri tamamlanmamış) hiçbir 
+evrak, dağıtılmak üzere evrak kayıt yetkilisine teslim veya havale edilmez. 
+(5) Evrak klasör işlemleri aşağıda belirtilen ilke ve yöntemlere göre yapılır: 
+a) Birimlerde oluşturulan belgeler, Yükseköğretim Üst Kuruluşları ve Yükseköğretim Kurumları 
+Saklama  Süreli  Standart  Dosya  Planındaki  konu  kodlarıyla  aynı  isimle  oluşturulmuş  klasörlerde 
+arşivlenir. 
+b) Belgelerin elektronik arşivleme işlemi EBYS tarafından yapılır. 
+c) Birimler, kendilerine gelen belgelerin standart dosya plan kodları hatalıysa ya da belgeye  iki 
+birim tarafından farklı standart dosya plan kodu verilmesi gerekiyorsa kodları değiştirebilir veya yeni 
+standart dosya plan kodu ekleyebilir. 
+ 
+İzinler ve Vekâletler 
+MADDE 9- (1) İzin Talep Evrakları ve Görevlendirmeler: 
+a) İzinler, personelin tabi olduğu mevzuat hükümleri çerçevesinde EBYS üzerinden ilgili form 
+doldurularak kullanılır. 
+b) Vekâlet bırakmayı gerektiren görevi olan personel vekâlet bırakma işlemini, gerekli izin ya da 
+görevlendirme evrakının onaylanmasından sonra sistem üzerinden tüm görevleri için ayrı ayrı olmak 
+üzere vekâletin başladığı gün içerisinde gerçekleştirir. 
+c) Vekâletlerin sistem üzerinden vekillere bırakılmasının ardından, unvan ve görevi gereğince ilgili 
+daire başkanlıklarına bildirilmesi zorunlu olan vekâlet olurları, ayrıca birimi  tarafından  ilgili  daire 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+10 | 23 
+ 
+başkanlıklarına resmi yazıyla iletilecektir. 
+ 
+Bilgi Edinme, Müracaat ve Şikâyet Başvuruları 
+MADDE 10- (1) Bilgi Edinme, Müracaat ve Şikâyet Başvurularında: 
+a) 4982 Sayılı Bilgi Edinme Hakkı Kanunu uyarınca Üniversitemize elektronik ortamda alınan 
+Vatandaş  başvurularının  kayıt  ve  takibini  sağlayan  Cumhurbaşkanlığı İletişim  Merkezi  (CİMER) 
+sistemine kayıtlı başvurular Genel Sekreterlik/Bilgi Edinme Birimi tarafından takip edilecek ve EBYS’ye 
+dâhil edildikten sonra ilgili birime sevk edilecek ve cevap alındıktan sonra en kısa sürede yanıtlanacaktır. 
+b) Bütün birim amirleri, kendi görev alanlarına giren konularla ilgili birimlerine yapılan başvurulan 
+doğrudan doğruya kabul etmeye, kaydını yaptırarak konuyu incelemeye ve eğer istenen husus mevcut bir 
+durumun beyanı veya yasal bir durumun açıklanması ise, bunu dilekçe sahiplerine 3071 sayılı Dilekçe 
+Hakkının  Kullanılmasına  Dair  Kanunda  belirtilen  usule  uygun  olarak,  yazılı  şekilde  bildirmeye 
+yetkilidirler. 
+c) 3071 Sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun uyarınca, kendisine başvurulan birim 
+amiri,   konunun  incelenmesini  ve  çözümünü  kendi  yetkisi  dışında  görürse,  dilekçeler  Rektörlük 
+Makamına sunulacak, verilecek talimata göre gereği yapılacaktır. 
+ç) Doğrudan Rektörlük Makamına yapılan yazılı başvurular, kurum evrak kayıt birimi tarafından 
+kaydı yapılarak dilekçenin ilgili birime şevki sağlanacaktır. Bu şekilde ilgili birime giden dilekçeler 
+işleme konulacak ve sonuç, 3071 ve 4982 sayılı Yasalarda belirtilen usule uygun olarak dilekçe sahibine 
+ve ilgili yetkililere yukarıda yazılı esaslar dâhilinde yazılı olarak bildirilecektir. 
+d) Medyada yer alan ihbar, şikâyet ve dilekler, Basın ve Halkla İlişkiler Müdürü/Koordinatörü 
+tarafından, herhangi bir emir beklemeksizin doğrudan  doğruya  dikkatle  incelenir ve  sonuç  en  kısa 
+zamanda  Rektöre  bildirilir.  Basına  gönderilecek cevap  ve  düzeltme  biçimi  Rektör  veya  Rektör 
+Yardımcıları tarafından belirlenir. 
+e) Rektörlüğe Bilgi Edinme Başvurusu kapsamında e-posta dışında gelen dilekçeler, Bilgi Edinme 
+Birimi tarafından kabul edilip kayda alındıktan sonra, başvuru konusu ile ilgili bilgi alınması gereken bir 
+husus  varsa  ilgili  birimden  bilgi  talep  edilir.  Gelen  bilgi  doğrultusunda  başvurular,  bilgi  edinme 
+mevzuatında öngörülen süreler içerisinde cevaplandırılır. 
+f) Başvurularla ilgili diğer usul ve esaslar Rektörlükçe belirlenir, tereddüt edilen hususlar ilgili 
+Rektör Yardımcısı tarafından çözülür. 
+ 
+DÖRDÜNCÜ BÖLÜM 
+İmza Yetkileri, Devirler ve Vekâlet 
+ 
+Yetki Devirleri ve İmza Yetkileri 
+MADDE 11- (1) Yetki devirlerinde aşağıdaki ilkelere uyulur: 
+a) Yetkililer görevlerinin ifası sırasında mevzuatla doğrudan kendisine verilmiş olan ve yönetici 
+olarak sahip olduğu yetkiler ile biriminin faaliyetleri ile ilgili olarak kendisine devri  uygun  görülen 
+yetkileri kullanırlar. 
+b) Yetkililer mevzuata göre yalnız kendileri tarafından kullanılması öngörülen hususlar dışında 
+kalan yetkilerini tespit edeceği esaslara göre sürekli veya geçici olarak mahiyetindeki   personele 
+devredebilirler. 
+c) Rektör tarafından bu yönerge ile devredilen yetkiler Rektör onayı olmadan birim amirlerince 
+daha alt kadrolara devredilemez. 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+11 | 23 
+ 
+ç) Dekan/Müdürler tarafından bu yönerge ile devredilen yetkiler Dekan/Müdür onayı olmadan 
+birim amirlerince daha alt kadrolara devredilemez. 
+d) Süresi bitmeden kaldırılacak yetki devirleri yetki veren makam tarafından yazılı olarak yapılır. 
+e) Devredilen yetki devreden amirin gözetimi ve denetimi altında kullanılır. Yetki devri amirin 
+sorumluluğunu ortadan kaldırmaz. 
+ 
+Rektörün Havale Edeceği Yazılar 
+MADDE 12- (1) Rektörün havale edeceği yazılar şunlardır: 
+a) Cumhurbaşkanlığı ve bağlı birimlerinden gelen yazılar, 
+b) TBMM Başkanlığından ve TBMM’nin birim ve komisyon başkanlıklarından gelen yazılar, 
+c) Yükseköğretim Kurulu Başkanlığı, Üniversitelerarası Kurul Başkanlığı ve ÖSYM 
+Başkanlığından gelen yazılar, 
+ç) İç Denetim Koordinasyon Kurulu, Müstakil Genel Müdürlüklerden Genel Müdür imzası ile 
+gelen yazılar, 
+d) Vali, Garnizon Komutanı ve İl Belediye Başkanı imzası ile gelen yazılar ile bu 
+kurumlardan gelen önemli nitelikteki yazılar, 
+e) Milli Güvenlik Kurulu Genel Sekreterliği'nden gelen yazılar ile güvenlik ve asayişe 
+yönelik yazılar, 
+f) Adli ve İdari yargı organlarından gelen yazılar, 
+g) Çeşitli kurum, kişi ve birimlerden Rektörlüğe “KİŞİYE ÖZEL”, “ÇOK GİZLİ” ve 
+“GİZLİ” kaydıyla gelen yazılar. 
+ 
+Rektör Tarafından Yürütülecek İşler İle İmzalanacak Yazılar ve Onaylar 
+MADDE 13- (1) Rektör tarafından yürütülecek işler için imzalanacak yazılar ve onaylar 
+şunlardır: 
+a) Kanunen bizzat Rektör tarafından başkanlık edilmesi gereken toplantı ve kurullar, 
+b) Kanunlar, yönetmelikler ve yönergelerde öngörülen ve mutlaka Rektör tarafından 
+yapılması gereken öneriler, kararlar ve işlemler, 
+c) Yazılı, görsel ve işitsel medyaya demeç verme, 
+ç) İç denetim birim yöneticisince sunulan çalışma plan ve programını onaylama, 
+d) Rektör Yardımcıları, İç denetçiler, Dekan, Enstitü, Yüksekokul, Meslek Yüksekokulu 
+Araştırma Merkezi Müdürleri ile Rektörlüğe bağlı Bölüm Başkanları, Genel Sekreter, Genel Sekreter 
+Yardımcısı, Daire Başkanları, Hukuk Müşaviri, Döner Sermaye İşletme Müdürü ve Basın ve Halkla 
+İlişkiler Müdürünün yıllık, mazeret ve sağlık izin onayları, 
+e) Personelin ücretsiz izin onayları, 
+f) Özel Kanunlarda belirtilen hususlar saklı kalmak üzere, Üniversite kadrosundaki tüm 
+personelin görev yerlerinin belirlenmesi, Üniversite içinde yer değiştirme ve asalet tasdik onayları, 
+g) Üniversite içinde yer değişikliğine ilişkin geçici görevlendirme ile boş bulunan yönetici 
+durumundaki idari kadrolara vekâlet ve tedvir yazıları ve onayları, 
+ğ) İlgili personeli görevden uzaklaştırma ve göreve iade onayları, Cumhurbaşkanlığı Genel 
+Sekreterliği, TBMM Başkanlığı ile birim ve komisyonları, Milli Güvenlik Kurulu Genel Sekreterliği, 
+Yükseköğretim Kurulu Başkanlığı, Üniversitelerarası Kurul Başkanlığı ve ÖSYM Başkanlığına ve İç 
+Denetim Koordinasyon Kuruluna yazılacak yazılar, 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+12 | 23 
+ 
+h) Bakanlar ve Müsteşarların imzasıyla gelen yazı cevapları ile Bakanlıklara sunulan (YÖK 
+kanalıyla) Rektörlük görüş ve tekliflerini içeren yazılar, 
+ı) Vali, Garnizon Komutam, İl Belediye Başkanı ve Cumhuriyet Başsavcısı imzası ile gelen 
+yazılara verilecek cevaplar ile bu kurumlara yazılacak yazılar, 
+i) Üniversite iç denetim birimi yönetimi ile idari ve akademik birimlerden gelen 3628 sayılı Mal 
+Bildiriminde Bulunma Rüşvet ve Yolsuzluklarla Mücadele Yasası gereğince adli mercilere suç ihbarı 
+içeren raporların gönderilmesi ve yazıların yazılması, 
+j) Diğer Üniversitelerden Rektör imzasıyla gelen yazışmalara verilecek cevaplar, 
+k) Asayiş ve güvenlik ile ilgili yazışmalar, 
+l) Rektörlük tarafından Danıştay’a, Bölge İdare Mahkemelerine, İdare Mahkemelerine ve Vergi 
+Mahkemelerine açılan davaların dilekçeleri ve davalara ait savunma yazıları (Bu konuda Hukuk 
+Müşavirine yetki devri yapılabilecektir.), 
+m) Açıktan atama ile ilgili kadro talep yazıları, 
+n) Üniversite birimleri ile Üniversite dışındaki kurum ve kişilerden gelen teklif ve yazılara 
+verilecek cevaplar, 
+o) Üniversite yatırım teklifleri ve yıllık programların uygulanması ile ilgili yazılar, 
+ö) Yasa ve yönetmeliklerle Rektöre bırakılmış ve bu yönergede yetki devri yapılmamış 
+konulardaki yazılar ile Rektörün imzalamayı uygun gördüğü diğer onay ve yazılar, 
+p) Fırat Üniversitesi ve Fırat Üniversitesine bağlı birimlerin kurum dışında yapacakları ikili 
+veya çoklu anlaşma onayları, 
+r) Açıktan ve naklen atama ile ilgili kuramlarından muvafakat isteme ve onay öncesi 
+yapılması gereken işlemlere ilişkin yazılar, 
+s) Akademik personelin derece ve kademe ilerlemesi onayları, 
+ş) Personel atamaları ile ilgili kararname ve onayların üst yazıları ile personelin görevden ayrılış 
+veya göreve başlayışlarının, Üniversite dışı kurumlara ve Üniversite içi akademik birimlere 
+bildirilmesine dair yazılar, 
+t) Çeşitli afiş, broşür, duyuru, internet duyurusu, fuar, stant açma talepleri ve ilanların ilgili 
+akademik ve idari birimlere gönderilmesine dair yazılar. 
+ 
+Rektör Yardımcıları Tarafından Yürütülecek İşler İle İmzalanacak Yazılar ve Onaylar 
+MADDE 14 – (1) Rektör yardımcıları tarafından yürütülecek işler için imzalanacak yazılar ve 
+onaylar şunlardır: 
+a) Rektöre  bilgi  verilmek  kaydı  ile  Rektörün,  çeşitli  nedenlerle  makamında  bulunmadığı 
+zamanlarda Rektör tarafından imzalanması gereken, ancak özellik ve ivediliği nedeniyle gecikmesinde 
+sakınca bulunan yazılar, 
+b) Rektörlüğe gelen evrakın ilgili birime havalesi, 
+c) Rektör tarafından Rektör Yardımcılarına bağlanan ilgili birimlerin koordinasyonunu sağlamak 
+amacıyla yazılan yazılar, 
+ç) İzinleri Rektör tarafından verilecekler dışında kalan Rektörlüğe bağlı bölüm ve birimlerdeki 
+akademik personelin görev bölümüne göre yıllık, mazeret ve sağlık izin onayları, 
+d) Üniversite yerleşkesinde asılacak ilan ve duyuruların izin onayları, 
+e) Rektör tarafından verilen diğer görevler. 
+ 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+13 | 23 
+ 
+Genel Sekreter Tarafından Yürütülecek İşler ile İmzalanacak Yazılar ve Onaylar 
+MADDE 15- (1) Genel Sekreter tarafından yürütülecek işler ile imzalanacak yazılar ve onaylar 
+şunlardır: 
+a) Kurum içi ve kurum dışı gelen yazıların, konularına göre Rektör, Rektör Yardımcılarına arzı, 
+takibi ve gerektiğinde işlem yapılması, 
+b) İdari birimlerin Rektör ve Rektör Yardımcılarının imzasına sunduğu yazıların parafı, 
+c) Genel Sekreter Yardımcısı, Daire Başkanları ile Rektörlük birimlerinde bulunan Şube 
+Müdürlerinin yıllık, mazeret ve sağlık izin onayları (Rektör tarafından onaylanacaklar için teklifte 
+bulunmak), 
+ç) İl içi araç görevlendirme onayları, 
+d) İdari birimlerden Rektörlük Makamına hitaben yazılması gereken yazılar, 
+e) Üniversite Senatosu ve Yönetim Kurulu kararlarının ilgili idari birimlere gönderilmesine 
+ilişkin üst yazılar, 
+f) Genel Sekreterlik ve Genel Sekreterliğe bağlı birimlerde görevli personelin görevden 
+ayrılış ve göreve başlayışlarının idari birimlere bildirilmesine dair yazılar, 
+g) Rektör tarafından verilen diğer görevlere dair yazı ve onaylar, 
+ğ) Kendine bağlı birimler arasında koordinasyonu sağlayıcı yazı veya talimatlar ile bu 
+birimlerin hizmet akışı ve düzenlenmesine ilişkin yazılar, 
+h) Anma ve kutlama günleri ve bayram programlarına ilişkin tebliğler, 
+ı) Kendisine bağlı birimlerde görevli personelin, kendi birimleri içerisinde görevlendirme 
+yazılan ile izin onayları, 
+i) İdari personelin asalet tasdiki ve unvan değişikliği teklif onayları, 
+j) Rektör tarafından verilen diğer görevlere ilişkin yazışmalar. 
+ 
+Genel Sekreter Yardımcıları tarafından yürütülecek işler ile imzalanacak yazılar ve 
+onaylar 
+MADDE 16- (1) Genel Sekreter Yardımcıları tarafından yürütülecek işler ile imzalanacak 
+yazılar ve onaylar şunlardır: 
+a) Rektör, Rektör Yardımcıları ve Genel Sekreter tarafından imzalanacak yazıların parafı, 
+b) Kendisine bağlı görevli personelin izin onaylarının parafı, 
+c) Rektör, Rektör Yardımcıları ve Genel Sekreter tarafından verilen diğer görevler. 
+ 
+Dekan,  Enstitü,  Yüksekokul,  Meslek  Yüksekokul,  Uygulama  ve  Araştırma  Merkezleri 
+Müdürü Tarafından Yürütülecek İşler ile İmzalanacak Yazılar ve Onaylar 
+MADDE  17- (1) Dekan, Enstitü, Yüksekokul, Meslek Yüksekokulu Uygulama ve Araştırma 
+Merkezleri Müdürü tarafından yürütülecek işler ile imzalanacak yazılar ve onaylar şunlardır: 
+a) Üst makamlardan, diğer üniversitelerden, kurum, kuruluş ve kişiler ile Üniversitenin diğer 
+birimlerinden gelen yazılar ile “KİŞİYE ÖZEL”, “ÇOK GİZLİ” VE “GİZLİ” kaydıyla gelen yazıların 
+havalesi, 
+b) Yürürlükteki  mevzuat  hükümleri  uyarınca  bizzat  Dekan,  Enstitü,  Yüksekokul,  Meslek 
+Yüksekokulu, Uygulama ve Araştırma Merkezi Müdürü tarafından başkanlık edilmesi gereken toplantı 
+ve kurullar, yapılması gereken işlemler, 
+c) Rektörün onayını gerektirmeyen bilimsel araştırmaya yönelik izin yazıları, 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+14 | 23 
+ 
+ç) Birimde görev yapan akademik ve idari personelin yıllık, sağlık, mazeret ve 
+yurtdışı/yurtiçi izin onayları, 
+d) Birimde idari görev yapan personelin görev yerlerinin belirlenmesinin onayları, 
+e) Diğer Fakülte/Enstitü/Yüksekokul/Meslek Yüksekokullardan dekan/müdür imzasıyla gelen 
+yazılara verilecek cevaplar, 
+f) Dekan, Enstitü, Yüksekokul, Meslek Yüksekokulu Müdürü tarafından disiplin soruşturması 
+açılması, yürütülmesi, sonuçlandırılması ile ilgili onay ve yazılar, 
+g) 2547 sayılı Kanununun 39. madde ile 7 güne kadar olan yolluksuz/yevmiyesiz 
+görevlendirme onayları, 
+ğ) Rektörlük Makamına hitaben yazılacak tüm yazılar, 
+h) Rektör tarafından verilen diğer görevler. 
+(2) Dekan/Müdür imza yetkilerinin bir kısmını gerekli gördüğü takdirde Dekan /Müdür 
+Yardımcılarına devredebilir. 
+ 
+Bölüm Başkanı Tarafından Yürütülecek İşler İle İmzalanacak Yazılar 
+MADDE 18- (1) Bölüm başkanı tarafından yürütülecek işler ve imzalanacak yazılar ve onaylar 
+şunlardır: 
+a) Bölüm Kurulu kararlarının üst yazıları ile bölüm yazışmalarının imzası, 
+b) Ders görevlendirmeleri ve sınav programlan ile ilgili her türlü iş ve işlemler, 
+c) Bölüm öğrenci dilekçeleri ile ilgili yazışmalar, 
+ç) Birim içi bölümlerle yapılacak yazışmalar, 
+d) Rektör/Dekan/Müdür tarafından istenen bilgilere ilişkin üst yazıların imzalanması, öğrenci 
+ve personele ilişkin Rektörlük/Dekanlık/Müdürlük ile yapılan diğer tüm yazışmalar. 
+ 
+Anabilim Dalı Başkanlıkları Tarafından Yürütülecek İşler İle İmzalanacak Yazılar 
+MADDE 19- (1) Anabilim Dalı Başkanlıkları tarafından yürütülecek işler ile imzalanacak 
+yazılar ve onaylar şunlardır: 
+a) Anabilim Dalı Kurulu kararlarının üst yazıları ile Anabilim/Bilim Dalı yazışmalarının imzası, 
+b) Anabilim Dalı olarak bağlı bulunduğu enstitü veya diğer enstitülerle ilgili her türlü 
+yazışmalar. 
+ 
+İç Denetim Birimi 
+MADDE 20- (1) İç denetim birimi tarafından yürütülecek işler, imzalanacak yazı ve onaylar 5018 
+Sayılı Kamu Mali Yönetimi ve Kontrol Kanunu ve İç Denetçilerin Çalışma Usul ve Esasları Hakkında 
+Yönetmelikte belirtilen şekliyle yürütülecektir. 
+ 
+EBYS Sistem Yönetimi  
+MADDE 21- (1) EBYS Sistem Yönetimi, Bilgi İşlem Daire Başkanının önerisi ve Rektör onayı ile 
+atanan EBYS sistem sorumlusu tarafından bu yönerge çerçevesinde tanımlanan usul ve esaslara göre 
+yürütülür. 
+(2) EBYS Sistem Yöneticisi yaptığı bütün iş ve işlemlerde Bilgi İşlem Daire Bakanına karşı 
+sorumludur.  
+ 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+15 | 23 
+ 
+Koordinatörler Tarafından İmzalanacak Yazı ve Onaylar 
+MADDE 22- (1) Koordinatörler tarafından imzalanacak yazı ve onaylar şunlardır: 
+a) Görev alanlarıyla ilgili idari birimlerle yapılacak yazışmalar, 
+b) Rektörlük Makamı tarafından verilen diğer görevlere ait yazışmalar. 
+ 
+Döner Sermaye İşletme Müdürlüğü Tarafından İmzalanacak Yazı ve Onaylar 
+MADDE 23- (1) Döner Sermaye İşletme Müdürlüğü tarafından imzalanacak yazı ve onaylar 
+şunlardır: 
+a) Görev alanlarıyla ilgili idari birimlerle yapılacak yazışmalar, 
+b) Rektörlük Makamı tarafından verilen diğer görevlere ait yazışmalar. 
+ 
+Fakülte/Enstitü/Yüksekokul Sekreterleri Tarafından İmzalanacak Yazı ve Onaylar 
+MADDE 24- (1) Fakülte/Enstitü/Yüksekokul Sekreterleri tarafından imzalanacak yazı ve 
+onaylar şunlardır: 
+a) Kurum içi ve kurum dışından gelen yazıların havalesi, 
+b) Öğrenciler ile ilgili işlem ve yazışmalar, 
+c) Dekan/müdür ve dekan yardımcıları/müdür yardımcılarının imzalayacakları yazıların parafı, 
+ç) Fakülte/Enstitü/Yüksekokul Kurullarının raportörlük işlem ve yazışmaları, 
+d) Gerçekleştirme görevliliği ile ilgili işlemler, 
+e) Dekan/müdür tarafından verilen diğer görevlerle ilgili yazışmalar. 
+ 
+Hukuk Müşaviri Tarafından Yürütülecek İşler ve İmzalanacak Yazılar  
+MADDE 25- (1) Hukuk Müşaviri tarafından imzalanacak yazılar şunlardır: 
+a) Hukuk müşavirliğinde görevli personelin görevden ayrılış ve başlayışlarını bildirilmesine  dair 
+yazılar, 
+b) Hukuki konularda Hukuk Müşaviri tarafından yürütülmesi gereken ve ayrıca yetki devri 
+yapılan yazışmalar, 
+c) Yargısal süreç kapsamında yargı mercilerine Hukuk Müşaviri olarak kurum adına verilecek 
+bilgi yazıları, 
+ç) Davalara yapılan savunma dilekçeleri, ara karar ile istenilen belgelerin gönderilmesi, itirazlar, 
+istinaf ve temyiz dilekçeleri, tashih-i karar dilekçeleri, dava açma dilekçeleri ve beyanlar, 
+d) İcra dairelerinde açılan takiplere cevap verilmesi, itiraz dilekçeleri, icra takibi talepleri ve icra 
+daireleri ile yapılan her türlü yazışma, 
+e) Hukuki görüşler, 
+f) Rektörlük ve Genel Sekreterlik tarafından sevk edilen diğer yazılar. 
+ 
+Daire Başkanları ve Basın ve Halkla İlişkiler Müdürü Tarafından Yürütülecek İşler İle 
+İmzalanacak Yazılar 
+MADDE 26- (1) Daire Başkanları ve Basın ve Halkla İlişkiler Müdürü tarafından yürütülecek işler 
+ile imzalanacak yazılar şunlardır: 
+a) Rektör, Rektör Yardımcıları ve Genel Sekreter tarafından imzalanacak yazıların parafı, 
+b) Kendi  birimlerinde  yazılıp,  Rektör  imzasından  çıkan  kararname  ve  Rektör  veya  Rektör 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+16 | 23 
+ 
+Vekilinin imzasından çıkan olurların (terfi, görevlendirme) ilgili akademik ve idari birimlere 
+gönderilmesine dair üst yazılar ile birimlerinde görevli personelin, görevden ayrılış ve başlayışlarının 
+idari birimlere bildirilmesine dair yazılar, 
+c) Üniversite mekânlarında kullanılan su ve elektrik tüketimlerinin ilgililere bildirimi, kira, yakıt 
+ve santral aracılığı ile yapılan özel telefon görüşme ücreti bildirimi gibi rutin yazılar (Strateji Geliştirme 
+Daire Başkanı), 
+ç) Öğrencilerin askerlik işlemleri ile ilgili belgeleri, öğrenci belgesi, transkript ve hasta sevk 
+belgelerinin imzalanması (Öğrenci işleri Daire Başkanı), 
+d) Sicil amiri olduğu personelinin hasta sevk kâğıtlarının imzalanması (bu yetki 
+yardımcılara devredilebilir), 
+e) Özlük işlerin bildirilmesine ve hazırlanmasına, hizmet içi eğitim çalışmalarına yönelik yazıların 
+personeline duyurulmasına ilişkin yazılar, 
+f) Basın ve Halkla İlişkiler Müdürü tarafından yürütülmesi gereken yazışmalar, 
+g) Yazılı, görsel ve işitsel medyanın üniversiteden talep ettiği haber konularıyla ilgili 
+yazışmalar, 
+ğ) Yazılı, görsel ve işitsel medyada yer alan Fırat Üniversitesi'ni doğrudan ya da dolaylı yollardan 
+ilgilendiren, 5187 sayılı Basın Yasası kapsamında cevap ve düzeltme haklarının kullanılmasını gerekli 
+kılan haberlerle ilgili yazışmalar, 
+h) Basın ve Yayın kuruluşlarına gönderilecek Basın Bülteni ve Basın bilgilendirme yazıları, 
+ı) Rektör ve Genel Sekreter tarafından verilen diğer görevlere ait yazı ve onaylar. 
+ 
+Vekâlet İşlemleri 
+MADDE  27- (1) Herhangi  bir  nedenle  belirli  bir süre  görev  başında  olamayacak  personel, 
+amirinin onayı ile belirlenen personele vekâlet verir. Vekâlet işlemleri aşağıdaki usulle yapılır. 
+a) Rektör ve Rektör yardımcıları görev başında bulunamayacakları hâllerde imza yetkisi, vekâlet 
+verilen Rektör Yardımcısı tarafından kullanılır. Dekan, Müdür, Genel Sekreter ve Yardımcıları, İç 
+Denetim Birimi Başkanı, Daire Başkanı, Hukuk Müşaviri, Döner Sermaye İşletmesi Müdürü ve diğer 
+yöneticilerin  de  görev  başında  bulunamayacakları  hâllerde  imza  yetkisi,  yerine  vekâlet  eden  kişi 
+tarafından kullanılır. 
+b) Personelin uhdesinde bulunan tüm görevler için EBYS’den ayrı vekâlet bırakılır. Personel 
+vekâlet  bırakmadan  görevden  ayrılamaz.  İdarecilerin  olağanüstü  durumlarda  vekâlet  bırakamadan 
+görevden ayrılması hâlinde yerine vekâlet edecek personel, amirlerince belirlenir ve EBYS birimi 
+tarafından vekâlet işlemi başlatılır. 
+c) Vekâlet işlemlerinde standart formlar, akademik ve idari personel tarafından, EBYS’den 
+düzenlenerek süreç başlatılır. 
+ç) Vekâleti veren göreve başladığında, vekâleten yürütülen işlemler hakkında vekiller tarafından 
+bilgilendirilmesi esastır. 
+ 
+Devredilemeyecek Yetkiler 
+MADDE 28 – (1) Devredilemeyecek yetkiler şunlardır: 
+a) Atama, 
+b) Öğretim elemanlarının görev süresinin uzatılması, 
+c) 2547 Sayılı Kanunun 13/b-4 Maddesi uyarınca yapılan görevlendirme, 
+ç) Yurtiçi uçakla gidilecek görevler ile yurtdışı görevlendirme, 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+17 | 23 
+d)Yurtiçi ve yurtdışı ders görevlendirmesi,
+e)Aday memurların asalet tasdiki,
+f)Akademik ve idari personelin derece terfi onayları,
+g)Hizmet birleştirme ile derece yükseltilmesini gerektiren intibak onayları,
+ğ) 657 Sayılı Kanunun 86. Maddesi uyarınca vekâleten atama, 
+h)657 Sayılı Kanunun 104. Maddesi’nin “C” Fıkrasına göre mazeret ile 108. maddesine göre
+aylıksız izin onayları (Askerlik nedeni ile görevden ayrılmalar hariç), 
+ı) 657 Sayılı Kanunun 178. Maddesi’ne göre fazla çalışma onayı, 
+i)Disiplin soruşturması sonucuna göre görevden uzaklaştırma tedbiri ve tedbir uzatma onayı,
+j)Disiplin ve ceza hukuku mevzuatı kapsamında verilen yetkiler,
+k)659 Sayılı Kanun Hükmünde Kararname ile Üst Yöneticiye verilen yetkiler,
+l)5018 Sayılı Kanun’da belirtilen üst yönetici ile diğer yöneticilerin yetkileri,
+m)Emeklilik, istifa veya müstafi sayılma onayı.
+BEŞİNCİ BÖLÜM 
+Çeşitli Hükümler ve Yürürlük 
+MADDE 29- (1) Yürürlükteki mevzuat hükümleri uyarınca devredilemeyecek yetkiler için hiçbir 
+şekilde yetki devri yapılmayacaktır. 
+Yürürlük 
+MADDE  30- (1) Bu Yönerge Fırat Üniversitesi Senatosunda kabul edildiği tarihten  itibaren 
+yürürlüğe girer. 
+(2) 20.01.2020 tarih 2019-2020/6.13 sayılı kararı ile alınan “Fırat Üniversitesi İmza Yetkileri ve 
+Yetki Devri” Yönergesi yürürlükten kaldırılmıştır. 
+Yürütme 
+MADDE 31 – (1) Bu Yönerge hükümlerini Fırat Üniversitesi Rektörü yürütür. 
+Yönergenin Yayımlandığı Senato Toplantısı 
+Tarihi Sayısı 
+02.12.2024
+2024-2025/4.12
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+18 | 23 
+ 
+RESMİ YAZIŞMALARDA UYGULANACAK ESAS VE USULLER HAKKINDA 
+YÖNETMELİĞİN FIRAT ÜNİVERSİTESİNDE UYGULANMASINA İLİŞKİN 
+AÇIKLAMALAR VE ÖRNEKLER 
+1) Bu yönetmelik uyarınca; elektronik ortam, elektronik belge, güvenli elektronik imza  daha  etkin 
+kullanılabilecektir.  Elektronik  ortamda  güvenli  elektronik  imza  ile  hazırlanan  belgelerin  kayıt 
+numarası, başına “E.” ibaresi konularak yazılır. Bu belgelerde sayı bilgisine belge üst verisinde veya 
+belge üzerinde yer verilir. 
+2) Elektronik ortamda güvenli elektronik imza ile hazırlanan belgelerde tarih bilgisine belge üst verisinde 
+veya belge üzerinde yer verilir. Belge üzerinde bulunan güvenli elektronik imzaların uzun vadeli 
+doğrulamaya imkân verecek nitelikte olması ve bu imzalarda zaman damgası bulunması zorunludur. 
+Belgenin en son yetkili tarafından güvenli elektronik imza ile imzalandığı zamanı gösteren zaman 
+damgasındaki tarih bilgisi belge tarihi olarak esas alınır. 
+3) Yazı kâğıdının üst, alt, sol ve sağ kenarından 2,5 cm boşluk bırakılır. 
+4) Faks ile yapılan iletişimden sonra, beş gün içerisinde resmi yazı ile teyidinin yapılması gerekir. 
+5) Muhataba gönderilmek üzere fiziksel ortamda hazırlanan belgeler, paraflı nüshası hazırlayan idarede 
+kalacak şekilde en az iki nüsha düzenlenir. 
+6) Resmi yazılar için A4 (210x297 mm) ve A5 (210xl48mm) boyutunda kâğıt kullanılır. 
+7) Bilgisayarlarla yazılan yazılarda Times New Roman veya Arial yazı tipi ve karakter boyutu Times New 
+Roman için 12, Arial için 11 punto kullanılacaktır. Özelliği olan metinler farklı yazı tipi ve karakterde 
+yazılabilir; ancak gerekli hallerde metin harf büyüklüğü 9 puntoya, iletişim bilgilerinin yazımında ise 8 
+puntoya kadar düşürülebilir. Farklı form, format veya ebatlarda hazırlanan rapor, analiz ve benzeri 
+metinlerde farklı yazı tipi ve harf büyüklüğü kullanılabilir. Başlık, kâğıdın yazı alanının üst kısmına 
+ortalanarak yazılır. 
+8) Yazı alanı dışına sayfa numarası ve varsa ek numarası hariç hiçbir ifade veya ibare yazılmaz. 
+9) Belge ekleri farklı form, format veya ebatlarda hazırlanabilir. 
+10) Üst yazılarda kâğıdın bir yüzü kullanılır. Ancak üst yazının ekleri için kâğıdın her iki yüzü de 
+kullanılabilir. 
+11) Metin içinde yer alan alıntılar tırnak içinde ve eğik (italik) olarak yazılabilir. 
+ 
+Başlık bölümünde; 
+1) (T.C.) yazısının üstüne veya (Sayı)’nın üstüne amblem konulabilir. 
+2) Üniversitemizin  amblemi  (T.C.)  yazısının  üstünde,  biriminizin  logosu  (Sayı)  yazısının  üstünde 
+kullanılabilir. 
+3) Kalite belgesi olanlar, kalite logosunu da kullanabilirler. Bu ve benzeri anlam ifade eden özel logolar, 
+süreli veya süresiz olarak, birim logosunun hizasına gelecek şekilde ve sağda tarih kısmının üstünde yer 
+alabilir. 
+4) Fiziksel ortamda hazırlanan belgelerde tarih, sayı ile aynı satırda olmak üzere yazı alanının en sağında 
+yer alır. Tutanak, rapor, tebliğ-tebellüğ belgesi  ve  benzeri  belgelerde  ise  tarih,  metnin  bitiminde  yer 
+alabilir. Tarih; gün, ay ve yıl olarak rakamla yazılır. Ay ve gün iki haneli, yıl ise dört haneli olarak 
+düzenlenir. Ay adları harfle de yazılabilir. Bu durumda gün ay ve yıl arasına herhangi bir işaret konulmaz. 
+5) İlk satıra “T.C.” kısaltması, ikinci satıra idarenin adı büyük harflerle, üçüncü satıra birimin adı ilk harfleri 
+büyük diğerleri küçük harflerle ortalanarak yazılır. Başlıkta yer alan bilgiler üç satırı geçemez. 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+19 | 23 
+ 
+FIRAT ÜNİVERSİTESİNDE KULLANILACAK YAZI BAŞLIĞI ÖRNEKLER 
+ 
+1) REKTÖRLÜK MAKAMI ve REKTÖR YARDIMCILARI Özel Kalem tarafından 
+kullanılacak başlık: 
+ 
+T.C. 
+FIRAT ÜNİVERSİTESİ REKTÖRLÜĞÜ 
+ 
+2) GENEL SEKRETERLİK MAKAMI Özel Kalemi tarafından kullanılacak başlık: 
+ 
+T.C. 
+FIRAT ÜNİVERSİTESİ REKTÖRLÜĞÜ 
+Genel Sekreterlik 
+ 
+3) Rektörlüğe doğrudan bağlı birimler (MÜDÜRLÜK, KOORDİNATÖRLÜK, EĞİTİM MERKEZİ 
+vb.) tarafından kullanılacak başlıklar, kendi yapılarına uygun olarak yazılacaktır. 
+ 
+T.C. 
+FIRAT ÜNİVERSİTESİ REKTÖRLÜĞÜ 
+Basın ve Halkla İlişkiler Müdürlüğü 
+ 
+4) FAKÜLTELERİN kullanacakları başlıklar: 
+a) Fakülte içi ve dışına gönderilecek yazılarda; 
+ 
+T.C. 
+FIRAT ÜNİVERSİTESİ REKTÖRLÜĞÜ 
+. .................. Fakültesi Dekanlığı 
+ 
+b) Bölüm Başkanlığı tarafından yazılan yazılarda; 
+ 
+T.C. 
+FAKÜLTESİ DEKANLIĞI 
+. ........... Bölüm Başkanlığı 
+ 
+5) ENSTİTÜLERİN kullanacakları başlıklar: 
+a)  Enstitü içi ve dışına gönderilecek yazılarda; 
+ 
+T.C. 
+FIRAT ÜNİVERSİTESİ REKTÖRLÜĞÜ 
+......... Enstitüsü Müdürlüğü 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+20 | 23 
+ 
+ 
+b) ANABİLİM BAŞKANLIĞI tarafından yazılan yazılarda; 
+ 
+T.C. 
+. ..... ENSTİTÜSÜ MÜDÜRLÜĞÜ 
+. .. Anabilim Dalı Başkanlığı 
+ 
+6) Yüksekokulların Ve Meslek Yüksekokullarının kullanacakları başlıklar: 
+a) Yüksekokul/ Meslek Yüksekokulu içi ve dışına gönderilecek yazılarda; 
+ 
+T.C. 
+FIRAT ÜNİVERSİTESİ REKTÖRLÜĞÜ 
+Yüksekokulu/ Meslek Yüksekokulu Müdürlüğü 
+ 
+b) Bölüm Başkanlığı tarafından yazılan yazılarda; 
+T.C. 
+. .. YÜKSEKOKULU/ MESLEK YÜKSEKOKULU MÜDÜRLÜĞÜ 
+. ... Bölüm Başkanlığı 
+ 
+7) UYGULAMA VE ARAŞTIRMA MERKEZLERİNİN kullanacakları başlıklar: 
+ 
+T.C. 
+FIRAT ÜNİVERSİTESİ REKTÖRLÜĞÜ 
+....Merkezi Müdürlüğü 
+ 
+8) REKTÖRLÜĞE BAĞLI KURULAN BÖLÜMLERİN kullanacakları başlıklar: 
+- Ortak Dersler Bölümü aşağıdaki başlığı kullanacaktır: 
+T.C. 
+FIRAT ÜNİVERSİTESİ REKTÖRLÜĞÜ 
+... .......................... Bölümü 
+NOT: 
+1) Buraya kadar başlıkları tanımlanan Fakülte/ Enstitü/ Yüksekokul ve Meslek Yüksekokulları, isterlerse 
+daha alt birimleri adına ve birim dışına gönderilmemek üzere başlıklı kâğıt türetebilirler. 
+2) Ancak, başlık 3 ayrı tanıtım bilgisini geçmemelidir. 
+3) En uygun olanı; başlığı tanımlanmamış birimlerin kod numaraları ile tanımlanmasıdır. Anabilim 
+Dalı/ Bilim Dalı, Ana sanat Dalı/ Sanat Dalı ve buna benzer birimleriniz için kod numaralarınızı 
+kullanmanız yeterlidir. 
+Sayı: Kod  numaranız - dosya  numaranız - evrak  kayıt  numaranız  /genel  evrak  kayıt  numarası. 
+Belgelerde sayı bulunması zorunludur. “Sayı” sırasıyla; DETSİS’te belirtilen Türkiye Cumhuriyeti 
+Devlet Teşkilatı Numarası, standart dosya planı kodu ile belge kayıt numarasından oluşur ve bunların 
+arasına kısa çizgi işareti (-) konulur. “Sayı” yan başlığı, başlığın son satırından itibaren iki satır boşluk 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+21 | 23 
+ 
+bırakılarak ve yazı alanının solundan başlanarak yazılır. Belgede hem birim evrak bölümü hem de genel 
+evrak bölümü tarafından verilen kayıt numarası bulunması halinde araya eğik çizgi işareti (/) konulur. 
+Bu belgeler için belge kayıt numarası olarak genel evrak bölümü tarafından verilen kayıt numarası 
+dikkate alınır. 
+Konu: Mutlaka yazılmalıdır. “T.C.” kısaltması hizasını geçmemelidir.” “Konu” yan başlığı “Sayı” yan 
+başlığının bir alt satırına yazılır. Belgenin konusu, yazı alanının dikey orta hizasını geçmeyecek biçimde 
+kelimelerin baş harfleri büyük olarak ve sonuna herhangi bir noktalama işareti konulmaksızın yazılır. 
+Konu bir satırı geçerse ikinci satır “Konu” yan başlığının altı boş bırakılarak yazılır. 
+Gönderilen makam: Kâğıdı ortalayacak biçimde, büyük harflerle yazılır. Yazının gideceği yer belirli ise, 
+parantez  içinde  küçük  harflerle  yazılır. Kuruluş  dışına  gönderilen  yazılarda  adres ayrıca belirtilir. 
+Kişilere yazılırken; “Sayın” kelimesinden sonra ad küçük, soyadı büyük, unvan küçük harflerle yazılır. 
+ 
+Örnekler: 
+ 
+REKTÖRLÜK MAKAMINA 
+(Öğrenci İşleri Daire Başkanlığı) 
+ 
+ELAZIĞ VALİLİĞİNE 
+(İl Sağlık Müdürlüğü) 
+ 
+ 
+ELAZIĞ TİCARET ve SANAYİ ODASI BAŞKANLIĞINA 
+ 
+KARAYOLLARI 13. BÖLGE MÜDÜRLÜĞÜNE 
+ELAZIĞ 
+ 
+Sayın:........................................ 
+ELAZIĞ 
+ 
+İlgi: KODLAR tam olarak yazılmalıdır. “İlgi” yan başlığı, muhatap bölümünün son satırından itibaren 
+iki satır boşluk bırakılarak ve yazı alanının solundan başlanarak yazılır. 
+Metin: Paragraf başları yazı alanının 1.25 cm. içerisinden başlanacaktır (7 harf geçilecek) ve metin iki 
+yana hizalanacaktır. İlgi ile metin başlangıcı arasında bir satır, ilgi yoksa belgenin muhatabı ile metin 
+başlangıcı arasında iki satır boşluk bulunur. Metindeki kelime aralarında ve noktalama işaretlerinden 
+sonra  bir  karakter boşluk bırakılır. Noktalama işaretleri kendinden önce gelen harfe bitişik yazılır. 
+Paragraflar arasında satır boşluğu bırakılmaz. İhtiyaç duyulması halinde paragraflar harf veya rakam ile 
+sıralanabilir. Birden fazla sayfa tutan üst yazılarda sayı, tarih, konu, muhatap ve ilgi bilgilerine sadece 
+ilk sayfada; imza, ek, dağıtım ve iletişim bilgilerine ise sadece son sayfada yer verilir. Metin içinde 
+geçen sayılar rakamla veya harfle yazılabilir. Dört ve dörtten çok haneli sayılar sondan sayılmak üzere 
+üçlü gruplara ayrılarak yazılır ve araya nokta işreti konulur. Sayılarda kesirler virgül ile ayrılır. Metin 
+içinde kısaltma kullanılacak ise ilk kullanıldığı yerde açık biçimi, sonra parantez içinde kısaltma yazılır. 
+İmza: Türkçe  Sözlük  ve  İmla  Kılavuzu’nda  belirtilen  kurallara  uyulacak,  standart  Türkçe 
+kullanılacaktır. Alt makamlara “rica ederim”, üst ve aynı düzey makamlara “arz ederim” üst ve  alt 
+makamlara dağıtımlı yazılarda “arz ve rica ederim” yazılacaktır. İmza, ad ve soyadın üstüne atılacaktır. 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+22 | 23 
+ 
+Yetki devri halinde “Rektör a.”, “Müdür a.” yazılacak, vekâlet halinde “Rektör V.”, “Müdür V.” ibareleri 
+ikinci satıra yazılacaktır. 
+Örnek: (Yetki devri için) metnin bitiminden itibaren iki ila dört satır boşluk bırakılarak belgeyi 
+imzalayacak olan makam sahibinin adı, soyadı ve bunların altına unvanı yazı alanının en sağına 
+ortalanarak yazılır. İmza, ad ve soyadın üzerinde bırakılan boşluğa atılır. El yazısıyla atılan imza, 
+kaybolmayacak ve kâğıda işlemesini sağlayacak kalemle atılır. Elektronik ortamda yapılacak resmi 
+yazışmalarda,  imza  yetkisine  sahip  kişi  belgeyi,  güvenli  elektronik  imzası  ile  imzalar.  Belgeyi 
+imzalayanın adı ilk harfi büyük diğerleri küçük, soyadı ise büyük harflerle yazılır. Unvan ad ve soyadın 
+altına ilk harfleri büyük diğerleri küçük harflerle yazılır. Akademik unvanlar veya rütbeler adın ön 
+tarafına ya da bir satır altına ilk harfleri büyük diğerleri küçük harflerle açık ya da kısaltılarak yazılabilir. 
+Belgeyi imzalayacak olan makam belgeyi hazırlayan idarenin imza yetkileri yönergesine veya yetkili 
+makamlarca verilen imza yetkisine uygun olarak belirlenir. Belgenin iki yetkili tarafında imzalanması 
+durumunda üst unvan sahibinin adı, soyadı, unvanı ve imzası sağda yer alır. Belgenin ikiden fazla yetkili 
+tarafında imzalanması durumunda en üst unvan sahibinin adı, soyadı, unvanı ve imzası en solda  olmak 
+üzere yetkililer unvan sırasına göre soldan sağa doğru sıralanır. Fiziksel ortamda rapor ya da benzeri bir 
+belgenin hazırlanması halinde belgenin son sayfası imza sahibi ya da imza sahipleri tarafında imzalanır. 
+Son sayfadan önceki sayfalar ise imza sahibi ya da imza sahipleri tarafından imzalanır ya da paraflanır. 
+Gerekli görülmesi halinde sayfalar ayrıca en az bir kişisel mühürle mühürlenir. İmza, paraf veya mühür 
+metin bölümünün okunmasını engellemeyecek şekilde sayfada yer alır. 
+ 
+Örnek: (Yetki Devri İçin) 
+(imza) 
+Adı-Soyadı 
+Müdür a. 
+Müdür Yardımcısı 
+ 
+Örnek; (Vekâlet için) 
+(imza) 
+Prof. Dr. Adı-Soyadı Dekan 
+V. 
+ 
+Ek/Ekler: Yazılarda Ek (varsa) mutlaka yazılmalı, dağıtım varsa belirtilmelidir. Belgede ek olması 
+halinde “Ek” başlığı imza bölümünden sonra uygun satır boşluğu bırakılarak ve yazı alanının solundan 
+başlanarak yazılır. Belgenin sadece bir eki olması durumunda “Ek” başlığının sağında eki belirtecek 
+ibareye yer verilir. Belgede birden fazla ek varsa “Ek” başlığının altında ekler numaralandırılır ve ekleri 
+belirtecek ibarelere yer verilir. Eklerin sayfa sayısı parantez içinde belirtilir. Birden fazla ek olması 
+durumunda eklerin üzerinde ek numarası yazı alanının sağ üst köşesinde belirtilir. Ek listesi yazı alanına 
+sığmayacak kadar uzunsa ayrı bir sayfada “EK LİSTESİ” başlığı altında gösterilir ve üst yazıya eklenir. 
+Belge eklerinin muhataba gönderilmediği durumlarda “Ek konulmadı” ya da “Ek-... konulmadı” ifadesi 
+yazılır. Güvenlik gerekçesiyle, teknik veya benzeri nedenlerle üst yazıyla birlikte gönderilemeyen veya 
+alınamayan belge ekleri üst yazıyla ilişkilendirilmek suretiyle üst yazıdan ayrı olarak gönderilebilir veya 
+alınabilir. Söz konusu nedenlerle alınan belge ekleri üst yazıla ilişkilendirilmek şartıyla üst yazıdan ayrı 
+olarak muhafaza edilebilir. 
+Paraf: Yazılar en fazla 5 görevli tarafından paraf edilir. El yazısı ile tarih belirtilerek paraflanır. 
+Koordinasyon: Başka birimlerle işbirliği yapılarak hazırlanan yazılarda mutlaka uygulanmalıdır. 
+
+Elektronik Belge Sistemi ve İmza Yönergesi 
+ 
+23 | 23 
+ 
+Adres: yazı alanının içinde kalmalı, fakat yazıdan bir çizgi ile ayrılmalıdır. 
+Gizlilik Dereceli Yazılar: Belgenin üst ve alt ortasına kırmızı renkli olarak belirtilmelidir. İvedi, günlü 
+yazılarda: metin içinde tarih verilebilir öncelik durumu sayfanın sağ üstünde büyük harflerle kırmızı 
+renkle belirtilir, Cevabın geciktiği hallerde tekit (hatırlatma) yazısı yazılır. 
+Sayfa Numarası: Yazının sağ altında ve yazının tamamını gösterecek şekilde (2/7, 5/32 gibi). Sayfa 
+numarası iletişim bilgilerinin altında ve sayfanın ortasında, toplam sayfa sayısının kaçıncısı olduğunu 
+gösterecek şekilde belirtilir. 
+Kayıt Kaşesi: Kaşe, yazının arka yüzüne basılır. Üzerine gerekli kayıtlar düşürülür. 
+Dağıtım: Belgenin birden fazla  muhataba  gönderilmesi durumunda  dağıtım  bölümüne  yer verilir. 
+“Dağıtım:” başlığı, ek varsa “Ek:” bölümünden sonra; ek yoksa imza bölümünden sonra  uygun satır 
+boşluğu bırakılarak  yazı alanının solundan başlanılarak yazılır. Belgenin gereğinin yerine  getirme 
+durumunda  olanlar “Gereği:” kısmına, belgenin içeriği hakkında bilgi sahibi olması istenenler ise 
+“Bilgi:” kısmına yazılır. “Gereği:” kısmı “Dağıtım:” başlığının altına, “Bilgi:” kısmı ise “Gereği:” kısmı 
+ile aynı satıra ve yazı alanının ortasına doğru yazılır. “Bilgi:” kısmı yoksa muhatap adları doğrudan 
+“Dağıtım:”  başlığının  altına  yazılır.  Dağıtımlı  belgeler  dağıtım bölümünde belirtilen muhataplara 
+gönderilir. Dağıtım bölümü yazı alanına sığmayacak  kadar  uzunsa  ayrı  bir  sayfada  “DAĞITIM 
+LİSTESİ” başlığı altında gösterilir ve üst yazıya eklenir. 
+Süreli Yazışmalar: Süreli resmi yazışmalarda “ACELE” veya “GÜNLÜDÜR” ibaresine yer verilir. 
+“GÜNLÜDÜR” ibaresi taşıyan belgelere cevap verilmesi gereken süre ya da tarih metin içinde belirtilir. 
+“ACELE”  ibaresi  taşıyan  belgeye belgede  belirtilen  süre  içinde  cevap  verilir.  Süreli  belgelerde 
+“ACELE” veya “GÜNLÜDÜR” ibaresi yazı alanının sağ üst köşesinde kırmızı renkli olarak belirtilir. 
+Elektronik ortamda hazırlanan süreli belgelerde “ACELE” veya “GÜNLÜDÜR” ibaresine belge üst 
+verisinde de yer verilir. Birden fazla sayfalı belgelerde “ACELE” veya “GÜNLÜDÜR” ibaresi sadece 
+birinci sayfada belirtilir. 
+Çok Gizli Yazılar: Çift zarf ile gönderilir. Bu tür yazıları alan Görevli “ÇOK GİZLİ” ibareli iç zarfı 
+açmadan yetkili makama sunar. Dış zarftaki evrak senedini imzalayıp, göndericiye iade eder.

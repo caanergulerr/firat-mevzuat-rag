@@ -1,0 +1,1084 @@
+<RİV
+SX Eş '9 Senato Karar No:
+& ke İlk Yayın Tarihi:
+< A . ae
+Bi m Revizyon Tarihi:
+> © Revizyon No:
+" e Sayfa: 1/27
+1975
+T.C.
+FIRAT ÜNİVERSİTESİ KURUMSAL RİSK YÖNETİM YÖNERGESİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar ve İlkeler
+Amaç
+MADDE 1-(1) Bu Yönergenin amacı Fırat Üniversitesinin faaliyetleri esnasında ve sonrasında 
+Üniversitenin
+stratejik amaç ve hedefleri ile bu hedeflere ulaşmak için yürütülen tüm süreç ve faaliyet hedeflerine 
+ulaşılmasını
+engelleyecek risklerin tanımlanması, belirlenmesi, tespit edilmesi, kontrol edilmesi, değerlendirilmesi, 
+tespit edilen
+risklerin ölçülmesi, oluşabilecek risklerin giderilmesi için uygulanacak prensip, politika ve programlara 
+ilişkin usul
+ve esasları belirlemek, risklerin etkilerinin en aza indirilmesini sağlayacak sistematik bir yaklaşım 
+geliştirerek
+Üniversitede etkin bir kurumsal yönetim aracı olarak uygulanmasını sağlayacak akademik ve idari tüm 
+süreçlere
+değer katacak bir risk yönetim stratejisi meydana getirmektir.
+Kapsam
+MADDE 2- (1) Bu Yönerge, Fırat Üniversitesinin faaliyetleri kapsamında gerçekleşebilecek risklerin
+tanımlanmasına, belirlenmesine, önlenmesine, yönetilmesine ilişkin usul ve esasları, risk yönetimi 
+sürecinde görev
+alacak kişilerin yetkilerini ve sorumluluklarını kapsar.
+Dayanak
+MADDE 3- (1) Bu yönerge, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu, Kamu İç Kontrol
+Yönetmeliği, Kamu İç Kontrol Standartları Genel Tebliği ve Kamu İç Kontrol Rehberine dayanılarak 
+hazırlanmıştır.
+
+Tanımlar
+MADDE 4- (1) Bu Yönergede geçen;
+a) Üniversite: Fırat Üniversitesini,
+b) Üst Yönetici: Fırat Üniversitesi Rektörünü,
+c) Birim: Üniversitenin akademik ve idari birimlerini,
+ç) Birim Yöneticisi: Fakültelerde dekanı; enstitü, yüksekokul, konservatuvar, meslek yüksekokulu ve
+uygulama ve araştırma merkezlerinde müdürü; koordinatörlüklerde birim koordinatörünü; uygulama ve 
+araştırma
+hastanesinde başhekimi; Rektörlük merkezi birimlerinde Genel Sekreteri, İç Denetim Birim Yöneticisini, 
+daire
+başkanları ile Hukuk Müşavirini, Teknokentte Genel Müdürü,
+d) İç Kontrol İzleme ve Yönlendirme Kurulu: Üniversitemiz Kamu İç Kontrol Standartları Uyum Eylem 
+Planı
+hazırlık çalışmaları sürecinde oluşturulan kurulu
+e) İdare Risk Koordinatörü: Üst yönetici tarafından görevlendirilen Rektör yardımcılarından birini veya
+Strateji Geliştirme Daire Başkanını,
+f£) Birim Risk Koordinatörü: Birim yöneticisi tarafından belirlenen, birimin görevleri ve iç kontrol
+uygulamaları konusunda birikim ve tecrübesi olan kişiyi ya da teşkilat yapısının küçüklüğü ve personel 
+sayısının
+yetersizliği gibi nedenlerle Birim Risk Koordinatörünün belirlenmesinde güçlük bulunan idarelerde 
+birimlerin en üst
+yöneticisini,
+1/27
+ÜNİYERSİTESİ Kurumsal Risk Yönetimi Yönergesi
+g) Birim Risk Çalışma Grubu: Birim yöneticisi tarafından belirlenen birime bağlı alt birim yöneticilerinden
+ve birimin görevleri ile iç kontrol uygulamaları konusunda birikim ve tecrübesi olan ve en az üç kişiden 
+oluşan
+çalışma grubunu,
+
+8) Üniversite Risk Stratejisi Belgesi: Birim Risk Stratejisi Belgelerinin değerlendirilmesi ile hazırlanan,
+Üniversitenin risk yönetimine ilişkin kurumsal yaklaşım ve üst düzey politikaları hakkında bilgileri içeren 
+risk
+stratejisi belgesini,
+h) Birim Risk Stratejisi Belgesi: Birim Risk Koordinatörü ve Birim Risk Çalışma Grubu ile birlikte 
+hazırlanan,
+birimin risk yönetimine ilişkin yaklaşım ve politikaları hakkında bilgileri içeren risk stratejisi belgesini,
+1) Risk: Üniversitenin kuruluş amaçları ile stratejik amaç ve hedeflerine ulaşmasına ve görevlerinin 
+ifasına
+engel olabilecek veya beklenmeyen zararlara yol açabilecek durum ya da olayları,
+i) Doğal Risk: Mevcut olan riskin, yönetilmeden veya herhangi bir önlem alınmadan önceki seviyesini,
+j) İş Süreci: Belirli bir dizi girdiyi, belirli bir dizi faydalı çıktıya dönüştüren, tanımlanabilen, sınırları
+konulabilen, tekrarlanabilen, ölçülebilen, sorumlusu olan, değer yaratan, birbiriyle ilişkili faaliyetler 
+zincirini,
+k) İş Süreci Akış Şeması: Süreçleri oluşturan faaliyetlerin sırasının ve faaliyetler arası ilişkilerin 
+görselliğini,
+1) Kanun: 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununu,
+m) Makul Güvence: Üniversitenin amaç ve hedeflerinin gerçekleşeceğine dair fayda-maliyet analizi ve 
+risk
+koşulları altında tatmin edici güvenilirlik derecesini,
+n) Maliyet: Riske uygulanacak iyileştirme stratejilerine harcanacak parasal miktarı,
+0) Fayda: Riske uygulanacak iyileştirmeler sonucunda giderilecek hasarın parasal toplamını,
+ö) Risk İştahı: Üniversite veya birimin belirli bir fayda veya getiri karşılığında üstlenmeyi göze aldığı risk
+düzeyini,
+p) Risk Analizi: Risklerin, riskleri ortaya çıkaran sebeplerin, olumlu/olumsuz etkilerini ve bu etkilerin 
+ortaya
+çıkma olasılıklarının belirlenmesini,
+r) Risk Haritası: Stratejik amaçlara, hedeflere ulaşmada karşılaşılabilecek riskleri, alınacak tedbirleri ve
+
+iyileştirme stratejileri ile riskleri önlemeye yönelik yapılacak yaklaşık harcama miktarları gibi üniversitenin 
+risk
+yönetimi konusundaki bilgilerini içeren çizelgeyi,
+s) Risk Yönetim Süreci: Üniversitenin amaç ve görevlerini gerçekleştirebilmesi için makul bir güvence
+sağlamak üzere, risk olarak tanımlanabilecek muhtemel olay veya durumların önceden belirlenmesi,
+değerlendirilmesi ve kontrol edilmesi sürecini,
+ş) Tehdit: Üniversiteyi muhtemel risklerle karşı karşıya getirebilecek eylem, olay ve hassas görevleri,
+t Yönerge: Fırat Üniversitesi Kurumsal Risk Yönetim Yönergesini
+ifade eder.
+Risk Yönetimine İlişkin İlkeler
+MADDE 5 - (1) Üniversitenin risk yönetimine ilişkin ilkeleri şunlardır;
+a) Üniversitenin amaç ve hedeflerinin gerçekleştirilmesini ve hizmet sunulmasını engelleyebilecek veya
+hizmet kalitesini düşürebilecek, iç ve dış paydaşların üniversiteye olan güvenini sarsabilecek, yolsuzluğa 
+meydan
+verebilecek, faaliyetlerin mevzuata aykırı yürütülmesine ve kaynak kaybına sebep olabilecek her türlü 
+olay risk
+olarak değerlendirilir.
+b) Riskler, gerçekleşme ihtimali ve gerçekleşmesi halinde ortaya çıkacak sonuçların etkileri göz önünde
+bulundurularak ölçülür.
+c) Birimin faaliyetleri dikkate alınarak risklerin sınıflandırılması yapılır. Riskler, stratejik amaç ve 
+hedefler,
+süreçler, alt süreçler ve birimin faaliyetleri itibarıyla ayrı ayrı analiz edilir.
+2/27
+(El öaaasırısı Kurumsal Risk Yönetimi Yönergesi
+ç) Risk yönetim süreçleri, faaliyetlerin niteliğine uygun tasarlanır ve uygulanır. Risk yönetim sürecine 
+ilişkin
+akış şeması EK-İ” de verilmiştir.
+d) Risk yönetimi hesap verilebilir, şeffaf ve güvenilir olmalıdır.
+
+e) Risk yönetim süreci çalışanlarla birlikte tasarlanır. Her birim, birim çalışanlarının katılımı ile kendi 
+idari
+yapısını ilgilendiren riskleri tespit edip kayıt altına alır.
+f) Risklerin gerçekleşme olasılığı ve muhtemel etkileri yılda en az bir kez analiz edilip, değerlendirilerek
+alınacak tedbirler belirlenir.
+g) Üniversite Risk Stratejisi Belgesi, stratejik amaç ve hedeflere ulaşmada yöneticilere makul derecede
+güvence sağlayacak şekilde tasarlanır.
+ğ) Riskler stratejik plan hazırlama sürecinde tespit veya kontrol edilir ve stratejik plana eklenir.
+i) Üst yönetici, risk yönetiminin Üniversiteye bağlı bütün birimlerde etkin bir şekilde uygulandığını
+denetlemekle yükümlüdür.
+1) Tespit edilen riskler, etkilerine ve olasılıklarına göre kategorilere ayrılır ve her bir risk kategorisi için 
+ayrı
+çözümler üretilir.
+j) Etkisinin ve olasılığının yüksek olduğu belirlenen bütün riskler, düzenli aralıklarla kontrol edilir ve elde
+edilen sonuçlar Üst Yöneticiye raporlanır.
+k) Risk yönetim sürecinde tespit edilen yeni riskler ile bu risklere ait olan sebep ve sonuçlar belgelenip, 
+risk
+için hazırlanan planlar güncellenir.
+D Üniversite, risk yönetimini daha işler bir hale getirmek için iç ve dış paydaşlardan fikir talebinde
+bulunabilir.
+İKİNCİ BÖLÜM
+Görev, Yetki ve Sorumluluklar
+Rektör'ün Görev, Yetki ve Sorumlulukları
+MADDE 6- (1) Rektör'ün görev, yetki ve sorumlulukları şunlardır:
+a) Her üç yılda bir idarenin amaç ve hedefleri doğrultusunda risklerin yönetilmesi konusunda stratejinin
+belirlenmesini ve bu stratejinin nasıl uygulanacağını gösteren Üniversite Risk Stratejisi Belgesinin tüm 
+çalışanlara
+yazılı olarak duyurulmasını sağlar.
+
+b) Risk yönetimi için gerekli yapıları (İç Kontrol İzleme ve Yönlendirme Kurulu vb.) oluşturarak görev ve
+sorumluluklarının açıkça belirlenmesini sağlar.
+c) Diğer idarelerle ortak yönetilmesi gereken riskler konusunda İdare Risk Koordinatörüne gerekli 
+desteği
+sağlar.
+d) Paydaşlar ve kamuoyuna karşı risklerin yönetilmesinde gerekli hassasiyeti ve katılımcılığı sağlamak
+konusunda uygun mekanizmalar oluşturulmasını sağlar.
+e) İç Kontrol İzleme ve Yönlendirme Kurulu ile İdare Risk Koordinatörü tarafından kendisine sunulan
+değerlendirme ve öneriler doğrultusunda geleceğe ilişkin stratejik eylemler belirler.
+f) Risk yönetimi süreçlerinin tutarlılığının sağlanmasını gözetir.
+g) İzleme raporlarını inceler ve risk yönetiminin etkinliğini sağlar.
+8) Risk yönetiminin tüm aşamalarında çalışanları teşvik eder.
+h) Gerekli gördüğü hallerde İç Kontrol İzleme ve Yönlendirme Kurulunu toplantıya çağırır ve başkanlık 
+yapar.
+i) Risk yönetimi görevlerinin yerine getirilebilmesi için maddi kaynağı sağlar ve insan kaynağını 
+destekler.
+İç Kontrol İzleme ve Yönlendirme Kurulunun Görev ve Sorumlulukları
+3/27
+(El öaaasırısı Kurumsal Risk Yönetimi Yönergesi
+MADDE 7 - (1) İç Kontrol İzleme ve Yönlendirme Kurulunun görev ve sorumlulukları şunlardır;
+a) Üniversitenin Risk Strateji Belgesini hazırlayarak Rektör'ün onayına sunar.
+b) İdarenin risk yönetim kültürünün oluşturulmasında politikalar belirler.
+c) Üniversitenin karşı karşıya olduğu risklerin etkili ve tutarlı bir şekilde yönetilip yönetilmediğini gözetir.
+
+d) Yüksek öncelikli riskleri düzenli olarak takip eder.
+e) Harcama birimlerine ait risklerden ortak yönetilmesi gerekenleri ve bunlara ilişkin politika ve 
+prosedürleri
+belirleyerek koordine etmesi açısından İdare Risk Koordinatörüne bildirir.
+f) Üniversite Risk Stratejisi Belgesinde öngörülmeyen risklerin aniden ortaya çıkması durumunda riski 
+ilgili
+birime iletir ve riskin giderilmesine yönelik faaliyetlerin takibini yapar.
+g) Diğer idarelerle ortak yönetilmesi gereken riskleri belirler ve bunları İdare Risk Koordinatörüne 
+bildirerek
+ilgili idarelerle ortak yönetilmesi konusunda gerekli çalışmaların yapılmasını sağlar.
+8) İç Kontrol İzleme ve Yönlendirme Kurulunca belirlenen sıklıkta toplanarak, idarenin risk yönetim
+süreçlerinin etkili işleyip işlemediğini ve risklerde gelinen durumu değerlendirerek Rektöre raporlar.
+h) Sayıştay ve iç denetim raporlarından da yararlanarak iyi uygulama örneklerinin tespit edilmesi ve
+yaygınlaşması konusunda çaba gösterir.
+1) Risk yönetim sisteminin stratejik plan ve performans programı doğrultusunda sürekli gelişimini,
+iyileştirilmesini ve kontrolünü sağlar.
+i) Risklerin önlenmesi için yapılan maliyet analizlerini değerlendirerek strateji belirler.
+j) Üniversite risk iştahını (risk alma ve kabullenme seviyesi) gerekli gördüğü hallerde belirler.
+İdare Risk Koordinatörünün Görev ve Sorumlulukları
+MADDE 8 - (1) İdare Risk Koordinatörünün görev ve sorumlulukları şunlardır:
+a) Risk yönetimi çerçevesinde Birim Risk Koordinatörlerini toplantıya çağırır.
+b) Her bir Birim Risk Koordinatörü tarafından raporlanan birim risklerinden yola çıkarak “Üniversite
+Konsolide Risk Raporunu” hazırlar; bu raporu belirlenen dönemlerde İç Kontrol İzleme ve Yönlendirme 
+Kuruluna
+ve Rektör'e sunar. Bu raporla birlikte izlenmesi gereken önemli riskleri ve kendi değerlendirmelerini 
+içeren raporlar
+hazırlar.
+c) Diğer idarelerin risk koordinatörleri ile Üniversitedeki ortak risk alanlarına ilişkin konuları değerlendirir 
+ve
+
+bunların koordinasyonunu sağlar.
+ç) Birimlerin risk yönetimi konusundaki ihtiyaçlarını her toplantı öncesinde İç Kontrol İzleme ve 
+Yönlendirme
+Kuruluna raporlar.
+d) İç Kontrol İzleme ve Yönlendirme Kurulunun görüşleri, tavsiyeleri ve kararlarını Birim Risk
+Koordinatörlerine bildirir ve Üniversitenin risk yönetim süreçlerinin tutarlı olması konusunda bildirim 
+sağlar ve
+idarenin risk yönetim süreçlerinin tutarlı olması konusunda gerekli önlemleri alır.
+Birim Risk Koordinatörünün Görev ve Sorumlulukları
+MADDE 9 - (1) Birim Risk Koordinatörünün görev ve sorumlulukları aşağıda belirtilmiştir:
+a) Birim Risk Çalışma Grubu üyelerini belirleyerek, grup üyelerinin isim ve iletişim bilgilerini İdare Risk
+Koordinatörüne bildirir.
+b) Birim Risk Çalışma Grubu toplantılarına başkanlık eder.
+c) Risk yönetim süreçlerinin uygulanmasını sağlar ve kontrol eder.
+ç) Risk kayıtlarını yılda bir kez gözden geçirerek, İdare Risk Koordinatörüne rapor eder.
+d) Risk yönetimiyle ilgili eğitim ihtiyaçlarını tespit eder ve ilgililere bildirir.
+e) Biriminde risk yönetim sisteminin iyileştirilmesini ve geliştirilmesini sağlar.
+4/27
+(El öaaasırısı Kurumsal Risk Yönetimi Yönergesi
+f£) Birim Risk Çalışma Grubu tarafından tespit edilen birimin amaçlarına ulaşılmasını etkileyebilecek 
+riskleri
+değerlendirir ve İdare Risk Koordinatörüne bir raporla bildirir.
+g) Birimin hedeflerini etkileyebilecek risklerin tespit edilmesini koordine eder ve rehberlik sağlar. Tespit
+edilen riskleri alt birimlerin bilgi ve uzmanlıklarından yararlanarak faaliyetler ile eşleştirir ve tüm önemli 
+konuların
+ele alınmasını sağlar.
+
+8) Birim Risk Çalışma Grubunun raporladığı riskleri birim düzeyinde izler. Mevcut risklerdeki 
+değişiklikleri
+ve varsa yeni riskleri değerlendirerek birim yöneticisinin de uygun görüşünü alarak İdare Risk 
+Koordinatörüne
+raporlar.
+h) Yıllık olarak daha önce belirlenmiş veya yıl içerisinde ortaya çıkabilecek risklerin iyi yönetilip
+yönetilmediğine dair kanıtları İdare Risk Koordinatörüne sunar.
+1) İdare Risk Koordinatörü ile İç Kontrol İzleme ve Yönlendirme Kurulunun görüşleri, tavsiyeleri ve 
+kararları
+doğrultusunda varsa Birim Risk Çalışma Grubuna geri bildirim sağlar.
+Birim Risk Çalışma Grubu Görev ve Sorumlulukları
+MADDE 10 — (1) Birim Risk Çalışma Grubunun görev ve sorumlulukları:
+a) Üniversitenin stratejik hedeflerine ulaşabilmesi açısından birimin hedeflerini etkileyebilecek risklerin 
+tespit
+edilmesi, değerlendirilmesi, cevap verilmesi, izlenmesi ve raporlanması görevlerini yerine getirir.
+b) Birime bağlı alt birimlerce yürütülen faaliyetlere yönelik risklerin tespit edilmesi, değerlendirilmesi, 
+cevap
+verilmesi, izlenmesi ve raporlanması görevlerini yerine getirir.
+c) Birim hedeflerine ve faaliyetlerine ait yeni tespit edilen riskleri, risk puanı değişenleri ve kontrollerin
+etkinliğini yılda en az bir kez gözden geçirir.
+ç) Çalışanlardan gelen bilgileri birleştirir.
+Çalışanların Görev ve Sorumlulukları
+MADDE 11- (1) Risk yönetiminin başarısı, çalışanların risk yönetimini sahiplenmesine bağlıdır. 
+Dolayısıyla,
+her bir çalışan, görev alanı çerçevesinde risklerin yönetilmesinden (risklerin tespit edilmesi, 
+değerlendirilmesi, cevap
+verilmesi, izlenmesi ve raporlanması) sorumludur. Üniversite çalışanlarının risk yönetim sürecindeki 
+görev ve
+sorumlulukları;
+a) Yeni ortaya çıkan ve / veya değişen riskleri tanımlar, bunları Birim Risk Çalışma Grubuna iletmek 
+yoluyla
+
+birimlerinde risk yönetimi süreçlerine doğrudan katkıda bulunur
+b) Görev alanındaki riskleri, Üniversite tarafından belirlenen yetki ve sorumlulukları çerçevesinde 
+yönetir.
+c) Görev alanındaki risklerin iyi yönetilip yönetilmediği konusunda Birim Risk Çalışma Grubuna ve Birim
+Risk Koordinatörüne gerekli kanıtları sağlar.
+İç Denetim Birim Başkanlığının Görev ve Sorumlulukları
+MADDE 12 - (1) İç Denetim Birim Başkanlığının görev ve sorumlulukları şunlardır;
+a) Risk yönetimi sürecinin etkili olup olmadığı, risklerin gereken şekilde yönetilip yönetilmediği 
+hususunda
+incelemeler yaparak Rektör'e mevzuatları çerçevesinde gerekli raporlamaları yapar.
+b) Risk yönetim sürecinin kurulması ve geliştirilmesinde birimlere kolaylaştırıcılık ve eğitim gibi 
+danışmanlık
+hizmetleri sunar.
+Strateji Geliştirme Daire Başkanlığının Görev ve Sorumlulukları
+MADDE 13 - (1) Strateji Geliştirme Daire Başkanlığının görev ve sorumlulukları şunlardır;
+a) İdarede risk yönetimine ilişkin çalışmaları koordine eder ve iç kontrol sisteminin değerlendirilmesi
+kapsamında risk yönetiminin etkinliğini de değerlendirerek belirli dönemler halinde İç Kontrol İzleme ve
+Yönlendirme Kuruluna rapor sunar.
+5/27
+(El öaaasırısı Kurumsal Risk Yönetimi Yönergesi
+b) Risk yönetimi süreçlerinin idarenin tüm birimlerinde etkin işlemesini sağlamak üzere teknik destek ve
+rehberlik hizmeti verir.
+c) Risk yönetimine ilişkin üniversitenin eğitim ihtiyaçlarını belirler, eğitim faaliyetlerini koordine eder ve
+yürütür.
+d) Strateji Geliştirme Daire Başkanı, İdare Risk Koordinatörü olmaması durumunda İdare Risk
+Koordinatörünün sekretarya hizmetlerini yürütür. Aksi durumda sekretarya hizmetini Genel Sekreter 
+tarafından
+
+belirlenecek olan Genel Sekreter Yardımcısı yürütür.
+ÜÇÜNCÜ BÖLÜM
+Risklerin Belirlenmesi ve Değerlendirilmesi
+Risklerin Belirlenmesi
+MADDE 14 - (1) Risk yönetimi sürecinin ilk aşaması olan risklerin belirlenmesi; stratejik amaç ve 
+hedefler,
+birim hedefleri, birim faaliyetleri ve iş süreçlerine yönelik muhtemel tehditler ve fırsatların önceden 
+tanımlanmış
+yöntemlerle belirlenmesi, gruplandırılması ve güncellenmesi sürecidir. Risklerin belirlenmesine yönelik 
+sorulara
+EK-?'de yer verilmiştir. Risklerin belirlenmesinde aşağıdaki hususlar göz önünde bulundurulur.
+a) Riskler süreç hiyerarşisi içerisinde stratejik düzey, birim düzeyi, alt birim düzeyinde tespit edilir.
+b) Stratejik riskler, stratejik plan hazırlama aşamasında oluşturulan ekip tarafından tespit edilir.
+c) Birim düzeyi ve alt birim düzeyi (faaliyet düzeyi) riskler Birim Risk Çalışma Grubu tarafından tespit 
+edilir.
+ç) Riskleri tespit edebilmek için; beyin fırtınası, PESTLE analizi, GZFT/SWOT analizi ve anket
+tekniklerinden/yöntemlerinden biri veya birkaçı kullanılabilir.
+d) Birim Risk Çalışma Grubu; birim hedefleri üzerinde risklerin tespitinde yer alan sorulardan ve iş 
+akışları
+üzerindeki riskleri tespitinde yer alan sorulardan yararlanabilir. İş akışları üzerinde riskler, alt birim 
+yöneticileri ile
+birlikte iş adımları tek tek değerlendirilmek suretiyle tespit edilir.
+e) Risk tanımlanırken, herkes tarafından anlaşılabilir ve raporlamaya uygun ifadelere yer verilir. Tespit 
+edilen
+riskler; “x” riski veya “x'in olması” riski şeklinde ifade edilir. Riskin tanımından; riskin kaynağı ve ortaya 
+çıkabilecek
+kayıp, açık ve net olarak anlaşılabilmelidir.
+f) Riskler tespit edildikten sonra iç risk ve dış risk şeklinde gruplandırılır.
+g) Tespit edilen riskler, “Risk Tespit Formu” na (EK-3) ve “Risk Oylama Formu” na (EK-4) kaydedilir.
+
+ğ) Riskler tanımlanırken; risklerin çeşidi, kaynağı, sebebi, etkisi ve seviyesi göz önünde bulundurulur.
+h) Risk belirleme çalışmaları; inovasyon, araştırma, toplumsal destek ve sosyal sorumluluk, eğitim 
+öğretim
+kalitesinin arttırılması, etik kurallar, iş sürekliliği ve güvenliği, yerel, toplumsal ve küresel ilişkiler, yönetsel 
+kararlar,
+kampüs güvenliği, mevzuata uyum, fiziksel ve finansal varlıkların korunması konuları çerçevesinde 
+yürütülür.
+1) Risk belirleme sürecinde; amaca uygun, sahip olunan en güncel bilgiler kullanılır ve bu bilgiler
+belgelendirilir.
+i) Risk türlerinin doğru bir şekilde belirlenebilmesi için kapsayıcılığı yüksek risk çeşitlerini içeren risk 
+türleri
+tablosu kullanılır.
+j) Riskler tespit edilirken Üniversitenin faaliyetlerinin başarısızlıkla sonuçlanmasına sebep olabilecek iş 
+ve
+işlemler, stratejik amaç ve hedeflerin gerçekleşmesini engelleyen durumlar dikkate alınır.
+Risk Türleri
+MADDE 15 — (1) Riskler, iç riskler ve dış riskler olmak üzere iki başlıkta değerlendirilir:
+a) İç riskler: İç riskler, doğrudan idare tarafından kontrol edilebilecek olaylar sonucunda ortaya çıkan
+risklerdir.
+b) Dış riskler: Dış riskler, idarenin kontrolü dışında gerçekleşen olaylar sonucunda ortaya çıkan 
+risklerdir.
+6/27
+(El öaaasırısı Kurumsal Risk Yönetimi Yönergesi
+Risk Hiyerarşisi
+MADDE 16- (1) Risk yönetim döngüsü stratejik plan hazırlık aşamasında hedeflerin belirlenmesi ile 
+başlayan
+ve hedeflerin öngörüldüğü şekilde gerçekleştirilip gerçekleştirilmediğinin analiz edilmesiyle sonuçlanan 
+bütün
+
+aşamaları kapsar. Riskler kurum düzeyi, birim düzeyi, alt birim düzeylerde yönetilir.
+a) Kurum Düzeyi (Stratejik Düzey) Riskler: Stratejik amaç ve hedeflere yönelik risklerdir. Stratejik düzey
+risklerin belirlenme süreci stratejik planlama ekibi tarafından; stratejik planlama kapsamında amaç ve 
+hedeflerin
+belirlenmesi süreci ile bir bütün olarak ve eş zamanlı yürütülür. Bu riskler hedef bazında belirlenir bu 
+sayede
+hedeflere ulaşmayı etkileyebilecek risklerin öncelikle ele alınması sağlanır.
+b) Birim Düzeyi Riskler: İdarenin stratejik hedeflerine ulaşabilmesi açısından birimin kendi hedeflerine
+yönelik risklerdir.
+c) Birimlere Bağlı Alt Birim Düzeyi (Faaliyet Düzeyi) Riskler: Birim hedeflerinin gerçekleştirmek üzere
+yürüttüğü faaliyetlere yönelik risklerdir. Çalışanların yürüttüğü tüm faaliyetler ve iş süreçlerindeki riskler 
+bu
+kapsamdadır. Risklerin bu düzeyde iyi yönetilememesi öncelikle birim hedeflerine dolayısıyla stratejik 
+hedeflere
+ulaşılmasını olumsuz yönde etkiler.
+Risk Türünün Tespit Edilmesi
+MADDE 17 - (1) Riskler türleri; Stratejik Yönetim, İktisadi, Yasal, İtibar ve Saygınlık, Yönetim ve İnsan,
+Çevresel, Politik, Teknik, Operasyonel Faktörler olmak üzere dokuz kategoride tespit edilir.
+* Bütçeleme ve performans
+* Dolandırıcılık ve hırsızlık
+* Yolsuzluk ve kötü yönetim
+* Hizmet kusurları
+* İtibar ve genel algı
+* İş sağlığı ve güvenliğinin eksikliği
+* Yasalara ve mevzuatlara uymamak
+* Fikri mülkiyeti koruyamama
+Stratejik Yönetim * Raporların zamanında tamamlanmaması
+* Yatırımların optimum yapılmaması
+* Veri kontrolünün yetersiz yapılması
+* Kurum kültürünün yerleşmemiş olması
+* Kaynakların amacına uygun olarak kullanılmaması
+* İletişimde kopukluklar
+* Taşınmazlardaki hasarlar
+* Piyasalardaki hareketler
+* Yeniliklere karşı çıkılması
+
+* Çalışanların performans düşüklüğü
+* Kurumsal aidiyetin azalması
+7/27
+(El öaaasırısı Kurumsal Risk Yönetimi Yönergesi
+* Döviz kurundaki dalgalanmalar
+* Faiz oranlarının değişkenliği
+* Yüksek enflasyon oranları
+İktisadi Faktörler * Döner sermayenin yetersizliği
+* Projelere kaynak sağlanamaması
+* Hizmet bedelleriyle geri ödemelerdeki dengesizlik
+* Ekonomik faktörleri takip etmemesi
+* Finansal destek eksikliği
+* Beklenmedik kanun değişiklikleri
+* Mevzuatlara uymada ve uygulamadaki başarısızlık
+* Fikri mülkiyet hakkının korunamaması
+* Vergi yapısındaki değişiklikler
+Yasal Faktörler * Düzenleyici hükümlere riayetsizlik
+* Hukuk davaları
+* Kampüs içinde adli suçlar işlenmesi
+* Medyadaki olumsuz haberler
+* Plan ve politikaların doğru uygulanamaması
+* İç ve dış paydaşların güvenini kaybetme
+* Gizlilik ilkesinin çiğnenmesi
+İtibar ve Saygınlık * İş planının sürekliliğinin sağlanamaması
+* Mülkiyetin iyi korunmaması
+* Yönetimdeki aksaklıklar
+* Üst yönetimin yanlış kararlar vermesi
+* Yönetimi düzenleyen mevzuatların yetersiz olması
+* Çalışanların görev tanımlarının açık olmaması
+* Çalışanların mesleki yetkinliklerine göre konumlandırılmaması
+Yönetim ve İnsan Faktörü * Çalışanların sorumluluktan kaçması
+* Çalışanlar arasındaki uyuşmazlıklar
+* Bilgi akışındaki problemler
+* İnsan kaynakları yönetimindeki yetersizlik
+* Personel eğitimindeki eksiklikler
+
+* Güvenlik yönetim sistemi
+* Mesleki sağlık hizmetleri
+8/27
+(El öaaasırısı Kurumsal Risk Yönetimi Yönergesi
+* Doğal afetler
+* Salgın hastalıklar
+* Güvenlik önlemleri
+* Gıda güvenliği
+* Acil durum yönetimi
+Çevresel Faktörler * Hava kirliliği
+* Ulaşımdaki problemler
+* Radyasyon
+* Hükümet politikalarındaki değişiklikler
+* Hükümet değişikliği
+Politik Faktörler * İç savaş ve sivil itaatsizlik
+* Olumsuz kamuoyu algısı
+* Elverişsiz teknik tasarımlar
+* Teknolojiye ayak uyduramama
+Teknik Faktörler * Elektronik aletlerin bakımı
+* Bakım masraflarının artması
+* Bilgi güvenliğinin sağlanamaması
+* Teknik altyapı yetersizliği
+* Teknik personelin bilgi düzeyi
+* İnternete erişim hızı
+* Alt yapı ile teknoloji arasındaki uyumsuzluklar
+* Hizmet koşullarının net olmaması
+* Personel sayısı ve personelin niteliği
+* Altyapı yetersizliği
+* Başarısız durum yönetimi
+* Hizmet kullanıcılarının beklentileri
+* Yasal yükümlülükleri yerine getirmeme
+Operasyonel Faktörler * Akademik personel yetersizliği
+
+* İdari personel yetersizliği
+* Üniversitenin tercih edilirliğinin (puanlarının) düşmesi
+* Var olan programların kapatılması/kontrolsüz küçülme
+* Kontrolsüz büyüme
+* Üniversitenin akademik performansının düşmesi
+* Mezunların işe yerleşme oranlarının düşük olması
+9/27
+ÜNİYERSİTESİ Kurumsal Risk Yönetimi Yönergesi
+Kaynakları Açısından Risk Sınıflandırması
+3 5 z s|£
+Be ii 4 5 2
+- Zİ zi
+5 la m | 2
+E Fi Fİ ir) HR
+Fİ Z g 2 (O
+El 3  & ES 0k
+s zi << | A <
+â KA 3 Ez | S5
+< Râ SE ERSE
+El 8
+g El 3 Hİ
+E #305; - Bİ e|S£
+B Ss” EE 5 5 2 kz e & £ ğ 2
+EB 28 2 4 3 Â s5 3 leg) 7 OE 9 e 3
+3 52 Z 34 28 * El 453 £ £ $
+as SİZ £ EE S2 8 s3 | 3 ös EE £ 2 O ş
+Şi 35 4 £ EZ: gz 2 35 2 zi?
+ss £ 3 &ğ #57 53 3 £ 2 4 253 3 2 2 3 ğ
+<6 ZO AA << <51>) 55 AZ öâlâlse ül
+I -Dâhili Riskler: Üniversitenin kendi bünyesinden kaynaklanan riskleri içerir.
+A- Donanımsal Riskler: Üniversitenin her türlü taşınır, taşınmaz varlıkların niceliğinden ve alt yapıdan
+kaynaklanabilecek riskleri içerir.
+A 1. Altyapı Kaynaklı Riskler
+- Ulaşım aksaklığı
+- İletişimde aksaklıklar
+- Su/kanalizasyon sorunları
+- Enerji kesintileri
+A 2. Taşınmazlara İlişkin Riskler
+
+- Yetersiz bina
+- Yetersiz sosyal alanlar
+- Yapı güvenliksiz bina
+- Nitelik açısından uygunsuz bina
+A 3. Malzeme / Ekipman Kaynaklı Riskler
+- Sarf malzeme tedarikinde aksaklıklar
+- Bilişim malzemeleri yetersizliği
+- Laboratuvar malzemelerinin yetersizliği
+- Eğitim araç gereçlerinin yetersizliği
+- Arızalar
+10/27
+(El öaaasırısı Kurumsal Risk Yönetimi Yönergesi
+B- Sistemsel Riskler
+B 1. Güvenlik Riskleri
+- Bilişim sistemleri kaynaklı güvenlik riskleri
+- Adli güvenlik riskleri
+- Gıda güvenliği
+B 2. Yönetim Sistemi Kaynaklı Riskler
+- İş sağlığı ve güvenliğinin olmaması
+- Kurum kültürünün yerleşmemiş olması
+- Kurumsallaşamama
+- Kurumsal aidiyetin sağlanamaması
+- Ülke stratejilerine uyum sağlayamama
+- Stratejik plan hedeflerini zamanında gerçekleştirememe
+- Yanlış görev dağılımı
+- Yanlış kampüs planlaması
+- Acil durum yönetimi
+- Kontrolsüz küçülme
+- Kontrolsüz büyüme
+B 3. Evrak Takip Sistemleri Riskleri
+-  İhtiyaçlarla uyumsuz yazılım tercihleri
+- Yazılım sistemlerine ilişkin eğitim eksikliği
+B 4. Eğitim Sistemi Kaynaklı Riskler
+- Müfredata ilişkin riskler
+- Ölçme değerlendirme sistemlerine ilişkin riskler
+- Akademik performansın düşmesi
+- Mezunların işe yerleşme oranlarının düşmesi
+C- İnsan Kaynaklı Riskler
+- Yasalara ve mevzuatlara uymamak
+
+- Kamu malına/ çevreye zarar verme
+- Performans düşüklüğü
+- Adli suçlar hizmet kusurları
+- Dolandırıcılık, yolsuzluk ve hırsızlık
+- Gerekli örgütsel değişime direnç
+- Çatışmalar
+C 1. Personel Kaynaklı Riskler
+- Nitelik açısından eğitim programları ile uyumsuz akademik personel
+- Nicelik açısından eğitim programları ile uyumsuz akademik personel
+- Nitelik açısından uyumsuz idari personel
+- Nicelik açısından uyumsuz idari personel
+C 3. Yöneticilerden Kaynaklanabilecek Riskler
+- Mevzuat konusunda eksik bilgi
+- Liderlik vasfının eksikliği
+- Üniversite stratejik hedeflerine sahip çıkmama
+C 4. Öğrenci Kaynaklı Riskler
+11/27
+(El öaaasırısı Kurumsal Risk Yönetimi Yönergesi
+D- Finansal Riskler
+- Bütçeleme hataları
+- Artan bakım onarım masrafları
+TI - Harici Riskler: Üniversitenin kontrolü dışında olan dış çevre kaynaklı riskleri içerir.
+E- Dış Çevre Kaynaklı Riskler
+E 1. Doğal Çevre Kaynaklı riskler
+- Doğal afetler
+- Salgın hastalıklar
+- Kıtlık
+E 2. Hukuki Çevre Kaynaklı Riskler
+- Yeni yasa ve yönetmelikler
+- Üniversiteye karşı açılan davalar
+E 3. Ekonomik Çevre Kaynaklı Riskler
+- Ekonomik politika kaynaklı kamu harcamaları kısıtlamaları
+E 4. Sosyal/kültürel Çevre Kaynaklı Riskler
+-  Şehir/üniversite uyum sorunları
+- Üniversiteye ilişkin olumsuz haberler
+- İtibar ve genel algı
+- Üniversitenin tercih edilirliğinin/taban puanlarının düşmesi
+E 5. Teknolojik çevre kaynaklı riskler
+- Teknolojiye ayak uyduramama
+
+E 6. Rekabet ortamından kaynaklanan riskler
+- Yeni açılan üniversiteler
+- Diğer üniversitelerde açılan yeni programlar değişiklikler
+E 7. Siyasi Çevre
+- Eğitim politikalarında değişim
+- Darbe, iç savaş
+E 8. Küresel riskler
+- Savaş
+- Uluslararası anlaşmalar
+Risklerin Değerlendirilmesi
+MADDE 18 — (1) Risklerin değerlendirilmesi; tespit edilmiş risklerin analiz edilmesi, etki ve olasılık
+açısından öneminin değerlendirilmesidir. Risklerin değerlendirilmesi, riskler tespit edildikten sonra 
+risklerin
+ölçülmesi, önceliklendirilmesi ve kaydedilmesi aşamalarını kapsar.
+a) Risklerin ölçülmesi, her riskin olma olasılığı ve etkisinin hesaplanmasıdır.
+b) Risklerin önceliklendirilmesi, ölçme sonucunda aldıkları puan doğrultusunda önem derecesine göre
+sıralanmasıdır.
+c) Risklerin kaydedilmesi, tespit edilen her bir riskin numaralandırılarak kayıt altına alınmasıdır.
+Üniversitenin risk iştahı kapsamında belirlenen kıstaslar kullanılarak ölçeklendirilen Risk Etki
+Değerlendirme ve Risk Olasılık Skalaları ile (EK-5 ve EK-6) risklerin olasılık ve etki değerleri 
+belirlenmektedir.
+12/27
+(El öaaasırısı Kurumsal Risk Yönetimi Yönergesi
+Riskin Olasılığı: Riskin belirli bir takvim periyodu içinde meydana gelme ihtimalini ifade eder ve | ile 10
+arasında puanlandırılır (Risk düzeyi; | ile 3 arası düşük, 4 ile 6 arası orta ve 7 ile 10 arasında 
+derecelendirilen risk
+ise yüksek olasılık değerine sahip risk olarak değerlendirilir).
+Riskin Etkisi: Riskin meydana gelmesi durumunda Üniversitenin stratejik amaç, hedef ve faaliyetleri
+üzerindeki etkisinin değerlendirilmesini kapsamakta olup, | ile 10 arasında olarak derecelendirilir (Risk 
+düzeyi; | ile
+3 arası düşük, 4 ile 6 arası orta ve 7 ile 10 arasında puanlanan risk yüksek etki düzeyini 
+göstermektedir).
+Risklerin Haritası
+Risk analizi çalışmaları sonucunda tespit edilen ve derecelendirilen riskleri içerecek şekilde hazırlanan 
+ve
+
+risk değerlendirme sürecinde olasılık ve etki değerlerinin hesaplanmasında kullanılan Risk Haritası 
+EK-7'de yer
+almaktadır.
+Üniversitemiz Risk Matrisinde risk seviyeleri; yüksek (kırmızı), orta (sarı) ve düşük (yeşil) olmak üzere 
+üç
+derecede değerlendirilir.
+DÖRDÜNCÜ BÖLÜM
+Riske Cevap Verme ve Kontrol Yöntemleri
+Riske Cevap Verme
+MADDE 19- (1) Her bir cevabın riskin olasılığı ve etkisi üzerindeki tesirini değerlendirmek, maliyetini ve
+faydasını dikkate almak suretiyle kontroller ve risk eylem planları belirlenir. Üniversitenin risklere cevap 
+verme
+konusundaki tutumu aşağıdaki gibidir:
+Risklere cevap verme: Risk seviyelerine göre önceliklendirilen risklere yönelik alınacak kararların
+belirlenmesidir. Risklere yönelik verilecek cevaplar riskleri kabul etmek, kontrol etmek, devretmek, 
+riskten kaçınmak
+olarak dört grupta sınıflandırılır.
+1) Riski Kabul Etmek: Risklere karşı herhangi bir eylem uygulamamaya karar verilmesidir.
+a) Riske karşı alınacak önlemlerden sağlanacak fayda, alınacak önlemlerin maliyetinden daha düşük
+olduğunun anlaşılması durumunda risk kabul edilebilir.
+b) Risk, risk iştahı içinde ise risk kabul edilebilir. Risk iştahı, risk puanı 1, 2, 3 olan risklerle 
+sınırlandırılmıştır.
+(2)Riski Kontrol Etmek: Risklerin kabul edilebilir bir seviyede tutulması için kontrol faaliyetleri 
+aracılığıyla
+riske cevap verme yöntemidir. Yönlendirici, önleyici, tespit edici, düzeltici kontrol yöntemleri vasıtasıyla 
+uygulanır.
+a) Yönlendirici kontroller: Bilgilendirme, koruma, davranış şekli belirleme gibi dolaylı faaliyetlerle riskleri
+kontrol etme yöntemidir.
+b) Önleyici kontroller: Risklerin gerçekleşme olasılığını azaltıp Üniversite tarafından kabul edilebilir 
+seviyede
+
+tutmak için yapılması gereken kontrollerdir.
+c) Tespit edici kontroller: Riskler gerçekleştikten sonra meydana gelen zarar ve hasarın ne olduğunun 
+tespiti
+amacıyla yapılan kontrollerdir.
+ç) Düzeltici kontroller: Risklerin gerçekleştiği durumlarda, istenmeyen sonuçların etkisinin giderilmesine
+yönelik kontrollerdir.
+(3)Riski Devretmek: Daha çok Üniversitenin doğrudan asli görev alanına girmeyen veya fayda-maliyet
+açısından Üniversite tarafından yapılması uygun görülmeyen ve bu anlamda riskleri yüksek olduğu 
+değerlendirilen
+faaliyetlerin, uzmanlığı/donanımı/kaynağı olan başka bir idare/kişi/kuruluşa devredilmesi şeklinde riske 
+cevap
+verilmesidir. Ancak risk devredilse bile sorumluluk devredilemez.
+(4)Riskten Kaçınmak: Risk yönetilmeyecek kadar büyükse ve/veya faaliyet hayati öneme sahip değilse,
+faaliyete son verilmesidir.
+(5)Risklere karşı verilmesi kararlaştırılan cevaplar “Risk Kayıt Formu””na kaydedilir. Formda (EK-8)
+verilmiştir.
+13/27
+(El öaaasırısı Kurumsal Risk Yönetimi Yönergesi
+(6) Risk Kayıt Formuna kaydedilen riskler “Konsolide Risk Raporu” (EK-9) ile İdare Risk Koordinatörüne 
+ve
+Strateji Geliştirme Daire Başkanlığına raporlanır.
+Risk Kontrol Yöntemleri
+MADDE 20- (1) Şiddetini azaltma kararı verilen riskler için uygulanan/uygulanacak kontrol yönteminin 
+tespit
+edilmesinde aşağıdaki kriterler dikkate alınır:
+a) Kontroller, Üniversitenin her türlü plan ve programı ile mali ve mali olmayan tüm iş ve işlemlerinin
+ayrılmaz bir parçasıdır. Bu nedenle Üniversitenin her bir fonksiyonunu ve yönetim düzeyini kapsayacak 
+şekilde
+tasarlanır ve uygulanır.
+
+b) Kontroller, seçilen risk cevaplarının başarılmasına yardımcı olacak şekilde tesis edilir ve yürütülür.
+c) Kontrol yöntemi; kontrol faaliyeti ve risk eylem planı olarak belirlenir. Risklerin etki ve/veya olasılık 
+puan
+seviyelerini azaltmaya yönelik olarak; hâlihazırda uygulanmakta olan faaliyetler kontrol faaliyetleri, belirli 
+süre
+içinde gerekli hazırlıklar yapılarak gelecekte belirlenen bir tarihte uygulamaya alınmak üzere planlanan 
+eylemlere
+risk eylem planı adı verilir.
+ç) Kontroller; kontrolün işlevi, otomasyon seviyesi ve önem derecesine göre değerlendirilerek üç ayrı
+sınıflandırmaya tabi tutulur.
+d) Belirlenen her bir kontrolün sıklığı ve kontrolün sorumlusu tespit edilir ve kontrolle ilişkilendirilerek 
+kayıt
+edilir.
+e) Mevcut kontrollerin riskin şiddetini azaltmak konusunda yeterli olmadığı ve kalıntı risk seviyesinin
+(yönetimin riskin olma olasılığını ve etkisini azaltmak için aldığı önlemlerden sonra arta kalan riskler) risk 
+iştahının
+üzerinde olduğunun tespit edilmesi halinde risk eylemleri planlanarak, makul bir süre içinde uygulamaya 
+alınması
+sağlanır.
+f) Risk eylem planları; yapılması planlanan eylemin türüne göre bilgi teknolojileri, süreç, organizasyon,
+yönerge/talimat/rehber olarak dört farklı şekilde sınıflandırılır. Planlanan eylemin, bir otomasyon 
+sistemini içermesi
+halinde, bilgi teknolojileri; yeni bir iş akışı oluşturulmasını ya da iş akışının revizesini gerektirmesi 
+halinde, süreç;
+organizasyon yapısında bir değişikliği (yeni birim kurulması, görev tanımı değişikliği vb) gerektirmesi 
+halinde,
+organizasyon; yönlendirici bir kontrol faaliyeti içermesi halinde, yönerge/talimat/rehber olarak 
+sınıflandırılır.
+g) Planlanan risk eylemleri; eylemin tanımı, kaynak ihtiyacı, çalışmanın başlangıç ve bitiş tarihleri, 
+eylemin
+yerine getirilmesinden kimin sorumlu olduğu ve önem derecesi belirlenerek kayıt edilir.
+8) Risk eylem planları, belirlenen tarihe kadar gerekli alt yapı çalışmaları tamamlanarak kontrol faaliyeti
+haline getirilir ve risk üzerine kontrol olarak kayıt edilir.
+
+i) Kontrol yöntemlerine ve uygulanacak kontrolün seviyesine karar verilirken; kontrolün riskin etki ve/ 
+veya
+olasılığı üzerindeki etki derecesi, uygulanabilirliği, fayda ve maliyet dengesi, etkililik, ekonomik ve 
+verimlilik
+kriterleri doğrultusunda değerlendirilerek en uygun ve işlevsel yöntemin seçilmesi sağlanır.
+Üniversiteyi etkileyen riskler ve olası sonuçları ile mücadele için dört çeşit risk kontrol yöntemi aşağıda
+açıklanmış olup riskin yapısına göre uygun olan yöntemlerden biri seçilecek ve uygulanmaya 
+konacaktır.
+a) Önleyici Kontrol Yöntemi: Bu yöntem, riskin sonradan ortaya çıkabilecek istenmeyen sonuçlarını 
+ortadan
+kaldırmak için tasarlanmıştır. Bir riskin umulmadık bir sonuca ulaşması olasılığı ne kadar düşükse bu 
+yöntemin
+uygulanması ve başarılı olma olasılığı da o kadar yüksektir. Birçok risk çeşidi için bu yöntemin 
+kullanılması uygun
+olacaktır. Bu kontrol yöntemine örnek olarak; idari personelin görev tanımlarının birbirinden kesin olarak 
+ayrılmış
+olması ve aynı birimde olan çalışanların bir iş için birbirinin yazılı veya sözlü onayını almadan harekete
+geçmemesidir.
+b) Düzeltici Kontrol Yöntemi: Bu yöntem, riskin önceden meydana gelmiş olan olumsuz sonuçlarını 
+tashih
+etmek için tasarlanmıştır. Bu yöntemin amacı risklerin verdiği zararın ve kaybın bir kısmının onarılması 
+için yardım
+sağlamaktır. Acil Durum Planlamaları, bu yöntemin ana elementlerinden biridir. Bu kontrol yöntemine 
+örnek olarak;
+tekrardan tahsili için sözleşme hükümleri hazırlayıp uygulamaya kayıpların yerine getirilmesinin 
+kolaylaştırılması
+için yapılan kontrollerden biridir.
+14/27
+(El öaaasırısı Kurumsal Risk Yönetimi Yönergesi
+c) Yönlendirici Kontrol Yöntemi: Bu yöntem, riskin belirli bir sonuca ulaşmasının kesinleştirilmesi için
+tasarlanmıştır. Yönlendirici kontrolün önemi, istenmeyen bir olaydan sakınmak gerektiğinde belli 
+olmaktadır.
+Özellikle, iş sağlığı ve iş güvenliği konularında kullanılması bu yöntemin bir özelliğidir. Bu kontrol 
+
+yöntemine örnek
+olarak; tehlikeli kabul edilen her türlü iş için koruyucu kıyafet giyme zorunluluğunun getirilmesi ve bu 
+işlerde
+çalışanlara gerekli yetenekleri elde edebilmeleri için iyi bir eğitim verilmesidir.
+d) Tespit Edici Kontrol Yöntemi: Bu yöntem, daha önceden tespit edilen istenmeyen sonuçların hangi 
+sebep
+ile ortaya çıktığını saptamak için tasarlanmıştır. Bu kontrol yönteminin en iyi uygulama şekli riskin yol 
+açacağı kayıp
+ve zararları önceden kabul etmektir. Bu kontrol yöntemine örnek olarak; taşınır mal miktarının belli 
+aralıklarla
+sayılması ve finansal hesapların daima güncel tutulmasıdır.
+BEŞİNCİ BÖLÜM
+Bilgi, İletişim, İzleme ve Raporlama Süreci
+Bilgi ve İletişim Süreci
+MADDE 21- (1) Risk Yönetim Sürecinin önemli bir faaliyeti olan bilgi ve iletişim süreci, sadece belirli bir
+evrede değil, Risk Yönetiminin bütün aşamaları boyunca işletilmesi gereken bir süreçtir. Bu süreç 
+Üniversite
+yönetiminin bir bütün halinde hareket etmesini sağlayacak olup, takım çalışmasını, yeniliklerin 
+benimsenmesini ve
+işe yarayacak geri bildirimler elde edilmesini sağlayacaktır. İletişim sürecine Yükseköğretim Kurulu, 
+Ölçme, Seçme
+ve Yerleştirme Merkezi, Üniversitelerarası Kurul, Sayıştay, Kamu İhale Kurumu, Bakanlıklar, Valilikler,
+Belediyeler, yerel ve ulusal medya gibi dış paydaşlar da dâhil edilmelidir.
+(2) Bilgi ve iletişim sürecinde Üniversite yönetiminin yapması gerekenler aşağıda sıralanmıştır;
+a) Üniversitenin tüm akademik ve idari süreçlerinde görevli birim iç kontrol koordinasyon grubu 
+oluşabilecek
+riskler için her aşamada yazılı ve sözlü iletişimde olup, risk ile mücadelede her birim birbirleri ile bilgi 
+alışverişinde
+bulunur.
+b) Bir birim, kendisini ilgilendiren yeni bir risk ile karşılaştığında, bu risk için uygun bir kontrol yöntemi 
+seçip
+riski kontrol altına aldığında edindiği deneyimleri Üniversite yönetimi ile paylaşır.
+c) Birim risk koordinatörlüğünde görevli personel risk yönetim sürecinde kendilerine tanımlanmış 
+görevlerini
+
+yerine getirdikten sonra, geri bildirimlerini İdare Risk Koordinatörüne iletir.
+(3) Risk yönetim sürecinde bilgi paylaşımı, İç Kontrol Yönergesi kapsamında Üniversite harcama 
+birimlerine
+ait risk yönetiminde kullanılacak formların yanı sıra misyon-vizyon formu, organizasyon şeması, personel 
+listesi,
+görev tanımları formu, iş tanıtım formu, sorumlu tanıtım formu, iş süreçleri, iş akış şemaları, istatistik 
+tabloları, birim
+faaliyet raporu ve hassas görevler listesi olmak üzere düzenlenecek formlarla oluşturulacak web sitesi/ 
+yazılım
+üzerinden yapılacaktır.
+İzleme ve Raporlama Süreci
+Madde 22 — (1) Risklerin hala var olup olmadığı, yeni risklerin ortaya çıkıp çıkmadığı, risklerin 
+gerçekleşme
+olasılıklarında ve etkilerinde bir değişiklik olup olmadığı yılda bir kez gözden geçirilir ve sürekli izlenir.
+(2)Birim Risk Koordinatörü başkanlığında toplanan Birim Risk Çalışma Grubu her yılın Aralık ayında, 
+birim
+hedeflerine ve faaliyetlerine ait yeni tespit edilen riskleri, risk puanı değişenleri ve kontrollerin etkinliğini 
+gözden
+geçirir ve sonuçlarını İdare Risk Koordinatörüne, Strateji Geliştirme Daire Başkanlığına “Konsolide Risk 
+Raporu”
+ile raporlar. Bu raporlamanın yanı sıra sürekli uygulanacak izleme ve raporlama süreci aşağıdaki gibi 
+yürütülür:
+a) Risklerin sürekli izleme sorumluluğu tüm çalışanlara aittir. Çalışanlar görev sorumluluğuna giren işleri
+yürütürken tespit ettikleri riskleri, kontrol eksikliklerini, önerilerini alt birim yöneticisine raporlar.
+b) Alt birim yöneticisi, çalışanlar tarafından kendisine raporlanan riskler ile kendisi tarafından tespit 
+edilen
+riskleri Birim Risk Koordinatörüne raporlar.
+15/27
+ÜNİYERSİTESİ Kurumsal Risk Yönetimi Yönergesi
+c) Birim Risk Koordinatörü, kendisine iletilen riskler ile kendisi tarafından tespit edilen riskleri, yeni iş
+süreçlerine ilişkin riskleri, Birim Risk Çalışma Grubu ile görüşerek riske ilişkin kontrol yöntemine karar 
+verilir ve
+
+Risk Kayıt Formu güncellenir.
+ç) Birden fazla alt birimi ilgilendiren risk ve kontrolleri, alt birim yöneticilerine ve çalışanlara iletilir.
+(3) Stratejik düzeydeki riskler, İdare Risk Koordinatörü tarafından her yılın Aralık ayında gözden geçirilir 
+ve
+İç Kontrol İzleme ve Yönlendirme Kurulunun değerlendirmesine sunulur. İç Kontrol İzleme ve 
+Yönlendirme Kurulu
+değerlendirme sonucunu Rektör'e sunar.
+(4) İç Denetim Birim Başkanlığı, denetim planları kapsamında birimlerde risk yönetim sürecini denetler.
+ALTINCI BÖLÜM
+Çeşitli Hükümler
+Hüküm bulunmayan hâller
+MADDE 23- (1) Bu Yönergede hüküm bulunmayan hallerde, 5018 sayılı Kamu Mali Yönetimi ve Kontrol
+Kanunu ve ilgili mevzuat hükümlerine uyulur.
+Yürürlük
+MADDE 24- (1) Bu Yönerge Senato tarafından onaylandığı tarihte yürürlüğe girer.
+Yürütme
+MADDE 25- (1) Bu Yönergeyi Fırat Üniversitesi Rektörü yürütür.
+Lİ
+16/27
+ÜNİYERSİTESİ Kurumsal Risk Yönetimi Yönergesi
+EKLER
+EK-İI Risk Yönetim Süreci Akış Şeması
+EK-2 Risklerin Belirlenmesine Yönelik Sorular
+EK-3 Risk Tespit Formu
+EK-4 Risk Oylama Formu
+EK-5 Risk Etki Değerlendirme Skalası
+EK-6 Risk Olasılık Değerlendirme Skalası
+EK-7 Risk Haritası
+EK-8 Risk Kayıt Formu
+EK-9 Konsolide Risk Raporu
+17/27
+ÜNİYERSİTESİ Kurumsal Risk Yönetimi Yönergesi
+EK-I Risk Yönetim Süreci Akış Şeması
+Stratejik Amaç ve Hedefler
+Doğrultusunda Risk Yönetimi Risklerin Tanımlanması
+Stratejisinin Belirlenmesi
+Risk Analizi ve Ölçümü - Risklerin Tespit Edilmesi — igöY”
+
+Risklerin Değerlendirilmesi Risk Kontrol Yönteminin
+(Olasılığı ve Ölçümü) Belirlenmesi
+Risklerin Gözden Geçirilmesi Riske Cevap Verme
+ve Raporlanması
+Risk Kontrol
+Risklerin İzlenmesi Altında mı? / Hayır
+Risk Düzeyi
+Azalmış mı?
+Evet
+Periyodik Risk Değerlendirme
+Sürecine Devam
+18/27
+ÜNİYERSİTESİ Kurumsal Risk Yönetimi Yönergesi
+EK-2 Risklerin Belirlenmesine Yönelik Sorular
+> Misyon, Vizyon ile temel amaç ve hedefler belirlendi mi?
+> Amaç ve hedeflere ulaşmada yaşanılan en büyük engel nedir?
+> Yasa ve mevzuat gibi dış faktörlerde değişimler meydana geldi mi?
+> Son zamanlarda kilit/önemli personel değişikliği yaşandı mı?
+> Geçmiş dönemlerde yüksek personel değişim oranı oldu mu?
+> İş süreçleri sade ve sıradan mı yoksa karmaşık ve değişken mi?
+> Usul ve süreçler yazılı belge haline getiriliyor mu?
+> Diğer birimler benzer amaç ve hedeflerde başarısızlığa uğradı mı?
+> Bilişim sisteminde herhangi bir değişiklik oldu mu?
+> Yeni görevler üstleniliyor mu? Yeniden yapılanmaya gidildi mi?
+> İş süreçlerinde genel bir aksama olursa, acil eylem planı mevcut mu?
+> Geçmiş yıllarda hangi riskler çoğaldı veya azaldı? Neden?
+> Bu durum neden bir risk olarak tasvir edilmektedir?
+>  Buriski anlamak için ilave bir bilgiye ihtiyaç var mıdır?
+>  Buriskin hedeflere ulaşmada neden olumsuz etkisi vardır?
+> İç risklerin ortaya çıkmasına kimler sebep olmuş olabilir?
+> Tespit edilmiş iç risklerin çıkış kaynağı ve temel nedeni nedir?
+> Risklerin neden olacağı olası maliyetler ne kadardır?
+> Üniversite yönetimi hem iç hem dış riskleri dikkate alıyor mu?
+> Risklerin belirlenmesinde iç ve dış paydaşların rolü nelerdir?
+> Programların taban puanlarında/öğrenci sayılarında azalma var mı?
+> Faaliyetine son verilen programlar var mı?
+> Üniversite akademik performansında düşüş var mı?
+> Ulusal ve uluslararası öğrenci ve personel değişim programlarından sayısında azalma var mı?
+> Üniversite proje ve patent başvuru sayısında ve bilimsel etkinlik sayısında azalma var mı?
+
+> Öğretim elemanı başına düşen uluslararası yayın sayısında stratejik planda belirlenen orana göre 
+azalma
+var mı?
+> Öğrenci ve personel memnuniyet düzeyinde azalma var mı?
+> Üniversite bünyesinde gerçekleştirilen sosyal sorumluluk projelerinde, kültürel ve sportif faaliyetlerde
+azalma var mı?
+> Üniversitenin özel ihtisaslaşma alanı ile ilgili faaliyetlerde düşüş var mı?
+19/27
+ÜNİVERSİTESİ Kurumsal Risk Yönetimi Yönergesi
+EK-3 Risk Tespit Formu
+1 Sıra No: Risk kaydındaki sıralamayı gösterir.
+2 Referans No: Riskin referans numarasını gösterir. Referans numarası risk sahibinin bağlı olduğu birimi 
+de gösterecek şekilde yapılan bir
+kodlamadır. Risk devam ettiği sürece bu kod değiştirilmez. Aynı kod bir başka riske verilmez.
+3 Stratejik Hedef: Riskin ilişkili olduğu stratejik hedefin, stratejik plandaki kodunun yazıldığı sütundur.
+4 Birim / Alt birim hedefi: Risk kaydı birim / alt birim düzeyinde dolduruluyorsa, idarenin stratejik 
+hedefleriyle doğrudan veya dolaylı bağlantılı
+ve riskten etkilenecek olan hedef bu sütuna yazılır. Risk kaydı idare düzeyinde dolduruluyor ise bu sütun 
+boş bırakılır.
+5 Tespit Edilen Risk: Tespit edilen riskler yazılır.
+6 Riskin Sebebi: Bu riskin ortaya çıkmasının nedenlerini belirtir.
+20/27
+ÜNİVERSİTESİ Kurumsal Risk Yönetimi Yönergesi
+EK-4 Risk Oylama Formu
+Sebep
+Risk:
+Sebep
+|| e
+1 Sıra No: Risk kaydındaki sıralamayı gösterir.
+2 Referans No: Riskin referans numarasını gösterir. Referans Numarası risk sahibinin bağlı olduğu birimi 
+de gösterecek şekilde yapılan bir kodlamadır. Risk
+devam ettiği sürece bu kod değiştirilmez. Aynı kod bir başka riske verilmez.
+3 Stratejik Hedef: Riskin ilişkili olduğu stratejik hedefin, stratejik plandaki kodunun yazıldığı sütundur.
+4 Birim / Alt Birim Hedefi: Risk kaydı Birim / Alt Birim düzeyinde dolduruluyorsa, Üniversitenin stratejik 
+hedefleriyle doğrudan veya dolaylıbağlantılı ve
+riskten etkilenecek olan hedef bu sütuna yazılır. Risk kaydı Kurum düzeyinde dolduruluyor ise bu sütun 
+boş bırakılabilir.
+
+5 Tespit Edilen Risk: Tespit edilen riskler yazılır, Sebep: Bu riskin ortaya çıkmasına neden olan sebepler 
+belirtilir.
+6, 7, 8 Etki A/B/C: Risk değerlendirme çalışmalarında yer alan her bir katılımcının ismi ile etkiye verdiği 
+puanlar, bu sütunlara kaydedilir.Katılımcı
+sayısına göre bu sütunların sayısı artırılabilir.
+9 Etki: Katılımcıların verdikleri puanların aritmetik ortalaması alınarak riskin (ortalama) etki puanı 
+bulunur.
+10, 11, 12 Olasılık A/B/C: Risk değerlendirme çalışmalarında yer alan her bir katılımcının ismi ile 
+olasılığa verdiği puanlar, bu sütunlara kaydedilir.Katılımcı
+sayısına göre bu sütunların sayısı artırılabilir.
+13 Olasılık: Katılımcıların verdikleri puanların aritmetik ortalaması alınarak riskin (ortalama) olasılık 
+puanı bulunur.
+14 Risk Puanı: Etki puanı (ortalama) ile olasılık puanı (ortalama) çarpılarak Risk Puanı bulunur.
+21/27
+ÜNİYERSİTESİ Kurumsal Risk Yönetimi Yönergesi
+EK-S5 Risk Etki Değerlendirme Skalası
+Kurumun stratejik amaç ve hedeflerine ulaşamamasına, stratejik amaç
+5 Çok Ciddi ve hedeflerinden ciddi derecede sapmasına veya kurum tarafından
+Bi sunulan hizmetlerin uzun süre duraklamasına neden olabilecek olay
+veya durumlar.
+Kurumun stratejik amaç ve hedeflerinden önemli derecede sapmasına
+Ciddi veya kurum tarafından sunulan hizmetlerin önemli bir süre
+duraklamasına neden olabilecek olay veya durumlar.
+Kurumun stratejik amaç ve hedeflerinden kabul edilebilir derecede
+Orta sapmasına veya kurum tarafından sunulan hizmetlerin belirli bir süre
+duraklamasına neden olabilecek olay veya durumlar.
+Kurumun stratejik amaç ve hedeflerine ulaşmasında düşük seviyede
+Hafif etkisi olabilecek olay veya durumlar.
+Kurumun stratejik amaç ve hedeflerine ulaşmasında çok düşük
+Çok Hafif kolaylıkla gözlemlenemeyecek seviyede etkisi olabilecek olay veya
+durumlar.
+22/27
+ÜNİVERSİTESİ Kurumsal Risk Yönetimi Yönergesi
+EK-6 Risk Olasılık Değerlendirme Skalası
+Stratejik amaç ve hedefe ulaşılması öngörülen sürede gerçekleşme
+Çok Yüksek | ©lasılığı kesin olan olay ve durumlar.
+5 (Neredeyse Kesin)
+
+Yüksek (Yüksek | Stratejik amaç ve hedefe ulaşılması öngörülen sürede gerçekleşme
+Olasılık) olasılığı yüksek olan muhtemel olay ve durumlar.
+Si yül y
+Stratejik amaç ve hedefe ulaşılması öngörülen sürede gerçekleşme
+Orta (Olası) olasılığı mümkün olan olay ve durumlar.
+Stratejik amaç ve hedefe ulaşılması öngörülen sürede gerçekleşme
+Hafif ( Zayıf olasılığı düşük olmakla birlikte imkânsız olmayan olay ve durumlar.
+Olasılık)
+Stratejik amaç ve hedefe ulaşılması öngörülen sürede gerçekleşme
+Çok Hafif (İhtimal olasılığı pek muhtemel olmayan olay ve durumlar.
+Dışı)
+23/27
+ÜNİVERSİTESİ Kurumsal Risk Yönetimi Yönergesi
+EK-7 Risk Haritası
+—
+Fİ
+Hİ
+Hm
+>
+Cİ
+Eİ
+o
+—
+Fİ
+2
+Z
+>
+ET
+E br) 3
+o
+T
+K &
+. iz 2
+I a
+—
+5
+Za
+:iB
+A
+
+Cİ
+e
+o
+De 2 > SA
+İhtimal Dışı | Zayıf Olası Yüksek Neredeyse
+Olasılık Olasılık Kesin
+OLASILIK
+24/27
+ÜNİVERSİTESİ Kurumsal Risk Yönetimi Yönergesi
+EK-8 Risk Kayıt Formu
+Risk:
+Sebep
+Sıra No: Risk kaydındaki sıralamayı gösterir.
+Referans No: Riskin referans numarasını gösterir. Referans numarası risk sahibinin bağlı olduğu birimi 
+de gösterecek şekilde yapılan bir kodlamadır. Risk
+devam ettiği sürece bu kod değiştirilmez. Aynı kod bir başka riske verilmez.
+Stratejik Hedef: Riskin ilişkili olduğu stratejik hedefin, stratejik plandaki kodunun yazıldığı sütundur.
+Birim / Alt Birim Hedefi: Risk kaydı birim / alt birim düzeyinde dolduruluyorsa, Üniversitenin stratejik 
+hedefleriyle doğrudan veya dolaylı bağlantılı ve
+riskten etkilenecek olan hedef bu sütuna yazılır. Risk kaydı Kurum düzeyinde dolduruluyor ise bu sütun 
+boş bırakılır.
+25/27
+(Ba favansırısı Kurumsal Risk Yönetimi Yönergesi
+Tespit Edilen Risk: Tespit edilen riskler yazılır, Sebep: Bu riskin ortaya çıkmasının nedenleri belirtilir.
+Ds | Riske verilen cevaplar: Mevcut Kontroller: Mevcut kontroller bu sütuna yazılır.
+7 Etki: Oylama Formu kullanılarak tespit edilen etki değeridir (1-5 arasında). Bu tespit yapılırken riskle 
+ilgili uygulamada olan kontrol faaliyetleri, alınmış
+önlemler ve düzenlemelerin listelenmesi faydalıdır. Var olan önlemlere rağmen riskin gerçekleşirse 
+etkisinin ne olacağı tespit edilir.
+Olasılık: Oylama Formu kullanılarak tespit edilen olasılık değeridir (1-5 arasında). Bu tespit yapılırken 
+riskle ilgili uygulamada olan kontrol faaliyetleri,
+alınmış önlemler ve düzenlemelerin listelenmesi faydalıdır. Var olan önlemlere rağmen riskin 
+gerçekleşme olasılığının ne olduğu tespit edilir.
+Risk Puanı (R—E x O): Oylama Formunda yapılan değerlendirmede tespit edilen etki ve olasılık 
+
+değerlerinin çarpılması sonucu bulunan, risk puanları
+önceden belirlenen yüksek, orta ve düşük düzey puan aralıklarına göre yazılır.
+Risk Puanı (R—E x O): Oylama Formunda yapılan değerlendirmede tespit edilen etki ve olasılık 
+değerlerinin çarpılması sonucu bulunan, risk puanları
+önceden belirlenen yüksek, orta ve düşük düzey puan aralıklarına göre yazılır.
+Riske Verilen Cevaplar Yeni/ Ek/Kaldırılan Kontroller: Öncelikle mevcut kontrollerin gerekli/yeterli olup 
+olmadığı değerlendirilir. Yeterli olduğu
+değerlendiriliyor ise yeni bir kontrol öngörülmez. Yeterli değil ise yeni veya ek kontroller yazılır. Mevcut 
+kontrollerden kaldırılması uygun bulunanlar da
+bu bölümde gösterilir.
+12 Başlangıç Tarihi: Öngörülen yeni veya ek kontrollerin uygulamaya konulacağı, kaldırılması öngörülen 
+kontrollerin ise uygulamadan kaldırılacağı kesin
+tarihtir.
+13 Riskin Sahibi: Riskin yönetilmesinden ve izlenmesinden sorumlu olan kişidir. Riskle ilgili bilgiyi 
+toplayan, izlemeyi gerçekleştiren, riske verilen cevapları
+yöneten ve riskin yönetildiğine ilişkin kanıtların tutulmasını sağlayan kişi riskin sahibidir. Riskin sahibinde 
+riske verilecek cevapları gerçekleştirmek üzere
+gerekli kaynak ve yetki bulunmalıdır. Riskin sahibi aynı zamanda, Risk kayıtlarının güncellenmesi ve 
+riskle ilgili olarak bir üst makama raporlama yapan
+kişidir.
+Açıklamalar: Riskin mevcut durumu, değişim yönü, ne zaman gözden geçirileceği ve hangi aralıklarla 
+kime raporlanacağı ve belirtilmesine ihtiyaç
+duyulan diğer hususlar bu sütunda belirtilir.
+26/27
+ÜNİVERSİTESİ Kurumsal Risk Yönetimi Yönergesi
+EK- 9 Konsolide Risk Raporu
+Dı | Sıra No: Risk kaydındaki sıralamayı gösterir.
+2 | Referans No: Riskin referans numarasını gösterir. Referans numarası risk sahibinin bağlı olduğu 
+birimi de gösterecek şekilde yapılan bir kodlamadır. Risk devam ettiği
+sürece bu kod değiştirilmez. Aynı kod bir başka riske verilmez.
+Stratejik Hedef: Riskin ilişkili olduğu stratejik hedefin, stratejik plandaki kodunun yazıldığı sütundur.
+Birim / Alt Birim Hedefi: Risk kaydı birim / alt birim düzeyinde dolduruluyorsa, Üniversitenin stratejik 
+hedefleriyle doğrudan veya dolaylı bağlantılı ve riskten etkilenecek
+olan hedef bu sütuna yazılır. Risk kaydı Kurum düzeyinde dolduruluyor ise bu sütun boş bırakılır.
+
+Üs | Tespit Edilen Risk: Tespit edilen riskler yazılır.
+(6 | Önceki Risk Puanı ve Rengi: Bir önceki Konsolide Risk Raporundaki riskin durumunu ifade eder.
+Mevcut Risk Puanı ve Rengi: Rapor tarihindeki durumu gösterir.
+Riskin Sahibi: Riskin yönetilmesinden ve izlenmesinden sorumlu olan kişidir. Riskle ilgili bilgiyi toplayan, 
+izlemeyi gerçekleştiren, riske verilen cevapları yöneten ve riskin
+yönetildiğine ilişkin kanıtların tutulmasını sağlayan kişi riskin sahibidir. Riskin sahibinde, riske verilecek 
+cevapları gerçekleştirmek üzere gerekli kaynak ve yetki
+bulunmalıdır. Risk sahibi aynı zamanda, Risk kayıtlarının güncellenmesi ve riskle ilgili olarak bir üst 
+makama raporlama yapan kişidir.
+Do | Açıklama: Kontrol Faaliyetlerinin etkinliği ve geleceğe ilişkin öngörüler açıklama kısmında yer alır.
+27/27
