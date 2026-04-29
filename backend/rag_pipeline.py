@@ -59,6 +59,20 @@ QUERY_DICT = {
     "af": "ogrenci af kanunu egitim ogretim suresi uzatma",
     "sinavdan kaldi": "basarisiz ders tekrar FF DC not",
     "sinif tekrar": "sinif tekrar basarisiz ders yuk GNO",
+    # --- Yeni eklenenler ---
+    "ust uste":          "azami ogretim suresi ust uste basarisiz donem ilisik kesme kayit silme ogrencilik sona ermesi",
+    "kac donem":         "azami ogretim suresi ust uste basarisiz donem ilisik kesme kayit silme",
+    "ogrencilik sona":   "azami ogretim suresi ilisik kesme kayit silme ogrencilik sona ermesi",
+    "ilisik kesme":      "ilisik kesme kayit silme azami ogretim suresi basarisiz donem",
+    "azami sure":        "azami ogretim suresi ust sinir toplam sure donem",
+    "muafiyet":          "ders muafiyeti intibak yatay gecis bolum baskanligi yonetim kurulu",
+    "not donusum":       "not donusumu ECTS kredi donusum tablosu erasmus yurt disi",
+    "erasmus":           "erasmus yurt disi egitim not donusumu ECTS kredi denklik transkript",
+    "kayit yenile":      "kayit yenileme donem baslangici akademik takvim borc",
+    "devamsizlik":       "devamsizlik yoklama orant yuzde otuz ders devam sarti",
+    "ders yuku":         "ders yuku kredi AKTS maksimum sinir donem basarisizligi",
+    "transkript":        "transkript not belgesi onaylı resmi ogrenci isleri",
+    "ogretim suresi":    "azami ogretim suresi lisans donem yil uzatma ek sure",
 }
 
 EXPANSION_PROMPT = """Bir universite ogrencisinin gunluk dilde sordugu soruyu,
@@ -116,49 +130,57 @@ class RAGPipeline:
         self.top_k = top_k
         self.min_score = min_score
         self.retriever = MevzuatRetriever()
-        self._genai_model = None
 
-    def _get_genai(self):
-        """Gemini API client'ini lazy olarak baslatir."""
-        if self._genai_model is None:
+    def _get_llm_client(self):
+        """Mevcut API anahtarına göre OpenAI-uyumlu client döner (Groq veya OpenAI)."""
+        if os.getenv("GROQ_API_KEY"):
             try:
-                import google.generativeai as genai
-                genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
-                self._genai_model = genai.GenerativeModel("gemini-2.5-flash")
+                from openai import OpenAI
+                return OpenAI(
+                    api_key=os.getenv("GROQ_API_KEY"),
+                    base_url="https://api.groq.com/openai/v1",
+                ), "llama-3.3-70b-versatile"
             except Exception as e:
-                logger.warning(f"Gemini baslatılamadi: {e}")
-        return self._genai_model
+                logger.warning(f"Groq baslatılamadi: {e}")
+        if os.getenv("OPENAI_API_KEY"):
+            try:
+                from openai import OpenAI
+                return OpenAI(api_key=os.getenv("OPENAI_API_KEY")), "gpt-4o-mini"
+            except Exception as e:
+                logger.warning(f"OpenAI baslatılamadi: {e}")
+        return None, None
 
     def _expand_query(self, question: str) -> str:
         """
         Ogrencinin gunluk dil sorusunu mevzuat terimleriyle zenginlestirir.
-        Once statik sozluge bakar, yoksa Gemini API kullanir.
+        Once statik sozluge bakar, yoksa LLM API kullanir.
         """
         q_lower = question.lower()
-        q_normalized = _normalize_tr(q_lower)  # Turkce karakter normalizasyonu
+        q_normalized = _normalize_tr(q_lower)
 
-        # 1. Once statik sozluge bak (hizli, Gemini gerekmez)
+        # 1. Once statik sozluge bak (hizli, API gerekmez)
         for keyword, expansion in QUERY_DICT.items():
-            if keyword in q_normalized:  # Normalize edilmis sorgu ile karsilastir
+            if keyword in q_normalized:
                 combined = f"{question} {expansion}"
                 logger.info(f"Statik expansion: '{question}' -> '{combined[:80]}'")
                 return combined
 
-        # 2. Statik esleme yoksa Gemini'ye sor
-        model = self._get_genai()
-        if model is None:
+        # 2. Statik esleme yoksa LLM'e sor (Groq veya OpenAI)
+        client, model_name = self._get_llm_client()
+        if client is None:
             return question
 
         try:
             prompt = EXPANSION_PROMPT.format(question=question)
-            response = model.generate_content(
-                prompt,
-                generation_config={"temperature": 0.1, "max_output_tokens": 80}
+            response = client.chat.completions.create(
+                model=model_name,
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.1,
+                max_tokens=80,
             )
-            expanded = response.text.strip().split("\n")[0].strip()
+            expanded = response.choices[0].message.content.strip().split("\n")[0].strip()
             if expanded and len(expanded) > 5:
                 logger.info(f"Query expansion: '{question}' -> '{expanded}'")
-                # Orijinal + genisletilmis sorguyu birlestir (her ikisi de aransin)
                 return f"{question} {expanded}"
         except Exception as e:
             logger.warning(f"Query expansion basarisiz: {e}")
