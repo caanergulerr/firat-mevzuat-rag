@@ -14,6 +14,7 @@ Endpoint'ler:
 
 import logging
 from datetime import datetime
+from functools import lru_cache
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
@@ -65,12 +66,21 @@ class QueryResponse(BaseModel):
     latency_ms: float
     num_chunks: int
     timestamp: str
+    cached: bool = False
 
 
 class HealthResponse(BaseModel):
     status: str
     index_ready: bool
     message: str
+
+
+# ── Cache Yardımcı Fonksiyon ──────────────────────────────────────────────────
+@lru_cache(maxsize=100)
+def get_cached_answer(question: str):
+    """Soruyu pipeline'a iletir; aynı soru tekrar gelirse LLM'e gitmeden cache'den döner."""
+    pipeline = get_pipeline()
+    return pipeline.ask(question)
 
 
 # ── Endpoint'ler ───────────────────────────────────────────────────────────────
@@ -89,7 +99,9 @@ async def query(request: QueryRequest):
                 detail="Sistem hazır değil. Lütfen önce 'python scripts/embed_and_index.py' çalıştırın.",
             )
 
-        result = pipeline.ask(request.question)
+        hits_before = get_cached_answer.cache_info().hits
+        result = get_cached_answer(request.question)
+        was_cached = get_cached_answer.cache_info().hits > hits_before
 
         return QueryResponse(
             question=result.question,
@@ -99,6 +111,7 @@ async def query(request: QueryRequest):
             latency_ms=result.latency_ms,
             num_chunks=result.num_chunks_retrieved,
             timestamp=datetime.utcnow().isoformat(),
+            cached=was_cached,
         )
 
     except HTTPException:
