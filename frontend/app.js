@@ -45,7 +45,12 @@ function appendUserMessage(text) {
   const row = document.createElement("div");
   row.className = "message-row user";
   row.innerHTML = `
-    <div class="avatar user">🎓</div>
+    <div class="avatar user">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+        <circle cx="12" cy="7" r="4"></circle>
+      </svg>
+    </div>
     <div class="bubble user">${escapeHtml(text)}</div>
   `;
   messagesContainer.appendChild(row);
@@ -57,7 +62,9 @@ function appendTypingIndicator() {
   row.className = "message-row";
   row.id = "typingRow";
   row.innerHTML = `
-    <div class="avatar ai">⚖️</div>
+    <div class="avatar ai">
+      <span class="avatar-text">FÜ</span>
+    </div>
     <div class="typing-indicator">
       <div class="dot"></div>
       <div class="dot"></div>
@@ -93,7 +100,9 @@ function appendAIMessage(answer, sources, latencyMs) {
     : "";
 
   row.innerHTML = `
-    <div class="avatar ai">⚖️</div>
+    <div class="avatar ai">
+      <span class="avatar-text">FÜ</span>
+    </div>
     <div class="bubble ai">
       ${formatAnswer(answer)}
       ${sourcesHtml}
@@ -109,7 +118,9 @@ function appendErrorMessage(msg) {
   const row = document.createElement("div");
   row.className = "message-row";
   row.innerHTML = `
-    <div class="avatar ai">⚖️</div>
+    <div class="avatar ai">
+      <span class="avatar-text">FÜ</span>
+    </div>
     <div class="bubble ai" style="color:#f87171;">
       ⚠️ ${escapeHtml(msg)}
     </div>
@@ -214,11 +225,14 @@ newChatBtn.addEventListener("click", () => {
   welcome.className = "welcome-screen";
   welcome.id = "welcomeScreen";
   welcome.innerHTML = `
-    <div class="welcome-icon">⚖️</div>
-    <h1 class="welcome-title">Merhaba, nasıl yardımcı olabilirim?</h1>
+    <div class="welcome-icon-wrapper">
+      <span class="welcome-text-logo">FÜ</span>
+      <div class="icon-glow" style="background: rgba(123, 13, 30, 0.2);"></div>
+    </div>
+    <h1 class="welcome-title">Nasıl yardımcı olabilirim?</h1>
     <p class="welcome-subtitle">
-      Fırat Üniversitesi yönetmeliklerine dair sorularınızı sorun.<br/>
-      Her yanıtın altında ilgili madde referansı gösterilir.
+      Fırat Üniversitesi yönetmeliklerine dair tüm sorularınızı sorun.<br/>
+      Her yanıtın altında ilgili resmi madde referansı gösterilir.
     </p>
   `;
   messagesContainer.appendChild(welcome);
