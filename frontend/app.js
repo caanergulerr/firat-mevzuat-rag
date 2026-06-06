@@ -5,7 +5,10 @@
  * API Endpoint: http://localhost:8000/query
  */
 
-const API_BASE = "http://localhost:8000";
+// Lokal geliştirme → localhost:8000 | Canlı → Render URL'inizi buraya yazın
+const API_BASE = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1"
+  ? "http://localhost:8000"
+  : "https://firat-mevzuat-rag.onrender.com";  // ← Deploy sonrası Render URL'inizi güncelleyin
 
 // ── DOM Referansları ───────────────────────────────────────────────────────────
 const messagesContainer = document.getElementById("messagesContainer");
