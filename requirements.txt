@@ -29,6 +29,7 @@ PyMuPDF>=1.24.0
 
 # Retrieval & Search
 scikit-learn>=1.8.0
+rank-bm25>=0.2.2
 
 # Evaluation
 rouge_score>=0.1.2
