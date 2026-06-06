@@ -24,9 +24,9 @@ models/
 *.pt
 *.pth
 
-# Vector DB (lokal)
-chroma_db/
-*.sqlite3
+# Vector DB (lokal) — Render deploy için Git'e eklendi
+# chroma_db/
+# *.sqlite3
 
 # IDE
 .vscode/
