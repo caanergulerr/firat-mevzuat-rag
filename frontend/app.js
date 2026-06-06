@@ -22,7 +22,7 @@ const newChatBtn         = document.getElementById("newChatBtn");
 // ── Sistem Durumu ─────────────────────────────────────────────────────────────
 async function checkHealth() {
   try {
-    const res = await fetch(`${API_BASE}/health`, { signal: AbortSignal.timeout(3000) });
+    const res = await fetch(`${API_BASE}/health`, { signal: AbortSignal.timeout(60000) });
     const data = await res.json();
 
     if (data.index_ready) {

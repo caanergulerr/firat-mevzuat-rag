@@ -85,7 +85,7 @@ def get_cached_answer(question: str):
 
 # ── Endpoint'ler ───────────────────────────────────────────────────────────────
 @app.post("/query", response_model=QueryResponse, summary="Yönetmelik sorusu sor")
-async def query(request: QueryRequest):
+def query(request: QueryRequest):
     """
     Öğrencinin sorusunu alır, bağlamda bulunan yönetmelik maddelerine göre yanıtlar.
     Her cevap hangi maddeye dayandığını belirtir.
@@ -122,7 +122,7 @@ async def query(request: QueryRequest):
 
 
 @app.get("/health", response_model=HealthResponse, summary="Sistem durumu")
-async def health():
+def health():
     """ChromaDB index'inin hazır olup olmadığını kontrol eder."""
     try:
         pipeline = get_pipeline()
@@ -137,9 +137,10 @@ async def health():
 
 
 @app.get("/", summary="API kök")
-async def root():
+def root():
     return {
         "message": "Fırat Mevzuat RAG API çalışıyor.",
         "docs": "/docs",
         "query_endpoint": "/query",
     }
+
