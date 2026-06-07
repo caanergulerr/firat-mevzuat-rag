@@ -8,7 +8,7 @@
 // Lokal geliştirme → localhost:8000 | Canlı → Hugging Face Spaces URL
 const API_BASE = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1"
   ? "http://localhost:8000"
-  : "https://caanergulerr-firat-mevzuat-rag.hf.space";  // ← HF Spaces URL (username-spacename.hf.space)
+  : "https://baranarda-firat-mevzuat-rag.hf.space";  // ← HF Spaces URL (username-spacename.hf.space)
 
 // ── DOM Referansları ───────────────────────────────────────────────────────────
 const messagesContainer = document.getElementById("messagesContainer");
