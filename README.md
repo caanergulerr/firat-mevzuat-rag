@@ -1,3 +1,12 @@
+---
+title: Firat Mevzuat RAG
+emoji: 📖
+colorFrom: red
+colorTo: blue
+sdk: docker
+pinned: false
+---
+
 # Fırat Üniversitesi Mevzuat RAG Sistemi
 
 > **NLP ve RAG mimarisi ile Fırat Üniversitesi yönetmeliklerine anında, kaynaklı cevap veren akıllı dijital asistan.**
