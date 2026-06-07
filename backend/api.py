@@ -13,6 +13,7 @@ Endpoint'ler:
 """
 
 import logging
+import threading
 from datetime import datetime
 from functools import lru_cache
 
@@ -42,6 +43,8 @@ app.add_middleware(
 
 # ── Lazy Pipeline ─────────────────────────────────────────────────────────────
 _pipeline = None
+_pipeline_loading = False
+_pipeline_error = None
 
 
 def get_pipeline():
@@ -50,6 +53,26 @@ def get_pipeline():
         from backend.rag_pipeline import RAGPipeline
         _pipeline = RAGPipeline()
     return _pipeline
+
+
+def _preload_pipeline():
+    """Sunucu başladığında pipeline'ı arka planda yükler."""
+    global _pipeline, _pipeline_loading, _pipeline_error
+    _pipeline_loading = True
+    try:
+        logger.info("Pipeline arka planda yükleniyor...")
+        get_pipeline()
+        logger.info("Pipeline hazır!")
+    except Exception as e:
+        _pipeline_error = str(e)
+        logger.error(f"Pipeline yüklenemedi: {e}")
+    finally:
+        _pipeline_loading = False
+
+
+# Sunucu başladığında pipeline'ı arka planda yükle
+thread = threading.Thread(target=_preload_pipeline, daemon=True)
+thread.start()
 
 
 # ── Veri Modelleri ─────────────────────────────────────────────────────────────
@@ -124,6 +147,15 @@ def query(request: QueryRequest):
 @app.get("/health", response_model=HealthResponse, summary="Sistem durumu")
 def health():
     """ChromaDB index'inin hazır olup olmadığını kontrol eder."""
+    # Pipeline henüz yükleniyorsa timeout olmadan hemen cevap ver
+    if _pipeline_loading:
+        return HealthResponse(
+            status="loading",
+            index_ready=False,
+            message="Model yükleniyor, lütfen bekleyin... (ilk başlatmada ~60 saniye sürebilir)",
+        )
+    if _pipeline_error:
+        return HealthResponse(status="error", index_ready=False, message=_pipeline_error)
     try:
         pipeline = get_pipeline()
         ready = pipeline.is_ready()
@@ -134,6 +166,12 @@ def health():
         )
     except Exception as e:
         return HealthResponse(status="error", index_ready=False, message=str(e))
+
+
+@app.get("/ping", summary="Sunucu canlı mı?")
+def ping():
+    """Pipeline yüklemeden anında cevap verir — liveness probe."""
+    return {"status": "alive"}
 
 
 @app.get("/", summary="API kök")

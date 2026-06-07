@@ -5,10 +5,10 @@
  * API Endpoint: http://localhost:8000/query
  */
 
-// Lokal geliştirme → localhost:8000 | Canlı → Render URL'inizi buraya yazın
+// Lokal geliştirme → localhost:8000 | Canlı → Hugging Face Spaces URL
 const API_BASE = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1"
   ? "http://localhost:8000"
-  : "https://firat-mevzuat-rag.onrender.com";  // ← Deploy sonrası Render URL'inizi güncelleyin
+  : "https://caanergulerr-firat-mevzuat-rag.hf.space";  // ← HF Spaces URL (username-spacename.hf.space)
 
 // ── DOM Referansları ───────────────────────────────────────────────────────────
 const messagesContainer = document.getElementById("messagesContainer");
@@ -22,12 +22,17 @@ const newChatBtn         = document.getElementById("newChatBtn");
 // ── Sistem Durumu ─────────────────────────────────────────────────────────────
 async function checkHealth() {
   try {
-    const res = await fetch(`${API_BASE}/health`, { signal: AbortSignal.timeout(60000) });
+    const res = await fetch(`${API_BASE}/health`, { signal: AbortSignal.timeout(120000) });
     const data = await res.json();
 
     if (data.index_ready) {
       statusDot.classList.remove("offline");
       systemStatus.textContent = "Sistem hazır";
+    } else if (data.status === "loading") {
+      statusDot.classList.add("offline");
+      systemStatus.textContent = "Model yükleniyor...";
+      // Yükleme sırasında daha sık kontrol et
+      setTimeout(checkHealth, 10000);
     } else {
       statusDot.classList.add("offline");
       systemStatus.textContent = "Index bekleniyor";
