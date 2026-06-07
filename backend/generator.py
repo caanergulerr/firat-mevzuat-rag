@@ -115,7 +115,7 @@ def generate_answer_gemini(question: str, chunks: list) -> dict:
         raise ImportError("google-generativeai paketi eksik: pip install google-generativeai")
 
     genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
-    model = genai.GenerativeModel("gemini-2.0-flash-lite")
+    model = genai.GenerativeModel("gemini-2.5-flash")
 
     context = _build_context(chunks)
     prompt = f"""{SYSTEM_PROMPT}
@@ -127,7 +127,7 @@ SORU: {question}"""
 
     response = model.generate_content(prompt)
     sources = list({c.citation() for c in chunks})
-    return {"answer": response.text, "sources": sources, "model": "gemini-2.0-flash-lite"}
+    return {"answer": response.text, "sources": sources, "model": "gemini-2.5-flash"}
 
 
 def generate_answer(question: str, chunks: list) -> dict:
