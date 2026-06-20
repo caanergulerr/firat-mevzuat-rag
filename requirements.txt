@@ -38,3 +38,4 @@ rouge_score>=0.1.2
 requests>=2.33.0
 tqdm>=4.67.0
 numpy>=2.4.0
+slowapi>=0.1.9
