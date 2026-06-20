@@ -16,6 +16,8 @@ import logging
 import threading
 from datetime import datetime
 from functools import lru_cache
+import json
+import os
 
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
@@ -106,6 +108,12 @@ class HealthResponse(BaseModel):
     message: str
 
 
+class FeedbackRequest(BaseModel):
+    question: str
+    answer: str
+    rating: str = Field(..., description="'like' veya 'dislike'")
+
+
 # ── Cache Yardımcı Fonksiyon ──────────────────────────────────────────────────
 @lru_cache(maxsize=100)
 def get_cached_answer(question: str):
@@ -175,6 +183,32 @@ def health():
         )
     except Exception as e:
         return HealthResponse(status="error", index_ready=False, message=str(e))
+
+
+@app.post("/feedback", summary="Yanıt geri bildirimi (Like/Dislike)")
+def submit_feedback(req: FeedbackRequest):
+    """Kullanıcının verdiği beğeni veya beğenmeme durumunu kaydeder."""
+    try:
+        # data/feedback.jsonl dosyasına kaydet
+        feedback_dir = os.path.join(os.path.dirname(__dirname__), "data")
+        os.makedirs(feedback_dir, exist_ok=True)
+        feedback_file = os.path.join(feedback_dir, "feedback.jsonl")
+        
+        entry = {
+            "timestamp": datetime.utcnow().isoformat(),
+            "question": req.question,
+            "answer": req.answer,
+            "rating": req.rating
+        }
+        
+        with open(feedback_file, "a", encoding="utf-8") as f:
+            f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+            
+        logger.info(f"Feedback kaydedildi: {req.rating} (Soru: {req.question[:30]}...)")
+        return {"status": "success"}
+    except Exception as e:
+        logger.error(f"Feedback kaydetme hatası: {e}")
+        raise HTTPException(status_code=500, detail="Feedback kaydedilemedi.")
 
 
 @app.get("/ping", summary="Sunucu canlı mı?")

@@ -669,3 +669,55 @@ html, body {
     transform: translateX(0);
   }
 }
+
+/* ─── Feedback Buttons ─────────────────────────────────────────────────── */
+.feedback-container {
+  display: flex;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.feedback-btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: transparent;
+  border: 1px solid var(--border-light);
+  color: var(--text-secondary);
+  border-radius: var(--radius-sm);
+  padding: 6px 12px;
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all var(--transition);
+}
+
+.feedback-btn svg {
+  width: 14px;
+  height: 14px;
+}
+
+.feedback-btn:hover:not(:disabled) {
+  background: var(--bg-hover);
+  color: var(--text-primary);
+  border-color: var(--border-glow);
+}
+
+.feedback-btn.active-like {
+  background: rgba(16, 185, 129, 0.1);
+  color: #10b981;
+  border-color: #10b981;
+  pointer-events: none;
+}
+
+.feedback-btn.active-dislike {
+  background: rgba(239, 68, 68, 0.1);
+  color: #ef4444;
+  border-color: #ef4444;
+  pointer-events: none;
+}
+
+.feedback-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}

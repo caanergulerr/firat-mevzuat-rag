@@ -88,7 +88,7 @@ function removeTypingIndicator() {
   if (row) row.remove();
 }
 
-function appendAIMessage(answer, sources, latencyMs) {
+function appendAIMessage(question, answer, sources, latencyMs) {
   const row = document.createElement("div");
   row.className = "message-row";
 
@@ -107,6 +107,23 @@ function appendAIMessage(answer, sources, latencyMs) {
     ? `<div style="font-size:11px;color:#475569;margin-top:8px;">${latencyMs}ms</div>`
     : "";
 
+  const feedbackHtml = `
+    <div class="feedback-container">
+      <button class="feedback-btn like-btn" title="Beğendim">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"></path>
+        </svg>
+        Beğendim
+      </button>
+      <button class="feedback-btn dislike-btn" title="Beğenmedim">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3zm7-13h2.67A2.31 2.31 0 0 1 22 4v7a2.31 2.31 0 0 1-2.33 2H17"></path>
+        </svg>
+        Beğenmedim
+      </button>
+    </div>
+  `;
+
   row.innerHTML = `
     <div class="avatar ai">
       <span class="avatar-text">FÜ</span>
@@ -114,10 +131,35 @@ function appendAIMessage(answer, sources, latencyMs) {
     <div class="bubble ai">
       ${formatAnswer(answer)}
       ${sourcesHtml}
+      ${feedbackHtml}
       ${metaHtml}
     </div>
   `;
   messagesContainer.appendChild(row);
+
+  const likeBtn = row.querySelector(".like-btn");
+  const dislikeBtn = row.querySelector(".dislike-btn");
+
+  const handleFeedback = async (rating) => {
+    likeBtn.disabled = true;
+    dislikeBtn.disabled = true;
+    if (rating === "like") likeBtn.classList.add("active-like");
+    if (rating === "dislike") dislikeBtn.classList.add("active-dislike");
+
+    try {
+      await fetch(`${API_BASE}/feedback`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ question, answer, rating }),
+      });
+    } catch (e) {
+      console.error("Geri bildirim gönderilemedi:", e);
+    }
+  };
+
+  likeBtn.addEventListener("click", () => handleFeedback("like"));
+  dislikeBtn.addEventListener("click", () => handleFeedback("dislike"));
+
   scrollToBottom();
 }
 
@@ -184,7 +226,7 @@ async function sendQuestion(question) {
 
     const data = await res.json();
     removeTypingIndicator();
-    appendAIMessage(data.answer, data.sources, data.latency_ms);
+    appendAIMessage(question, data.answer, data.sources, data.latency_ms);
 
   } catch (err) {
     appendErrorMessage(
