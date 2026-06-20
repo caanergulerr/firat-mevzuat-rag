@@ -1,0 +1,296 @@
+/**
+ * app.js — Fırat Mevzuat RAG Frontend
+ * FastAPI backend ile konuşan sohbet arayüzü
+ *
+ * API Endpoint: http://localhost:8000/query
+ */
+
+// Lokal geliştirme → localhost:8000 | Canlı → Hugging Face Spaces URL
+const API_BASE = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1"
+  ? "http://localhost:8000"
+  : "https://baranarda-firat-mevzuat-rag.hf.space";  // ← HF Spaces URL (username-spacename.hf.space)
+
+// ── DOM Referansları ───────────────────────────────────────────────────────────
+const messagesContainer = document.getElementById("messagesContainer");
+const welcomeScreen      = document.getElementById("welcomeScreen");
+const questionInput      = document.getElementById("questionInput");
+const sendBtn            = document.getElementById("sendBtn");
+const statusDot          = document.getElementById("statusDot");
+const systemStatus       = document.getElementById("systemStatus");
+const newChatBtn         = document.getElementById("newChatBtn");
+
+// ── Sistem Durumu ─────────────────────────────────────────────────────────────
+async function checkHealth() {
+  try {
+    const res = await fetch(`${API_BASE}/health`, { signal: AbortSignal.timeout(120000) });
+    const data = await res.json();
+
+    if (data.index_ready) {
+      statusDot.classList.remove("offline");
+      systemStatus.textContent = "Sistem hazır";
+    } else if (data.status === "loading") {
+      statusDot.classList.add("offline");
+      systemStatus.textContent = "Model yükleniyor...";
+      // Yükleme sırasında daha sık kontrol et
+      setTimeout(checkHealth, 10000);
+    } else {
+      statusDot.classList.add("offline");
+      systemStatus.textContent = "Index bekleniyor";
+    }
+  } catch {
+    statusDot.classList.add("offline");
+    systemStatus.textContent = "API bağlantısı yok";
+  }
+}
+
+// ── Mesaj Oluşturma ───────────────────────────────────────────────────────────
+function hideWelcome() {
+  if (welcomeScreen) welcomeScreen.style.display = "none";
+}
+
+function appendUserMessage(text) {
+  hideWelcome();
+  const row = document.createElement("div");
+  row.className = "message-row user";
+  row.innerHTML = `
+    <div class="avatar user">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+        <circle cx="12" cy="7" r="4"></circle>
+      </svg>
+    </div>
+    <div class="bubble user">${escapeHtml(text)}</div>
+  `;
+  messagesContainer.appendChild(row);
+  scrollToBottom();
+}
+
+function appendTypingIndicator() {
+  const row = document.createElement("div");
+  row.className = "message-row";
+  row.id = "typingRow";
+  row.innerHTML = `
+    <div class="avatar ai">
+      <span class="avatar-text">FÜ</span>
+    </div>
+    <div class="typing-indicator">
+      <div class="dot"></div>
+      <div class="dot"></div>
+      <div class="dot"></div>
+    </div>
+  `;
+  messagesContainer.appendChild(row);
+  scrollToBottom();
+}
+
+function removeTypingIndicator() {
+  const row = document.getElementById("typingRow");
+  if (row) row.remove();
+}
+
+function appendAIMessage(question, answer, sources, latencyMs) {
+  const row = document.createElement("div");
+  row.className = "message-row";
+
+  let sourcesHtml = "";
+  if (sources && sources.length > 0) {
+    const items = sources.map(s => `<div class="source-item">📖 ${escapeHtml(s)}</div>`).join("");
+    sourcesHtml = `
+      <div class="sources-block">
+        <div class="sources-label">Kaynaklar</div>
+        ${items}
+      </div>
+    `;
+  }
+
+  let metaHtml = latencyMs
+    ? `<div style="font-size:11px;color:#475569;margin-top:8px;">${latencyMs}ms</div>`
+    : "";
+
+  const feedbackHtml = `
+    <div class="feedback-container">
+      <button class="feedback-btn like-btn" title="Beğendim">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"></path>
+        </svg>
+        Beğendim
+      </button>
+      <button class="feedback-btn dislike-btn" title="Beğenmedim">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3zm7-13h2.67A2.31 2.31 0 0 1 22 4v7a2.31 2.31 0 0 1-2.33 2H17"></path>
+        </svg>
+        Beğenmedim
+      </button>
+    </div>
+  `;
+
+  row.innerHTML = `
+    <div class="avatar ai">
+      <span class="avatar-text">FÜ</span>
+    </div>
+    <div class="bubble ai">
+      ${formatAnswer(answer)}
+      ${sourcesHtml}
+      ${feedbackHtml}
+      ${metaHtml}
+    </div>
+  `;
+  messagesContainer.appendChild(row);
+
+  const likeBtn = row.querySelector(".like-btn");
+  const dislikeBtn = row.querySelector(".dislike-btn");
+
+  const handleFeedback = async (rating) => {
+    likeBtn.disabled = true;
+    dislikeBtn.disabled = true;
+    if (rating === "like") likeBtn.classList.add("active-like");
+    if (rating === "dislike") dislikeBtn.classList.add("active-dislike");
+
+    try {
+      await fetch(`${API_BASE}/feedback`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ question, answer, rating }),
+      });
+    } catch (e) {
+      console.error("Geri bildirim gönderilemedi:", e);
+    }
+  };
+
+  likeBtn.addEventListener("click", () => handleFeedback("like"));
+  dislikeBtn.addEventListener("click", () => handleFeedback("dislike"));
+
+  scrollToBottom();
+}
+
+function appendErrorMessage(msg) {
+  removeTypingIndicator();
+  const row = document.createElement("div");
+  row.className = "message-row";
+  row.innerHTML = `
+    <div class="avatar ai">
+      <span class="avatar-text">FÜ</span>
+    </div>
+    <div class="bubble ai" style="color:#f87171;">
+      ⚠️ ${escapeHtml(msg)}
+    </div>
+  `;
+  messagesContainer.appendChild(row);
+  scrollToBottom();
+}
+
+// ── Yardımcı Fonksiyonlar ─────────────────────────────────────────────────────
+function escapeHtml(text) {
+  const div = document.createElement("div");
+  div.appendChild(document.createTextNode(text));
+  return div.innerHTML;
+}
+
+function formatAnswer(text) {
+  // Basit Markdown: **bold**, yeni satır → <br>
+  return escapeHtml(text)
+    .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+    .replace(/\n/g, "<br>");
+}
+
+function scrollToBottom() {
+  messagesContainer.scrollTop = messagesContainer.scrollHeight;
+}
+
+function setLoading(loading) {
+  sendBtn.disabled = loading;
+  questionInput.disabled = loading;
+}
+
+// ── API Sorgusu ───────────────────────────────────────────────────────────────
+async function sendQuestion(question) {
+  if (!question.trim()) return;
+
+  appendUserMessage(question);
+  appendTypingIndicator();
+  setLoading(true);
+  questionInput.value = "";
+  adjustTextareaHeight();
+
+  try {
+    const res = await fetch(`${API_BASE}/query`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ question, top_k: 5 }),
+    });
+
+    if (!res.ok) {
+      const err = await res.json();
+      throw new Error(err.detail || `Sunucu hatası: ${res.status}`);
+    }
+
+    const data = await res.json();
+    removeTypingIndicator();
+    appendAIMessage(question, data.answer, data.sources, data.latency_ms);
+
+  } catch (err) {
+    appendErrorMessage(
+      err.message.includes("fetch")
+        ? "API'ye bağlanılamadı. Backend çalışıyor mu? (uvicorn backend.api:app --reload)"
+        : err.message
+    );
+  } finally {
+    setLoading(false);
+    questionInput.focus();
+  }
+}
+
+// ── Textarea Otomatik Yükseklik ───────────────────────────────────────────────
+function adjustTextareaHeight() {
+  questionInput.style.height = "auto";
+  questionInput.style.height = Math.min(questionInput.scrollHeight, 140) + "px";
+}
+
+// ── Event Listener'lar ────────────────────────────────────────────────────────
+sendBtn.addEventListener("click", () => sendQuestion(questionInput.value));
+
+questionInput.addEventListener("keydown", (e) => {
+  if (e.key === "Enter" && !e.shiftKey) {
+    e.preventDefault();
+    sendQuestion(questionInput.value);
+  }
+});
+
+questionInput.addEventListener("input", adjustTextareaHeight);
+
+// Örnek sorular
+document.querySelectorAll(".example-q").forEach((btn) => {
+  btn.addEventListener("click", () => {
+    const q = btn.dataset.q;
+    questionInput.value = q;
+    adjustTextareaHeight();
+    sendQuestion(q);
+  });
+});
+
+// Yeni sohbet
+newChatBtn.addEventListener("click", () => {
+  messagesContainer.innerHTML = "";
+  const welcome = document.createElement("div");
+  welcome.className = "welcome-screen";
+  welcome.id = "welcomeScreen";
+  welcome.innerHTML = `
+    <div class="welcome-icon-wrapper">
+      <span class="welcome-text-logo">FÜ</span>
+      <div class="icon-glow" style="background: rgba(123, 13, 30, 0.2);"></div>
+    </div>
+    <h1 class="welcome-title">Nasıl yardımcı olabilirim?</h1>
+    <p class="welcome-subtitle">
+      Fırat Üniversitesi yönetmeliklerine dair tüm sorularınızı sorun.<br/>
+      Her yanıtın altında ilgili resmi madde referansı gösterilir.
+    </p>
+  `;
+  messagesContainer.appendChild(welcome);
+  questionInput.value = "";
+  questionInput.focus();
+});
+
+// ── Başlangıç ─────────────────────────────────────────────────────────────────
+checkHealth();
+setInterval(checkHealth, 30_000); // 30 saniyede bir kontrol
+questionInput.focus();
