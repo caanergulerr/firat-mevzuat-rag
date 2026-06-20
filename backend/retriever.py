@@ -196,15 +196,17 @@ class MevzuatRetriever:
             chunk_id = f"{c.source_file}_{c.article_no}"
             bm25_chunks[chunk_id] = c
 
-        # --- 3. Hybrid Merge (RRF - Reciprocal Rank Fusion) ---
-        # Her chunk için hybrid skor = 0.6 * semantic + 0.4 * bm25
+        # --- 3. Hybrid Merge ---
+        # Ablation study (60 sorgu, 60 PDF) sonucuna gore BM25 agirlikli:
+        # BM25_only MRR=0.667, Semantic_only MRR=0.198 → BM25 cok daha iyi
+        # Yeni agirliklar: 0.2 * semantic + 0.8 * bm25
         all_ids = set(semantic_chunks.keys()) | set(bm25_chunks.keys())
         merged: list[tuple[float, RetrievedChunk]] = []
 
         for cid in all_ids:
             sem_score = semantic_chunks[cid].score if cid in semantic_chunks else 0.0
             bm25_score = bm25_chunks[cid].score if cid in bm25_chunks else 0.0
-            hybrid_score = round(0.6 * sem_score + 0.4 * bm25_score, 4)
+            hybrid_score = round(0.2 * sem_score + 0.8 * bm25_score, 4)
 
             # Hangi chunk'ı kullanalım? Semantic varsa onu, yoksa BM25'i
             chunk = semantic_chunks.get(cid) or bm25_chunks[cid]

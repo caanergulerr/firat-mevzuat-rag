@@ -28,6 +28,16 @@ import fitz  # PyMuPDF
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+# Statik regulation_name haritası — PDF dosya adı → okunabilir yönetmelik adı
+_MAP_PATH = Path(__file__).parent / "regulation_name_map.json"
+try:
+    with _MAP_PATH.open("r", encoding="utf-8") as _f:
+        REGULATION_NAME_MAP: dict[str, str] = json.load(_f)
+    logger.info(f"regulation_name_map.json yuklendi: {len(REGULATION_NAME_MAP)} kayit")
+except FileNotFoundError:
+    REGULATION_NAME_MAP = {}
+    logger.warning(f"regulation_name_map.json bulunamadi: {_MAP_PATH} — dosya adi kullanilacak")
+
 # Madde başlığı için regex (Türkçe yönetmelik formatı)
 ARTICLE_PATTERN = re.compile(
     r"(?m)^\s*(MADDE\s+(\d+)[.\-–—\s]*(.*?))\s*\n",
@@ -100,7 +110,11 @@ def parse_pdf(pdf_path: str, regulation_name: str = None) -> list[dict]:
         raise FileNotFoundError(f"PDF bulunamadı: {pdf_path}")
 
     if regulation_name is None:
-        regulation_name = path.stem.replace("_", " ").title()
+        # Önce statik haritaya bak, yoksa dosya adından türet
+        regulation_name = REGULATION_NAME_MAP.get(
+            path.name,
+            path.stem.replace("_", " ").title()
+        )
 
     logger.info(f"PDF işleniyor: {pdf_path}")
 

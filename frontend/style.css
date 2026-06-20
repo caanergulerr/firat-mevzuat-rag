@@ -2,28 +2,28 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  /* Light Cream Theme & Glassmorphism Tokens */
-  --bg-deep:         #fdfbf7;
-  --bg-panel:        rgba(255, 255, 255, 0.75);
-  --bg-sidebar:      rgba(250, 248, 245, 0.9);
-  --bg-hover:        rgba(0, 0, 0, 0.04);
+  /* Fırat University Theme Tokens */
+  --bg-deep:         #f8f9fa;
+  --bg-panel:        rgba(255, 255, 255, 0.95);
+  --bg-sidebar:      #ffffff;
+  --bg-hover:        rgba(130, 0, 0, 0.04);
   
-  --accent-primary:  #4f46e5;
-  --accent-gradient: linear-gradient(135deg, #4f46e5 0%, #9333ea 100%);
-  --accent-glow:     rgba(79, 70, 229, 0.25);
+  --accent-primary:  #820000;
+  --accent-gradient: linear-gradient(135deg, #820000 0%, #a80000 100%);
+  --accent-glow:     rgba(130, 0, 0, 0.25);
   
   --text-primary:    #18181b;
   --text-secondary:  #52525b;
   --text-muted:      #a1a1aa;
   
   --border-light:    rgba(0, 0, 0, 0.08);
-  --border-glow:     rgba(79, 70, 229, 0.3);
+  --border-glow:     rgba(130, 0, 0, 0.3);
   
   --user-bubble-bg:  var(--accent-gradient);
-  --ai-bubble-bg:    rgba(255, 255, 255, 0.9);
+  --ai-bubble-bg:    #ffffff;
   
-  --source-bg:       rgba(79, 70, 229, 0.05);
-  --source-border:   rgba(79, 70, 229, 0.2);
+  --source-bg:       rgba(130, 0, 0, 0.04);
+  --source-border:   rgba(130, 0, 0, 0.15);
   
   --font-reading:    'Inter', system-ui, sans-serif;
   --font-heading:    'Outfit', system-ui, sans-serif;
@@ -39,6 +39,7 @@ html, body {
   height: 100%; 
   overflow: hidden; 
   background-color: var(--bg-deep);
+  background-image: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M20 0L40 40H0z' fill='%23000000' fill-opacity='0.02' fill-rule='evenodd'/%3E%3C/svg%3E");
   color: var(--text-primary);
   font-family: var(--font-reading);
   -webkit-font-smoothing: antialiased;
@@ -58,7 +59,7 @@ html, body {
 .glow-1 {
   width: 500px;
   height: 500px;
-  background: rgba(99, 102, 241, 0.15);
+  background: rgba(130, 0, 0, 0.08);
   top: -100px;
   left: 20%;
 }
@@ -66,7 +67,7 @@ html, body {
 .glow-2 {
   width: 600px;
   height: 600px;
-  background: rgba(168, 85, 247, 0.1);
+  background: rgba(130, 0, 0, 0.05);
   bottom: -200px;
   right: 10%;
   animation-delay: -5s;
@@ -125,7 +126,7 @@ html, body {
   font-family: var(--font-heading);
   font-size: 28px;
   font-weight: 800;
-  color: #7b0d1e; /* Fırat University dark red */
+  color: var(--accent-primary);
   letter-spacing: -1px;
 }
 
@@ -147,15 +148,16 @@ html, body {
   gap: 10px;
   width: 100%; 
   padding: 14px;
-  background: rgba(0, 0, 0, 0.03); 
-  color: var(--text-primary);
-  border: 1px solid var(--border-light); 
+  background: var(--accent-primary); 
+  color: #ffffff;
+  border: none; 
   border-radius: var(--radius);
   font-family: var(--font-heading); 
   font-size: 14px; 
-  font-weight: 500;
+  font-weight: 600;
   cursor: pointer; 
   transition: all var(--transition);
+  box-shadow: 0 4px 12px rgba(130, 0, 0, 0.15);
 }
 
 .new-chat-btn svg {
@@ -163,9 +165,9 @@ html, body {
 }
 
 .new-chat-btn:hover { 
-  background: rgba(0, 0, 0, 0.06); 
-  border-color: rgba(0, 0, 0, 0.1);
+  background: #a80000; 
   transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(130, 0, 0, 0.2);
 }
 
 .new-chat-btn:active {
@@ -291,9 +293,11 @@ html, body {
   justify-content: space-between;
   padding: 16px 32px;
   border-bottom: 1px solid var(--border-light);
-  background: rgba(255,255,255,0.4);
+  background: var(--accent-primary);
+  color: white;
   flex-shrink: 0;
-  backdrop-filter: blur(10px);
+  z-index: 5;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.05);
 }
 
 .header-info { 
@@ -337,15 +341,15 @@ html, body {
 .header-title { 
   font-family: var(--font-heading);
   font-size: 16px; 
-  font-weight: 500; 
+  font-weight: 600; 
 }
 
 .header-badge {
   font-size: 12px; 
-  font-weight: 500;
-  color: var(--text-secondary);
-  background: rgba(0,0,0,0.04);
-  border: 1px solid var(--border-light);
+  font-weight: 600;
+  color: #ffffff;
+  background: rgba(255,255,255,0.2);
+  border: 1px solid rgba(255,255,255,0.3);
   padding: 6px 12px; 
   border-radius: 20px;
   transition: all var(--transition);
@@ -389,8 +393,9 @@ html, body {
   width: 80px; height: 80px;
   display: flex; align-items: center; justify-content: center;
   border-radius: 24px;
-  background: rgba(0,0,0,0.03);
-  border: 1px solid var(--border-light);
+  background: #ffffff;
+  border: 1px solid rgba(130, 0, 0, 0.1);
+  box-shadow: 0 8px 32px rgba(130, 0, 0, 0.08);
   margin-bottom: 10px;
 }
 
@@ -398,7 +403,7 @@ html, body {
   font-family: var(--font-heading);
   font-size: 38px;
   font-weight: 800;
-  color: #7b0d1e; /* Fırat University dark red */
+  color: var(--accent-primary);
   letter-spacing: -2px;
   z-index: 2;
 }
@@ -456,7 +461,7 @@ html, body {
   font-family: var(--font-heading);
   font-size: 16px;
   font-weight: 800;
-  color: #7b0d1e; /* Fırat University dark red */
+  color: var(--accent-primary);
   letter-spacing: -0.5px;
 }
 
@@ -598,8 +603,8 @@ html, body {
 .send-btn {
   width: 44px; height: 44px; 
   flex-shrink: 0;
-  background: var(--text-primary); 
-  color: var(--bg-deep);
+  background: var(--accent-primary); 
+  color: white;
   border: none;
   border-radius: 16px;
   display: flex; 
@@ -612,7 +617,7 @@ html, body {
 
 .send-btn:hover:not(:disabled) { 
   transform: scale(1.05);
-  background: var(--accent-primary);
+  background: #a80000;
   color: white;
 }
 

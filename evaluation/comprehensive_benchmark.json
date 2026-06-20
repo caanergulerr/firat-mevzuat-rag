@@ -1,0 +1,662 @@
+[
+  {
+    "id": 1,
+    "question": "Dış paydaşlar kimlerdir ve üniversitemde yürütülen eğitimle ilişkili olmalarının nasıl bir etkisi vardır?",
+    "expected_articles": [
+      "3"
+    ],
+    "expected_source_file": "1738562306.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nDANIŞMA KURULLARI YÖNERGESİ",
+    "reference_answer": "Dış paydaş, birimlerde yürütülen eğitimle ilişkisi olan üniversite dışı kişi, kurum ve kuruluşlardır. Bu paydaşların etkisi, eğitim programlarının güncellenmesi ve iyileştirilmesi açısından kritik olabilir, çünkü dış paydaşlar sektörel ihtiyaçları ve beklentileri temsil ederler.",
+    "source_text": "MADDE 3- (1) Bu Yönergede geçen;\na) Birim: Eğitim programı yürüten fakülte, enstitü, yüksekokul, meslek yüksekokulu ve konservatuarı,\nb) Birim Danışma Kurulu (BİDAK): Üniversitemiz fakülte, enstitü, yüksekokul, meslek yüksekokulu\nve konservatuvar danışma kurulunu,\nc) Birim yöneticisi: Dekan ve müdür"
+  },
+  {
+    "id": 2,
+    "question": "Yeni kurulan birimimiz faaliyete geçtikten ne kadar süre içinde iç kontrol sistemi dokümanlarını hazırlamak zorundadır?",
+    "expected_articles": [
+      "47"
+    ],
+    "expected_source_file": "1762843555.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ İÇ KONTROL ESAS VE USULLERİ YÖNERGESİ",
+    "reference_answer": "Yeni kurulan birimler, faaliyete geçmelerini müteakip en geç altı ay içinde iç kontrol sistemi dokümanlarını hazırlamak zorundadır.",
+    "source_text": "MADDE 47- (1) İç kontrol sisteminin tesisine yönelik çalışmalar kapsamında Üniversitenin teşkilat\nşemasında yer alan birimlerce üretilecek dokümanlar “Dokümanlar” kısmında listelenmiştir. Bu \ndokümanlardan\nbirçoğu internet, e-mail vb. yöntemlerle alınarak farklı alanlarda tutulmakta iken, Başkanlık "
+  },
+  {
+    "id": 3,
+    "question": "Öğretim elemanlarının ek ders ücreti e-beyanı yapacakları elektronik ortamın adı nedir ve bu sistemin nasıl hizmet verdiği belirtilmiştir?",
+    "expected_articles": [
+      "4"
+    ],
+    "expected_source_file": "1672990329.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nEK DERS YÖNETİM SİSTEMİ (EDYS) YÖNERGESİ",
+    "reference_answer": "Öğretim elemanlarının ek ders ücreti e-beyanı yapacakları elektronik ortam Ek Ders Yönetim Sistemi (EDYS) olarak tanımlanmıştır. Bu sistem, Üniversiteye ait bilgisayar ağı ve sunucuları üzerinde web tabanlı hizmet verir.",
+    "source_text": "MADDE 4- (1) 5018 Sayılı Kamu Mali Yönetimi ve Kontrol Kanunu'nun 8 inci ve 55 inci\nmaddeleri ile Ek Madde 4 ü, ayrıca Hazine ve Maliye Bakanlığının 15/02/2022 tarih ve E-92447149-\n719-956042 sayılı yazısı kapsamında Üniversite, öğretim elemanlarının ek ders ücreti beyanlarını (e-\nbeyan) güvenli ele"
+  },
+  {
+    "id": 4,
+    "question": "Danışmanımla sorun yaşıyorum ve onu değiştirmek istiyorum. Ancak danışmanımın belirlenmesinin üzerinden henüz iki ay geçti. Bu durumu dikkate alarak dilekçe verebilir miyim?",
+    "expected_articles": [
+      "7"
+    ],
+    "expected_source_file": "1687347799.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ TIP FAKÜLTESİ\nÖĞRENCİ DANIŞMANLIĞI UYGULAMA USUL VE ESASLARI",
+    "reference_answer": "Hayır, danışman değişikliği için dilekçe verebilmek için danışmanın belirlendiği tarihten itibaren en az üç ay geçmiş olması gerekmektedir.",
+    "source_text": "MADDE 7- (1) Öğrenci danışmanının, danışman da öğrencisinin değiştirilmesini Dekanlığa\nverecekleri gerekçeli dilekçe ile isteyebilirler. Ancak, bu dilekçelerin işleme konulabilmesi için\ndanışmanın belirlendiği tarihten itibaren en az üç ay geçmiş olmalıdır. Dilekçeler Fakülte Kurulu'nda\ngörüşülerek "
+  },
+  {
+    "id": 5,
+    "question": "Yıl içi notumun hesaplanmasında ara sınav ve küçük sınavların ağırlıkları ne zaman belirleniyor ve bu ağırlıkları nasıl öğrenebilirim?",
+    "expected_articles": [
+      "14"
+    ],
+    "expected_source_file": "1606909081.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ YABANCI DİL EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+    "reference_answer": "Yıl içi notu, ara sınav ve küçük sınavların ağırlıkları her öğretim yılı başında TİB Akademik Kurulunca belirlenir ve öğrenciler duyurulur. Bu bilgiyi öğrenmek için öğretim yılı başında yapılacak olan duyuruları takip etmeniz gerekmektedir.",
+    "source_text": "MADDE 14 - (1) Yıl içi notu, öğrencilerin ara sınav ve küçük sınavlardan aldıkları notların ağırlıkları \ndikkate\nalınarak hesaplanır. Bu ağırlıklar her öğretim yılı başında TİB Akademik Kurulunca belirlenerek \nöğrencilere\nduyurulur.\nSınav sonuçlarına itiraz"
+  },
+  {
+    "id": 6,
+    "question": "Bir dersin öğrenim çıktıları ve program çıktılarına katkısı belirtilmemişse, bu dersi alabilir miyim yoksa dersin açılma amacı yeterli mi olur?",
+    "expected_articles": [
+      "5"
+    ],
+    "expected_source_file": "1753094048.pdf",
+    "expected_regulation": "Fırat Üniversitesi akademik birimlerinde yeni ve/veya mevcut\nprogramda müfredat yenileme ve mevcut programda ders",
+    "reference_answer": "Dersin öğrenim çıktıları ve program çıktılarına katkısının belirtilmesi zorunludur. Bu bilgilerin eksik olması durumunda dersin açılması mümkün olmayabilir.",
+    "source_text": "MADDE 5- (1) Bir ders için hazırlanacak Ders İzlence Formunda aşağıda belirtilen bilgilerin yer alması\nzorunludur:\na) Dersin açılma amacı (dersin amacı ifade edilirken “öğrencinin bu dersi aldığında kazanacağı\nyeterlilikler, faydalar”).\nb) Dersin kodu ve adı, teorik-uygulama saatleri ile ulusal ve A"
+  },
+  {
+    "id": 7,
+    "question": "Eğer bir binanın yüksekliği 52 m ise, acil durum asansörünün hangi özelliklere sahip olması gerekir?",
+    "expected_articles": [
+      "63"
+    ],
+    "expected_source_file": "1738309488.pdf",
+    "expected_regulation": "Firat Universitesi Binalarin Yangindan Korunmasi Yonergesi",
+    "reference_answer": "Yapı yüksekliği 51.50 m'den daha fazla olan yapılarda, acil durum asansörünün en az 1.8 m kabin alanına, 630 kg taşıma kapasitesine, zemin kattan en üst kata 1 dakikada erişecek hızda olması ve enerji kesilmesi hâlinde 60 dakika çalışır durumda kalmasını sağlayacak bir acil durum jeneratörüne bağlı olması gerekir.",
+    "source_text": "MADDE 63- (1) Acil durum asansörü; bir yapı içinde yangına müdahale ekiplerinin ve bunların \nkullandıkları ekipmanın üst ve alt katlara makul bir\nemniyet tedbiri dâhilinde hızlı bir şekilde taşınmasını sağlamak, gerekli kurtarma işlemlerini yapmak ve \naynı zamanda engelli insanları tahliye\nedilebilm"
+  },
+  {
+    "id": 8,
+    "question": "Törende danışmanlar adına konuşma süresi 8 dakika iken, öğrenci olarak benim mezuniyet töreninde danışmanım konuşma yaparken arka planda VTR gösterimi yapılacak mı?",
+    "expected_articles": [
+      "13"
+    ],
+    "expected_source_file": "1690181587.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nEN BAŞARILI LİSANSÜSTÜ TEZ ÖDÜLÜ YÖNERGESİ",
+    "reference_answer": "Evet, tören akışına göre danışmanlar adına konuşma süresi 8 dakika iken, enstitülerin tanıtımı için 5 dakikalık bir VTR gösterimi yapılacaktır. Bu nedenle danışmanınızın konuşma süresi boyunca VTR gösterimi yapılmayacaktır.",
+    "source_text": "##ini, personel görevlendirilmesini, tören koreografisini planlar. Törende enstitüler adına konuşma yapar. Önerilen Tören Akışı ( 1, 5 saat ) 1 ) Açılış 2 ) Saygı duruşu ve İstiklal Marşı 3 ) Enstitülerin tanıtımı VTR ( 5 dk ) ( sayılar, araştırma altyapıları, araştırmalar / projeler vb. ) 4 ) Genç "
+  },
+  {
+    "id": 9,
+    "question": "Doktor unvanım aldıktan sonra, sosyal bilimler alanında bir doktora danışmanı olarak atanabilmem için en az kaç adet uluslararası yayının olması gerekir?",
+    "expected_articles": [
+      "10"
+    ],
+    "expected_source_file": "1695379734.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nLİSANSÜSTÜ PROGRAMLARDA AKADEMİK DANIŞMANLIK YÖNERGESİ",
+    "reference_answer": "Sosyal Bilimler Enstitüsünde, bir öğretim üyesinin üzerinde aynı anda birden fazla doktora danışmanlığı bulunabilmesi için SSCI, SCI - Expanded, AHCI veya alan indeksleri kapsamındaki dergilerde en az bir uluslararası yayının olması gerekir.",
+    "source_text": ") kapsamındaki dergilerde en az | ( bir ) yayınının olması gerekir. Bu kapsamda ilgili indekslerde üretilen yayınlar ; doktor unvanının alınmasından sonra yayımlanmış, ilgili kişinin lisansüstü tez çalışmalarından üretilmemiş ve ilgili programın alanına yönelik olmalıdır. ç ) Sosyal Bilimler Enstitü"
+  },
+  {
+    "id": 10,
+    "question": "Fırat Üniversitesi'nde yerel bir sosyal proje için başvuruda bulunduğumda, bu projenin toplumsal katkı sağlaması için hangi tür faaliyetlerin yer alması gerektiğini nasıl öğrenebilirim?",
+    "expected_articles": [
+      "1"
+    ],
+    "expected_source_file": "1753094087.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nTOPLUMSAL KATKI YÖNERGESİ",
+    "reference_answer": "Madde 1'de belirtilen amaç doğrultusunda, projenizin bilimsel, araştırma-geliştirme, sosyal, kültürel, sanatsal, çevresel, sportif ve sağlık gibi faaliyetleri içermesi gerekmektedir.",
+    "source_text": "MADDE 1- (1) Bu Yönergenin amacı, Fırat Üniversitesi bünyesinde toplumun yararı için\ngerçekleştirilen yerel, bölgesel, ulusal ve uluslararası faaliyetlerin (bilimsel, araştırma-geliştirme, sosyal,\nkültürel, sanatsal, çevresel, sportif ve sağlık) toplumsal katkıya dönüştürülmesi ile ilgili görev, yet"
+  },
+  {
+    "id": 11,
+    "question": "Fiziki ve zihinsel yorgunluğa dayanıklılığım düşükken staj süresince raporlama yapmam gerektiğinde, bu durumda nasıl bir yaklaşım sergilemem bekleniyor?",
+    "expected_articles": [
+      "1"
+    ],
+    "expected_source_file": "1751264042.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nİŞLETMEDE MESLEK EĞİTİMİ VE STAJ YÖNERGESİ",
+    "reference_answer": "Maddeye göre, staj süresince fiziki ve zihinsel yorgunluğa dayanıklılık önemli bir kriterdir. Eğer dayanıklılığınız düşükse, staj yaparken iş yerindeki uygulamalara uyum sağlamanız ve rapor içeriğini etkili bir şekilde düzenlemeniz beklenir. Ayrıca, kendinizi ifade etme ve beden dilini etkili kullanma konusunda da dikkatli olmalısınız.",
+    "source_text": "— A 206 — Mesleği ' le ilgili sorumlulukların farkında olıma — | ) AI 1 — Yaptığı işi raporlama — — — — — — — AA az | Rapor içeriğinin iş yeri uygulaması le uyumu — | ) 23 — | Kendini ifade etme ve beden dilini etkili kullanma — — — — | | at — | Öneri ve eleştirilere açık olma — — — — — A | 45 | Fiz"
+  },
+  {
+    "id": 12,
+    "question": "Fırat Üniversitesi enstitülerinde disiplinlerarası anabilim dallarından birinde lisansüstü program açılması için hangi usul ve esaslar geçerlidir?",
+    "expected_articles": [
+      "1"
+    ],
+    "expected_source_file": "1690181505.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nDİSİPLİNLERARASI LİSANSÜSTÜ PROGRAMLAR YÖNERGESİ",
+    "reference_answer": "Bu Yönerge, Fırat Üniversitesi enstitülerinde disiplinlerarası anabilim/anasanat dallarının kurulması ve lisansüstü programların açılması ve yürütülmesi için gerekli usul ve esasları düzenlemektedir.",
+    "source_text": "MADDE 1- (1) Bu Yönergenin amacı; Fırat Üniversitesi enstitülerinde disiplinlerarası\nanabilim/anasanat dalları kurulması, bu anabilim/anasanat dallarında lisansüstü programların\naçılması ve yürütülmesi kapsamında yapılacak işlemlere ilişkin usul ve esasları düzenlemektir.\nDayanak"
+  },
+  {
+    "id": 13,
+    "question": "Fırat Üniversitesi İklim, Çevre ve Yeşil Kalkınma Merkezi altında kurulan Su Yönetim Birimi, su yönetimi süreçlerinin uygulanmasından sorumlu ise, bu birimin hangi su kaynakları ile ilgilendiğini öğrenebilir miyim?",
+    "expected_articles": [
+      "4"
+    ],
+    "expected_source_file": "1734693507.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ SU YÖNETİMİ YÖNERGESİ",
+    "reference_answer": "Su Yönetim Birimi, alternatif su kaynakları, atık su ve gri su gibi su yönetimi süreçlerinin uygulanmasından sorumludur.",
+    "source_text": "MADDE 4- (1) Bu Yönergede geçen;\na) Alternatif Su Kaynakları: Yağmur suyu, gri su gibi doğal veya arıtılmış su kaynaklarını,\nb) Atık Su: Kullanım sonucu kirlenen ve bertaraf edilmesi gereken suyu,\nc) Gri Su: Banyo, lavabo, çamaşır makinesi gibi alanlarda kullanılan ve düşük seviyede kirlenmiş olup\na"
+  },
+  {
+    "id": 14,
+    "question": "Fırat Üniversitesi'nde yurt dışından öğrenci kabulü için hangi kurum tarafından yapılan değerlendirme süreci sonucunda kabul edilebilecek öğrenciler belirleniyor?",
+    "expected_articles": [
+      "4"
+    ],
+    "expected_source_file": "1735287294.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nÖN LİSANS VE LİSANS PROGRAMLARI İÇİN\nULUSLARARASI ÖĞRENCİ SEÇME VE YERLEŞTİRME YÖNERGESİ",
+    "reference_answer": "Kabul edilebilecek öğrenciler, Uluslararası Öğrenci Başvuru, Değerlendirme ve Seçim Komisyonu tarafından belirlenmektedir.",
+    "source_text": "MADDE 4- (1) Bu Yönergede geçen;\na) Aday öğrenci: Bu yönergede tanımlanan, başvurusu kabul edilebilecek öğrenciyi,\nb) Birim: Fırat Üniversitesine bağlı Fakülte / Yüksekokul / Konservatuar / Meslek Yüksekokullarını,\nc) Bölüm: Ön lisans ve lisans düzeyinde eğitim-öğretim faaliyetlerinde bulunulan akad"
+  },
+  {
+    "id": 15,
+    "question": "Yurt dışında bulunan bir mezunum, diplomasını almak için Türkiye Cumhuriyeti Konsolosluğundan alacağı vekâletnameyi ibraz etmeden teslim alabilir mi?",
+    "expected_articles": [
+      "17"
+    ],
+    "expected_source_file": "1687348009.pdf",
+    "expected_regulation": "SERTİFİKA VE BAŞARI BELGELERİ YÖNERGESİ",
+    "reference_answer": "Hayır, yurt dışında bulunan diploma sahibinin diplomayı alabilmesi için Türkiye Cumhuriyeti Konsolosluklarından alınmış bir vekâletname ibraz etmesi gerekmektedir.",
+    "source_text": "MADDE 17- (1) Diploma, Diploma Eki, Geçici Mezuniyet Belgesi ve Sertifikalar yalnızca\nhak sahiplerinin kendilerine ya da noter onaylı vekâletnamelerini ibraz eden vekillerine teslim edilir.\n\n(2) Diploma sahibinin yurt dışında bulunması hâlinde, vereceği vekâletnamenin Türkiye\nCumhuriyeti Konsolosluk"
+  },
+  {
+    "id": 16,
+    "question": "Üniversite bünyesindeki eğitim programlarında yapay zekâ ve büyük veri konularında hangi tür etkinlikler düzenleniyor ve bu etkinliklerin hayata geçirilmesine kimler katkı sağlıyor?",
+    "expected_articles": [
+      "5"
+    ],
+    "expected_source_file": "1628077066.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nDİJİTAL DÖNÜŞÜM VE YAZILIM OFİSİ YÖNERGESİ",
+    "reference_answer": "Üniversite bünyesindeki eğitim programlarında yapay zekâ, büyük veri ve ileri analitik gibi konularda farkındalık ve kapasite oluşturacak eğitimler düzenlenmektedir. Bu etkinliklerin hayata geçirilmesine, ilgili kamu kurum ve kuruluşları, üniversiteler ile sivil toplum kuruluşlarıyla işbirliği yapılarak katkı sağlanmaktadır.",
+    "source_text": "ve araçları, yapay zekâ, büyük veri ve ileri analitik, nesnelerin interneti, artırılmış / sanal gerçeklik, bulut 3 bilişim vb. yeni yaklaşımları içerecek farkındalık ve kapasite oluşturacak eğitimlerin hayata geçirilmesine katkı sağlanması, n ) Üniversite mensuplarının bilgi güvenliği seviyesinin ar"
+  },
+  {
+    "id": 17,
+    "question": "Tıp doktorluğu programının ilk iki sınıfında başarısız olmama şartını sağladıktan sonra, internlik dönemini tamamlamadan tıp doktoru diploması alabilir miyim?",
+    "expected_articles": [
+      "34"
+    ],
+    "expected_source_file": "sinav_yonetmeligi.pdf",
+    "expected_regulation": "sinav yonetmeligi",
+    "reference_answer": "Hayır, tıp doktoru diploması alabilmek için internlik dönemini başarı ile tamamlamanız gerekmektedir.",
+    "source_text": "MADDE 34 —(1) Tıp doktorluğu öğretim düzeyi programının ilk iki sınıfının bütün derslerinde başarılı\nolup, ancak bu programın bütününü tamamlayamaz durumda bulunan öğrencilere; temel tıp bilimlerinde \nön\nlisans diploması,internlik dönemini başarı ile tamamlayan öğrenciye tıp doktoru diploması verili"
+  },
+  {
+    "id": 18,
+    "question": "Tezli yüksek lisans derecesi ile kabul edilmiş biri olarak, doktora programında en az kaç ders almalı ve bu derslerin toplamda en az hangi AKTS kredisini sağlamalıyım?",
+    "expected_articles": [
+      "35"
+    ],
+    "expected_source_file": "1740143397.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nLİSANSÜSTÜ EĞİTİM-ÖĞRETİM YÖNERGESİ",
+    "reference_answer": "Tezli yüksek lisans derecesi ile kabul edilen öğrencilerin toplamda en az 21 ulusal krediden az olmamak koşuluyla; en az 7 ders alması ve her eğitim öğretim döneminde en az 60 AKTS olacak şekilde toplamda en az 240 AKTS kredisinden oluşması gerekmektedir.",
+    "source_text": "MADDE 35- (1) Doktora programının amacı, öğrenciye bağımsız araştırma yapma, bilimsel\nolayları geniş ve derin bir bakış açısı ile irdeleyerek yorum yapma ve yeni sentezlere ulaşmak için\ngerekli adımları belirleme becerisi kazandırmaktır. Doktora çalışması sonunda hazırlanacak özgün\ntezin aşağıda bel"
+  },
+  {
+    "id": 19,
+    "question": "Ben 2020-2021 Eğitim-Öğretim yılına başladım, fakat bu yıl yürürlüğe giren yeni yönetmeliklere göre hangi tarihten itibaren bu maddenin geçerli olduğunu öğrenebilir miyim?",
+    "expected_articles": [
+      "12"
+    ],
+    "expected_source_file": "1759987765.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nMUAFİYET VE İNTİBAK İŞLEMLERİ YÖNERGESİ",
+    "reference_answer": "Bu madde, 20.01.2020 tarihinde Üniversite Senatosu tarafından kabul edilmiş ve 2020-2021 Eğitim-Öğretim yılından itibaren uygulanmak üzere yürürlüğe girmiştir.",
+    "source_text": "MADDE 12 - (1) Bu yönerge Üniversite Senatosu'nun 20.01.2020 tarih ve 2019-\n2020/6-12 sayılı kararı ile kabul edilmiş ve 2020-2021 Eğitim-Öğretim yılından itibaren\nuygulanmak üzere yürürlüğe girmiştir.\nYürütme"
+  },
+  {
+    "id": 20,
+    "question": "2547 sayılı Kanunun 42. maddesi çerçevesinde, bu yönetmelik hükümlerine uymadığım takdirde hangi yaptırımlarla karşılaşabilirim?",
+    "expected_articles": [
+      "3"
+    ],
+    "expected_source_file": "1745236219.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ BİLİMSEL ARAŞTIRMA VE YAYIN ETİĞİ YÖNERGESİ",
+    "reference_answer": "Madde 3'te belirtilen yönetmelik, 2547 sayılı Kanunun 42. maddesine dayanarak hazırlandığı için, bu madde çerçevesinde uymadığınız takdirde Yükseköğretim Kurumları Bilimsel Araştırma ve Yayın Etiği Yönergesi'nde öngörülen yaptırımlarla karşılaşabilirsiniz.",
+    "source_text": "MADDE 3- (1) Bu yönerge 2547 sayılı Kanunun 24 üncü, 42 inci maddeleri ve\nYükseköğretim Kurumları Bilimsel Araştırma ve Yayın Etiği Yönergesine dayanılarak\nhazırlanmıştır.\n\nTanımlar"
+  },
+  {
+    "id": 21,
+    "question": "Yaz okulunda ders almak istiyorum, fakat öğrenim ücretimi ödemeden ön kayıt yaptıramaz mıyım? Hangi esaslara göre ödeme yapmam gerekiyor?",
+    "expected_articles": [
+      "13"
+    ],
+    "expected_source_file": "1606909046.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ YAZ OKULU YÖNETMELİĞİ",
+    "reference_answer": "Yaz okulunda açılacak derslere kayıt yaptıracak öğrenciler, öğrenim ücretlerini Bakanlar Kurulu/Maliye Bakanlığı tarafından belirlenen esaslara göre ön kayıt esnasında ödemek zorundadır. Dolayısıyla, öğrenim ücretinizi ödemeden ön kayıt yaptıramazsınız.",
+    "source_text": "MADDE 13 — (1) Yaz okulunda açılacak derslere kayıt yaptıracak öğrenciler; öğrenim ücretlerini, \nBakanlar\nKurulu/Maliye Bakanlığı tarafından belirlenen esaslara göre ön kayıt esnasında öderler.\n(2) Yaz okulunda ders veren öğretim elemanlarına, ilgili mevzuata göre ek ders ücreti ödenir.\nÜÇÜNCÜ BÖLÜM"
+  },
+  {
+    "id": 22,
+    "question": "Uluslararası Ortak ve Çift diploma programında öğrenim gören bir öğrenci olarak, aldığım yurtiçi öğrenim ücretinin hangi oranda üniversite yönetim kurulunca belirlenen bütçeye dahil edilmesi gerekmektedir?",
+    "expected_articles": [
+      "16"
+    ],
+    "expected_source_file": "1672990179.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nDERSE GÖREVLENDİRME VE EK DERS ÜCRETİ ÖDEME YÖNERGESİ",
+    "reference_answer": "Yurtiçi öğrenim ücretlerinin, tahsilatı takip eden ayın sonuna kadar özel bütçeye gelir kaydedilmesi gerekmekte olup, bu tutarın üniversite yönetim kurulunca en az %30 oranında belirlenmesi gerekmektedir.",
+    "source_text": "##nin mal ve hizmet alımlarında kullanılmak üzere ertesi yılın bütçesine devren gelir ve ödenek kaydedilir. c ) Özel ödeneğin yeterli olmadığı gerekçe gösterilerek öğretim üyelerine kurum bütçesi, döner sermaye, bilimsel araştırma projesi ve sair kaynaklardan ayrıca ders ve sınav ücreti ödenemez ; h"
+  },
+  {
+    "id": 23,
+    "question": "Bir enstitüde lisansüstü program için başvurular başladığında, bu başvuruların en geç ne zaman tamamlanması gerekiyor?",
+    "expected_articles": [
+      "6"
+    ],
+    "expected_source_file": "1737354075.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nLİSANSÜSTÜ EĞİTİM-ÖĞRETİM YÖNERGESİ",
+    "reference_answer": "Başvuru kabulü, ilan tarihinden itibaren en erken 20 (yirmi) gün sonra tamamlanır. Ek ilanlarda bu süre 3 (üç) günden az olamaz.",
+    "source_text": "MADDE 6- (1) Enstitüler, her yarıyıl lisansüstü öğrenci alımı ilanına çıkabilir. İlanda, öğrenci\n\nalımı yapacak programlar, öğrenci kontenjanları ve başvuru şartları; başvuru, sınavlar ve kayıt kabul\ntakvimi, başvuru için istenilen belgeler ve başvuru usulü ile varsa öğrenim ücretleri yer alır. Başv"
+  },
+  {
+    "id": 24,
+    "question": "Eğitim-öğretim danışmanlığı hizmetinden yararlanmak için hangi akademik unvana sahip bir öğretim elemanına danışmam gerekiyor?",
+    "expected_articles": [
+      "1"
+    ],
+    "expected_source_file": "1687423214.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nAKADEMİK DANIŞMANLIK YÖNERGESİ",
+    "reference_answer": "Bu Yönergeye göre, akademik danışmanlık hizmeti, öğretim üyeleri, öğretim görevlileri ve doktorasını tamamlamış araştırma görevlileri tarafından yürütülmektedir. Bu nedenle, herhangi bir danışmanlık hizmeti almak için bu unvanlardan birine sahip bir öğretim elemanına başvurmalısınız.",
+    "source_text": "MADDE 1- (1) Bu Yönergenin amacı; Fırat Üniversitesinde öğrenim gören önlisans ve lisans\nöğrencilerine eğitim-öğretim ve üniversite hayatı ile ilgili verilen akademik danışmanlık hizmetinin\nyürütülmesine ve bu amaçla görevlendirilen öğretim üyeleri, öğretim görevlileri ile doktorasını\ntamamlamış ara"
+  },
+  {
+    "id": 25,
+    "question": "Kalite Komisyonu yılda en az kaç kez toplanmak zorunda ve olağanüstü toplantı yapabilmesi için hangi koşullar gereklidir?",
+    "expected_articles": [
+      "7"
+    ],
+    "expected_source_file": "1738658311.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ KALİTE GÜVENCE SİSTEMİ YÖNERGESİ",
+    "reference_answer": "Kalite Komisyonu, yılda en az üç kez toplanmak zorundadır. Olağanüstü toplantı yapılabilmesi için Başkanın çağrısı üzerine veya Komisyon üyelerinin üçte birinin yazılı talebi gereklidir.",
+    "source_text": "MADDE 7- (1) Kalite Komisyonu aşağıda belirtilen usul ve esaslara göre çalışır:\na) Kalite Komisyonu Rektör tarafından belirlenen tarihlerde, yılda en az üç kez toplanır.\nAyrıca, Başkanın çağrısı üzerine veya Komisyon üyelerinin üçte birinin yazılı talebiyle olağanüstü\ntoplantı yapılabilir.\nb) Kalite"
+  },
+  {
+    "id": 26,
+    "question": "Bir sosyal tesisin sorumlusunun değiştirilmesi durumunda, bu değişiklik nasıl ve kim tarafından yapılır? Eğer ben bir öğrenci olarak bu durumu öğrenmek istersem kimle iletişime geçmeliyim?",
+    "expected_articles": [
+      "16"
+    ],
+    "expected_source_file": "Sosyal Tesisler Yönergesi.pdf",
+    "expected_regulation": "Sosyal Tesisler Yönergesi",
+    "reference_answer": "Tesis sorumlusunun değiştirilmesi, Sosyal Tesisler Müdürü tarafından gerekli görüldüğünde yapılır. Bu durumu öğrenmek için Sosyal Tesisler Müdürü ile iletişime geçebilirsiniz.",
+    "source_text": "Madde 16- Tesis sorumluları Sosyal Tesisler Müdürünün teklifi üzerine Yürütme\nKurulu Başkanı tarafından görevlendirilir. Bir tesis sorumlusuna birkaç tesisin sorumluluğu\nverilebilir. Müdür gerekli gördüğü hallerde, görevlendirilen tesis sorumlusunu değiştirebilir.\nTesis Sorumlularının görevleri"
+  },
+  {
+    "id": 27,
+    "question": "Güz döneminde bitirme projesi konusunu almışken bahar döneminde ders kaydı yaptıramazsam, bu durumda bitirme projesi için notum nasıl değerlendirilecek?",
+    "expected_articles": [
+      "9"
+    ],
+    "expected_source_file": "1733994696.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ MÜHENDİSLİK FAKÜLTESİ\nBİTİRME PROJESİ YÖNERGESİ",
+    "reference_answer": "Eğer güz döneminde bitirme projesi konusunu almış ve çalışmalarınıza başlamışsanız, bahar döneminde ders kaydı yaptıramasanız bile dersi almış gibi çalışmalarınızı tamamlayabilirsiniz. Not ve yarışmalar için değerlendirmeniz yapılır ve dersi resmen aldığınızda notunuz verilir.",
+    "source_text": "MADDE 9- (1) Bitirme projesi konuları öğrencilerin çalışmalarına imkân sağlamak amacı ile güz\ndöneminde dağıtılır. Güz döneminde bitirme projesi konusunu almış (madde 3 ve 4'deki koşulları \nsağlamak\nşartıyla) ve çalışmalarına başlamış bir öğrenci herhangi bir nedenle bahar döneminde bitirme projesi "
+  },
+  {
+    "id": 28,
+    "question": "Tezsiz yüksek lisans programımda danışmanımı en geç hangi tarihe kadar öğrenebilirim?",
+    "expected_articles": [
+      "3"
+    ],
+    "expected_source_file": "1762844587.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM-ÖĞRETİM VE SINAV\nYÖNETMELİĞİ",
+    "reference_answer": "Danışman, en geç birinci yarıyılın sonuna kadar belirlenir.",
+    "source_text": "MADDE 3- Aynı Yönetmel\u0000ğ\u0000n 16 ncı maddes\u0000 aşağıdak\u0000 şek\u0000lde değ\u0000şt\u0000r\u0000lm\u0000şt\u0000r.\n“MADDE 16- (1) Tezs\u0000z yüksek l\u0000sans programında, enst\u0000tü anab\u0000l\u0000m/anasanat dalı başkanlığı her öğrenc\u0000 \u0000ç\u0000n\nders seç\u0000m\u0000nde ve dönem  projes\u0000n\u0000n yürütülmes\u0000nde danışmanlık  yapmak üzere, Ün\u0000vers\u0000ten\u0000n kadrolu öğret\u0000m\nüyes\u0000n"
+  },
+  {
+    "id": 29,
+    "question": "Eğer öğretim elemanım bir ödül aldıysa, bu durum derslerime veya sınavlarıma etki edebilir mi?",
+    "expected_articles": [
+      "23"
+    ],
+    "expected_source_file": "1672990250.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nİDARİ ETİK DAVRANIŞ İLKELERİ VE KURUMSAL ETİK KURULU YÖNERGESİ",
+    "reference_answer": "Madde 23'e göre, öğretim elemanları mesleki kararlarını ve davranışlarını değiştirebilecek herhangi bir ödülü kabul edemez. Bu nedenle, öğretim elemanının ödül alması dersleriniz veya sınavlarınız üzerinde etki etmemelidir.",
+    "source_text": "MADDE 23- (1) Öğretim elemanları kendilerini bilimsel yetkinliklerinin gelişmesine adarlar.\nBu bağlamda, öğretim elemanlarının yükümlülükleri aşağıda sıralanmıştır:\na) Akademik alanında kendini sürekli geliştirir.\nb) Tüm bilimsel çabalarında akademik dürüstlüğünü korur.\nc) Diğer bilim alanlarını kar"
+  },
+  {
+    "id": 30,
+    "question": "Hatalı basım durumunda, hangi formu kullanmam gerekiyor ve bu formun adı nedir?",
+    "expected_articles": [
+      "17"
+    ],
+    "expected_source_file": "1762843752.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ İDARİ VE MALİ İŞLER DAİRE BAŞKANLIĞI\nBASIMEVİ YÖNERGESİ",
+    "reference_answer": "Hatalı basım için Hatalı Basım ve Fire Formu (EK-2) kullanmanız gerekmektedir.",
+    "source_text": "Madde 17- (1) Basımı talep edilen iş için Talep Formu (EK-1), hatalı basım için Hatalı Basım ve Fire\nFormu (EK-2), taşınır belgesi olmayan malzemelerin teslimi için Mal Teslim ve Kullanım Formu (EK-3),\nbasımına onay verilen talepler için Talep ve İmalat Defteri kullanılır.\nDÖRDÜNCÜ BÖLÜM\nÇeşitli ve "
+  },
+  {
+    "id": 31,
+    "question": "Rektör tarafından yürütülen bu yönerge kapsamında herhangi bir değişiklik yapılması durumunda, bu değişikliğin senato karar tarihi ne zaman olmalıdır?",
+    "expected_articles": [
+      "35"
+    ],
+    "expected_source_file": "1669798622.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nİÇ KONTROL SİSTEMİ YÖNERGESİ",
+    "reference_answer": "Yapılacak değişiklikler için senato karar tarihi 14.11.2022'dir ve bu yönergenin hükümleri Rektör tarafından yürütülmektedir.",
+    "source_text": "MADDE 35- (1) Bu Yönerge hükümleri Rektör tarafından yürütülür.\nYönergenin Kabul Edildiği Senato Kararının Tarihi ve Sayısı\n14.11.2022 2022-2023/2.22\nSayfa 13/13"
+  },
+  {
+    "id": 32,
+    "question": "Tez danışmanım atanmadı ve bu durum benim tezimi zamanında tamamlamamı engelliyor. Bu durumda hangi sürecin işletilmesi gerekiyor?",
+    "expected_articles": [
+      "10"
+    ],
+    "expected_source_file": "1606910756.pdf",
+    "expected_regulation": "Firat Universitesi Lisansustu Egitim-Ogretim ve Sinav Yonetmeligi",
+    "reference_answer": "Tez danışmanının atanması, enstitü anabilim/anasanat dalı kurulu önerisi ve enstitü yönetim kurulu onayı ile gerçekleşir. Eğer danışman atanmadıysa, öncelikle ilgili birimle iletişime geçerek durumu bildirmeli ve atama sürecinin başlatılmasını talep etmelisiniz.",
+    "source_text": "MADDE 10 — (1) Tezli yüksek lisans programında, enstitü anabilim/anasanat dalı\nkurulu önerisi ve enstitü yönetim kurulu onayı ile Üniversitenin kadrosunda bulunan öğretim\nüyelerinden her öğrenci için bir tez danışman atanır.\n(2) Danışmanda aranan nitelikler ile atama süreci ve tez konusu belirleme s"
+  },
+  {
+    "id": 33,
+    "question": "Çift anadal programına başvurmak için GNO'm en az kaç olmalı ve bu durum hangi dönem için geçerli?",
+    "expected_articles": [
+      "4"
+    ],
+    "expected_source_file": "1762842608.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ ÇİFT ANADAL VE YANDAL PROGRAMI YÖNERGESİ",
+    "reference_answer": "Çift anadal programına başvurmak için GNO'nun, geçiş yapmak istediğin döneme kadar almış olduğun tüm derslerin kredilerine göre ağırlıklandırılmış not ortalaması olarak belirlenmesi gerekmekte ve bu ortalamanın en az belirli bir seviyede olması gerektiği belirtilmemektedir. Ancak, genel olarak yükseköğretim kurumlarında GNO'nun 2.00 veya üzeri olması beklenmektedir.",
+    "source_text": "MADDE 4- (1) Bu yönergede geçen;\na) AKTS: Avrupa Kredi Transfer ve Biriktirme Sistemini,\n\nb) Anadal Programı: Öğrencinin Fırat Üniversitesine girişte kayıtlandığı diploma programını,\nc) Birim Kurulu: Fakülte kurulunu, yüksekokul kurulunu ya da meslek yüksekokulu kurulunu,\nç) Birim Yönetim Kurulu: Fa"
+  },
+  {
+    "id": 34,
+    "question": "Uluslararası faaliyetler yürütülen birimlerin koordinasyonu sağlanmadığı bir durumda, benim uluslararası bir değişim programına katılmam mümkün olur mu?",
+    "expected_articles": [
+      "4"
+    ],
+    "expected_source_file": "1762859989.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nULUSLARARASILAŞMA KOMİSYONU YÖNERGESİ",
+    "reference_answer": "Hayır, çünkü Komisyonun amacı uluslararası faaliyetlerin etkili, rasyonel ve sonuç odaklı yürütülmesini sağlamaktır. Bu koordinasyon sağlanmadığı takdirde, uluslararası değişim programına katılımda zorluklar yaşanabilir.",
+    "source_text": "MADDE 4- (1) Komisyonun amacı; Üniversitenin stratejik planında yer alan\nuluslararasılaşma amaç ve hedeflerine ulaşmak için;\na) Uluslararası faaliyetler yürüten birimlerin koordinasyonunu sağlayarak etkili, rasyonel ve\nsonuç odaklı çalışmalar yürütülmesini,\nb) Faaliyetlerin iç kontrol standartlarına"
+  },
+  {
+    "id": 35,
+    "question": "Fırat Üniversitesi Hastanesi dışındaki birimde döner sermaye gelirlerinden ek ödeme alabilmem için hangi yönetmelik hükümlerine uymam gerekiyor?",
+    "expected_articles": [
+      "2"
+    ],
+    "expected_source_file": "1729684211.pdf",
+    "expected_regulation": "Fırat Üniversitesi Veteriner Fakültesi Hayvan Hastanesi Yönergesi",
+    "reference_answer": "Ek ödeme alabilmek için, bu Yönerge hükümlerine ve Yönetim Kuruluna yetki veren Yükseköğretim Kanunu'nun 58. maddesi ile 18. 02. 2011 tarihli 27850 sayılı Yönetmelik hükümlerine uymanız gerekmektedir.",
+    "source_text": "MADDE 2- (1) Bu Yönerge, Yükseköğretim Kanunu'nun 58. maddesi ve 18. 02. 2011 tarih\nve 27850 sayılı Yüksek Öğretim Kurumlarında Döner Sermaye Gelirlerinden Yapılacak Ek\nÖdemenin Dağıtılmasında Uyulacak Usul ve Esaslara İlişkin Yönetmeliğin Yönetim Kuruluna yetki\nveren maddelerine dayanılarak hazırla"
+  },
+  {
+    "id": 36,
+    "question": "Rektörlükçe önerilen sürekli eğitim faaliyetlerine katılmadığım için ulusal ve uluslararası personel belgelendirme sertifikasyonu eğitimine başvuramaz mıyım?",
+    "expected_articles": [
+      "6"
+    ],
+    "expected_source_file": "1747399291.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ SÜREKLİ EĞİTİM\nMERKEZİ YÖNETMELİĞİ",
+    "reference_answer": "Maddeye göre, sürekli eğitim kapsamında Rektörlükçe önerilen faaliyetlere katılmak gereklidir; bu nedenle katılmadığınız takdirde ulusal ve uluslararası personel belgelendirme sertifikasyonu eğitimine başvurmanız mümkün olmayabilir.",
+    "source_text": "mevzuat hükümleri kapsamında ulusal ve uluslararası personel belgelendirme sertifikasyonu eğitimi düzenlemek, sınav yapmak, belge, sertifika ve katılım belgesi vermek. ş ) Faaliyet alanları ile ilgili mevzuat hükümleri kapsamında her türlü danışmanlık hizmeti vermek veya almak. t ) Faaliyet alanları"
+  },
+  {
+    "id": 37,
+    "question": "2547 Sayılı Yüksek Öğretim Kanununun 46'ncı maddesine dayanarak, bir öğrencinin sağlık raporu ile hangi durumlarda kayıt dondurabileceğini öğrenebilir miyim?",
+    "expected_articles": [
+      "3"
+    ],
+    "expected_source_file": "1734693453.pdf",
+    "expected_regulation": "İŞLETİM VE DENETİM YÖNERGESİ",
+    "reference_answer": "2547 Sayılı Yüksek Öğretim Kanununun 46'ncı maddesi kapsamında, sağlık raporu ile kayıt dondurma işlemi, öğrencinin geçirdiği ciddi bir sağlık sorunu nedeniyle eğitimine devam edememesi durumunda mümkündür.",
+    "source_text": "MADDE 3- (1) Bu Yönerge, 2547 Sayılı Yüksek Öğretim Kanununun 46'ncı ve 47'nci maddeleri ve\n1593 sayılı Umumi Hıfzısıhha Kanunu ile Yüksek Öğretim Kurumları Mediko-Sosyal Sağlık Kültür ve \nSpor\nİşleri Dairesi Uygulama Yönetmeliği hükümlerine göre hazırlanmıştır.\nTanımlar"
+  },
+  {
+    "id": 38,
+    "question": "Diyelim ki ben Fırat Üniversitesi'nde sekiz yarıyıl süreli bir lisans programındayım ve şu anda altıncı yarıyıldayım. GNO'm 3.10 ve disiplin cezam yok. Yedinci yarıyıla başlamadan önce bütünleşik yüksek lisans programına başvurabilir miyim?",
+    "expected_articles": [
+      "5"
+    ],
+    "expected_source_file": "1758704985.pdf",
+    "expected_regulation": "T.C.\nFIRATÜNİVERSİTESİ\nBÜTÜNLEŞİK YÜKSEK LİSANS YÖNERGESİ",
+    "reference_answer": "Hayır, yedinci yarıyılın başında olmadan bütünleşik yüksek lisans programına başvuramazsınız. Madde 5'te belirtildiği gibi, başvuru için en erken yedinci yarıyılın başında olmanız gerekmektedir.",
+    "source_text": "MADDE 5- (1) Bütünleşik Yüksek Lisans programına başvuracak Fırat Üniversitesi lisans programına\nkayıtlı öğrencilerde aşağıdaki şartlar aranır:\na) Sekiz yarıyıl süreli eğitim ve öğretim veren birimlerin lisans programlarının ilk altı yarıyılında bütün\ndersleri alıp başarmış olmak.\nb) Başvuru esnasın"
+  },
+  {
+    "id": 39,
+    "question": "Fırat Üniversitesi'nde lisans programında öğrenim gören bir öğrencinin OBS kullanıcı tipi olarak hangi gruba dahil olduğunu öğrenmek istiyorum. Bu kullanıcı tipi tam olarak nedir?",
+    "expected_articles": [
+      "4"
+    ],
+    "expected_source_file": "1735287205.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ ÖĞRENCİ BİLGİ SİSTEMLERİ YETKİ TANIMLAMA\nYÖNERGESİ",
+    "reference_answer": "Fırat Üniversitesi Öğrenci Bilgi Sistemi (OBS) içerisinde lisans programında öğrenim gören öğrenciler, 'Öğrenci' kullanıcı tipi olarak tanımlanmıştır.",
+    "source_text": "MADDE 4- (1) Bu Yönergede geçen;\na) Üniversite: Fırat Üniversitesini,\nb) Rektör: Fırat Üniversitesi Rektörünü,\nc) Öğrenci İşleri Başkanı: Fırat Üniversitesi Öğrenci İşleri Daire Başkanlığını,\nç) OBS (Öğrenci Bilgi Sistemi): Fırat Üniversitesinde ön lisans, lisans ve lisansüstü programlarında\nöğrenim"
+  },
+  {
+    "id": 40,
+    "question": "Eğer ben bir yabancı uyruklu öğrenciyim ve bir spor etkinliğinde yaralanırsam, yaralanma sonrası tedavi ve ilaç giderlerim hangi bütçeden karşılanır?",
+    "expected_articles": [
+      "5"
+    ],
+    "expected_source_file": "Öğrenci Sağlık İşleri ve Sağlık Raporları Yönergesi.pdf",
+    "expected_regulation": "Öğrenci Sağlık İşleri ve Sağlık Raporları Yönergesi",
+    "reference_answer": "Yabancı uyruklu öğrenciler, sosyal güvenceleri olup olmadığına bakılmaksızın, etkinlik içinde oluşacak her türlü hastalık, yaralanma ve sakatlanmaları dolayısıyla gereken tedavi ve ilaç giderleri Öğrenci Sosyal Hizmetler Saymanlığı bütçesinden ödenir.",
+    "source_text": "Madde 5- Herhangi bir Sosyal Güvenlik Kuruluşundan yararlanma imkanı olan\nöğrenciler ile yabancı uyruklu öğrencilerimiz bu Yönergenin mali hükümleri kapsamı\ndışındadırlar. Bu öğrencilerin Mediko Sosyal Merkezinde muayeneleri yapılır, rapor ve\nreçeteleri yazılır, ancak ilaç ve hastane giderleri ödenm"
+  },
+  {
+    "id": 41,
+    "question": "Fırat Üniversitesi Öğrenci Senatosu'nun toplantılarını düzenleme usulü neye dayanarak belirleniyor?",
+    "expected_articles": [
+      "1"
+    ],
+    "expected_source_file": "1733994950.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ ÖĞRENCİ SENATOSU YÖNERGESİ",
+    "reference_answer": "Fırat Üniversitesi Öğrenci Senatosu'nun toplantılarını düzenleme usulü, bu Yönergenin 1. maddesine dayanarak belirlenmektedir.",
+    "source_text": "MADDE 1- (1) Bu Yönergenin amacı, Üniversiteye bağlı olarak oluşturulan Fırat Üniversitesi\nÖğrenci Senatosunun oluşturulması, üyelerinin belirlenmesi ve toplantıların düzenlenmesine ilişkin usul \nve\nesasları düzenlemektir.\nKapsam"
+  },
+  {
+    "id": 42,
+    "question": "Eğer mevcut kontrollerin kalıntı risk seviyesi risk iştahımın üzerinde olduğunu düşünüyorsam, bu durumda ne yapmalıyım ve risk eylem planımda neler yer almalı?",
+    "expected_articles": [
+      "20"
+    ],
+    "expected_source_file": "1747719452.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ KURUMSAL RİSK YÖNETİM YÖNERGESİ",
+    "reference_answer": "Mevcut kontrollerin yeterli olmadığı tespit edilirse, risk eylemleri planlanarak makul bir süre içinde uygulanması sağlanır. Risk eylem planında yapılması planlanan eylemin türü, kaynak ihtiyacı, çalışmanın başlangıç ve bitiş tarihleri, eylemin yerine getirilmesinden kimin sorumlu olduğu ve önem derecesi gibi unsurlar yer almalıdır.",
+    "source_text": "MADDE 20 - ( 1 ) Şiddetini azaltma kararı verilen riskler için uygulanan / uygulanacak kontrol yönteminin tespit edilmesinde aşağıdaki kriterler dikkate alınır : a ) Kontroller, Üniversitenin her türlü plan ve programı ile mali ve mali olmayan tüm iş ve işlemlerinin ayrılmaz bir parçasıdır. Bu neden"
+  },
+  {
+    "id": 43,
+    "question": "Kesin kayıt hakkı kazandıktan sonra, eğer ALES belgem yoksa ve bu belgenin başvuru şartı olarak belirtildiği bir programa başvurduysam, kayıt işlemlerimde sorun yaşar mıyım?",
+    "expected_articles": [
+      "10"
+    ],
+    "expected_source_file": "1738841638.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nLİSANSÜSTÜ PROGRAMLARA ULUSLARARASI ÖĞRENCİ KABUL YÖNERGESİ",
+    "reference_answer": "Evet, kayıt işlemlerinizde sorun yaşarsınız. İlanda program başvuru şartı olarak ALES sonucunun istenmesi durumunda, bu belgeyi sunmadığınız takdirde kesin kayıt hakkınız iptal edilir.",
+    "source_text": "MADDE 10- (1) Kesin kayıtlar, ilan edilen tarihlerde ilanda belirtildiği şekilde yapılır.\n(2) Kesin kayıt hakkı kazanan öğrencilerden istenilen belgeler şunlardır:\na) Yüksek lisans programlarına başvurularda; lisans diploması ile lisans transkriptinin Türk\ndış temsilcilikleri tarafından veya noterde"
+  },
+  {
+    "id": 44,
+    "question": "Eğer hazırlık sınıfında mazeretli kayıt başvurusunda bulunursam, bu başvurunun değerlendirilmesinde hangi esaslar dikkate alınır?",
+    "expected_articles": [
+      "1"
+    ],
+    "expected_source_file": "1745499263.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nHAKLI VE GEÇERLİ NEDENLER\nYÖNERGESİ",
+    "reference_answer": "Mazeretli kayıt başvurularının değerlendirilmesinde bu yönergenin belirlediği esaslar dikkate alınır.",
+    "source_text": "Madde 1-(1) Bu yönergenin amacı, hazırlık sınıfı dâhil olmak üzere tüm önlisans, lisans\nve lisansüstü öğrencilerinin mazeretli kayıtlar, mazeret sınavları ve akademik izin\nbaşvurularındaki değerlendirme esaslarını belirlemektir.\nKapsam"
+  },
+  {
+    "id": 45,
+    "question": "Özel Yetenek Sınavı ile kabul edilen bir bölümde, bu sınavın geçerlilik süresi nedir ve bu süreden sonra tekrar mı girmem gerekiyor?",
+    "expected_articles": [
+      "2"
+    ],
+    "expected_source_file": "resim iş yönerge 05.07.2017  senatoda kabul edilen hali.pdf",
+    "expected_regulation": "resim iş yönerge 05.07.2017  senatoda kabul edilen hali",
+    "reference_answer": "Madde 2'de özel yetenek sınavının geçerlilik süresi ile ilgili bilgi verilmemektedir. Ancak, Yükseköğretim Kanunu ve ÖSYS Kılavuzu'na göre, özel yetenek sınavı ile kabul edilen öğrencilerin kayıt tarihleri ve geçerlilik süreleri ilgili yönetmeliklerde belirtilir. Bu nedenle, özel yetenek sınavının geçerlilik süresi için ilgili yönetmeliklere başvurmanız gerekmektedir.",
+    "source_text": "MADDE 2 - Bu Yönerge, 2547 sayılı Yükseköğretim Kanununa ve Öğrenci Seçme\nve Yerleştirme Sistemi (ÖSYS) Kılavuzu'nda yer alan Özel Yetenek Sınavı ile Seçme\nYöntemine ilişkin düzenlemeye dayanarak hazırlanmıştır.\nTanımlar"
+  },
+  {
+    "id": 46,
+    "question": "Eğer yılsonu itibarıyla düzenlenen Taşınır Mal Yönetim Hesabı Cetveli'nde bulunan kayıtlar, taşınır sayım ve döküm cetveline uygun değilse, bu durumda harcama birimi ne yapmalıdır?",
+    "expected_articles": [
+      "24"
+    ],
+    "expected_source_file": "1701171855.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ \nTAŞINIR MAL VE HURDA YÖNETİMİ YÖNERGESİ",
+    "reference_answer": "Harcama Birimi Taşınır Mal Yönetim Hesabı Cetveli, taşınır sayım ve döküm cetveline uygunluk kontrolü için taşınır kontrol yetkilisi tarafından imzalanmalı ve SGDB'ye gönderilmelidir. Eğer uygun değilse, bu durumun düzeltilmesi gerekecek ve uygun kayıtlar sağlanmalıdır.",
+    "source_text": "MADDE 24 - ( 1 ) Taşınır mal yönetim hesabı : Kanunun, kaynakların kullanılması ve yönetilmesi konusunda harcama birimi ve harcama yetkililerine yüklediği sorumluluğun gereği olarak taşınır kayıt ve işlemlerinin usulüne uygun yapılıp yapılmadığının, harcama yetkilisi tarafından kontrol ve denetimine"
+  },
+  {
+    "id": 47,
+    "question": "Öğretmenlik Uygulaması dersinde uygulama yapacağım okulların listesini nasıl öğrenebilirim, bu listeyi kim hazırlıyor?",
+    "expected_articles": [
+      "10"
+    ],
+    "expected_source_file": "PFE Yönergesi.pdf",
+    "expected_regulation": "PFE Yönergesi",
+    "reference_answer": "Uygulama yapılacak okulların listesini Pedagojik Formasyon Birimi hazırlamaktadır. Bu birim, öğretmenlik uygulaması dersinde Milli Eğitim Bakanlığı'na bağlı okulları ve uygulamaya gidecek öğrencilerin listesini oluşturur.",
+    "source_text": "MADDE 10- (1) Programa ilişkin akademik, idari ve mali işler, fakülte dekanı tarafından oluşturulan\nPedagojik Formasyon Birimince yürütülür. Bu birim; bir dekan yardımcısı başkanlığında eğitim bilimleri \nbölüm\nbaşkanı, doktorası ya da doçentliği eğitim bilimleri ve öğretmen yetiştirme alanından olan"
+  },
+  {
+    "id": 48,
+    "question": "Harcama birimim, bütçesi ve ayrıntılı harcama programı uygun olmadığı için bir ön mali kontrol işlemine tabi tutulursa, bu işlemin kim tarafından ve hangi koşullarda yapılacağı belirleniyor mu?",
+    "expected_articles": [
+      "4"
+    ],
+    "expected_source_file": "1669798695.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ \nÖN MALİ KONTROL YÖNERGESİ",
+    "reference_answer": "Evet, ön mali kontrol Müdürlük tarafından harcama birimleri ve Başkanlığın risk değerlendirmesi sonucunda, uygun görülen mali karar ve işlemler üzerinden yapılır.",
+    "source_text": "MADDE 4- (1) Ön mali kontrol görevi, yönetim sorumluluğu çerçevesinde, harcama birimleri \nve Müdürlük tarafından yerine getirilir.  \n(2) Müdürlük  tarafından  yapılacak  ön  mali  kontrol,  bu  Yönergede  belirtilen  kontroller  ile \nharcama  birimlerinin  talebi  veya  Başkanlığın  risk  değerlendi"
+  },
+  {
+    "id": 49,
+    "question": "Fırat Üniversitesi Hayvan Deneyleri Etik Kurulu'nda yer alan üyelerden kaç tanesinin hayvan deneyleri konusunda deneyimli olması gerekiyor?",
+    "expected_articles": [
+      "4"
+    ],
+    "expected_source_file": "Hayvan Deneyleri Etik Kurulu Yönergesi.pdf",
+    "expected_regulation": "Hayvan Deneyleri Etik Kurulu Yönergesi",
+    "reference_answer": "Hayvan Deneyleri Etik Kurulu, hayvan deneyleri konusunda deneyimli toplam 3 öğretim üyesinden oluşmaktadır: bir Tıp Fakültesi, bir Veteriner Fakültesi ve bir Fen-Edebiyat Fakültesi Biyoloji Bölümü öğretim üyesi.",
+    "source_text": "Madde 4- Hayvan Deneyleri Etik Kurulu,\na) Fırat Üniversitesi Deneysel Araştırmalar Merkezi (FÜDAM) başkanı,\n\nb) Hayvan deneyleri konusunda deneyimli bir Tıp Fakültesi öğretim üyesi,\nc) Hayvan deneyleri konusunda deneyimli bir Veteriner Fakültesi öğretim üyesi,\nd) Hayvan deneyleri konusunda deneyimli"
+  },
+  {
+    "id": 50,
+    "question": "Kurul, Ocak ayında toplanmadığı takdirde, Temmuz ayındaki olağan toplantısında en fazla kaç gündem maddesi görüşülebilir?",
+    "expected_articles": [
+      "7"
+    ],
+    "expected_source_file": "1687347569.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nULUSLARARASILAŞMA DANIŞMA KURULU YÖNERGESİ",
+    "reference_answer": "Maddeye göre, toplantı gündemi gündem sırasına göre görüşülür ve eğer süre nedeniyle tamamlanamazsa, başkan olağanüstü bir toplantı yapılmasına veya görüşülmeyen maddelerin bir sonraki olağan toplantının gündemine taşınmasına karar verebilir. Ancak, madde içerisinde belirli bir gündem maddesi sayısı belirtilmediğinden, kesin bir sayı verilemez.",
+    "source_text": "MADDE 7- (1) Kurul, başkanın çağrısı ile Ocak ve Temmuz ayı içinde yılda iki kez olağan\nolarak toplanır. Başkanın çağrısı üzerine olağanüstü olarak da toplanabilir.\n(2) Toplantı yeri, günü, saati ve gündemi başkan tarafından belirlenir ve sekretarya aracılığıyla\nüyelere gönderilir. Gündemde olmayan "
+  },
+  {
+    "id": 51,
+    "question": "Kesin kayıt yaptırdığım tarihlerde sahte belge kullandığım tespit edilirse, hangi işlemlerle karşılaşırım?",
+    "expected_articles": [
+      "13"
+    ],
+    "expected_source_file": "Uluslararası (Yabancı uyruklu) Ogrenci Yonergesi 28.02.2016.pdf",
+    "expected_regulation": "Uluslararası (Yabancı uyruklu) Ogrenci Yonergesi 28.02.2016",
+    "reference_answer": "Sahte veya tahrif edilmiş belge kullandığı belirlenen adayların kayıt işlemleri iptal edilir ve gerekli yasal işlem yapılır.",
+    "source_text": "Madde 13-\na) Öğrencilik hakkı kazanan adaylar, akademik takvimde belirtilen tarihlerde, kılavuzda belirtilen \nbelgeler\nile kesin kayıtlarını yaptırırlar.\nb) Kayıt için sahte veya tahrif edilmiş belge kullanan veya giriş sınavlarında sahtecilik yaptığı belirlenen\nadayların kayıt işlemleri iptal edili"
+  },
+  {
+    "id": 52,
+    "question": "Fırat Üniversitesi Uluslararası Öğrenci Ofisi'nin faaliyet alanları neler? Bu alanlar, uluslararası öğrencilerin akademik süreçlerini nasıl etkiler?",
+    "expected_articles": [
+      "2"
+    ],
+    "expected_source_file": "1644309301.pdf",
+    "expected_regulation": "ULUSLARARASI ÖĞRENCİ OFİSİ YÖNERGESİ",
+    "reference_answer": "Madde 2'de belirtilen Yönerge, Fırat Üniversitesi Uluslararası Öğrenci Ofisi'nin amacını, faaliyet alanlarını, yönetim organlarını, yönetim organlarının görevlerini ve çalışma esaslarını kapsar. Uluslararası Öğrenci Ofisi, uluslararası öğrencilerin akademik süreçleriyle ilgili destek ve rehberlik sağlayarak, onların üniversitedeki deneyimlerini olumlu yönde etkiler.",
+    "source_text": "MADDE 2- (1) Bu Yönerge, Fırat Üniversitesi Uluslararası Öğrenci Ofisi'nin amacına,\nfaaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma esaslarına\nilişkin hükümleri kapsar.\nDayanak"
+  },
+  {
+    "id": 53,
+    "question": "Koordinatör yardımcısının koordinatörün olmadığı zamanlarda vekalet etmesi gerektiğinde, bu durumun ne kadar süreyle sınırlı olduğunu öğrenebilir miyim?",
+    "expected_articles": [
+      "9"
+    ],
+    "expected_source_file": "1758787568.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nÖĞRENCİ KOORDİNATÖRLÜĞÜ YÖNERGESİ",
+    "reference_answer": "Madde 9'da vekalet süresi hakkında spesifik bir sınırlama belirtilmemiştir. Ancak, koordinatör yardımcısı koordinatörün bulunmadığı zamanlarda vekalet etmekle yükümlüdür.",
+    "source_text": "MADDE 9- (1) Koordinatör yardımcısının görevleri şunlardır:\na) Öğrenci kulüp seçimlerini düzenlemek ve gerçekleştirmek.\nb) Koordinatörlükçe yürütülen seminer ve etkinlikleri planlamak, takip ve koordine etmek.\nc) Koordinatörün bulunmadığı zamanlarda Koordinatöre vekalet etmek.\nç) Koordinatörün verec"
+  },
+  {
+    "id": 54,
+    "question": "Üniversitedeki eğitimimi uluslararası bir kurumda tanıtmak istiyorum. Bu durumda AKTS kredisi uygulamasının hangi amacına dayanarak hareket etmeliyim?",
+    "expected_articles": [
+      "4"
+    ],
+    "expected_source_file": "1715603625.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nAVRUPA KREDİ TRANSFER ve BİRİKTİRME SİSTEMİ (AKTS) UYGULAMA\nYÖNERGESİ",
+    "reference_answer": "Bu durumda, AKTS kredisi uygulamasının amacı c) Üniversitedeki öğrencilerin aldıkları eğitimin diğer ülkelerdeki kurumlarda ve iş dünyasında tanınırlığını sağlamak'tır. Bu amaç doğrultusunda, eğitiminizi uluslararası bağlamda tanıtmak için AKTS sisteminin sağladığı olanaklardan yararlanmalısınız.",
+    "source_text": "MADDE 4- (1) AKTS Kredisi Uygulamasının amaçları;\n\na) Üniversitede verilen her düzeydeki eğitimin, kendisine özgü farklılığını koruyarak\nuluslararası yükseköğretim çeşitliliği ile uyumlu ve karşılaştırılabilir olmasını sağlamak,\nb) Üniversitedeki akademik personelin ve önlisans, lisans ve lisansüstü"
+  },
+  {
+    "id": 55,
+    "question": "Eğer fikri ürünümü Fırat Üniversitesi'nden bağımsız bir şekilde ticarileştirmeye karar verirsem, FÜ'nün benden talep edebileceği maksimum miktar ne kadar olacaktır?",
+    "expected_articles": [
+      "9"
+    ],
+    "expected_source_file": "FSMH_Yönergesi.pdf",
+    "expected_regulation": "FSMH Yönergesi",
+    "reference_answer": "Fırat Üniversitesi, fikri ürünün ticarileştirilmesinden elde edilen kazançtan, FÜ tarafından yapılan harcamaları aşmayacak bir miktarı talep etme hakkına sahiptir. Bu miktar, güncel değeri hesaplanarak belirlenir.",
+    "source_text": "FÜ veya Üçüncü Kişiler tarafından sağlanan herhangi bir finansman özellikle dikkate alınarak görüşülecektir. Spin - off yapısının şartlarına ilişkin karar, Fırat TTO önerisi ve FÜ üst yönetimi onayı ile belirlenecektir. ( 7 ) FÜ, bazı durumlarda, özellikle de hisselerin fikri hakkın lisansının ( EK "
+  },
+  {
+    "id": 56,
+    "question": "Kurul, İç Kontrol Standartları Bileşenleri için Alt Komisyonlar oluşturursa, bu komisyonların en az kaç üyesi olmalı ve başkanları nasıl seçiliyor?",
+    "expected_articles": [
+      "7"
+    ],
+    "expected_source_file": "1745236371.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ İÇ KONTROL SİSTEMİ İZLEME VE YÖNLENDİRME KURULU\nÇALIŞMA İLKELERİ YÖNERGESİ",
+    "reference_answer": "Alt Komisyonlar en az beşer üyeden oluşur. Her alt komisyon başkanı, Kurul üyeleri arasından Kurul tarafından seçilir.",
+    "source_text": "MADDE 7- (1) Kurul, bu Yönergenin 6. Maddesinde belirtilen görevlere ilişkin çalışmaları sırasında \ngerekli\ngörürse, konunun özelliği ve önemine uygun ayrıntılı çalışmaların yürütülmesi amacıyla İç Kontrol \nStandartları\nBileşenlerinin her biri için Alt Komisyonlar oluşturabilir.\n(2) Alt Komisyonlar,"
+  },
+  {
+    "id": 57,
+    "question": "Fırat Üniversitesi'nde eğitim-öğretim ile ilgili yeni bir uygulama önerdiğimizde, bu önerinin hangi kuruma uygunluğunu kontrol etmemiz gerekiyor?",
+    "expected_articles": [
+      "5"
+    ],
+    "expected_source_file": "1733994115.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ EĞİTİM KOMİSYONU YÖNERGESİ",
+    "reference_answer": "Yeni uygulama önerisinin, Senatoya görüş bildirmek üzere Komisyon tarafından Fırat Üniversitesinin mevzuatına, Stratejik Planına ve yönetiminin eylem planlarına uygunluğunun kontrol edilmesi gerekmektedir.",
+    "source_text": "MADDE 5- (1) Komisyonun amacı, Fırat Üniversitesinin fakülte, enstitü, yüksekokul ve meslek\nyüksekokulları ile eğitim-öğretim odaklı diğer birimlerinin eğitim-öğretim ile ilgili uygulama değişikliği \nveya\nyeni uygulama önerilerinin mevzuata, Üniversitenin Stratejik Planı ve yönetiminin eylem planlar"
+  },
+  {
+    "id": 58,
+    "question": "Eğer Sosyal Seçmeli Dersler Koordinatörlüğü'nde görev süresi dolmadan biri ayrılırsa, bu durumda kalan süreyi tamamlamak için yeni üye atama süreci nasıl işliyor?",
+    "expected_articles": [
+      "14"
+    ],
+    "expected_source_file": "1762776040.pdf",
+    "expected_regulation": "FIRAT ÜNİVERSİTESİ\nÖN LİSANS VE LİSANS SOSYAL SEÇMELİ VE ORTAK ZORUNLU DERS YÖNERGESİ",
+    "reference_answer": "Görev süresi dolmadan koordinatörlük üyeliğinden ayrılan veya üç aydan fazla üniversite dışında görevlendirilen üyenin yerine kalan süreyi tamamlamak üzere aynı usul ile yeni bir üye atanır.",
+    "source_text": "Madde 14- (1) Sosyal Seçmeli Dersler Koordinatörlüğü, Rektör tarafından üniversite öğretim üyeleri\narasından biri başkan olmak üzere atanan üç üyeden oluşur. Üyelerin görev süresi üç yıldır. Görev \nsüresini\ntamamlayan üye tekrar atanabilir. Koordinatörlük, koordinatör başkanlığında üye tam sayısı il"
+  },
+  {
+    "id": 59,
+    "question": "2000 yılından sonra hazırladığım bir makaleyi Yayın Komisyonu'na sundum, ama hakemlerden gelen raporların ikisi olumsuz oldu. Bu durumda makalemin yayınlanması kesin olarak reddedilecek mi?",
+    "expected_articles": [
+      "2"
+    ],
+    "expected_source_file": "F.Ü. Yayın Yönergesi.pdf",
+    "expected_regulation": "F.Ü. Yayın Yönergesi",
+    "reference_answer": "Evet, hakemlerden gelen raporların en az ikisinin olumlu olması gerekmektedir. Üç rapordan ikisinin olumsuz gelmesi durumunda eserin yayınlanmasına izin verilmez.",
+    "source_text": "Madde 2 : Yayınların Komisyona Sunulması ve Değerlendirilmesi a - Öğretim elemanları 2000 yılından önce yayınlamış bulundukları Kitap, Ders Notu veya Kitap Bölümlerini bir dilekçe ekinde ve dört nüsha halinde Yayın Komisyonu ’ na sunar. Yayın Komisyonu f bendinde belirtilen kıstaslara uymayan eserle"
+  },
+  {
+    "id": 60,
+    "question": "Deney hayvanı yemi almak için Müdürün talebi üzerine Üniversite Döner Sermaye İşletmesi üzerinden işlem yapıldığında, bu işlemlerin hangi birim için yapıldığı belirtiliyor mu?",
+    "expected_articles": [
+      "15"
+    ],
+    "expected_source_file": "F.Ü. Deneysel Araştırmalar Merkezi Yönergesi_0.pdf",
+    "expected_regulation": "F.Ü. Deneysel Araştırmalar Merkezi Yönergesi 0",
+    "reference_answer": "Evet, bu işlemler 'FÜDAM Döner Sermaye Birimi' için yapılmaktadır.",
+    "source_text": "MADDE 15- Merkezde yürütülecek faaliyetlerden elde edilecek her türlü gelir, Üniversite Döner \nSermaye\nİşletmesine “FÜDAM Döner Sermaye Birimi” için yatırılır. Merkez hizmetlerinin yerine getirilmesi için \ndeney\nhayvanı yemi, sarf malzemesi ve demirbaş gibi gerekli malzemelerin alımı ile geçici pers"
+  }
+]

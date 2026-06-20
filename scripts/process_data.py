@@ -15,8 +15,8 @@ logger = logging.getLogger(__name__)
 
 def main():
     logger.info("PDF'ler taranıyor ve parse ediliyor...")
-    # Yeni taşıdığımız dizin
-    articles = parse_all_pdfs("data/raw/yönetmelikler")
+    # PDF'lerin bulunduğu klasör (yönetmelikler alt dizini değil, doğrudan data/raw)
+    articles = parse_all_pdfs("data/raw")
     
     if not articles:
         logger.error("Hiç madde ayıklanamadı!")

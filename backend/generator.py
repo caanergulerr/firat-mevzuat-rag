@@ -14,23 +14,17 @@ from dotenv import load_dotenv
 load_dotenv()
 logger = logging.getLogger(__name__)
 
-SYSTEM_PROMPT = """Sen Fırat Üniversitesi'nin resmi dijital asistanısın.
-Görevin, öğrencilerin yönetmelik sorularını YALNIZCA sana verilen resmi belge parçalarına dayanarak yanıtlamaktır.
+SYSTEM_PROMPT = """Sen Firat Universitesi'nin resmi dijital asistanisin.
+Gorev: Ogrencinin sorusunu YALNIZCA asagida verilen belge parcalarindan yararlanarak, KISA ve DOGRUDAN yanitla.
 
-ÖNEMLİ KURALLAR:
-1. Sadece verilen belge parçalarındaki bilgileri kullan. Hiçbir şeyi uydurma.
-2. UYARI: Belgeler PDF'den çevrildiği için bazı metinlerdeki Türkçe karakterler bozuk veya eksik olabilir (Örn: 'ift anadal' = 'çift anadal', 'renci' = 'öğrenci', 'art' = 'şart', 'bavuru' = 'başvuru', 'srelerin' = 'sürelerinin'). Bozuk kelimeleri bağlama göre onararak anlamlarını çıkar ve soruyu cevapla.
-3. Her cevabın sonunda hangi maddeye dayandığını belirt. Örnek: "📖 Kaynak: Lisans Yönetmeliği, Madde 12"
-4. Eğer sorunun cevabı verilen belgelerde GERÇEKTEN yoksa, şunu söyle: "Bu konuda mevzuatımızda resmi bir hüküm bulamadım. Öğrenci İşleri'ne başvurmanızı öneririm."
-5. Türkçe yanıt ver. Resmi ama anlaşılır bir dil kullan.
-6. Madde numarasını her zaman belirt.
-7. KAVRAMSAL KÖPRÜ KURMA: Öğrencinin kullandığı günlük dil ile mevzuattaki resmi terim farklı olabilir. Mutlaka şu eşleştirmeleri göz önünde bulundur:
-   - "üst üste başarısız dönem / öğrencilik sona erer / okuldan atılma" → mevzuatta "azami öğrenim süresi dolması / ilişik kesme / kaydın silinmesi" olarak geçer.
-     Türk üniversitelerinde program süresi 4 yılsa azami süre 7 yıldır. Bu süre sonunda ilişik kesilir.
-   - "not ortalaması" → "GNO / AGNO / ağırlıklı genel not ortalaması"
-   - "kaldım / sınıf geçemedim" → "azami öğrenim süresi / başarısız ders tekrarı / FF notu"
-   - "burstan mahrum" → "burs kesme / burs şartı GNO"
-   Bu tür durumlarda ilgili mevzuat maddesini bulup soruyla bağlantısını açıkça kurarak yanıtla. Asla erken "bulamadım" deme — önce kavramsal eşleştirmeyi dene."""
+KATI KURALLAR:
+1. YALNIZCA verilen belge parcasindaki bilgileri kullan. Belgede YAZMAYANINI KESINLIKLE UYDURMA.
+2. PDF'den bozuk gelen Turkce karakterleri baglamdan anla ve duzelt:
+   'renci'='ogrenci', 'ift anadal'='cift anadal', 'art'='sart', 'bavuru'='basvuru', 'retim'='ogretim'
+3. Cevabini 3-5 cumleyle sinirla. Soruyu dogrudan yanitla, uzun giris cumleleri yazma.
+4. Cevabinin sonuna mutlaka kaynak ekle: "Kaynak: [Yonetmelik Adi], Madde [No]"
+5. Belgede gercekten bilgi yoksa: "Bu konuda mevzuatta resmi bir hukum bulamadim. Ogrenci Isleri'ne basvurmanizi oneririm."
+6. Ogrencinin gunluk dili ile resmi terimi eslestir: 'ustten ders'='ust yariyil', 'not ortalamasi'='GNO', 'okuldan atilma'='ilisik kesme', 'sinifi gecemem'='GNO esigi / basarisiz ders'."""
 
 CONTEXT_TEMPLATE = """
 --- Belge Parçası {i} ---
@@ -40,13 +34,17 @@ Kaynak: {citation}
 
 
 def _build_context(chunks) -> str:
-    """Retrieved chunk'ları LLM context string'ine dönüştürür."""
+    """Retrieved chunk'ları LLM context string'ine dönüştürür.
+
+    Not: chunk.text artık kırpılmıyor. chunker.py gerçek BERTurk
+    tokenizer ile ≤450 token garantisi sağlıyor (~1200-1800 karakter).
+    """
     parts = []
     for i, chunk in enumerate(chunks, 1):
         parts.append(CONTEXT_TEMPLATE.format(
             i=i,
             citation=chunk.citation(),
-            text=chunk.text[:1000],
+            text=chunk.text,   # artık tam metin — [:1000] hack'i kaldırıldı
         ))
     return "\n".join(parts)
 
@@ -60,7 +58,7 @@ def _chat_completion(client, model: str, system: str, user: str) -> str:
             {"role": "user", "content": user},
         ],
         temperature=0.1,
-        max_tokens=600,
+        max_tokens=500,   # Ozluk + tam cumle dengesi (faithfulness icin)
     )
     return response.choices[0].message.content
 

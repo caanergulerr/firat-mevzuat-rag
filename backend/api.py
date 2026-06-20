@@ -17,10 +17,13 @@ import threading
 from datetime import datetime
 from functools import lru_cache
 
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 from dotenv import load_dotenv
+from slowapi import Limiter, _rate_limit_exceeded_handler
+from slowapi.util import get_remote_address
+from slowapi.errors import RateLimitExceeded
 
 load_dotenv()
 logging.basicConfig(level=logging.INFO)
@@ -40,6 +43,11 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# ── Rate Limiter ─────────────────────────────────────────────────────────────
+limiter = Limiter(key_func=get_remote_address)
+app.state.limiter = limiter
+app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
 
 # ── Lazy Pipeline ─────────────────────────────────────────────────────────────
 _pipeline = None
@@ -108,7 +116,8 @@ def get_cached_answer(question: str):
 
 # ── Endpoint'ler ───────────────────────────────────────────────────────────────
 @app.post("/query", response_model=QueryResponse, summary="Yönetmelik sorusu sor")
-def query(request: QueryRequest):
+@limiter.limit("5/minute")
+def query(request: Request, query_req: QueryRequest):
     """
     Öğrencinin sorusunu alır, bağlamda bulunan yönetmelik maddelerine göre yanıtlar.
     Her cevap hangi maddeye dayandığını belirtir.
@@ -123,7 +132,7 @@ def query(request: QueryRequest):
             )
 
         hits_before = get_cached_answer.cache_info().hits
-        result = get_cached_answer(request.question)
+        result = get_cached_answer(query_req.question)
         was_cached = get_cached_answer.cache_info().hits > hits_before
 
         return QueryResponse(
