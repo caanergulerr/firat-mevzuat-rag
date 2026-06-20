@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "question": "Mazeret sınavı hakkından kimler yararlanabilir?",
+    "expected_articles": ["13"],
+    "expected_source_file": "1606909123.pdf",
+    "expected_regulation": "Fırat Üniversitesi Eğitim-Öğretim ve Sınav Yönetmeliği",
+    "reference_answer": "Mazeret sınavı, Rektörlük tarafından görevlendirilen veya ilgili birimin yönetim kurulunca kabul edilebilir bir mazereti nedeniyle ara sınava katılamayan öğrenciler için yapılır. Mazeret sınav hakkı sadece ara sınavlar için verilir."
+  },
+  {
+    "id": 2,
+    "question": "Üst yarıyıldan ders alabilmek için GPA şartı nedir?",
+    "expected_articles": ["11"],
+    "expected_source_file": "1606909123.pdf",
+    "expected_regulation": "Fırat Üniversitesi Eğitim-Öğretim ve Sınav Yönetmeliği",
+    "reference_answer": "Öğrencinin bir üst yarıyıldan ders alabilmesi için önceki yarıyıllardan dersinin kalmaması ve GNO'sunun en az 3.00 olması gerekir."
+  },
+  {
+    "id": 3,
+    "question": "Azami öğrenim süresini aşan öğrencinin durumu ne olur?",
+    "expected_articles": ["8", "33"],
+    "expected_source_file": "1606909123.pdf",
+    "expected_regulation": "Fırat Üniversitesi Eğitim-Öğretim ve Sınav Yönetmeliği",
+    "reference_answer": "Azami öğrenim süresi dolan öğrenciye ek sınav hakları verilir. Ek sınavlar sonunda mezuniyet için beşten fazla dersi kalan öğrencilerin Üniversite ile ilişiği kesilir."
+  },
+  {
+    "id": 4,
+    "question": "Öğrenci kaydını dondurmak (izinli ayrılmak) için hangi şartlar gerekir?",
+    "expected_articles": ["32"],
+    "expected_source_file": "1606909123.pdf",
+    "expected_regulation": "Fırat Üniversitesi Eğitim-Öğretim ve Sınav Yönetmeliği",
+    "reference_answer": "İlgili birimin yönetim kurulu kararı ile öğrenciye her defasında bir yarıyıl süre ile izin verilebilir. Toplam öğrencilik süresinde iki yılı geçemez. Sağlık, tabii afet, ekonomik nedenler gibi haklı ve geçerli nedenler kabul edilir."
+  },
+  {
+    "id": 5,
+    "question": "Öğrencinin Üniversite ile ilişiği hangi durumlarda kesilir?",
+    "expected_articles": ["33"],
+    "expected_source_file": "1606909123.pdf",
+    "expected_regulation": "Fırat Üniversitesi Eğitim-Öğretim ve Sınav Yönetmeliği",
+    "reference_answer": "Öğrencinin Üniversite ile ilişiği; azami sürede öğrenimini tamamlayamayanlar, kayıt yenilemeyen öğrenciler ve Disiplin Yönetmeliği uyarınca çıkarma cezası alanlar için kesilir."
+  },
+  {
+    "id": 6,
+    "question": "Tek ders sınavına girebilmek için hangi şartlar aranır?",
+    "expected_articles": ["17"],
+    "expected_source_file": "1606909123.pdf",
+    "expected_regulation": "Fırat Üniversitesi Eğitim-Öğretim ve Sınav Yönetmeliği",
+    "reference_answer": "Tek ders sınavı, mezuniyet aşamasına gelip yalnızca tek dersten FF notu olan öğrenciler için yapılır. Öğrencinin 14. maddedeki şartları daha önce yerine getirmiş olması gerekmektedir."
+  },
+  {
+    "id": 7,
+    "question": "Bütünleme sınavına girebilmek için hangi koşullar sağlanmalıdır?",
+    "expected_articles": ["15"],
+    "expected_source_file": "1606909123.pdf",
+    "expected_regulation": "Fırat Üniversitesi Eğitim-Öğretim ve Sınav Yönetmeliği",
+    "reference_answer": "Bütünleme sınavına girebilmek için ilgili derslere akademik takvimde kayıt yaptırmak ve yarıyıl sonu sınavına girebilme şartlarını sağlamış olmak zorunludur."
+  },
+  {
+    "id": 8,
+    "question": "GNO'sunu yükseltmek isteyen öğrenci ne yapabilir?",
+    "expected_articles": ["28"],
+    "expected_source_file": "1606909123.pdf",
+    "expected_regulation": "Fırat Üniversitesi Eğitim-Öğretim ve Sınav Yönetmeliği",
+    "reference_answer": "GNO'sunu yükseltmek isteyen başarılı öğrenciler, daha önce aldıkları ve başarılı oldukları dersleri o derslerin açıldığı yarıyılda tekrarlayabilir. Tekrarlanan derste alınan son not geçerlidir."
+  },
+  {
+    "id": 9,
+    "question": "Genel sınava girebilmek için devam şartı nedir?",
+    "expected_articles": ["14"],
+    "expected_source_file": "1606909123.pdf",
+    "expected_regulation": "Fırat Üniversitesi Eğitim-Öğretim ve Sınav Yönetmeliği",
+    "reference_answer": "Genel sınava girebilmek için teorik derslerin en az yüzde 70'ine, uygulamaların en az yüzde 80'ine devam edilmesi zorunludur."
+  },
+  {
+    "id": 10,
+    "question": "Başarısız öğrenci üst yarıyıldan ders alabilir mi?",
+    "expected_articles": ["27"],
+    "expected_source_file": "1606909123.pdf",
+    "expected_regulation": "Fırat Üniversitesi Eğitim-Öğretim ve Sınav Yönetmeliği",
+    "reference_answer": "GNO'su 1.80'in altında kalan başarısız öğrenciler üst yarıyıldan ders alamaz. Bu öğrenciler öncelikle FF aldıkları dersleri tekrarlayarak GNO'larını 1.80'e yükseltmek zorundadır."
+  }
+]
+
+

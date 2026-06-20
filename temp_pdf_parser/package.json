@@ -1,0 +1,19 @@
+{
+  "name": "temp_pdf_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "mupdf": "^1.27.0",
+    "pdf-parse": "^1.1.1",
+    "pdfkit": "^0.18.0",
+    "tesseract.js": "^7.0.0"
+  }
+}
