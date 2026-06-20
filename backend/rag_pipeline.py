@@ -39,69 +39,190 @@ def _normalize_tr(text: str) -> str:
         elif ch == '\u00dc': result.append('U')  # U
         else: result.append(ch)
     return ''.join(result)
-
-# Statik arama genisleme sozlugu - Gemini rate limit durumunda fallback
+# ---------------------------------------------------------------------------
+# Statik arama genisleme sozlugu
+# Her anahtar kelime ogrenci argosundan resmi mevzuat diline esleme yapar.
+# Bir soruda BIRDEN FAZLA anahtar kelime eslesebilir — hepsi birlestirilir.
+# ---------------------------------------------------------------------------
 QUERY_DICT = {
-    "ustten ders": "ust yariyil ders alma sarti GNO not ortalamasi 3.00 ust yariyildan ders alabilir",
-    "ust yariyil": "ust yariyil ders alma sarti GNO not ortalamasi 3.00 ust yariyildan ders alabilir",
-    "cift anadal": "cift anadal basvuru kabul sarti GNO not ortalamasi yuzde yirmi basari sirasi kontenjan",
-    "yandal": "yandal programa basvuru sarti GNO AKTS kredi",
-    "mazeret sinav": "mazeret sinavi hakki basvuru belge saglik raporu haklı gecerli mazeret",
-    "kayit dondur": "kayit dondurma izinli ayrilma ogrencilik hakki",
-    "mezun olma": "mezuniyet sarti toplam kredi AKTS staj bitirme projesi",
-    "not ortalama": "genel not ortalamasi GNO agirlikli ortalama hesaplama",
-    "dersten cekil": "ders birakma cekilme kayit silme akademik takvim",
-    "staj": "zorunlu staj pratik calisma mezuniyet sarti kredi",
-    "disiplin": "disiplin cezasi ogrenci sinav kopya ihlal",
-    "burs": "burs basvuru sarti basari kriteri sosyal yardim",
-    "yatay gecis": "yatay gecis basvuru sarti kontenjan not ortalamasi",
-    "dikey gecis": "dikey gecis basvuru DGS sarti",
-    "af": "ogrenci af kanunu egitim ogretim suresi uzatma",
-    "sinavdan kaldi": "basarisiz ders tekrar FF DC not",
-    "sinif tekrar": "sinif tekrar basarisiz ders yuk GNO",
-    # --- Yeni eklenenler ---
+    # === UST YARIYIL / USTTEN DERS ===
+    "ustten ders":       "ust yariyil ders alma sarti GNO not ortalamasi 3.00 ust yariyildan ders alabilir",
+    "ust yariyil":       "ust yariyil ders alma sarti GNO not ortalamasi 3.00 ust yariyildan ders alabilir",
+    "ust siniftan":      "ust yariyil ders alma sarti GNO not ortalamasi onay akademik danisман",
+
+    # === CIFT ANADAL / YANDAL ===
+    "cift anadal":       "cift anadal programa basvuru kabul sarti GNO not ortalamasi yuzde yirmi basari sirasi kontenjan",
+    "cap":               "cift anadal programa basvuru kabul sarti GNO not ortalamasi yuzde yirmi basari sirasi kontenjan",
+    "yandal":            "yandal programa basvuru sarti GNO AKTS kredi onay bolum baskanligi",
+    "minör":             "yandal programa basvuru sarti GNO AKTS kredi onay bolum baskanligi",
+    "minor":             "yandal programa basvuru sarti GNO AKTS kredi onay bolum baskanligi",
+
+    # === MAZERET SINAVI ===
+    "mazeret sinav":     "mazeret sinavi hakki basvuru belge saglik raporu haklı gecerli mazeret yonetim kurulu",
+    "mazeret":           "mazeret sinavi hakki basvuru belge saglik raporu haklı gecerli mazeret yonetim kurulu",
+    "sinava giremedin":  "mazeret sinavi hakki basvuru belge saglik raporu gecerli gerekce",
+    "sinava giremedim":  "mazeret sinavi hakki basvuru belge saglik raporu gecerli gerekce",
+    "sinavi kacirdi":    "mazeret sinavi hakki basvuru belge saglik raporu gecerli gerekce",
+
+    # === KAYIT DONDURMA ===
+    "kayit dondur":      "kayit dondurma izinli ayrilma ogrencilik hakki donem ask",
+    "izinli ayril":      "kayit dondurma izinli ayrilma basvuru ogrencilik hakki",
+    "ara ver":           "kayit dondurma izinli ayrilma ogrencilik hakki basvuru",
+
+    # === MEZUNIYET ===
+    "mezun olma":        "mezuniyet sarti toplam kredi AKTS staj bitirme projesi not ortalamasi",
+    "mezuniyet":         "mezuniyet sarti toplam kredi AKTS staj bitirme projesi not ortalamasi",
+    "bitmez mi":         "azami ogretim suresi mezuniyet sarti toplam kredi tamamlama",
+    "ne zaman biter":    "azami ogretim suresi mezuniyet sarti toplam kredi AKTS tamamlama",
+    "mezun olamadim":    "azami ogretim suresi uzatma ek sure mezuniyet engelleyen eksik ders",
+
+    # === NOT ORTALAMASI ===
+    "not ortalama":      "genel not ortalamasi GNO agirlikli ortalama hesaplama",
+    "gno":               "genel not ortalamasi GNO agirlikli ortalama hesaplama ders baari",
+    "ortalamam dusuk":   "genel not ortalamasi GNO dusuk akademik yetersizlik uyari",
+    "ortalama artir":    "genel not ortalamasi GNO yukseltme tekrar ders akademik danismanlik",
+    "cc ile gectim":     "baari notu harf notu CC DD basari sarti ders gecme",
+    "ff aldim":          "basarisiz ders not FF tekrar sinav ders tekrari GNO dusme",
+    "dc aldim":          "basarisiz ders not DC sarti ders tekrari koşullu geçme",
+
+    # === DERS BIRAKMA / CEKILME ===
+    "dersten cekil":     "ders birakma cekilme kayit silme yariyil akademik takvim son gun",
+    "ders birak":        "ders birakma cekilme kayit silme yariyil akademik takvim son gun",
+    "ders sil":          "ders birakma cekilme kayit silme yariyil akademik takvim son gun",
+    "cekildim ders":     "ders birakma cekilme kayit silme yariyil akademik takvim son gun",
+
+    # === STAJ ===
+    "staj":              "zorunlu staj pratik calisma mezuniyet sarti kredi AKTS suresi",
+    "staj yapmak":       "zorunlu staj pratik calisma mezuniyet sarti kredi suresi belge",
+    "stajimu":           "zorunlu staj pratik calisma mezuniyet sarti kredi",
+
+    # === DISIPLIN / KOPYA / CEZA ===
+    "disiplin":          "disiplin cezasi ogrenci sinav kopya ihlal yonetmelik hukum",
+    "kopya cekti":       "sinav kopya ihlal disiplin cezasi uzaklastirma ogrenci ihlali",
+    "hile":              "sinav kopya ihlal disiplin cezasi uzaklastirma ogrenci ihlali",
+    "ceza":              "disiplin cezasi ogrenci ihlal uzaklastirma yonetmelik hukum ogrenci",
+    "ihrac":             "ogrenci ihrac uzaklastirma disiplin cezasi kurumdan cikis",
+    "uzaklastirma":      "disiplin cezasi uzaklastirma ogrenci ihrac yonetmelik hukum",
+
+    # === BURS ===
+    "burs":              "burs basvuru sarti basari kriteri sosyal yardim kontenjan",
+    "burs alabilir":     "burs basvuru sarti basari kriteri sosyal yardim gelir siniri",
+    "kredi":             "kredi burs ogrenci kredisi basvuru sarti geri odeme",
+
+    # === YATAY GECIS ===
+    "yatay gecis":       "yatay gecis basvuru sarti kontenjan not ortalamasi kabul komisyon",
+    "baska okula gecis": "yatay gecis basvuru sarti kontenjan not ortalamasi universiti",
+    "transfer":          "yatay gecis basvuru sarti kontenjan not ortalamasi universiti kabul",
+
+    # === DIKEY GECIS ===
+    "dikey gecis":       "dikey gecis basvuru DGS sarti sinav puani kontenjan",
+    "dgs":               "dikey gecis sinavi DGS basvuru sarti puan kontenjan",
+    "onlisanstan":       "dikey gecis basvuru DGS sarti onlisans mezuniyet",
+
+    # === AF ===
+    "af":                "ogrenci af kanunu egitim ogretim suresi uzatma ek sure hakki",
+    "af cikti mi":       "ogrenci af kanunu egitim ogretim suresi uzatma resmi gazete",
+
+    # === BASARISIZLIK / SINIF TEKRAR ===
+    "sinavdan kaldi":    "basarisiz ders tekrar FF DC not ortalama dusum",
+    "sinif tekrar":      "sinif tekrar basarisiz ders yuk GNO dusme akademik uyari",
+    "butte gecmek":      "sinav baari notu sinif gecme sarti GNO basarisiz",
+    "butte kalmak":      "basarisiz ders tekrar FF sinif gecememe akademik yetersizlik",
+    "kan":               "sinav not baari esigi harf notu hesaplama GNO",
+    "cana gelmek":       "sinav baari notu sinif gecme sarti GNO iyilestirme",
+
+    # === AZAMI SURE / ILISIK KESME ===
     "ust uste":          "azami ogretim suresi ust uste basarisiz donem ilisik kesme kayit silme ogrencilik sona ermesi",
     "kac donem":         "azami ogretim suresi ust uste basarisiz donem ilisik kesme kayit silme",
     "ogrencilik sona":   "azami ogretim suresi ilisik kesme kayit silme ogrencilik sona ermesi",
     "ilisik kesme":      "ilisik kesme kayit silme azami ogretim suresi basarisiz donem",
-    "azami sure":        "azami ogretim suresi ust sinir toplam sure donem",
-    "muafiyet":          "ders muafiyeti intibak yatay gecis bolum baskanligi yonetim kurulu",
-    "not donusum":       "not donusumu ECTS kredi donusum tablosu erasmus yurt disi",
-    "erasmus":           "erasmus yurt disi egitim not donusumu ECTS kredi denklik transkript",
-    "kayit yenile":      "kayit yenileme donem baslangici akademik takvim borc",
-    "devamsizlik":       "devamsizlik yoklama orant yuzde otuz ders devam sarti",
-    "ders yuku":         "ders yuku kredi AKTS maksimum sinir donem basarisizligi",
-    "transkript":        "transkript not belgesi onaylı resmi ogrenci isleri",
+    "azami sure":        "azami ogretim suresi ust sinir toplam sure donem yil",
     "ogretim suresi":    "azami ogretim suresi lisans donem yil uzatma ek sure",
+    "okulu uzatmak":     "azami ogretim suresi uzatma ek sure basvuru yonetim kurulu",
+
+    # === MUAFIYET / INTIBAK ===
+    "muafiyet":          "ders muafiyeti intibak yatay gecis bolum baskanligi yonetim kurulu",
+    "muaf olma":         "ders muafiyeti intibak yatay gecis bolum baskanligi yonetim kurulu",
+    "sayilir mi":        "ders muafiyeti denklik intibak kredi sayilma yonetim kurulu",
+
+    # === NOT DONUSUMU / ERASMUS ===
+    "not donusum":       "not donusumu ECTS kredi donusum tablosu erasmus yurt disi denklik",
+    "erasmus":           "erasmus yurt disi egitim not donusumu ECTS kredi denklik transkript",
+    "yurt disi":         "erasmus yurt disi egitim not donusumu ECTS kredi denklik",
+    "exchange":          "erasmus exchange yurt disi egitim not donusumu ECTS kredi denklik",
+
+    # === KAYIT YENILEME ===
+    "kayit yenile":      "kayit yenileme donem baslangici akademik takvim borc ders secimi",
+    "kayit yaptirma":    "kayit yenileme donem baslangici akademik takvim borc",
+    "kayit olmadim":     "kayit yenileme gecikme mazeretli basvuru akademik takvim",
+
+    # === DEVAMSIZLIK ===
+    "devamsizlik":       "devamsizlik yoklama oran yuzde otuz ders devam zorunlulugu sarti",
+    "yoklama":           "devamsizlik yoklama oran yuzde otuz ders devam zorunlulugu",
+    "devama girmedi":    "devamsizlik yoklama oran yuzde otuz sinava girme hakki",
+    "devamsiz":          "devamsizlik yoklama oran yuzde otuz sinava girme hakki",
+
+    # === DERS YUKU ===
+    "ders yuku":         "ders yuku kredi AKTS maksimum sinir donem basarisizligi",
+    "kac ders alabilir": "ders yuku kredi AKTS maksimum sinir donem sarti GNO",
+    "ders sayisi":       "ders yuku kredi AKTS maksimum sinir yariyil ders adedi",
+
+    # === BELGELER / TRANSKRIPT ===
+    "transkript":        "transkript not belgesi onaylı resmi ogrenci isleri daire baskanligi",
+    "ogrenci belgesi":   "ogrenci belgesi talep resmi ogrenci isleri devam belgesi",
+    "belge":             "resmi belge tasdik onay ogrenci isleri daire baskanligi",
+
+    # === SINAV TAKVIMI / SONUCLARI ===
+    "sinav sonuclari":   "sinav sonuclari ilan itiraz suresi not guncelleme",
+    "notu degistir":     "not itiraz suresi sinav kagidi inceleme yonetim kurulu",
+    "itiraz":            "sinav not itiraz basvuru suresi kagit inceleme bolum baskanligi",
+    "not itiraz":        "sinav not itiraz basvuru suresi sinav kagidi inceleme",
+
+    # === MEZUNIYET SONRASI ===
+    "diploma":           "diploma teslimi mezuniyet belgesi ogrenci isleri teslim suresi",
+    "mezuniyet belgesi": "diploma teslimi mezuniyet belgesi ogrenci isleri",
 }
 
-EXPANSION_PROMPT = """Bir universite ogrencisinin gunluk dilde sordugu soruyu,
-universite yonetmeligi metinlerinde daha iyi arama yapabilmek icin
-resmi Turkce akademik/hukuki terimlerle zenginlestirilmis bir arama sorgusuna donustur.
+# ---------------------------------------------------------------------------
+# LLM Prompt — statik esleme bulamazsa devreye girer
+# ---------------------------------------------------------------------------
+EXPANSION_PROMPT = """Sen bir Türk üniversite mevzuatı uzmanısın.
+Aşağıdaki öğrenci sorusunu, üniversite yönetmeliği PDF metinlerinde tam metin araması yapmak için
+resmi Türkçe hukuki/akademik terimlerle zenginleştirilmiş 6-12 kelimelik bir arama sorgusuna dönüştür.
 
-Sadece Turkce arama terimi yaz (5-12 kelime). Baska hicbir sey yazma.
+Kuralllar:
+- Yalnızca Türkçe terim yaz
+- Resmi yönetmelik dilini kullan ("azami öğretim süresi", "GNO", "AKTS" vb.)
+- Öğrencinin kendi kullandığı argoya yer verme
+- Başka hiçbir şey yazma, sadece arama terimlerini yaz
 
-Ornekler:
-Soru: ustten ders alabilirmiyim
-Donusum: ust yariyil ders alma sarti GNO not ortalamasi 3.00 akademik danisман onayi
+Örnekler:
+Soru: üstten ders alabilir miyim
+Dönüşüm: üst yarıyıl ders alma şartı GNO not ortalaması 3.00 akademik danışman onayı
 
-Soru: sinifi gecemem ne olur
-Donusum: basarisiz ogrenci genel not ortalamasi GNO sinif gecme sarti ders tekrari
+Soru: sınıfı geçemem ne olur
+Dönüşüm: başarısız öğrenci genel not ortalaması GNO sınıf geçme şartı ders tekrarı
 
-Soru: dersten cekilebilir miyim
-Donusum: ders birakma cekilme kayit silme yariyil akademik takvim
+Soru: dersten çekilebilir miyim
+Dönüşüm: ders bırakma çekilme kayıt silme yarıyıl akademik takvim son gün
 
-Soru: cift anadal sartlari nelerdir
-Donusum: cift anadal programa basvuru sarti GNO not ortalamasi AKTS kredi
+Soru: çift anadal şartları nelerdir
+Dönüşüm: çift anadal programa başvuru şartı GNO not ortalaması AKTS kredi kontenjan
 
 Soru: staj zorunlu mu
-Donusum: zorunlu staj pratik calisma mezuniyet sarti toplam kredi
+Dönüşüm: zorunlu staj pratik çalışma mezuniyet şartı toplam kredi AKTS
 
-Soru: mazeret sinavi nasil alinir
-Donusum: mazeret sinavi hakki basvuru belge saglik raporu haklı gerekce yonetim kurulu
+Soru: mazeret sınavı nasıl alınır
+Dönüşüm: mazeret sınavı hakkı başvuru belge sağlık raporu haklı gerekçe yönetim kurulu
+
+Soru: disiplin cezası nasıl verilir
+Dönüşüm: disiplin cezası öğrenci ihlal uzaklaştırma yönetmelik hüküm soruşturma
+
+Soru: not itirazı nasıl yapılır
+Dönüşüm: sınav not itiraz başvuru süresi sınav kâğıdı inceleme bölüm başkanlığı
 
 Soru: {question}
-Donusum:"""
+Dönüşüm:"""
 
 
 @dataclass
@@ -153,22 +274,56 @@ class RAGPipeline:
     def _expand_query(self, question: str) -> str:
         """
         Ogrencinin gunluk dil sorusunu mevzuat terimleriyle zenginlestirir.
-        Once statik sozluge bakar, yoksa LLM API kullanir.
+
+        Gelistirmeler:
+        - Coklu keyword esleme: ilk bulduğunda durmak yerine TUM eslesmeleri toplar
+        - Soru tipi tespiti: "ne zaman", "ceza", "itiraz" gibi patternlere gore ek terim
+        - LLM fallback: statik sozlukte esleme yoksa Groq/OpenAI'ye gonder
         """
         q_lower = question.lower()
         q_normalized = _normalize_tr(q_lower)
 
-        # 1. Once statik sozluge bak (hizli, API gerekmez)
+        # 1. Statik sozlukte TUM eslesmeleri topla (ilkinde durma!)
+        matched_expansions = []
+        matched_keys = []
         for keyword, expansion in QUERY_DICT.items():
             if keyword in q_normalized:
-                combined = f"{question} {expansion}"
-                logger.info(f"Statik expansion: '{question}' -> '{combined[:80]}'")
-                return combined
+                matched_expansions.append(expansion)
+                matched_keys.append(keyword)
 
-        # 2. Statik esleme yoksa LLM'e sor (Groq veya OpenAI)
+        if matched_expansions:
+            # Tekrar eden kelimeleri temizleyerek birlestir
+            all_terms = set()
+            for exp in matched_expansions:
+                all_terms.update(exp.split())
+            combined_expansion = " ".join(all_terms)
+            combined = f"{question} {combined_expansion}"
+            logger.info(
+                f"Statik expansion ({len(matched_keys)} esleme: {matched_keys}): "
+                f"'{question}' -> '{combined[:100]}'"
+            )
+            return combined
+
+        # 2. Soru tipi tespiti — ek bağlam terimi ekle
+        question_type_hints = ""
+        if any(p in q_normalized for p in ["ne zaman", "hangi tarih", "kac gun", "suresi"]):
+            question_type_hints = "akademik takvim sure tarih gun sinir"
+        elif any(p in q_normalized for p in ["ceza", "suclama", "ihlal", "sorusturma"]):
+            question_type_hints = "disiplin cezasi ogrenci ihlal uzaklastirma yonetmelik hukum"
+        elif any(p in q_normalized for p in ["itiraz", "sikayyet", "sikayet"]):
+            question_type_hints = "itiraz basvuru sure bolum baskanligi yonetim kurulu"
+        elif any(p in q_normalized for p in ["sarti", "kriter", "gerekli", "nasil", "ne lazim"]):
+            question_type_hints = "basvuru sarti kriter gereksinim yonetmelik hukum"
+
+        # 3. Statik esleme yoksa LLM'e sor (Groq veya OpenAI)
         client, model_name = self._get_llm_client()
         if client is None:
-            return question
+            # LLM de yoksa soru tipi ipucuyla geri don
+            base = question
+            if question_type_hints:
+                base = f"{question} {question_type_hints}"
+                logger.info(f"Soru tipi ipucu eklendi: '{question}' -> '{base[:80]}'")
+            return base
 
         try:
             prompt = EXPANSION_PROMPT.format(question=question)
@@ -176,15 +331,22 @@ class RAGPipeline:
                 model=model_name,
                 messages=[{"role": "user", "content": prompt}],
                 temperature=0.1,
-                max_tokens=80,
+                max_tokens=100,
             )
             expanded = response.choices[0].message.content.strip().split("\n")[0].strip()
             if expanded and len(expanded) > 5:
-                logger.info(f"Query expansion: '{question}' -> '{expanded}'")
-                return f"{question} {expanded}"
+                # Soru tipi ipucunu da ekle
+                full = f"{question} {expanded}"
+                if question_type_hints:
+                    full = f"{full} {question_type_hints}"
+                logger.info(f"LLM expansion: '{question}' -> '{full[:100]}'")
+                return full
         except Exception as e:
             logger.warning(f"Query expansion basarisiz: {e}")
 
+        # Son care: ham soruya soru tipi ipucunu birlestir
+        if question_type_hints:
+            return f"{question} {question_type_hints}"
         return question
 
     def ask(self, question: str) -> RAGResult:
