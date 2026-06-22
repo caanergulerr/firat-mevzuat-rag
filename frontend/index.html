@@ -44,29 +44,69 @@
       <div class="sidebar-nav">
         <div class="section-label">
           <span>Örnek Sorular</span>
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
         </div>
-        <div class="example-questions">
-          <button class="example-q" data-q="Mazeret sınavı hakkım var mı?">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
-            Mazeret sınavı hakkım var mı?
-          </button>
-          <button class="example-q" data-q="Çift anadal için GPA şartı nedir?">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
-            Çift anadal için GPA şartı nedir?
-          </button>
-          <button class="example-q" data-q="Kayıt dondurma nasıl yapılır?">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
-            Kayıt dondurma nasıl yapılır?
-          </button>
-          <button class="example-q" data-q="Tek ders sınavına girebilir miyim?">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
-            Tek ders sınavına girebilir miyim?
-          </button>
-          <button class="example-q" data-q="Disiplin cezası ne zaman kaldırılır?">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
-            Disiplin cezası ne zaman kaldırılır?
-          </button>
+        <div class="accordion-container">
+          <!-- Sınav ve Notlar -->
+          <div class="accordion-item">
+            <button class="accordion-header">
+              <span class="accordion-icon">📝</span>
+              <span class="accordion-title">Sınavlar & Notlar</span>
+              <svg class="accordion-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+            </button>
+            <div class="accordion-content">
+              <button class="example-q" data-q="Mazeret sınavı hakkım var mı?">Mazeret sınavı hakkım var mı?</button>
+              <button class="example-q" data-q="Tek ders sınavına girebilir miyim?">Tek ders sınavına girebilir miyim?</button>
+              <button class="example-q" data-q="Bütünleme sınavına girme şartları nelerdir?">Bütünleme sınavına girme şartları nelerdir?</button>
+              <button class="example-q" data-q="Sınav notuna nasıl itiraz edebilirim?">Sınav notuna nasıl itiraz edebilirim?</button>
+              <button class="example-q" data-q="Dörtlük not sisteminde 2.50'nin yüzlük karşılığı nedir?">2.50'nin yüzlük karşılığı nedir?</button>
+            </div>
+          </div>
+          
+          <!-- Kayıt ve Ders İşlemleri -->
+          <div class="accordion-item">
+            <button class="accordion-header">
+              <span class="accordion-icon">📚</span>
+              <span class="accordion-title">Kayıt & Ders İşlemleri</span>
+              <svg class="accordion-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+            </button>
+            <div class="accordion-content">
+              <button class="example-q" data-q="Kayıt dondurma nasıl yapılır?">Kayıt dondurma nasıl yapılır?</button>
+              <button class="example-q" data-q="Yatay geçiş yapmak için hangi şartları sağlamalıyım?">Yatay geçiş şartları nelerdir?</button>
+              <button class="example-q" data-q="Yaz okulunda en fazla kaç kredi alabilirim?">Yaz okulunda en fazla kaç kredi alınır?</button>
+              <button class="example-q" data-q="Derslere devam zorunluluğu yüzde kaçtır?">Derslere devam zorunluluğu yüzde kaçtır?</button>
+              <button class="example-q" data-q="Ders ekle/bırak (add/drop) işlemi nasıl yapılır?">Ders ekle/bırak işlemi nasıl yapılır?</button>
+            </div>
+          </div>
+
+          <!-- Mezuniyet -->
+          <div class="accordion-item">
+            <button class="accordion-header">
+              <span class="accordion-icon">🎓</span>
+              <span class="accordion-title">Mezuniyet İşlemleri</span>
+              <svg class="accordion-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+            </button>
+            <div class="accordion-content">
+              <button class="example-q" data-q="Mezun olmak için kaç AKTS tamamlamalıyım?">Mezun olmak için kaç AKTS gerekli?</button>
+              <button class="example-q" data-q="Onur ve yüksek onur öğrencisi olma şartları nelerdir?">Onur öğrencisi olma şartları nelerdir?</button>
+              <button class="example-q" data-q="Diploma eki nedir ve nasıl alabilirim?">Diploma eki nedir ve nasıl alabilirim?</button>
+            </div>
+          </div>
+
+          <!-- Disiplin ve Çift Anadal -->
+          <div class="accordion-item">
+            <button class="accordion-header">
+              <span class="accordion-icon">⚖️</span>
+              <span class="accordion-title">Diğer İşlemler</span>
+              <svg class="accordion-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+            </button>
+            <div class="accordion-content">
+              <button class="example-q" data-q="Çift anadal için GPA şartı nedir?">Çift anadal GPA şartı nedir?</button>
+              <button class="example-q" data-q="Yandal programına nasıl başvurulur?">Yandal programına nasıl başvurulur?</button>
+              <button class="example-q" data-q="Disiplin cezası ne zaman kaldırılır?">Disiplin cezası ne zaman kaldırılır?</button>
+              <button class="example-q" data-q="Zorunlu staj süresi kaç iş günüdür?">Zorunlu staj süresi kaç gündür?</button>
+              <button class="example-q" data-q="Özel öğrenci statüsünde başka bir üniversiteden ders alabilir miyim?">Özel öğrenci olarak başka yerden ders alabilir miyim?</button>
+            </div>
+          </div>
         </div>
       </div>
 
@@ -128,6 +168,19 @@
         </p>
       </div>
     </main>
+  </div>
+
+  <!-- Kaynak Metni Modalı -->
+  <div id="sourceModal" class="modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3 id="modalTitle" class="modal-title">Kaynak Metni</h3>
+        <button id="closeModalBtn" class="modal-close">&times;</button>
+      </div>
+      <div id="modalBody" class="modal-body">
+        <!-- Metin buraya JS ile yüklenecek -->
+      </div>
+    </div>
   </div>
 
   <script src="app.js"></script>

@@ -20,6 +20,7 @@ import json
 import os
 
 from fastapi import FastAPI, HTTPException, Request
+from fastapi.responses import StreamingResponse
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 from dotenv import load_dotenv
@@ -86,9 +87,16 @@ thread.start()
 
 
 # ── Veri Modelleri ─────────────────────────────────────────────────────────────
+from typing import List, Optional
+
+class ChatMessage(BaseModel):
+    role: str
+    content: str
+
 class QueryRequest(BaseModel):
     question: str = Field(..., min_length=3, max_length=500, example="Mazeret sınavı hakkım var mı?")
     top_k: int = Field(default=5, ge=1, le=10)
+    history: List[ChatMessage] = Field(default_factory=list)
 
 
 class QueryResponse(BaseModel):
@@ -112,6 +120,8 @@ class FeedbackRequest(BaseModel):
     question: str
     answer: str
     rating: str = Field(..., description="'like' veya 'dislike'")
+    reason: Optional[str] = None
+    comment: Optional[str] = None
 
 
 # ── Cache Yardımcı Fonksiyon ──────────────────────────────────────────────────
@@ -123,11 +133,11 @@ def get_cached_answer(question: str):
 
 
 # ── Endpoint'ler ───────────────────────────────────────────────────────────────
-@app.post("/query", response_model=QueryResponse, summary="Yönetmelik sorusu sor")
+@app.post("/query", summary="Yönetmelik sorusu sor (Streaming)")
 @limiter.limit("5/minute")
 def query(request: Request, query_req: QueryRequest):
     """
-    Öğrencinin sorusunu alır, bağlamda bulunan yönetmelik maddelerine göre yanıtlar.
+    Öğrencinin sorusunu alır, bağlamda bulunan yönetmelik maddelerine göre streaming yanıtlar.
     Her cevap hangi maddeye dayandığını belirtir.
     """
     try:
@@ -139,19 +149,9 @@ def query(request: Request, query_req: QueryRequest):
                 detail="Sistem hazır değil. Lütfen önce 'python scripts/embed_and_index.py' çalıştırın.",
             )
 
-        hits_before = get_cached_answer.cache_info().hits
-        result = get_cached_answer(query_req.question)
-        was_cached = get_cached_answer.cache_info().hits > hits_before
-
-        return QueryResponse(
-            question=result.question,
-            answer=result.answer,
-            sources=result.sources,
-            model=result.model,
-            latency_ms=result.latency_ms,
-            num_chunks=result.num_chunks_retrieved,
-            timestamp=datetime.utcnow().isoformat(),
-            cached=was_cached,
+        return StreamingResponse(
+            pipeline.ask_stream(query_req.question, history=[msg.dict() for msg in query_req.history]),
+            media_type="text/event-stream"
         )
 
     except HTTPException:
@@ -200,6 +200,10 @@ def submit_feedback(req: FeedbackRequest):
             "answer": req.answer,
             "rating": req.rating
         }
+        if req.reason:
+            entry["reason"] = req.reason
+        if req.comment:
+            entry["comment"] = req.comment
         
         with open(feedback_file, "a", encoding="utf-8") as f:
             f.write(json.dumps(entry, ensure_ascii=False) + "\n")

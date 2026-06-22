@@ -153,3 +153,82 @@ def generate_answer(question: str, chunks: list) -> dict:
             "sources": [c.citation() for c in chunks],
             "model": "demo",
         }
+
+
+def _chat_completion_stream(client, model: str, system: str, user: str, history: list = None):
+    messages = [{"role": "system", "content": system}]
+    if history:
+        messages.extend(history)
+    messages.append({"role": "user", "content": user})
+    
+    response = client.chat.completions.create(
+        model=model,
+        messages=messages,
+        temperature=0.1,
+        max_tokens=500,
+        stream=True,
+    )
+    for chunk in response:
+        if chunk.choices[0].delta.content:
+            yield chunk.choices[0].delta.content
+
+
+def generate_answer_groq_stream(question: str, chunks: list, history: list = None):
+    from openai import OpenAI
+    client = OpenAI(
+        api_key=os.getenv("GROQ_API_KEY"),
+        base_url="https://api.groq.com/openai/v1",
+    )
+    context = _build_context(chunks)
+    user_message = f"Aşağıdaki resmi belge parçalarını kullanarak soruyu yanıtla.\n\nBELGE PARÇALARI:\n{context}\n\nSORU: {question}"
+    yield from _chat_completion_stream(client, "llama-3.3-70b-versatile", SYSTEM_PROMPT, user_message, history=history)
+
+
+def generate_answer_openai_stream(question: str, chunks: list, history: list = None):
+    from openai import OpenAI
+    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+    context = _build_context(chunks)
+    user_message = f"Aşağıdaki resmi belge parçalarını kullanarak soruyu yanıtla.\n\nBELGE PARÇALARI:\n{context}\n\nSORU: {question}"
+    yield from _chat_completion_stream(client, "gpt-4o-mini", SYSTEM_PROMPT, user_message, history=history)
+
+
+def generate_answer_gemini_stream(question: str, chunks: list, history: list = None):
+    import google.generativeai as genai
+    genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+    model = genai.GenerativeModel("gemini-2.5-flash")
+    context = _build_context(chunks)
+    
+    history_str = ""
+    if history:
+        history_str = "GEÇMİŞ SOHBET:\n"
+        for msg in history:
+            role_tr = "Kullanıcı" if msg["role"] == "user" else "Asistan"
+            history_str += f"{role_tr}: {msg['content']}\n"
+        history_str += "\n"
+
+    prompt = f"{SYSTEM_PROMPT}\n\n{history_str}BELGE PARÇALARI:\n{context}\n\nSORU: {question}"
+    response = model.generate_content(prompt, stream=True)
+    for chunk in response:
+        if chunk.text:
+            yield chunk.text
+
+
+def generate_answer_stream(question: str, chunks: list, model_out: list, history: list = None):
+    if not chunks:
+        model_out.append("fallback")
+        yield "Bu konuda mevzuatımızda resmi bir hüküm bulamadım. Öğrenci İşleri Dairesi ile iletişime geçmenizi öneririm."
+        return
+
+    if os.getenv("OPENAI_API_KEY"):
+        model_out.append("gpt-4o-mini")
+        yield from generate_answer_openai_stream(question, chunks, history=history)
+    elif os.getenv("GROQ_API_KEY"):
+        model_out.append("groq/llama-3.3-70b")
+        yield from generate_answer_groq_stream(question, chunks, history=history)
+    elif os.getenv("GOOGLE_API_KEY"):
+        model_out.append("gemini-2.5-flash")
+        yield from generate_answer_gemini_stream(question, chunks, history=history)
+    else:
+        best = chunks[0]
+        model_out.append("demo")
+        yield f"[Demo Mod — API anahtarı yok]\n\n{best.citation()} hükmüne göre:\n\n{best.text[:500]}..."

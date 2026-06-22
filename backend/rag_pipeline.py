@@ -10,7 +10,7 @@ import time
 from dataclasses import dataclass, field
 
 from backend.retriever import MevzuatRetriever
-from backend.generator import generate_answer
+from backend.generator import generate_answer, generate_answer_stream
 
 logger = logging.getLogger(__name__)
 
@@ -388,6 +388,55 @@ class RAGPipeline:
             latency_ms=latency,
             num_chunks_retrieved=len(relevant_chunks),
         )
+
+    def ask_stream(self, question: str, history: list = None):
+        """
+        Ogrencinin sorusuna kelime kelime (streaming) cevap verir.
+        Son chunk olarak kaynaklari ve metrikleri dondurur.
+        """
+        import json
+        start = time.time()
+        logger.info(f"Soru isleniyor (Stream): '{question}'")
+
+        history = history or []
+        search_query = question
+        if history:
+            last_user_msgs = [msg["content"] for msg in history if msg["role"] == "user"]
+            if last_user_msgs:
+                search_query = last_user_msgs[-1] + " " + question
+
+        expanded_query = self._expand_query(search_query)
+        chunks = self.retriever.retrieve(expanded_query, top_k=self.top_k)
+        relevant_chunks = [c for c in chunks if c.score >= self.min_score]
+
+        if not relevant_chunks:
+            logger.warning(f"Hicbir chunk esigi gecemedi. Ham chunk sayisi: {len(chunks)}")
+
+        model_out = []
+        for text_chunk in generate_answer_stream(question, relevant_chunks, model_out, history=history):
+            # SSE formati icin metin chunk'i:
+            yield f"data: {json.dumps({'type': 'content', 'text': text_chunk})}\n\n"
+        
+        latency = round((time.time() - start) * 1000, 1)
+        
+        sources_dict = {}
+        for c in relevant_chunks:
+            if c.citation() not in sources_dict:
+                sources_dict[c.citation()] = c.text
+                
+        sources = [{"citation": k, "text": v} for k, v in sources_dict.items()]
+
+        model_name = model_out[0] if model_out else "unknown"
+        
+        meta = {
+            'type': 'meta',
+            'sources': sources,
+            'latency_ms': latency,
+            'num_chunks': len(relevant_chunks),
+            'model': model_name
+        }
+        yield f"data: {json.dumps(meta)}\n\n"
+        yield "data: [DONE]\n\n"
 
     def is_ready(self) -> bool:
         """Pipeline'in sorguya hazir olup olmadigini kontrol eder."""
