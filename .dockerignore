@@ -18,12 +18,15 @@ venv/
 frontend/
 docs/
 evaluation/
-scripts/
 sunumlar/
 scratch/
 temp_pdf_parser/
 data/raw/
 node_modules/
+
+# Eski ChromaDB index'i DAHIL ETME — entrypoint.sh sıfırdan oluşturur
+# (versiyon uyumsuzluğu yaşanmaması için)
+chroma_db/
 
 # Config
 .env

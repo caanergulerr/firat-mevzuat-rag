@@ -65,10 +65,22 @@ class MevzuatRetriever:
         embedding_model: str = None,
         chunks_path: str = "data/processed/chunks.json",
     ):
-        self.chroma_db_path = chroma_db_path or os.getenv("CHROMA_DB_PATH", "./chroma_db")
+        project_root = Path(__file__).resolve().parent.parent
+
+        raw_db_path = chroma_db_path or os.getenv("CHROMA_DB_PATH", "./chroma_db")
+        if not os.path.isabs(raw_db_path):
+            self.chroma_db_path = str(project_root / raw_db_path)
+        else:
+            self.chroma_db_path = raw_db_path
+
         self.collection_name = collection_name or os.getenv("CHROMA_COLLECTION_NAME", "firat_mevzuat")
         self.embedding_model = embedding_model or os.getenv("EMBEDDING_MODEL", "dbmdz/bert-base-turkish-cased")
-        self.chunks_path = chunks_path
+
+        raw_chunks_path = chunks_path
+        if not os.path.isabs(raw_chunks_path):
+            self.chunks_path = str(project_root / raw_chunks_path)
+        else:
+            self.chunks_path = raw_chunks_path
 
         self._client = None
         self._collection = None

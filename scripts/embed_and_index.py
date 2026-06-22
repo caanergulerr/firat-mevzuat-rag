@@ -26,9 +26,13 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 logger = logging.getLogger(__name__)
 
+# Proje kök dizini (scripts/ klasörünün bir üstü)
+_PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
 # Ayarlar
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "dbmdz/bert-base-turkish-cased")
-CHROMA_DB_PATH = os.getenv("CHROMA_DB_PATH", "./chroma_db")
+_raw_db_path = os.getenv("CHROMA_DB_PATH", "./chroma_db")
+CHROMA_DB_PATH = _raw_db_path if os.path.isabs(_raw_db_path) else str(_PROJECT_ROOT / _raw_db_path)
 COLLECTION_NAME = os.getenv("CHROMA_COLLECTION_NAME", "firat_mevzuat")
 BATCH_SIZE = 32
 
@@ -81,9 +85,9 @@ def index_chunks(chunks: list[dict], collection: chromadb.Collection) -> None:
     logger.info(f"✅ {total} chunk başarıyla indexlendi -> '{CHROMA_DB_PATH}'")
 
 def main():
-    chunks_path = Path("data/processed/chunks.json")
+    chunks_path = _PROJECT_ROOT / "data" / "processed" / "chunks.json"
     if not chunks_path.exists():
-        logger.error("data/processed/chunks.json bulunamadı. Önce process_data.py çalıştırın.")
+        logger.error(f"{chunks_path} bulunamadı. Önce process_data.py çalıştırın.")
         sys.exit(1)
         
     logger.info(f"Hazır '{chunks_path}' dosyası okunuyor...")

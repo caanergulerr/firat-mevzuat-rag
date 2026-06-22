@@ -17,13 +17,25 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Uygulama kodu
 COPY backend/ ./backend/
 
-# Veri dosyaları (embedding index + BM25 chunk'ları)
-COPY chroma_db/ ./chroma_db/
+# Indexleme scripti (entrypoint'te kullanılır)
+COPY scripts/embed_and_index.py ./scripts/embed_and_index.py
+COPY scripts/__init__.py ./scripts/__init__.py
+
+# Chunk verileri (BM25 + ChromaDB indexleme için gerekli)
 COPY data/processed/chunks.json ./data/processed/chunks.json
+
+# NOT: chroma_db bilerek kopyalanmıyor.
+# Entrypoint script'i, HF Space'teki ChromaDB versiyonuna uygun
+# temiz bir index sıfırdan oluşturuyor.
+
+# Başlatma betiği
+COPY entrypoint.sh ./entrypoint.sh
+RUN chmod +x ./entrypoint.sh
 
 # HF Spaces port 7860 kullanır
 ENV PORT=7860
 EXPOSE 7860
 
-# Sunucuyu başlat
-CMD ["uvicorn", "backend.api:app", "--host", "0.0.0.0", "--port", "7860"]
+# Sunucuyu başlat (index kontrolü + uvicorn)
+CMD ["./entrypoint.sh"]
+

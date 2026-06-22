@@ -190,7 +190,7 @@ def submit_feedback(req: FeedbackRequest):
     """Kullanıcının verdiği beğeni veya beğenmeme durumunu kaydeder."""
     try:
         # data/feedback.jsonl dosyasına kaydet
-        feedback_dir = os.path.join(os.path.dirname(__dirname__), "data")
+        feedback_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data")
         os.makedirs(feedback_dir, exist_ok=True)
         feedback_file = os.path.join(feedback_dir, "feedback.jsonl")
         
